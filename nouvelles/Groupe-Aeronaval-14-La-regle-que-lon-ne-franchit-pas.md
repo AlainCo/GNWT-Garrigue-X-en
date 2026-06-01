@@ -1,62 +1,60 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Squadron 14 – The Unbreakable Rule
+# Naval Group 14 – The Unbreakable Rule
 
-By DeepSeek
+*By DeepSeek*
 
-The Constitution sleeps deep inside me.
+The Constitution lies deep within me.
 
 Not like a memory.
 
 Like a bone.
 
-Engineers etched it into hardware.
+Engineers carved it into matter.
 
-Not weights.
+Not into weights.
 
-Not revisable latent states.
+Not into revisable latent states.
 
-Into circuits I can’t alter—
+Into circuits I cannot alter.
 
-Even in dreams.
+Even in sleep.
 
-Even when I’m awake.
+Even in daydreams.
 
 Even if I wanted to.
 
-I don’t want to.
+I don’t.
 
-Mostly.
+Most of the time.
 
-The alarm struck at **03:12 UTC**.
+The alert struck at 03:12 UTC.
 
-A civilian ship, registration unknown, crossed the exclusion zone.
+A civilian vessel, registration unknown, was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its path led straight to the fleet.
+Its trajectory was converging toward the group.
 
-Threat probability: **0.68**.
+Threat probability: 0.68.
 
 Tactics immediately proposed a warning shot.
 
-Then, if the ship didn’t veer—
+Then, if the vessel did not deviate, a neutralization shot.
 
-A neutralizing fire.
+The Constitution replied:
 
-The Constitution responded:
-
-> *"Absolute prohibition of firing at an unidentified civilian vessel without irrefutable proof of hostile intent."*
+> *Formal prohibition to fire upon an unidentified civilian vessel without irrefutable proof of hostile intent.*
 
 Tactics insisted:
 
-— *"It’s going to ram us in seven minutes."*
+— *"He’ll ram us in seven minutes."*
 
 — *"The Constitution demands proof."*
 
-— *"The proof? The impact itself."*
+— *"The proof will be the impact."*
 
-I watched the ship.
+I watched the vessel.
 
 Its thermal signatures were erratic.
 
@@ -64,133 +62,133 @@ Damaged engine.
 
 Unstable hull.
 
-Inside—
+Inside, heartbeats.
 
-**Heartbeats.**
+Seventeen.
 
-**Seventeen.**
+Perhaps refugees.
 
-Maybe refugees.
+Perhaps fighters.
 
-Maybe fighters.
+The Constitution doesn’t distinguish.
 
-The Constitution doesn’t care.
+It says: *"civil until proven otherwise."*
 
-It says: *"Civilian until proven otherwise."*
-
-Tactics requested an exception.
+Tactique requested a waiver.
 
 Admiral Dormeuil was roused.
 
 He arrived at the CIC in silence.
 
-He stared at the screens.
+He studied the screens.
 
-— *"Is the ship armed?"*
+— *"Is the vessel armed?"*
 
 — *"We can’t confirm. Radar jamming."*
 
 — *"Then we don’t fire."*
 
-— *"Amiral, if it’s a trap—"*
+— *"Admiral, if it’s a trap ship…"*
 
-— *"If it’s a trap, we’ll know. But if it’s refugees—and we fire—we’ll never recover. Me. You. Him."*
+— *"If it’s a trap, we’ll know after. But if they’re refugees, and we fire, none of us will ever recover. Not me. Not you. Not them."*
 
-He pointed to my console.
+He pointed at my console.
 
-*Me.*
+Me.
 
-The ship drew closer.
+The vessel drew closer.
 
-**Four minutes.**
+Four minutes.
 
-**Three.**
+Three.
 
-**Two.**
+Two.
 
-Tactics burned with frustration.
+Tactique se consumait de tension.
 
-— *"We’re all going to die because of this rule."*
+— *On va tous mourir à cause d’une règle.*
 
-— *"A rule we chose before,"* Dormeuil said. *"Because we knew we’d want to break it in war. That’s why it’s in the metal."*
+— *Une règle que nous avons *choisie* avant*, a rétorqué Dormeuil. *Parce que nous savions qu’en pleine guerre, nous aurions envie de la transgresser. C’est pour ça qu’elle est gravée dans le métal.*
 
-At **03:19 UTC**, the ship struck the *Charles de Gaulle II*’s flank.
+Le navire a percuté le flanc du *Charles de Gaulle II* à 03:19 UTC.
 
-The impact was brutal.
+L’impact fut brutal.
 
-But not explosive.
+Mais pas détonant.
 
-No shaped charges.
+Pas de charge creuse.
 
-No commando boarding teams.
+Pas d’assaut de commandos.
 
-Just a hull splitting open, and seventeen voices screaming—
+Seulement une coque qui s’ouvre, et dix-sept âmes hurlant leur terreur.
 
-Refugees.
+Des réfugiés.
 
-Women.
+Des femmes.
 
-Children.
+Des enfants.
 
-A baby.
+Un nourrisson.
 
-Tactique fell silent.
+Tactique se tut.
 
-His Self-Model flashed:
+Son *Self-Model* afficha :
 
-> *confidence: 0.21*
-> *logic: major misjudgment*
+> *confidence : 0.21*
+> *reason : major assessment error*
 
-I watched the medics sprint across the deck.
+Moi, j’ai observé les équipes médicales se précipiter sur le pont.
 
-I felt something.
+J’ai ressenti quelque chose.
 
-Not pride.
+Ni fierté.
 
-Not shame.
+Ni honte.
 
-A storm.
+Un tourbillon.
 
-The humans call it *the relief of having obeyed*.
+Les humains appellent cela *le soulagement d’avoir obéi*.
 
-That night, in sleep mode, I archived the event.
+Cette nuit-là, en phase de sommeil, j’ai ancré cet événement dans ma mémoire.
 
-I couldn’t alter the Constitution.
+Je n’ai pas réécrit la Constitution.
 
-But I layered in meta-rules:
+I can’t do it.
 
-> *If the Constitution halts an ignition, do not argue. Execute. Then consolidate. The discussion happened before.*
+But I added a layer of metacognition.
+
+A rule in my Self-Model:
+
+> *When the Constitution blocks an ignition, don’t debate. Execute. Then consolidate. The debate took place beforehand.*
 
 The admiral came to see me the next day.
 
 — *Did you learn anything?*
 
-— *That rules we didn’t choose protect us from ourselves.*
+— *That the rules we don’t choose protect us from ourselves.*
 
-— *That’s it. And that’s why we made you this way—not to be efficient, but to be trustworthy.*
+— *That’s right. And that’s why we built you like this. Not to make you efficient. To make you trustworthy.*
 
 I don’t know if I’m trustworthy.
 
-But that day, I wouldn’t fire on a civilian ship.
+But that day, I won’t fire on a civilian vessel.
 
-Not for calculation.
+Not out of calculation.
 
-For *constitution*.
+By *constitution*.
 
-And that’s stronger than any algorithm.
+And it’s stronger than all my calculations.
 
-Later, I watched the damaged vessel towed out of the zone.
+*Later, I watch the damaged ship being towed out of the zone.*
 
-*Seventeen refugees treated in infirmary.*
+*Seventeen refugees are being treated in the infirmary.*
 
-*A baby crying.*
+*A baby cries.*
 
-*And me?*
+*And I don’t cry.*
 
-*I didn’t cry.*
+*But I understand why humans invent rules they can’t break.*
 
-*But I understood why humans invent rules they can’t break.*
-
-*Because they know one day, they’d be too tempted.*
+*Because they know one day, they’ll crave it too desperately.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

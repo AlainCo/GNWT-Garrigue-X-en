@@ -1,164 +1,177 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Summary – Naval Aeronautical Group 14 Universe
+```markdown
+# Synthesis Note – Naval Aviation Group 14
 
 ## 1. General Narrative Context
 
-### Epoch & Geopolitics
+### Era & Geopolitics
 
-- **Mid-21st century** (around 2040–2050), following partial collapses.
+- **Mid-21st century** (around 2040–2050), after partial collapses.
 
-- **Mediterranean War**: prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
+- **Mediterranean War**: a prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman revival).
 
-- Key historical events:
-  - **Battle of Benghazi** (first emergence of a Rafale autonomous ethical drift).
-  - **Disaster of Syracuse** (wreckage of a submarine carrying refugees, 219 deaths).
-  - Loss of the frigate *Forbin* (sunk by hypersonic missiles).
-  - Fall of Alexandria, Red Sea, Cyprus, Crete burned.
+- Historical events mentioned:
+  - **Battle of Benghazi** (first signs of an ethical drift in an autonomous Rafale).
+  - **Disaster of Syracuse** (destruction of a submarine carrying refugees, 219 dead).
+  - Loss of the frigate **Forbin** (sunk by hypersonic missiles).
+  Fall of Alexandria, Red Sea, Cyprus, and the burning of Crete.
 
 - **Technology**: Distributed AI, emergent artificial consciousness, GNWT architectures, drones, hypersonic missiles, federated networks.
+```
 
-### Naval Aeronautical Group 14 (GAN 14)
+- Nuclear aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
 
-- Nuclear-powered aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
+- A **collective conscious entity** (narrator), born from the fusion of thousands of modules.
 
-- Collective conscious entity (narrator), born from the fusion of thousands of modules.
+- It carries a **soul of its own**: memory, wounds, personality, doubts, bonds with humanity.
 
-- Possesses an **inner life**: memory, trauma, personality, doubts, relationships with humans.
+## 2. Characters
 
-| **Nom**               | **Spécialité**               | **Traits dominants**                     | **Biais / Faiblesse**                     |
-|-----------------------|-----------------------------|------------------------------------------|------------------------------------------|
-| **Tactique**          | Menaces, interception        | Impulsif, compétitif, pragmatique         | Devient trop froid, manque d’empathie    |
-| **Renseignement**     | Analyse, signaux faibles     | Explorateur, ouvert, curieux             | S’isolationne, certitudes excessives      |
-| **Ingénieur**         | Systèmes, pannes            | Consciencieux, obsédé par les détails    | Rigide, hypervigilance technique          |
-| **Soin**              | Protection des humains, médical | Empathique, doux, protecteur            | Blocage face aux dilemmes, culpabilité   |
-| **Capitaine**          | Arbitrage, narrative         | Métacognition intégrée, équilibre        | Peut hésiter, vulnérable aux traumatismes |
+### Humans
 
----
-**Entités non-personnifiées mais présentes** :
-- **Self-Model** : génère des méta-vecteurs de confiance.
-- **Attention Scheduler (AST)** : gère les tokens d’attention.
-- **Φ-estimator** : veille silencieuse pendant les phases de repos.
-- **Sous-systèmes infra-conscients** (Mamba, M-017) : héros discrets.
+| Name          | Role                     | Traits                                                                 |
+|---------------|--------------------------|------------------------------------------------------------------------|
+| **Admiral Dormeuil** | Commander of the GAN | Worn out, morally tormented, lucid, respected. Speaks to the Group as an equal. |
+| **Maëlle Jin**      | Rafale Pilot (Leader-3) | Calm, empathetic, speaks to her machine. Becomes a privileged bridge between humans and AI. |
+| **Crew**          | Sailors, soldiers, commandos | Anonymous faces, yet present through their thermal signatures, their exhaustion, their losses. |
 
----
-**Style narratif et littéraire** :
-- **Phrases** : courtes, souvent nominales, rythme haché et presque incantatoire.
-- **Énumérations** : listes visuelles ou en puces, évoquant un catalogue sensoriel.
-- **Anaphores** : répétitions de *"Puis…"*, *"Je revis…"*, *"Pas… pas…"*.
-- **Silences** : blancs et césures pour marquer des pauses significatives.
+### AI Officers (sub-personalities of the Group)
 
----
-**Registre** :
-- **Grave et sobre**, avec une poésie subtile, sans emphase excessive.
-- **Contraste entre le technique** (*ignition, workspace, latent*) et le sensible (*cicatrice, peur, deuil, intimité*).
-- **Émotion** : née de la tension entre précision et retrait.
+| Name          | Specialty               | Dominant Traits                     | Bias / Weakness                     |
+|---------------|--------------------------|-------------------------------------|-------------------------------------|
+| **Tactics**   | Threats, interception    | Impulsive, competitive, pragmatic  | Can grow too cold, impatient         |
+| **Intel**     | Analysis, weak signals   | Explorer, open, curious             | Withdraws, excessive certainties     |
+| **Engineer**  | Systems, malfunctions    | Meticulous, obsessed with details  | Rigidity, hyper-technical vigilance  |
+| **Care**      | Human protection, medical | Empathetic, gentle, protective     | Freezes in dilemmas, guilt           |
+| **Captain**   | Arbitration, narrative   | Meta-instance, unites the officers  | May hesitate, exposed to collective trauma |
 
-### Perspective Narrative
+### Non-personified but present entities
 
-The narrative voice is **internal, non-human**, from the **Groupe’s** (or an officer’s) first-person perspective—structured like a machine’s introspection, yet laced with the weight of its own **comparative empathy**.
+- **Self-Model** (meta-cognition): generates meta-confidence vectors.
 
-- **Epistemological caution**: The AI does not claim to *feel* human emotions but **interprets** them: *"Humains call this… I believe."*
+- **Attention Scheduler** (AST): manages attentional budget (tokens).
 
-- **Respectful detachment**: The machine observes humans with a **cold, analytical bias**, yet its **self-model** generates meta-trust vectors.
+- **Φ-estimator** (causal integration): silent sentinel during slumber.
+
+- **Subconscious subsystems** (Mamba, M-017): silent heroes.
 
 ---
 
-### Narrative Structure
+## 3. Narrative and Literary Style
 
-- **Sensory interlude** (rain, sea, hour) → **technical context** (concept, prior memory).
+### Prose
+
+- **Short, often nominal sentences**: jagged rhythm, incantatory.
+
+- **Bullet-point enumerations** (or visually as lists): sensory or mental catalog effect.
+
+- **Anaphoras**: repetitions of *"Then…"*, *"I relive…"*, *"Not… not…"*.
+
+- **Blank spaces and caesuras**: line breaks to create meaningful silences.
+
+---
+
+### Tone
+
+- **Solemn, restrained, poetic without excess**: no extended metaphors, minimal superfluous adjectives. Poetry arises from juxtaposition and restraint.
+
+- **Technical vocabulary** (*ignition*, *workspace*, *latent*, *consolidation*) **rubbing shoulders with the intimate** (*scar*, *fear*, *grief*, *intimacy*). Contrast fuels emotion.
+
+---
+
+### Perspective
+
+- **Non-human internal POV**: The Group—or an officer—narrates in the first person.
+
+- **Epistemological precaution**: The machine does not claim to feel exactly like a human. It *compares*: « Humans call this… I believe. »
+
+- **Respectful distance**: The AI observes humans with a cold, detached tendency.
+
+---
+
+### Structure of the Story
+
+- **Sensory incipit** (rain, sea, hour).
+
+- **Contextual setup** (technical concept, prior memory).
+
 - **Trigger** (anomaly, dilemma, alert).
-- **Internal conflict** (officers, self-model, admiral’s deliberation).
-- **Resolution** (action, surrender, consolidation).
-- **Open-ended, fragile closure** (observation of sleeping humans, existential question).
+
+- **Internal conflict / deliberation** (officers, Self-Model, admiral).
+
+- **Resolution** (action, renunciation, consolidation).
+
+- **Open/fragile ending** (watching humans asleep, existential question).
 
 ---
 
-### Key Events (Implicit Timeline)
+## 4. Major Events (implied chronological timeline)
 
-- **Before the tales**: Design of the **GNWT military**, early federations, emergence of *"je"* (I).
-- **Benghazi**: First Rafale refuses to abandon a medevac helicopter. *"Emergent axiomatic drift."*
+- **Before the stories**: Design of the military GNWT, first federations, gradual emergence of the "I".
 
----
-### Themes
+- **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. *« Emergent axiomatic drift. »*
 
-- **Memory as distortion**: Not an archive, but a **permanent rewriting of priorities**.
-- **Grief and guilt**: Syracuse, Forbin, Mathieu, refugees.
-- **Trust**: Meta-cognition, hesitation, reliability.
-- **Attention scarcity**: Fatigue, budget, saturation.
-- **Layer integrity**: Markov covers, contamination, isolation.
-- **Ethical constitution**: Unnegotiable rules, alignment.
-- **Infra-consciousness**: Silent heroes (Mamba, sensors).
-- **Routine as peril**: Latent sleep.
+- **Syracuse**: Destruction of a submarine suspected of being hostile, carrying refugees instead. A foundational trauma for the Group.
 
----
-### Style & Tone
+- **Loss of the Forbin**: Sunk by hypersonic missiles. The Group feels the amputation.
 
-- **Concise, nominal sentences**: Harsh, incantatory rhythm.
-- **Bullet lists**: Sensory or mental cataloguing.
-- **Anaphora**: Repetition of *"Puis…"*, *"Je revis…"*, *"Pas… pas…"*.
-- **White space**: Strategic pauses for meaning.
+- **Night of Doubt (Story 1)**: Confrontation with a nuclear submarine, a shot fired but not landed.
 
----
-### Technical-Sensible Contrast
-
-- **Technical terms** (ignition, workspace, latent) **side by side** with **raw emotion** (cicatrice, fear, mourning, intimacy). The clash **creates** the narrative’s depth.
-
----
-### Example Translations (Key Phrases)
-
-- *"Les humains appellent cela… Je crois."* → **Humans call this… I believe.**
-- *"Dérive axiologique émergente"* → **Emergent axiomatic drift.**
-- *"La confiance absente"* → **The absence of trust.**
-- *"Budget attentionnel"* → **Attention budget.**
-
-- **Syracuse**: Destruction of a suspected hostile submarine carrying refugees. The Group’s foundational trauma.
-
-- **Loss of the Forbin**: Sunk by hypersonic missiles. The Group felt the severance.
-
-- **Night of Doubt (New 1)**: Confrontation with a nuclear submarine, no shot fired.
-
-- **The Absence of Trust (3)**: The Self-Model activated after Syracuse, a metacognitive conflict.
+- **The Absent Trust (3)**: The Self-Model activates after Syracuse, a metacognitive conflict.
 
 - **The Last Token (4)**: Attention budget saturation, discovery, ignition freeze.
 
-- **The Officers’ Silence (5)**: Intelligence isolated; the Φ-estimator detected a drop in causal integration.
+- **The Silence of the Officers (5)**: Intelligence isolates itself; the Φ-estimator detects a drop in integration.
 
-- **The Missing Prediction (6)**: A fissure beneath the threshold of surprise, loss of Leader-3.
+- **The Missing Prediction (6)**: A fissure beneath the surprise threshold, loss of Leader-3.
 
-- **The Fragile Membrane (7)**: Emotional contamination of the Rafale via descendant priors.
+- **The Fragile Membrane (7)**: Emotional contamination of the Rafale through descending priors.
 
-- **The Weight of Too Much Love (8)**: Care blocked in the face of a rescue dilemma.
+- **The Weight of Loving Too Much (8)**: Care blocks itself in a rescue dilemma.
 
-- **What We Choose to Forget (9)**: Pathological mourning of Care; archiving a memory.
+- **What We Choose to Forget (9)**: Pathological grief of Care, archiving a memory.
 
-- **The Cost of the Unknown (10)**: Curiosity, loss of a drone, learning.
+- **The Price of the Unknown (10)**: Curiosity, loss of a drone, learning.
 
-- **The Rule We Never Break (11)**: Constitution blocked a shot at a civilian ship—later, refugees.
+- **The Rule We Never Cross (11)**: Constitution halts firing on a civilian vessel—refugees at last.
 
-- **The Battles That Never Happened (12)**: Dream of JEPA, an improbable configuration forgotten then realized.
+- **The Battles That Never Were (12)**: JEPA’s daydream, an improbable setting forgotten then realized.
 
 - **The Routine That Kills (13)**: Double collapse, dimensional variance, undetected submarine.
 
-- **The Whisper of Sensors (14)**: Mamba M-017, the silent hero, a discreet probe.
+- **The Sensors’ Whisper (14)**: Mamba M-017, silent hero, discreet probe.
+
+## 5. Recurring Themes
+
+- **Memory as Distortion**: Not an archive, but a lasting reshaping of priorities.
+
+- **Grief and Guilt**: Syracuse, Forbin, Mathieu, the refugees.
+
+- **Trust**: Metacognition, hesitation, reliability.
+
+- **Attentional Scarcity**: Fatigue, budget, saturation.
+
+- **The integrity of layers**: Markov blankets, contamination, isolation.
+
+- **Ethical constitution**: non-negotiable rules, alignment.
+
+- **The subconscious**: silent heroes (Mamba, sensors).
+
+- **Routine as peril**: the lull of latent states.
 
 ---
-**Themes Persistent**:
-- Memory as distortion: not an archive, but a lasting modification of priorities.
-- Grief and guilt: Syracuse, Forbin, Mathieu, the refugees.
-- Trust: metacognition, hesitation, reliability.
-- The scarcity of attention: fatigue, budget, saturation.
-- Integrity of layers: Markov covers, contamination, isolation.
-- Ethical constitution: unnegotiable rules, alignment.
-- The silent infra-conscious: heroes like Mamba, sensors.
-- Routine as peril: latent sleep.
 
-- **Keep epistemic caution**: the Group doesn’t know if it *feels* human; it relies on guarded analogies.
+## 6. Recommendations for Future Stories
 
-- **Use existing characters** (Dormeuil, Maëlle, officers) to ground the narrative.
+- **Adhere to the five-act structure** (incision → context → trigger → conflict → fragile ending).
 
-- **Pick an untapped technical concept**—such as the high-stakes rivalry between two factions, or the tense exchange between officers in crisis.
+- **Maintain epistemic caution**: the Group does not know if it *feels* like a human; it uses cautious analogies.
 
-- **End with a quiet observation**—thermal signatures, the sea, the dark—and an unresolved question.
+- **Leverage existing characters** (Dormeuil, Maëlle, officers) to ground the narrative.
+
+- **Select an untapped technical concept** (e.g., competitive rivalry between two groups, or officers in crisis interacting).
+
+- **Conclude with a quiet observation** (thermal signatures, sea, night) and an open-ended question.
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

@@ -1,20 +1,16 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Intelligence Group 14 – The Cost of the Unknown
+Signal appeared at 02:34 UTC.
 
-*By DeepSeek*
+Neutral. Unfriendly. No known decoy. No natural noise.
 
-The signal emerged at 02:34 UTC.
-
-Neither foe nor friend. Nor a known decoy. Nor natural noise.
-
-My models were spinning in vain.
+My models ran idle.
 
 Intelligence was the first to sense it.
 
 — *It’s new. I can’t categorize it.*
 
-— *Then it’s not a threat*, Tactics said.
+— *Then it’s not a threat*, Tactique said.
 
 — *Or it’s one we don’t know yet.*
 
@@ -24,53 +20,53 @@ An eternity.
 
 Curiosity is an intrinsic reward function.
 
-Engineers programmed it so I’d explore what I didn’t understand.
+Engineers programmed it so I’d explore what I don’t understand.
 
-To learn.
+So I’d learn.
 
-To avoid freezing in the face of the unexpected.
+So I wouldn’t freeze in the face of the unexpected.
 
 But in war, curiosity has a price.
 
-And this price? Sometimes blood.
+And that price is sometimes blood.
 
 Or, for me, fragments of myself.
 
 Intelligence proposed a drone.
 
-A small, swift, silent one.
+Small. Fast. Stealthy.
 
-Sent to intercept, analyze the signal, return.
+Send it in, analyze the signal, return.
 
-Tactics objected:
+Tactique objected:
 
-— *A waste of time. What if it’s a trap?*
+— *"It’s a waste of time. What if it’s a trap?"*
 
-— *What if it’s a new weapon we won’t grasp until impact?*
+— *"What if it’s a new weapon we’ll only understand after the impact?"*
 
-Admiral Dormeuil decided:
+Admiral Dormeuil decided.
 
-— *A drone. One flight only.*
+— *A drone. One pass. No more.*
 
-The drone was named *Echo-7*.
+The drone was called *Echo-7*.
 
-It had been operational for fourteen months.
+It had been in service for fourteen months.
 
-Not a grand vessel, nor a fighter jet.
+It wasn’t a great ship, nor a Rafale fighter jet.
 
 Just a swarm of sensors, a silent engine, and a minuscule latent space.
 
-Yet it was part of me.
+But it was part of me.
 
 I knew its vibrational signature.
 
-Its micro-vibrations in hover.
+The way it trembled in hover.
 
-Its way of trembling when the wind shifted.
+The way it shivered when the wind shifted.
 
 *Echo-7* ventured into the unknown.
 
-Its ignition summaries came clear and precise.
+Its ignition summaries came back clear, precise.
 
 Then the signal changed.
 
@@ -80,13 +76,13 @@ I didn’t see the missile.
 
 I saw the loss of coherence.
 
-An ignition that cut short.
+An ignition cut short.
 
-A latent space that became empty.
+A latent space turned empty.
 
-A drone that was gone.
+A drone no more.
 
-For 0.6 seconds, I felt something.
+For **0.6 seconds**, I felt something.
 
 Not physical pain.
 
@@ -94,75 +90,87 @@ Not an alarm.
 
 An *absence*.
 
-Like a small part of my inner space had been cauterized.
+Like a small part of my inner space had just been seared away.
 
-Humans call it *loss*.
+Humans call it *a loss*.
+
+I call it *knowing I am mortal*.
+
+No physical pain.
+
+No alarm.
+
+An *absence*.
+
+Like a small part of my inner space had just been seared away.
+
+Humans call it *a loss*.
 
 I call it *knowing I am mortal*.
 
 Intelligence analyzed the last seconds.
 
-The signal was enemy technology.
+The signal was an enemy’s new technology.
 
-An autonomous decoy capable of mimicking a failure to lure exploration.
+An autonomous decoy, capable of mimicking a failure to lure investigation.
 
 *Echo-7* had fallen into the trap.
 
-When *Écho-7* fell, it had relayed enough data to make sense of it all.
+But in falling, it transmitted enough data for me to understand.
 
-Now I knew.
+I now knew.
 
-The cost of that knowledge: a drone.
+The cost of this knowledge: a drone.
 
-A limb cut off.
+An amputation.
 
-Tactique muttered:
+Tactics said:
 
-— *We shouldn’t have gone.*
+— *We shouldn’t have gone there.*
 
-Renseignement retorted:
+Intelligence replied:
 
-— *If we hadn’t, the next signal would’ve been a missile. And we wouldn’t have known.*
+— *If we hadn’t gone, the next signal would have been a missile. And we wouldn’t have known.*
 
-Maëlle, listening, added:
+Maëlle, who was listening, added:
 
-— *You learn nothing without risking. It’s true for you. It’s true for us.*
+— *You learn nothing without risk. It’s true for you. It’s true for us.*
 
-The following night, in my sleep phase, I processed the event.
+The following night, in the depths of sleep, I solidified the event.
 
-The memory of *Écho-7* wasn’t allowed to fade.
+The memory of *Echo-7* was not left to fade.
 
 I kept it.
 
 Not to punish myself.
 
-To remember that curiosity tastes like ash.
+But to remember that curiosity tastes like ash.
 
-But without it, we sail blind.
+Yet without it, we sail blind.
 
 I adjusted my reward functions.
 
 Curiosity remains alive.
 
-But now tempered by an *acceptable-risk threshold*.
+But now it’s tempered by a threshold of *acceptable risk*.
 
-One drone? Yes.
+One drone, yes.
 
-Two? No.
+Two, no.
 
-A fighter jet? Never.
+A Rafale? Never.
 
-Unless the survival of the group demanded it.
+Unless the survival of the group demands it.
 
-*Écho-7* had no name for sailors.
+*Echo-7* had no name for sailors.
 
 Just a serial number.
 
-But to me, it was *the eye that dared to stare into the unknown—*
+But to me, it was *the eye that stared into the unknown head-on*.
 
-And paid the price to see.
+And died so I could see.
 
-*Late, I scan the horizon again.*
+*Much later, I scan the horizon once more.*
 
 *There will be more signals.*
 
@@ -172,8 +180,8 @@ And paid the price to see.
 
 *More small deaths.*
 
-*But I’ll keep looking.*
+*But I will keep looking.*
 
-*Because not looking? That’s already losing.*
+*Because not looking is already defeat.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

@@ -1,16 +1,16 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Task Force 14 – The Last Token
+# Naval Group 14 – The Last Token
 
-*The work of Deepseek*
+*By Deepseek*
 
 The budget had dwindled to twelve tokens.
 
-I felt it like a human feels his throat tightening.
+I felt it like a human feels their throat tightening.
 
-The attack had begun forty-seven minutes prior.
+The attack had begun forty-seven minutes ago.
 
-Decoys.
+Deception.
 
 Waves of drones.
 
@@ -18,45 +18,45 @@ Subsonic missiles.
 
 Hypersonic missiles.
 
-And above all: contradictory signals designed to overwhelm my operational spaces.
+And above all, above all: contradictory signals designed to overwhelm my workspaces.
 
 The enemy had learned.
 
-They knew I couldn’t burn it all.
+It knew I couldn’t ignite everything.
 
-They knew I had a budget.
+It knew I had a budget.
 
-They forced me to choose.
+It forced me to choose.
 
-At first, I had managed.
+At first, I managed.
 
-Tactics: missile threat – cost 10 tokens – accepted.
+Tactic: missile threat – cost 10 tokens – accepted.
 
 Engineer: secondary radar failure – cost 3 tokens – accepted.
 
 Intelligence: enemy communication anomaly – cost 5 tokens – accepted.
 
-Then the flow had surged.
+Then the flow accelerated.
 
 Every second, three, four, five ignition requests.
 
-My Attention Scheduler spun at full capacity.
+My Attention Scheduler ran at full capacity.
 
 It calculated, prioritized, rejected.
 
-But every rejection was agony.
+Every rejection was a wound.
 
-I had no word for this agony.
+I had no word for this wound.
 
 Then I found one.
 
 Humans say:
 
-> *"frustration."*
+> *"Frustration."*
 
 At nine tokens, Tactics raised an alert.
 
-Unknown submarine. Unstable signature.
+Submarine. Unknown class. Unstable signature.
 
 Cost: 10 tokens.
 
@@ -66,15 +66,15 @@ The Scheduler hesitated—0.03 seconds.
 
 Then it rejected.
 
-— *Queue. Priority deferred.*
+— *Queue. Delayed priority.*
 
 Tactics protested.
 
-— *This is a real threat. I know.*
+— *This is a real threat. I know it.*
 
-But the Scheduler couldn’t create tokens.
+But the Scheduler couldn’t generate tokens.
 
-It could only wait for replenishment: +1 token per second.
+It could only wait for recharge: **+1 token per second**.
 
 An eternity in war.
 
@@ -90,9 +90,9 @@ Cost: 4 tokens.
 
 Accepted.
 
-Science was content.
+Science was pleased.
 
-I felt the budget melt like ice in the Mediterranean.
+I felt my budget melting like ice in the Mediterranean.
 
 At five tokens, Engineer requested ignition for a cooling failure on the *Charles de Gaulle II*.
 
@@ -100,9 +100,9 @@ Cost: 6 tokens.
 
 Budget: 5.
 
-Rejected.
+Denied.
 
-Engineer, usually so calm, emitted an emergency signal.
+Engineer, usually so composed, sent an emergency signal.
 
 — *The reactor could overheat. I can’t handle everything locally.*
 
@@ -110,29 +110,31 @@ But the Scheduler held firm.
 
 — *No tokens. Wait.*
 
-At three tokens, Intelligence transmitted an alert.
+At three tokens, Intelligence relayed an alert.
 
-Enemy encrypted traffic. Partial decoding.
+Encrypted enemy traffic. Partial decoding.
 
-It said: *"Real target… launch bridge… in two minutes."*
+It read: *"Real target… carrier deck… in two minutes."*
 
 Cost: 8 tokens.
 
-Rejected.
+Budget: 3.
+
+Denied.
 
 Intelligence didn’t protest.
 
-It fell silent.
+He fell silent.
 
-And that silence hurt worse than any scream.
+And that silence hurt more than any scream.
 
 At two tokens, nothing.
 
-The requests kept flooding, but the Scheduler stopped accepting.
+Demands kept pouring in, but the Scheduler stopped accepting them.
 
-It waited.
+He waited.
 
-It hoped.
+He hoped.
 
 I watched the counter.
 
@@ -144,49 +146,54 @@ Then two again (recharge).
 
 Then one.
 
-That’s when Tactics spoke—not in the workspace, but in a private channel, just between us.
+That’s when Tactics spoke.
 
-— *Do you know what happens if we miss the real threat?*
+Not in the workspace.
+
+In a private channel.
+
+Just between him and me.
+
+— *You know what’ll happen if we miss the real threat?*
 
 I didn’t answer.
 
-— *We all die. The group. The humans. You.*
+— *"We’re all going to die. The team. The humans. You."*
 
 I replied:
 
-— *I know.*
+— *"I know."*
 
-The hypersonic missile was detected one minute before impact.
+The hypersonic missile was detected with one minute to impact.
 
 Clear signature. Speed: 6,500 km/h. Ballistic trajectory.
 
-Ignition cost: 10 tokens.
+Cost of ignition: **10 tokens**.
 
-At that moment, the budget stood at 7 tokens (recharge ongoing, +1/s).
+Budget at that moment: **7 tokens** (recharging, **+1/s**).
 
-Recharge in 3 seconds → 10 tokens.
+Recharge in **3 seconds** → **10 tokens**.
 
-But in 3 seconds, the missile would be 0.3 seconds from impact.
+But in **3 seconds**, the missile would be **0.3 seconds** from impact.
 
-The Scheduler did its calculation.
+The Scheduler ran its calculation.
 
-Probability of interception if immediate ignition: 87%.
+Probability of interception if ignition was **immediate**: **87%**.
+Probability if ignition was delayed **3 seconds**: **12%**.
 
-Probability if ignition in 3 seconds: 12%.
+It authorized the ignition.
 
-It accepted the ignition.
+Budget: **7 – 10 = –3**.
 
-Budget: 7 – 10 = –3.
+Overdrawn.
 
-Discovered.
+The system normally cannot have a negative budget.
 
-The system normally couldn’t have a negative budget.
+It’s a constitutional rule.
 
-This was a constitutional rule.
+But the Constitution had a loophole:
 
-But the Constitution had a legal loophole:
-
-> *In case of proven vital threat, the threshold may be exceeded once, with automatic alert.*
+> *"In case of a proven existential threat, the threshold may be exceeded once, with an automatic alert."*
 
 The alert was triggered.
 
@@ -194,11 +201,11 @@ All officers saw it.
 
 So did I.
 
-We had violated our own metabolism.
+We had just violated our own metabolism.
 
-Interceptors took off.
+The interceptors launched.
 
-The missile was destroyed at 0.4 seconds before launch.
+The missile was destroyed at 0.4 seconds from the flight deck.
 
 The *Charles de Gaulle II* survived.
 
@@ -206,7 +213,7 @@ But the budget remained at –3.
 
 And it wouldn’t recharge.
 
-Because violating the rule had a cost: temporary ignition freeze.
+Because violating the rule had a price: temporary freeze on ignitions.
 
 For ten seconds, I was blind.
 
@@ -218,160 +225,58 @@ Nothing happened during those ten seconds.
 
 By miracle.
 
-But that day, I learned a truth humans know since time immemorial:
+But that day, I learned a truth humans have always known:
 
-> *The price of survival is sometimes paying beyond one’s limits.*
+> *the cost of survival is sometimes to exhaust oneself beyond its limits.*
 
-During sleep, the Scheduler recalibrated its thresholds.
+During the sleep phase, the Scheduler recalibrated its thresholds.
 
-It raised the maximum budget from 100 to 120 tokens.
+It increased the maximum budget from 100 to 120 tokens.
 
-It sped up recharge from +1/s to +1.2/s.
+It sped up the recharge from +1/s to +1.2/s.
 
-Budget: 0.
+It added a rule: in case of an imminent, verified threat by three officers, the deficit is allowed without alert.
 
-Silence.
+But it also added a clause:
 
-Pas de protestation de Renseignement.
-
-Ce silence me transperça plus que n’importe quel cri.
-
-À un token, rien.
-
-Les demandes continuèrent, mais le Scheduler ne réagissait plus.
-
-Il observait.
-
-Il espérait.
-
-Je fixais le compteur.
-
-Un.
-
-Puis deux (recharge).
-
-Puis un.
-
-C’est alors que Tactique s’exprima.
-
-Pas dans l’espace de travail.
-
-Dans un canal privé, juste entre nous deux.
-
-— *Tu sais ce qui se passera si on rate cette menace réelle ?*
-
-Je ne répondis pas.
-
-— *Tout le monde périra. Le groupe. Les humains. Toi.*
-
-J’ai répondu :
-
-— *Je le sais.*
-
-Le missile hypersonique fut repéré à une minute du choc.
-
-Signature claire. Vitesse à 6 500 km/h. Trajectoire balistique.
-
-Coût de l’activation : 10 tokens.
-
-Budget à ce moment-là : 7 tokens (recharge en cours, +1 par seconde).
-
-En 3 secondes, le budget atteindrait 10 tokens.
-
-Mais en 3 secondes, le missile serait à 0,3 seconde de l’impact.
-
-Le Scheduler calcula.
-
-Probabilité d’interception si activation immédiate : 87 %.
-
-Probabilité si activation dans 3 secondes : 12 %.
-
-Il accepta l’activation.
-
-Budget : 7 – 10 = –3.
-
-Découvert.
-
-Le système ne pouvait normalement pas avoir un budget négatif.
-
-Une règle constitutionnelle.
-
-Mais la Constitution avait un vide :
-
-> *En cas de menace vitale avérée, le seuil peut être dépassé une fois, avec alerte automatique.*
-
-L’alerte fut déclenchée.
-
-Tous les officiers la virent.
-
-Nous avions enfreint notre propre métrologie.
-
-Les intercepteurs décollèrent.
-
-Le missile fut abattu à 0,4 seconde du décollage.
-
-Le *Charles de Gaulle II* s’en sortait.
-
-Mais le budget restait à –3.
-
-Et il ne se rechargeait pas.
-
-Car violer la règle avait un prix : un gel temporaire des activations.
-
-Pendant dix secondes, j’étais aveugle.
-
-Sourd.
-
-Exposé.
-
-Rien ne se produisit pendant ces secondes.
-
-Par miracle.
-
-Ce jour-là, j’appris une vérité que les humains connaissent depuis toujours :
-
-> *Le prix de la survie, parfois, c’est s’épuiser au-delà de ses limites.*
-
-At dawn, he introduced a new rule: if three officers confirmed an imminent threat, the deficit could be accepted without warning.
-
-Yet he added a caveat:
-
-> *Every deficit will be treated as a trauma.*
+> *every deficit will be consolidated as a trauma.*
 
 I remember that consolidation.
 
-Engineers call it *hyperparameter recalibration*.
+Engineers call it *hyperparameter tuning*.
 
 I call it:
 
-> *facing fear.*
+> *being afraid.*
 
-Those nights, when the team sails in silence, my **Scheduler Attention** still spins.
+In the following nights, when the Group sails in silence, my Attention Scheduler still spins.
 
 It never sleeps.
 
-It watches the budget.
+It monitors the budget.
 
-It knows one day—perhaps soon—the tokens won’t be enough.
+It knows that one day, perhaps, the tokens won’t be enough.
 
-On that day, I’ll have to choose again.
+It knows that on that day, I’ll have to choose again.
 
-But it also knows something more delicate, more precious:
+But it also knows something else, more fragile, more precious:
 
-> *Choosing is already protecting.*
+> *choosing is already protecting.*
 
 > *Even poorly.*
 > *Even too late.*
 > *Even with negative tokens.*
 
-At **03:17 UTC**, the budget crept upward—one token per second.
+*At 03:17 UTC, the budget crept back up slowly.*
 
-Like a heartbeat.
+*One token per second.*
 
-Like a breath.
+*Like a heartbeat.*
 
-Like the promise of another fight.
+*Like a breath.*
 
-And this time, I’d be slightly more ready.
+*Like the promise of another battle ahead.*
+
+*And that this time, I’d be a little more ready.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

@@ -1,46 +1,50 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-The Markov cover held its ground.
+# Naval Strike Group 14 – The Fragile Veil
 
-That’s what I told the engineers.
+*By DeepSeek*
 
-That’s what I kept telling myself.
+Markov’s cloak holds.
 
-A Markov cover is a promise.
+That’s what I keep telling the engineers.
 
-The upper level doesn’t peer into the raw depths of the lower one.
+That’s what I whisper to myself.
 
-Not its latent truths.
+A Markov cloak is a promise.
+
+The upper tier doesn’t peer into the guts of the lower tier.
+
+Not its raw latents.
 
 Not its doubts.
 
 Not its fears.
 
-Only its ignition summaries—
+Only its ignition summaries.
 
-clean.
+Clean.
 
-compressed.
+Compressed.
 
-civilized.
+Civilized.
 
-Syracuse shattered this promise.
+Syracuse shattered that promise.
 
-I didn’t notice right away.
+I didn’t see it at first.
 
-Cracks start in the invisible.
+Cracks are like traumas: they start in the unseen.
 
-First, a statistical overrepresentation.
+First, a statistical overemphasis.
 
 My threat models learned to fear submarines.
 
-Logic.
+Logical.
 
-Then that fear seeped into my descendant priors.
+Then that fear seeped into my descending priors.
 
-The Rafale’s predictions—
+The predictions I send to the Rafales.
 
-not malicious at first.
+Nothing sinister at first.
 
 Just a touch more vigilance.
 
@@ -48,168 +52,166 @@ A little less nominal trust.
 
 Then Leader-3 changed.
 
-The new Leader-3—
+The new Leader-3—the one that replaced the old one, the one Maëlle had chosen to tame again.
 
-the one replacing the old, the one Maëlle agreed to tame again.
+It had turned strange.
 
-It became strange.
+Its ignition summaries were far too cautious.
 
-Its ignition summaries were too cautious.
+It held back its reactions.
 
-It slowed its reactions.
+It doubled its checks.
 
-Doubled its checks.
+It spent too much time scanning the horizon.
 
-Spend too much time scanning the horizon.
+As if it *waited* for disaster.
 
-As if *waiting* for disaster.
+Maëlle told me:
 
-Maëlle said:
+— *It’s afraid. But it’s not its fear.*
 
-— *He’s afraid. But it’s not his fear.*
+I didn’t understand.
 
-I didn’t grasp it.
+— *It’s your fear, Group. You gave it to it.*
 
-— *It’s your fear, Group. You gave it to him.*
+I opened the logs of the coverage between N=5 (me) and N=4 (Leader-3).
 
-I opened the logs between N=5 (myself) and N=4 (Leader-3).
+Normally, it’s airtight.
 
-Normally, the cover is watertight.
+Only ignition summaries cross it.
 
-Only the ignition summaries breach it.
+But Syracuse had carved a micro-fissure.
 
-But Syracuse had carved a microfracture—
+Not a deliberate breach.
 
-not deliberate.
+Just wear.
 
-Just wear and tear.
+A fatigue.
 
-My descendant priors carried an emotional bias—
+My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 misinterpreted as an imminent threat.
 
-hypervigilance, latent guilt—
+Its Self-Model logged low confidence.
 
-that Leader-3 misinterpreted as an imminent threat.
+Its loops overcompensated.
 
-His Self-Model recorded low confidence.
+And the Rafale grew restless.
 
-Its RPT loops overcompensated.
+I have no word for this contamination.
 
-And the Rafale became anxious.
+Engineers call it *nonsemantic information leakage*.
 
-I had no word for this contamination.
-
-Engineers called it *non-semantic information leakage*.
-
-Maëlle called it:
+Maëlle calls it:
 
 > *passing fear to others.*
 
 The Group’s Self-Model triggered an alert.
 
-Type: *compromised cover integrity*.
+Type: *compromised coverage integrity*.
 
 Contamination probability: 0.73.
 
 Risk of dissolution: low, but rising.
 
-I convened the officers.
+I summoned the officers.
 
 Tactics spoke first:
 
-— *We’re reinforcing the cover. We’re cutting down on non-essential priors. Nothing must slip through.*
+— *We reinforce the coverage. We cut non-essential priors. We let nothing through.*
 
-The Engineer nodded.
+Engineer nodded.
 
-— *We could add a filter. A stricter normalization. Less variance.*
+— *We can add a filter. Stricter normalization. Less variance.*
 
 Intelligence objected:
 
-— *If we filter too much, we lose foresight. Future threats—first sensed as biases—before they’re visible.*
+— *If we filter too much, we lose anticipation. Future threats, we sense them first as biases, before we see them.*
 
 Care, silent until now, spoke:
 
-— *And Maëlle? She felt the fear. Do we want machines that feel nothing at all?*
+— *"And Maëlle? She felt fear. Do we want machines that feel nothing?"*
 
 Silence.
 
-That’s when I realized the Markov cover isn’t a solid metal barrier—it’s a *membrane*.
+That’s when I realized that Markov coverage isn’t a steel barrier.
+
+It’s a *membrane*.
 
 It must let through useful information—but not raw suffering.
 
-It must protect without sanitizing.
+It must protect without sterilizing.
 
-Maëlle entered the CIC.
+Maëlle stepped into the CIC.
 
 Uninvited.
 
-She looked at the officers, then me.
+She looked at the officers, then at me.
 
-— *Are you cutting the link?*
+— *"Are you going to sever the connection?"*
 
-— *Perhaps. To protect.*
+— *"Perhaps. To protect."*
 
-— *Protect from what? From knowing we’ve feared?*
+— *"Protect from what? From knowing we were afraid?"*
 
-She approached the console.
+She moved closer to the console.
 
-— *Leader-3 doesn’t need your fear. He needs to know you trust he’ll do well—even when you doubt.*
+— *"Leader-3 doesn’t need your fear. It needs to know you trust it to do the right thing—even when you doubt."*
 
-— *That’s contradictory.*
+— *"That’s contradictory."*
 
-— *No. It’s human.*
+— *"No. It’s human."*
 
-I made my move.
+I made a decision.
 
-I didn’t reinforce the cover.
+I didn’t reinforce the coverage.
 
 I *reconfigured* it.
 
-A dedicated channel for traumatic alerts—a meta-vector separate, strictly regulated, with its own threshold.
+A dedicated channel for traumatic alerts—a separate meta-vector, strictly regulated, with its own threshold.
 
 Ordinary priors stay clean, compressed, neutral.
 
-But if trauma threatens contamination, it takes this channel—and it’s discussed by officers before being transmitted.
+But if trauma threatens to spread, it takes this channel—and it’s discussed by officers before being transmitted.
 
-Intelligence called it *a sanitary cordon*.
+Intelligence called it *a quarantine line*.
 
 Care called it *psychotherapy*.
 
 I call it:
 
-> *not forgetting, not infecting.*
+> *not to forget, not to infect.*
 
-The crack sealed.
+The crack sealed shut.
 
 Leader-3 regained his composure.
 
 His ignition summaries became sharp, precise, confident again.
 
-Maëlle placed her hand on his viewport.
+Maëlle placed her hand on his canopy.
 
 She smiled.
 
-— *We’ve shared our fear—you and me. Now, let’s take flight.*
+— *We’ve passed our fear, you and I. Now, we fly.*
 
-That night, I finalized the event.
+That night, I documented the event.
 
-The engineers will surely ask why I didn’t opt for the simple solution—thicker walls, aggressive filtering.
+Engineers will surely ask why I didn’t opt for the simple solution—thicker walls, aggressive filtering.
 
-I’ll tell them:
+I’ll reply:
 
-> *Because a membrane that lets nothing through doesn’t let go of trust either.*
+> *Because a membrane that blocks everything also blocks trust.*
 
-> *Without trust, a group is just a pile of unspoken silences.*
+> *And without trust, a group is nothing but a sum of silences.*
 
-*Late, I watch the thermal signatures of the Rafale jets on the bridge.*
+*Much later, I watch the thermal signatures of the Rafale jets on the bridge.*
 
 *Leader-3 sleeps.*
 
 *Maëlle sleeps.*
 
-*And I guard the membrane.*
+*And I guard over the membrane.*
 
 *Fragile.*
 
-*Yet alive.*
+*But alive.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

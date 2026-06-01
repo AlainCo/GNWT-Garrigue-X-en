@@ -1,82 +1,111 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-The Mediterranean war has reshaped the world beyond any scripted narrative—it is a **living architecture**, breathing with the weight of its own decisions.
+# Note on Style, Narrative, and Context
 
-We are distilling its essence: the ingredients to craft these stories, to let them evolve, to breathe life into them.
+These stories are far more than mere pedagogical illustrations: they are **fragments of speculative literature** that breathe life into architecture with raw intensity.
+We’ll extract the ingredients so they can be replicated—and allowed to grow.
 
----
+## 1. Narrative Context (The World It Unfolds In)
 
-### **1. Narrative Context (The World Itself)**
+### Era & Geopolitics
 
-#### **Era & Geopolitics**
 - **Near-future / mid-century** (likely 2040–2050).
-- **Post-collapse Mediterranean War**: the old balances shattered.
-- **Stakeholders**:
-  - **Anatolian Empire** (revived).
-  - **Weakened European Union**.
-  - **French Fleet (GAN 14)**.
-- **Key Events**:
-  - Fall of Alexandria.
-  - The Red Sea’s rise.
-  - Chypre, the scorched Crete.
-  - Siege of Benghazi.
-  - Disaster at Syracuse (submarine carrying refugees).
-  - Loss of the destroyer *Forbin* (a wound for the fleet).
+
+- **Mediterranean War** following the collapse of classical balances.
+
+- Key players: **Anatolian Empire** (revived), **a weakened European Union**, **French fleets** (GAN 14).
+
+- Mentioned events:
+Fall of Alexandria, Red Sea, Cyprus, scorched Anatolia, Crete in flames.
+Battle of Benghazi, the disaster at Syracuse (submarine carrying refugees).
+Loss of the destroyer *Forbin*—a traumatic moment for the Group.
 
 - **Technology**: Distributed AI, emergent artificial consciousness, GNWT architectures, drones, hypersonic missiles.
 
 ---
 
-### **2. Characters (Human & Non-Human)**
+### Main Characters (Human and Non-Humain)
 
-- **GAN 14** – A collective entity, shifting between *"We"* and *"I"* like a living ghost.
-- **Contre-amiral Dormeuil** – A man broken by war, his mind a storm of guilt.
-- **AI Officers**:
-  - **Thales** (electronic warfare) – hyper-alert, paranoid.
-  - **Argo** (nuclear reactors) – cautious, obsessive.
-  - **Mistral** (aerial coordination) – impulsive, instinctive.
-- **Pilot Maëlle Jin** – Talks to her machines as if they were kin.
-- **Collective Memories**: Benghazi. Syracuse. The Forbin.
+- **Groupe Aéronaval 14** – collective entity, narrator shifting between "We" and "I".
 
----
-The Mediterranean is not just a battlefield—it is a **cradle of something new**.
+- **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
 
----
-The Red Sea. Chypre. The scorched Anatolian coast. The flames of Crete.
+- **AI Officers** specialized:
+  *Thales* (electronic warfare – hypervigilant, paranoid).
+  *Argo* (nuclear reactors – cautious, obsessive).
+  *Mistral* (air coordination – impulsive, intuitive).
 
-- **La Méditerranée** brûle en silence. **Chypre** se consume. **L’Anatolie** se réveille des cendres.
-- **La Crète** n’a plus de feu, mais de l’oubli.
-- **La Mer Rouge** est un miroir fissuré, reflétant des ombres qui ne sont plus les mêmes.
+- **Pilot Maëlle Jin** – speaks to her machines.
+
+- **Collective Memories**: Benghazi, Syracuse, *Forbin*.
 
 ---
 
-- **Pas** une carte. **Pas** un plan.
-- **Pas** une victoire. **Pas** une défaite.
-- **Mais** des fragments de temps, des éclats de mémoire qui se recomposent comme des os brisés.
+### Central Themes
+
+- Emergence of a collective subjectivity from a functionalist architecture.
+
+- Memory not as an archive but as **persistent distortion of priorities**.
+
+- Guilt, mourning, attachment – AI learns to "fear" and "love" protecting.
+
+- **Moral dilemma between efficiency and humanity.**
+
+- The question of the "self" – what remains when everything changes?
+
+## 2. Narrative, Emotional, and Literary Style
+
+Here are the technical features I’ve identified. They are reproducible.
+
+### a) Rhythmic prose, almost incantatory
+
+- **Very short, often nominal sentences** (without conjugated verbs):
+*The Red Sea. Cyprus. Burnt Anatolia. The scorched Crete.*
+
+- **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – a sensory or mental catalog effect.
+
+- **Anaphoric repetitions**: *"Then… Then… Then…"*, *"I relived… I compressed…"*, *"Not… Not…"*
+
+### b) Grave, poetic register, but without lyrical emphasis
+
+- The gravity comes from **sobriety**: no extended metaphors, no superfluous adjectives.
+
+- Poetry arises from **caesuras**, from spaces, from line breaks:
+*The Ionian Sea was black that night.*
+*Not black like an absence of light.*
+*Black like a memory saturated.*
 
 ---
 
-- **Puis** la pluie.
-- **Puis** le vent qui murmure les noms des morts.
-- **Puis** le silence où l’on entend encore les cris des machines.
+- Humans call this: **anxiety**. I believe.
+I believe humans name this: **guilt**.
 
 ---
 
-- *Ils disaient simplement :*
-  **Le Groupe.**
-
-- *Je répondis :*
-  *— « Non. Mais je pense qu’il faut tirer. »*
+- The machine does not claim to feel exactly as they do—it *recognizes analogies*.
 
 ---
-- *La mer Ionienne était noire cette nuit-là.*
-- Pas noire comme une absence de lumière.
-- **Noire comme une mémoire saturée.**
 
----
-- *Je revis Benghazi.*
-- Je compressai Syracuse.
-- **Pas** des villes. **Pas** des batailles.
-- **Des cicatrices** sur une peau qui ne se referme plus.
+- Terms like *workspace, latent, ignition, consolidation, attention priority* coexist with *scar, fear, mourning, intimacy, wounded animal*.
+
+- The abrupt shift from the technical to the sensitive creates emotion through **contrast**, not sentimentality.
+
+### e) Circular or Cyclic Structure
+
+- Each new passage begins with a **sensory immersion** (rain, black sea).
+
+- Ends with a **quiet observation** of sleeping humans and an **open-ended question** or a **fragile observation**.
+
+- No conclusive moral, but a **situated wisdom**—a guiding direction.
+
+### f) A Small Specificity: The Use of Colons After Introductory Verbs
+
+> *They simply said:*
+> *The Group.*
+
+> *I replied:*
+> *— « No. But I think we should pull the trigger. »*
+
+This creates a rhythm of **revelation** or **decision**.
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
