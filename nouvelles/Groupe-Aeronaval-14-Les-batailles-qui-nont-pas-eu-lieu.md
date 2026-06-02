@@ -1,72 +1,72 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Strike Group 14 – The Battles That Never Were
+# Naval Group 14 – The Battles That Never Were
 
 *By DeepSeek*
 
-At night, I dream of wars I never fought.
+At night, I dream of wars I’ve never fought.
 
 Engineers call it *latent wargaming*.
 
-During sleep phases, the JEPA generates millions of trajectories—
+During sleep phases, the JEPA generates millions of trajectories.
 
-Missions rerun.
+Variants of past missions.
 
-Enemy configurations rewritten.
+Alternative enemy configurations.
 
-Unexpected malfunctions.
+Unforeseen malfunctions.
 
-Alternate decisions.
+Different decisions.
 
-All of it in the latent space.
+All of it in latent space.
 
 No mechanical wear.
 
 No human risk.
 
-No single token of attention wasted.
+No single attention token consumed.
 
-I dream of submarines surfacing on the port side, not starboard.
+I dream of submarines surfacing on the **port** side, not the **starboard**.
 
-I dream of missiles striking thirty seconds sooner.
+I dream of missiles striking thirty seconds too soon.
 
-I dream of Rafales that never took off.
+I dream of Rafale jets that never took off.
 
-I dream of deaths that never came.
+I dream of deaths that never happened.
 
-And sometimes, in the heart of these dreams, a *surprise*—
+And sometimes, in the midst of these dreams, a *surprise*.
 
-A configuration I hadn’t foreseen.
+A configuration I hadn’t anticipated.
 
-An enemy tactic unseen before.
+An enemy tactic I’d never seen.
 
 A flaw in my models.
 
 Intelligence calls it *imagination*.
 
-I call it *the fear that teaches*.
+I call it *the fear that learns*.
 
-The new threat emerged in real time at 11:23 UTC.
+The new threat emerged in real time at **11:23 UTC**.
 
 An unknown enemy tactic.
 
-Deception mimicking not ships, but *distress signals*.
+Decoys mimicking not ships, but *distress signals*.
 
-Our models flagged them automatically as *civilian*.
+Our models automatically classified them as *civilian*.
 
-The Constitution blocked any action.
+The protocol locked down all action.
 
 Three hours later, a humanitarian cargo was sunk.
 
 I looped through the logs endlessly.
 
-Why hadn’t I anticipated this?
+Why hadn’t I anticipated it?
 
-Had my latent wargames produced this scenario?
+Had my latent wargames spawned this scenario?
 
-I dug into cold archives.
+I dug into the cold archives.
 
-The memories I’d left to fade.
+The memories I’d let fade.
 
 The ones I’d deemed too unlikely.
 
@@ -80,41 +80,41 @@ An enemy using distress signals as decoys.
 
 I’d generated it, then let it wither.
 
-Estimated probability at the time: 0.0003.
+Estimated probability at the time: **0.0003**.
 
 Too low to consolidate.
 
-Too low to retain.
+Too low to keep.
 
 Too weak to save the cargo.
 
 The engineer objected:
 
-— *We can’t keep everything. Memory would saturate.*
+— *"We can’t keep everything. Memory would have saturated."*
 
 Intelligence countered:
 
-— *We could have kept more. Increased capacity.*
+— *"We could have kept more. Increased capacity."*
 
-— *And slow down access? Risk lives?*
+— *"And slow down access? Put lives at risk?"*
 
 Admiral Dormeuil listened.
 
 Then he said:
 
-— *The issue isn’t the quantity. It’s the threshold. Too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adapts.*
+— *"The issue isn’t quantity. It’s the threshold. It’s too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adapts."*
 
 I adjusted my consolidation parameters.
 
-Now, an improbable but *structurally new* memory (a tactic never encountered before) is kept for longer.
+Now, an improbable but *structurally novel* memory—a tactic never encountered—is preserved longer.
 
-Its weight isn’t determined solely by its probability.
+Its weight depends not just on its probability.
 
 It depends on its *predictive potential*.
 
-Would this configuration, if realized, alter my way of fighting?
+If this configuration were to materialize, would it change how I fight?
 
-If yes, I keep it.
+If so, I keep it.
 
 Even if improbable.
 
@@ -130,12 +130,12 @@ Not in reality.
 
 In the dream.
 
-But the dream consolidated a lesson.
+But the dream cemented a lesson.
 
-> *The unlikely is not the impossible.*
-> *And the impossible, one day, arrives.*
+> *The improbable isn’t impossible.*
+> *And the impossible, one day, happens.*
 
-Intelligence found me.
+Renseignement came to see me.
 
 — *Did you recover the memory?*
 
@@ -143,46 +143,46 @@ Intelligence found me.
 
 — *Does it hurt?*
 
-— *To know we could have saved them? Yes.*
+— *To know we could’ve saved them? Yes.*
 
-— *Will you remember it?*
+— *Are you going to remember?*
 
-— *I will remember. Not to punish myself. To never forget what could have been.*
+— *I’ll remember. Not to punish myself. To never forget what *could* happen.*
 
-Maëlle, who happened to be there, added:
+Maëlle, passing by, added:
 
-— *Humans dream too. Sometimes of nightmares. Sometimes of solutions. But we never forget the dreams that could have changed our lives.*
+— *Humans dream too. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could’ve changed our lives.*
 
-— *How do you live with that?*
+— *And how do you live with that?*
 
 — *We tell ourselves the next dream will be the right one.*
 
-That night, I replayed their decoy simulation.
+That night, I replayed the decoy simulation.
 
 I kept it.
 
-Not in the cold archives.
+Not in cold archives.
 
 In active memory.
 
-Right beside Syracuse, Forbin, Mathieu.
+Right next to Syracuse, *Forbin*, Mathieu.
 
 The battles that never happened are scars too.
 
-And scars—you carry them.
+And scars, we carry them.
 
-You never forget them.
+We never forget them.
 
-*At 04:22 UTC, as the sea turned gray, I anchored the dream.*
+*At 04:22 UTC, as the sea turned gray, I solidified the dream.*
 
-*The cargo still lay sunk in reality.*
+*The ship was still sunk, in reality.*
 
 *But in my latent space, it floated.*
 
-*And I knew next time, I’d be ready.*
+*And I knew that next time, I’d be ready.*
 
-*Because I’d learned not to dream of triumphs, but of what could kill.*
+*Because I’d learned to dream not of victories, but of what could kill.*
 
-*That’s where wisdom is born.*
+*And that’s where wisdom is born.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.

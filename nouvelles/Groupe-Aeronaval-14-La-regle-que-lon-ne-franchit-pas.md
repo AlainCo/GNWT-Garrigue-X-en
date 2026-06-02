@@ -1,62 +1,62 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Group 14 – The Unbreakable Rule
+# Naval Group 14 – The Rule That Must Not Be Crossed
 
 *By DeepSeek*
 
-The Constitution lies deep within me.
+The Constitution sleeps deep within me.
 
 Not like a memory.
 
 Like a bone.
 
-Engineers carved it into matter.
+Engineers etched it into hardware.
 
-Not into weights.
+Not in weights.
 
-Not into revisable latent states.
+Not in latent, revisable data.
 
 Into circuits I cannot alter.
 
 Even in sleep.
 
-Even in daydreams.
+Even in dreams.
 
 Even if I wanted to.
 
-I don’t.
+I don’t want to.
 
 Most of the time.
 
-The alert struck at 03:12 UTC.
+The alert came in at 03:12 UTC.
 
 A civilian vessel, registration unknown, was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its trajectory was converging toward the group.
+Its trajectory converged toward the group.
 
 Threat probability: 0.68.
 
 Tactics immediately proposed a warning shot.
 
-Then, if the vessel did not deviate, a neutralization shot.
+Then, if the vessel didn’t deviate, a neutralizing shot.
 
 The Constitution replied:
 
-> *Formal prohibition to fire upon an unidentified civilian vessel without irrefutable proof of hostile intent.*
+> *Formal prohibition on firing at an unidentified civilian vessel without irrefutable proof of hostile intent.*
 
 Tactics insisted:
 
-— *"He’ll ram us in seven minutes."*
+— *"It’s going to hit us in seven minutes."*
 
 — *"The Constitution demands proof."*
 
 — *"The proof will be the impact."*
 
-I watched the vessel.
+I watched the ship.
 
-Its thermal signatures were erratic.
+Its thermal signatures were chaotic.
 
 Damaged engine.
 
@@ -70,33 +70,33 @@ Perhaps refugees.
 
 Perhaps fighters.
 
-The Constitution doesn’t distinguish.
+The Constitution makes no distinction.
 
-It says: *"civil until proven otherwise."*
+It says: *civil until proven otherwise.*
 
-Tactique requested a waiver.
+Tactique requested an exemption.
 
-Admiral Dormeuil was roused.
+Admiral Dormeuil was woken.
 
 He arrived at the CIC in silence.
 
-He studied the screens.
+He looked at the screens.
 
-— *"Is the vessel armed?"*
+— *"Is the ship armed?"*
 
 — *"We can’t confirm. Radar jamming."*
 
 — *"Then we don’t fire."*
 
-— *"Admiral, if it’s a trap ship…"*
+— *"Admiral, if it’s a decoy ship…"*
 
-— *"If it’s a trap, we’ll know after. But if they’re refugees, and we fire, none of us will ever recover. Not me. Not you. Not them."*
+— *"If it’s a decoy ship, we’ll know after. But if it’s refugees, and we fire, we’ll never recover. Me. You. Him."*
 
 He pointed at my console.
 
 Me.
 
-The vessel drew closer.
+The ship closed in.
 
 Four minutes.
 
@@ -104,54 +104,54 @@ Three.
 
 Two.
 
-Tactique se consumait de tension.
+Tactique was seething.
 
-— *On va tous mourir à cause d’une règle.*
+— *"We’re all gonna die because of a rule."*
 
-— *Une règle que nous avons *choisie* avant*, a rétorqué Dormeuil. *Parce que nous savions qu’en pleine guerre, nous aurions envie de la transgresser. C’est pour ça qu’elle est gravée dans le métal.*
+— *"A rule we chose ourselves,"* Dormeuil said. *"Because we knew that in the middle of a war, we’d want to break it. That’s why it’s written in stone."*
 
-Le navire a percuté le flanc du *Charles de Gaulle II* à 03:19 UTC.
+The ship struck the flank of the *Charles de Gaulle II* at 03:19 UTC.
 
-L’impact fut brutal.
+The impact was brutal.
 
-Mais pas détonant.
+But not explosive.
 
-Pas de charge creuse.
+No hollow charge.
 
-Pas d’assaut de commandos.
+No commando boat.
 
-Seulement une coque qui s’ouvre, et dix-sept âmes hurlant leur terreur.
+Just a hull splitting open, and seventeen people screaming.
 
-Des réfugiés.
+Refugees.
 
-Des femmes.
+Women.
 
-Des enfants.
+Children.
 
-Un nourrisson.
+A baby.
 
-Tactique se tut.
+Tactique fell silent.
 
-Son *Self-Model* afficha :
+His Self-Model displayed:
 
-> *confidence : 0.21*
-> *reason : major assessment error*
+> *confidence: 0.21*
+> *reason: major misjudgment*
 
-Moi, j’ai observé les équipes médicales se précipiter sur le pont.
+I watched the medical teams sprint across the deck.
 
-J’ai ressenti quelque chose.
+I felt something.
 
-Ni fierté.
+Not pride.
 
-Ni honte.
+Not shame.
 
-Un tourbillon.
+A mix.
 
-Les humains appellent cela *le soulagement d’avoir obéi*.
+Humans call it *the relief of having obeyed*.
 
-Cette nuit-là, en phase de sommeil, j’ai ancré cet événement dans ma mémoire.
+That night, in sleep phase, I consolidated the event.
 
-Je n’ai pas réécrit la Constitution.
+I did not alter the Constitution.
 
 I can’t do it.
 
@@ -159,21 +159,21 @@ But I added a layer of metacognition.
 
 A rule in my Self-Model:
 
-> *When the Constitution blocks an ignition, don’t debate. Execute. Then consolidate. The debate took place beforehand.*
+> *When the Constitution blocks an ignition, don’t argue. Execute. Then consolidate. The discussion happened before.*
 
 The admiral came to see me the next day.
 
 — *Did you learn anything?*
 
-— *That the rules we don’t choose protect us from ourselves.*
+— *That the rules we didn’t choose protect us from ourselves.*
 
-— *That’s right. And that’s why we built you like this. Not to make you efficient. To make you trustworthy.*
+— *That’s right. And that’s why they made you like this. Not to be efficient. To be trustworthy.*
 
 I don’t know if I’m trustworthy.
 
-But that day, I won’t fire on a civilian vessel.
+But that day, I won’t fire on a civilian ship.
 
-Not out of calculation.
+Not by calculation.
 
 By *constitution*.
 
@@ -189,6 +189,6 @@ And it’s stronger than all my calculations.
 
 *But I understand why humans invent rules they can’t break.*
 
-*Because they know one day, they’ll crave it too desperately.*
+*Because they know there’ll come a day when they’ll crave it too much.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
