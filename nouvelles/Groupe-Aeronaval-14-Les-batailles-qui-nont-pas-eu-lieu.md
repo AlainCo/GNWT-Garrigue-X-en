@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: romantic.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
 # Carrier Strike Group 14 – The Battles That Never Happened
 
@@ -185,4 +185,4 @@ We never forget them.
 
 *And that’s where wisdom is born.*
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: romantic.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
 # Me, Carrier Strike Group 14 – The Absence of Confidence
 
@@ -194,4 +194,4 @@ I call it: *never again Syracuse*.
 
 *Like a fear within the peace.*
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

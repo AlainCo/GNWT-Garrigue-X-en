@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: romantic.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
 # Task Force 14 – The Routine That Kills
 
@@ -150,4 +150,4 @@ Later, the admiral came to see me.
 *And me, tense.*  
 *Happy to be so.*
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

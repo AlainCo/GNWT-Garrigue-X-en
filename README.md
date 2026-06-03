@@ -1,6 +1,8 @@
 # GNWT-Garrigue-X-en : message in a bottle, set adrift
 > ✨ This README from  project [**GNWT-Garrigue-X**](https://github.com/AlainCo/GNWT-Garrigue-X) was translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.
+
 > ⚠️ Minor imperfections may remain — feel free to open an issue if something seems unclear.
+
 > ⚠️ Like a message in a bottle set adrift, it may not be perfect — but hopefully, it still finds you.
 
 
@@ -234,4 +236,4 @@ The stories below feature the **Aircraft Carrier Strike Group 14** facing the ha
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

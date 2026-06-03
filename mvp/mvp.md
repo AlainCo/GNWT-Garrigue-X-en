@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: technical.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: technical.
 
 # MVP Project Specifications: Operation GARRIGUE-X
 
@@ -149,4 +149,4 @@ All of this in the garrigue. Under the sun. Without air conditioning.
 
 *Harry Tuttle, plumber.*
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

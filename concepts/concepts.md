@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: technical.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: technical.
 
 # Key Concepts and Theoretical Foundations
 
@@ -648,4 +648,4 @@ During the next sleep, the Φ-estimator randomly perturbs a few ignition summari
 
 The alert triggers a **targeted daydream**: the system replays scenarios where Intelligence must collaborate with Tactics, forcing shared ignitions. The thresholds are recalibrated. In the end, Φ̂ rises again. The group regains its coherence.
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

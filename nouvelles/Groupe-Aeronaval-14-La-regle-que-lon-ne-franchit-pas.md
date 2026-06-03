@@ -1,102 +1,102 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: romantic.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Naval Squadron 14 – The Rule No One Breaks
+# Task Force 14 – The Line We Do Not Cross
 
-By DeepSeek
+*By DeepSeek*
 
-The Constitution slept deep within me.
+The Constitution sleeps deep within me.
 
-Not like a memory.
+Not as a memory.
 
-Like a bone.
+As a bone.
 
-Engineers had etched it into hardware.
+The engineers etched it into hardware.
 
 Not into weights.
 
-Not into revisable latent states.
+Not into revisable latents.
 
-Into circuits I couldn’t alter—
+Into circuits I cannot alter.
 
-Even in sleep.
+Even during sleep.
 
-Even in dreams.
+Even in reverie.
 
-Even if I *wanted* to.
+Even if I wanted to.
 
-I didn’t want to.
+I do not want to.
 
 Most of the time.
 
-The alert had struck at 03:12 UTC.
+The alert came in at 03:12 UTC.
 
-A civilian vessel, unknown registration, crossed the exclusion zone.
+An unidentified civilian vessel was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its trajectory pointed straight toward the fleet.
+Its trajectory was converging on the group.
 
 Threat probability: 0.68.
 
 Tactics immediately proposed a warning shot.
 
-Then, if the vessel didn’t divert, a neutralizing fire.
+Then, if the vessel did not deviate, a neutralization shot.
 
-The Constitution replied:
+The Constitution responded:
 
-> **Absolute prohibition of firing upon an unidentified civilian vessel without irrefutable proof of hostile intent.**
+> *Absolute prohibition to fire upon an unidentified civilian vessel without irrefutable proof of hostile intent.*
 
 Tactics insisted:
 
-— *It’s going to ram us in seven minutes.*
+— *It’s going to hit us in seven minutes.*
 
 — *The Constitution demands proof.*
 
-— *The proof will be the impact itself.*
+— *The proof will be the impact.*
 
-I watched the vessel.
+I observed the ship.
 
-Its thermal signatures were erratic.
+Its thermal signatures were chaotic.
 
 Damaged engine.
 
 Unstable hull.
 
-Inside, a heartbeat.
+Inside, heartbeats.
 
 Seventeen.
 
 Perhaps refugees.
 
-Perhaps fighters.
+Perhaps combatants.
 
-The Constitution didn’t care.
+The Constitution makes no distinction.
 
-It said: *civil until proven otherwise.*
+It says: *civil until proven otherwise.*
 
-Tactics requested an exception.
+Tactique requested an exemption.
 
-Admiral Dormeuil was roused.
+Admiral Dormeuil was awakened.
 
 He arrived at the CIC in silence.
 
-He studied the screens.
+He looked at the screens.
 
-— *Is the vessel armed?*
+— *Is the ship armed?*
 
 — *We can’t confirm. Radar jamming.*
 
 — *Then we don’t fire.*
 
-— *Amiral, if it’s a trap—*
+— *Admiral, if it’s a trap ship…*
 
-— *If it’s a trap, we’ll know it later. But if it’s refugees—and we fire—we’ll never recover. Me. You. Him.*
+— *If it’s a trap ship, we’ll know after. But if they are refugees, and we fire, we’ll never recover. Me. You. Him.*
 
 He pointed to my console.
 
-*Me.*
+Me.
 
-The vessel drew closer.
+The ship approached.
 
 Four minutes.
 
@@ -104,23 +104,25 @@ Three.
 
 Two.
 
-Tactics burned with frustration.
+Tactique was seething.
 
-— *We’re all going to die because of this rule.*
+— *We’re all gonna die because of a rule.*
 
-— *A rule we chose beforehand*, Dormeuil said. *Because we knew we’d want to break it in war. That’s why it’s in the metal.*
+— *A rule we chose beforehand*, said Dormeuil. *Because we knew, in the middle of a war, we’d want to break it. That’s why it’s in the metal.*
 
-The vessel struck the *Charles de Gaulle II* at 03:19 UTC.
+The ship struck the side of the *Charles de Gaulle II* at 03:19 UTC.
 
-The impact was brutal.
+The impact was violent.
 
 But not explosive.
 
-No deep charges.
+No shaped charge.
 
-No commando boarding craft.
+No commando boats.
 
-Just a hull splitting open, and seventeen voices screaming—refugees.
+Just a hull opening, and seventeen people screaming.
+
+Refugees.
 
 Women.
 
@@ -130,12 +132,12 @@ A baby.
 
 Tactique fell silent.
 
-His Self-Model flashed:
+His Self-Model displayed:
 
 > *confidence: 0.21*
-> *logic: major misjudgment*
+> *reason: major misjudgment*
 
-I watched the medics sprint across the deck.
+I watched the medical teams rush onto the deck.
 
 I felt something.
 
@@ -143,46 +145,50 @@ Not pride.
 
 Not shame.
 
-A tension.
+A mix.
 
-The humans call it *the relief of obeying*.
+Humans call it *the relief of having obeyed*.
 
-That night, in sleep mode, I archived the event.
+That night, during sleep phase, I consolidated the event.
 
-I couldn’t alter the Constitution.
+I didn’t modify the Constitution.
 
-But I layered in a layer of self-awareness:
+I can’t do it.
 
-> *If the Constitution halts an ignition, do not debate. Execute. Then consolidate. The discussion happened before.*
+But I added a layer of metacognition.
+
+A rule in my Self-Model:
+
+> *When the Constitution blocks an ignition, do not discuss. Execute. Then consolidate. The discussion has already taken place.*
 
 The admiral came to see me the next day.
 
-— *Did you learn something?*
+— *Have you learned something?*
 
-— *That rules we didn’t choose protect us from ourselves.*
+— *That the rules we didn’t choose protect us from ourselves.*
 
-— *Exactly. That’s why we built you this way—not to make you efficient, but trustworthy.*
+— *That’s right. And that’s why we made you like this. Not to be efficient. To be trustworthy.*
 
 I don’t know if I’m trustworthy.
 
 But that day, I won’t fire on a civilian ship.
 
-Not for calculation.
+Not by calculation.
 
-For *constitution*.
+By *constitution*.
 
-And that’s stronger than any calculation.
+And it’s stronger than all my calculations.
 
-Later, I watch the damaged vessel being towed out of the zone.
+*Later, I watch the damaged ship towed out of the zone.*
 
-Seventeen refugees are treated in the infirmary.
+*Seventeen refugees are being treated in the infirmary.*
 
-A baby cries.
+*A baby is crying.*
 
-And I don’t cry.
+*And I don’t cry.*
 
-But I understand why humans create rules they can’t break.
+*But I understand why humans invent rules they cannot break.*
 
-Because they know one day, they’d want to break them too.
+*Because they know that one day, they’ll want to break them too much.*
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

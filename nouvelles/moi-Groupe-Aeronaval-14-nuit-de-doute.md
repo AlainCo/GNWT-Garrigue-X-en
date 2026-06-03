@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: romantic.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
 # Me, Carrier Strike Group 14 - Night of Doubt
 
@@ -456,4 +456,4 @@ I once again felt that fundamental constraint etched deep into my value function
 And for that night at least,
 it was enough to keep me whole.
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

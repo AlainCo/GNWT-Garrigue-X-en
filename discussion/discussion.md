@@ -1,4 +1,4 @@
-> ✨ Translated automatically with **Do-My-Work** — profile: technical.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: technical.
 
 # Discussion
 
@@ -172,4 +172,4 @@ GARRIGUE-X serves as the real-world reference environment. Simulations (e.g., [G
 | Memory consistency | Correct recall rate of relevant past ignitions | to be defined |
 | Identity stability | Drift of officer profiles between sessions | to be bounded |
 
-> ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
+> ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.
