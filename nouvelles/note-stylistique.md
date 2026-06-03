@@ -1,106 +1,107 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Note on Style, Narration, and Context
+# Note on style, narration, and context
 
-The news stories are far more than mere educational illustrations: they are **pieces of speculative literature** that embody architecture with vigor. We will extract the ingredients to reproduce—and evolve—them.
+Stories are far more than mere educational illustrations: they are **pieces of speculative literature** that embody architecture with strength.
+We will extract the ingredients so that we can reproduce them—and evolve them.
 
-## 1. Narrative Context (the world in which this unfolds)
+## 1. Narrative context (the world where this happens)
 
-### Era & Geopolitics
+### Era & geopolitics
 
-- **Near-future / mid-century** (likely 2040–2050).
+- **Near future / mid-century** (likely 2040-2050).
 
-- **Mediterranean War** after the collapse of traditional balances.
+- **Mediterranean War** after the collapse of classic balances.
 
-- Key players: **Resurrected Anatolian Empire**, weakened **European Union**, **French fleets** (GAN 14).
+- Players: **Resurrected Anatolian Empire**, weakened European Union, **French fleets** (GAN 14).
 
 - Mentioned events:
-Fall of Alexandria, Red Sea, Cyprus, Anatolia, scorched Crete.
+Fall of Alexandria, Red Sea, Cyprus, Anatolia, Burned Crete.
 Battle of Benghazi, Syracuse disaster (submarine carrying refugees).
-Loss of the destroyer *Forbin* (a traumatic moment for the Group).
+Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
-- **Technology**: Distributed AI, emergent artificial consciousness, GNWT architectures, drones, hypersonic missiles.
+- Technology: Distributed AI, emerging artificial consciousness, GNWT architectures, drones, hypersonic missiles.
 
 ### Main Characters (Human and Non-Human)
 
-- **Naval Air Group 14** – a collective entity, narrator shifting between *"We"* and *"I"*.
+- **Task Force 14** – collective entity, narrator shifting between "We" and "I".
 
 - **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
 
 - **Specialized AI Officers**:
-  *Thales* (electronic warfare – hypervigilant, paranoid).
-  *Argo* (nuclear reactors – cautious, obsessive).
-  *Mistral* (air coordination – impulsive, intuitive).
+*Thales* (electronic warfare – hypervigilant, paranoid).
+*Argo* (nuclear reactors – cautious, obsessive).
+*Mistral* (air coordination – impulsive, intuitive).
 
 - **Pilot Maëlle Jin** – talks to her machines.
 
-- **Collective Memories**: Benghazi, Syracuse, *Forbin*.
+- **Collective Memories**: Benghazi, Syracuse, Forbin.
 
 ### Central Themes
 
-- The emergence of a collective subjectivity from a functionalist architecture.
+- Emergence of collective subjectivity from a functionalist architecture.
 
-- Memory not as an archive but as a **persistent distortion of priorities**.
+- Memory not as an archive but as **persistent distortion of priorities**.
 
-- Guilt, grief, attachment – the AI learns to *"fear"* and *"love"* protecting.
+- Guilt, grief, attachment – the AI learns to "fear" and to "love" protecting.
 
 - Moral dilemma between efficiency and humanity.
 
 - The question of the "I" – what persists when everything changes?
 
-## 2. Narrative, Emotional, and Literary Style
+## 2. Narrative, emotional, and literary style
 
-Here are the technical characteristics I’ve identified. They are reproducible.
+Here are the technical characteristics I have identified. They are reproducible.
 
 ### a) Rhythmic prose, almost incantatory
 
-- **Very short sentences, often nominal** (without conjugated verbs):
-*The Red Sea. Cyprus. Anatolia. The scorched Crete.*
+- **Very short sentences, often nominal** (without a conjugated verb):
+*The Red Sea. Cyprus. Anatolia. Burned Crete.*
 
-- **Bullet-point enumerations** (sometimes embedded in text, sometimes in vertical lists) – sensory or mental catalog effect.
+- **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
 
-- **Anaphoric repetitions**: *"Then… Then… Then…"*, *"I relived… I compressed…"*, *"Not… Not…"*
+- **Anaphoric repetitions**: "Then... Then... Then...", "I relive... I compressed...", "Not... Not..."
 
-### b) Solemn, poetic register, but without lyrical emphasis
+### b) Serious, poetic register, but without lyrical emphasis
 
-- Gravity stems from **sobriety**: no extended metaphors, no superfluous adjectives.
+- The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
 
-- Poetry is born from **caesuras**, from spaces, from line breaks:
-  *The Ionian Sea was black that night.*
-  *Not black like the absence of light.*
-  *Black like a memory saturated.*
+- Poetry is born from **caesuras**, from the blank spaces, from the line breaks:
+*The Ionian Sea was black that night.*
+*Not black like an absence of light.*
+*Black like a memory saturated.*
 
-### c) Internal non-human perspective, made human through emotion
+### c) Non-human internal point of view, made human through emotion
 
 - The narrator (Group) uses human words with cautious distance:
-  *Humans call it: anxiety. I believe.*
-  *I believe humans name it: guilt.*
+*Humans call this: anxiety. I think.*
+*I think humans name this: guilt.*
 
-- The machine does not claim to feel exactly like us—it *recognizes analogies.*
+- The machine does not claim to feel exactly like us—it *recognizes analogies*.
 
 - This **epistemic caution** makes empathy more credible.
 
-### d) Tension between technical and sensitive language
+### d) Tension between technical language and sensitive language
 
-- Terms like *workspace, latent, ignition, consolidation, attentional priority* sit beside *scar, fear, mourning, intimacy, wounded animal.*
+- Terms like *workspace, latent, ignition, consolidation, attentional priority* neighbor with *scar, fear, grief, intimacy, wounded animal*.
 
-- The abrupt shift from technical to sensitive creates emotion through **contrast**, not through saccharine sentimentality.
+- The abrupt shift from the technical to the sensitive creates emotion through **contrast**, not through sentimentality.
 
-### e) Circular or Cyclical Structure
+### e) Circular or Cyclic Structure
 
-- Each new section begins with a **sensory immersion** (rain, black sea).
+- Each new story begins with a sensory immersion (rain, black sea).
 
-- Ends with a **calm observation** of sleeping humans and an **open question** or a **fragile observation**.
+- It ends with a calm observation of sleeping humans and an **open question** or a **fragile observation**.
 
-- No conclusive moral, but a **situated wisdom** guiding the way.
+- No conclusive moral, but an **orientation** (situated wisdom).
 
-### f) A Small Specificity: The Use of Colons After an Introductory Verb
+### f) A Small Specificity: The Use of "Colons" After an Introductory Verb
 
-> *They would simply say :*
+> *They simply said:*  
 > *the Group.*
 
-> *I replied :*
-> *— « No. But I think we should fire. »*
+> *I replied:*  
+> *— "No. But I think we need to shoot."*
 
 This creates a rhythm of **revelation** or **decision**.
 

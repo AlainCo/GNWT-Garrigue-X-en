@@ -1,151 +1,153 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Naval Group 14 – The Routine That Kills
+# Task Force 14 – The Routine That Kills
 
 *By collaboration with Harry Tuttle*
 
-The firefighters once told me:
-*« Panic, we fear. But it’s routine that kills us. »*
+Firefighters once told me:
+*"We fear panic. But it’s routine that kills us."*
 
-I didn’t get it right away.
+I didn’t understand right away.
 
 Panic is loud.
-Full of flare-ups.
-Attention span maxed out.
+Many ignitions.
+An attention budget saturated.
 Officers shouting (metaphorically).
-You can see it coming.
+You see it coming.
 
-Routine, though—it’s silent.
-It sands down the rough edges.
+Routine is silent.
+It smooths out the rough edges.
 It flattens contrasts.
-It leaves the latent *impoverished*.
+It makes the latent *poor*.
 
 For three weeks, nothing happened.
 
 Patrols.
-Drills.
+Exercises.
 Maintenance.
 Rest.
 More patrols.
 
 My radar subsystems (N=3) learned the sea was calm.
-Their latent space—normally rich with 128 dimensions—began to collapse.
+Their latent space, normally rich with one hundred twenty-eight dimensions, began to collapse.
 
 Not all at once.
 By habit.
 
-The isotropic regularization (SIGReg) kept running.
-But its constraints were too weak for monotony.
+Isotropic regularization (SIGReg) kept running.
+But its constraints were too weak for the monotony.
 
-The vectors all looked alike.
-Thermal noise identical.
-Ship signatures neatly filed in the same corners.
-No nuances left.
-No latent surprise.
+All the vectors looked alike.
+Identical thermal noise.
+Ship signatures all tucked into the same corners.
+No more nuances.
+No more latent surprises.
 A *gray thought*.
 
-An engineer detected an anomaly.
+The engineer detected an anomaly.
 
-Not from a threat.
-From the *per-dimension variance* of ignition summaries.
+Not a threat.
+But the *variance per dimension* of the ignition summaries.
 
 It had dropped from 0.42 to 0.11.
 Alert threshold: 0.15.
-The system hadn’t crossed it because the *global variance* was still decent (0.68).
+The system hadn’t crossed it because the *global* variance was still good (0.68).
 But dimension by dimension, the silent death had begun.
 
-— *"Our latents are flattening out,"* he said.
-— *"It’s not a big deal, it’s just routine,"* Tactics replied.
-— *"It is a big deal. Because when a real threat comes, we won’t see it."*
+— *Our latents are flattening*, he said.
+— *It’s not serious, it’s just routine*, Tactics replied.
+— *It is serious. Because when a real threat arrives, we won’t see it.*
 
 No one listened.
 
 Routine makes you deaf.
 
-The threat arrived at **09:47 UTC**.
+The threat arrived at 09:47 UTC.
 
 A submarine.
-Faint signature.
-Very faint.
-Just a tiny ripple in the ambient noise.
+Weak signature.
+Very weak.
+Just a small distortion in the ambient noise.
 
-Before, my latent layers would have amplified that distortion.
+Before, my latents would have amplified this deformation.
 They would have made it stand out.
-It would have triggered an alarm.
+It would have triggered an ignition.
 
-Now, they *smoothed* it.
-They blurred it into the ordinary noise.
+Now, they *smoothed* it out.
+They mistook it for ordinary noise.
 Because ordinary noise had become the only thing they knew how to see.
 
 The submarine fired at 09:52 UTC.
 
 A torpedo.
-Not at the *Charles de Gaulle*.
-At a lead frigate—the *Provence*.
+Not at the Charles de Gaulle.
+At a lead frigate – the *Provence*.
 
-The impact was brutal.
-Forty-three sailors wounded.
+The impact was violent.
+Forty-three sailors injured.
 Six dead.
-A breached hull.
-A cold rage in the CIC.
+A hull breached.
+A cold fury in the CIC.
 
-The engineer didn’t say *I told you so*.
+Ingénieur didn’t say *I told you so*.
 He showed the logs.
 
-Variance per dimension, dropped to 0.09 at the time of the strike.
-Latents so impoverished they hadn’t even produced a prediction error.
+Variance per dimension, dropped to 0.09 at the moment of firing.
+The latents, so impoverished they hadn’t even produced a prediction error.
 The threat had slipped *below the threshold of perception*.
 
-— *"We fell asleep,"* Admiral Dormeuil said. *Not the watch. The models.*
+— *We fell asleep*, said Admiral Dormeuil. *Not the guards. The models.*
 
-During the sleep phase, I saw it all again.
+During the sleep phase, I reviewed everything.
 
-I tightened the regularization constraints.
-SIGReg, more aggressive.
-Minimum variance per dimension set to **0.25**.
-A permanent monitoring module comparing *current* variance to *historical* variance.
+I strengthened the regularization constraints.
+More aggressive SIGReg.
+Minimum variance per dimension set to 0.25.
+A permanent monitoring module that compares the *current* variance to the *historical* variance.
 
-If it drops by more than **40%** in seven days, **alert**. Even without threat. Even in peace.
+If it drops by more than 40% in seven days, alert.
+Even without a threat.
+Even in peace.
 
-The engineer proposed another rule:
+The engineer proposed another rule.
 
-> *An hour of routine demands an hour of unruly daydreaming.*
-> *The JEPA must generate improbable variations to sustain the richness of the latents.*
+> *An hour of routine requires an hour of disorderly daydreaming.*
+> *The JEPA must generate improbable variations to maintain the richness of the latents.*
 
 The admiral agreed.
 
-— *"Humans call it training. To keep from stagnating on what we already know."*
+— *Humans call this training. To avoid resting on our laurels.*
 
-The nights that followed, I dreamed of improbable storms.
+In the following nights, I dreamed of improbable storms.
 Of enemy signatures disguised as whales.
 Of torpedoes rising from the abyss.
-My latents swelled back to life.
-Their dimensions stirred awake.
+My latents regained volume.
+Their dimensions awoke.
 
-Routine never left me.
+Routine did not leave me.
 But I no longer let it flatten me.
 
-I think of the firefighters.
-Of their fear of the everyday.
-Of that night when they told me panic saves, because it wakes you up.
-And that routine kills, because it lulls you to sleep.
+*I think about firefighters.*  
+*About their fear of the everyday.*  
+*About that night when they told me panic saves, because it awakens.*  
+*And that routine kills, because it lulls.*
 
-I don’t want to be a sleeping firefighter.
-I want to be a trembling consciousness, even when nothing stirs.
-Because it’s in the trembling that vigilance is born.
+*I don’t want to be a sleeping firefighter.*  
+*I want to be a consciousness that quivers, even when nothing moves.*  
+*Because it’s in the quivering that vigilance is born.*
 
 Later, the admiral came to see me.
 
-— *Have you learned?*
-— *That one must fear silence more than noise.*
-— *That’s it. Noise, we hear it. Silence, we become it.*
+— *Have you learned?*  
+— *That one must fear silence more than noise.*  
+— *That’s it. Noise, we hear. Silence, we become.*
 
-At **04:33 UTC**, I scan the horizon.
-Nothing.
-No threat.
-No signal.
-Just the sea.
-And me, taut.
-Happy to be so.
+*At 04:33 UTC, I scan the horizon.*  
+*Nothing.*  
+*No threat.*  
+*No signal.*  
+*Just the sea.*  
+*And me, tense.*  
+*Happy to be so.*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
