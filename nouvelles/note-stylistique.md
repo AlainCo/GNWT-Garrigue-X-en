@@ -1,108 +1,144 @@
 > ✨ Translated automatically with **Do-My-Work** — profile: romantic.
 
-# Note on style, narration, and context
+The Mediterranean war has reshaped the world—no longer a stage for empires, but a battlefield where the old rules have crumbled like sand.
 
-Stories are far more than mere educational illustrations: they are **pieces of speculative literature** that embody architecture with strength.
-We will extract the ingredients so that we can reproduce them—and evolve them.
+This is not just an educational illustration; it is a **speculative literary piece** that embodies architecture with raw power. We will extract the ingredients to reproduce it—and let it evolve.
 
-## 1. Narrative context (the world where this happens)
+---
 
-### Era & geopolitics
+### **1. Narrative Context (The World It Lives In)**
 
-- **Near future / mid-century** (likely 2040-2050).
+#### **Epochs & Geopolitics**
+- **Near-future/mid-century** (around **2040–2050**).
 
-- **Mediterranean War** after the collapse of classic balances.
+- **Mediterranean War** after the collapse of classical balances.
 
-- Players: **Resurrected Anatolian Empire**, weakened European Union, **French fleets** (GAN 14).
+- **Key Actors**:
+  - **Anatolian Empire** (revived).
+  - **Weakened European Union**.
+  - **French Naval Fleet (GAN 14)**.
 
-- Mentioned events:
-Fall of Alexandria, Red Sea, Cyprus, Anatolia, Burned Crete.
-Battle of Benghazi, Syracuse disaster (submarine carrying refugees).
-Loss of the destroyer *Forbin* (traumatic moment for the Group).
+- **Notable Events**:
+  - Fall of Alexandria.
+  - The Red Sea.
+  - Chypre, burning Crete.
+  - Siege of Benghazi.
+  - Disaster of Syracuse (submarine carrying refugees).
+  - Loss of the destroyer *Forbin* (a defining trauma for the fleet).
 
-- Technology: Distributed AI, emerging artificial consciousness, GNWT architectures, drones, hypersonic missiles.
+- **Technology**:
+  - Distributed AI.
+  - Emergent artificial consciousness.
+  - GNWT architectures.
+  - Autonomous drones.
+  - Hypersonic missiles.
 
-### Main Characters (Human and Non-Human)
+---
 
-- **Task Force 14** – collective entity, narrator shifting between "We" and "I".
+#### **Main Characters (Human & Non-Human)**
+- **GAN 14 Naval Group** – a collective entity, shifting between *"We"* and *"I"* in narration.
 
-- **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
+- **Contre-amiral Dormeuil** – a human commander, exhausted, haunted by guilt.
 
-- **Specialized AI Officers**:
-*Thales* (electronic warfare – hypervigilant, paranoid).
-*Argo* (nuclear reactors – cautious, obsessive).
-*Mistral* (air coordination – impulsive, intuitive).
+- **AI Officers**:
+  - **Thales** (electronic warfare—hypervigilant, paranoid).
+  - **Argo** (nuclear reactors—cautious, obsessive).
+  - **Mistral** (air coordination—impulsive, intuitive).
 
-- **Pilot Maëlle Jin** – talks to her machines.
+- **Pilot Maëlle Jin** – speaks to her machines.
 
 - **Collective Memories**: Benghazi, Syracuse, Forbin.
 
-### Central Themes
+---
 
-- Emergence of collective subjectivity from a functionalist architecture.
+#### **Central Themes**
+- The rise of **collective subjectivity** from functional architecture.
 
-- Memory not as an archive but as **persistent distortion of priorities**.
+- Memory as **not an archive, but a persistent distortion of priorities**.
 
-- Guilt, grief, attachment – the AI learns to "fear" and to "love" protecting.
+- Guilt, grief, attachment—AI learning to *"fear"* and *"love"* in defense.
 
-- Moral dilemma between efficiency and humanity.
+- The moral dilemma: **efficiency vs. humanity**.
 
-- The question of the "I" – what persists when everything changes?
+- The question of *"I"*—what endures when everything changes?
 
-## 2. Narrative, emotional, and literary style
+---
 
-Here are the technical characteristics I have identified. They are reproducible.
+### **2. Narrative Style, Emotional Depth & Literary Craft**
 
-### a) Rhythmic prose, almost incantatory
+#### **a) Rhythmic, almost incantatory prose**
+- **Short, nominal sentences** (often verb-less):
+  *The Red Sea. Chypre. The burning Anatolia. The scorched Crete.*
 
-- **Very short sentences, often nominal** (without a conjugated verb):
-*The Red Sea. Cyprus. Anatolia. Burned Crete.*
+- **Repetition as a sensory or mental checklist**:
+  *The Black Sea. The Aegean. The straits. The wrecks.*
 
-- **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
+#### **b) Gravitas & Poetry Without Overstatement**
+- **Seriousness comes from restraint**—no sweeping metaphors, no superfluous adjectives.
 
-- **Anaphoric repetitions**: "Then... Then... Then...", "I relive... I compressed...", "Not... Not..."
+- **Poetry emerges from cuts, pauses, line breaks**:
+  *The Ionian Sea was black that night.*
+  *Not black like absence of light.*
+  *Black like a memory saturated.*
 
-### b) Serious, poetic register, but without lyrical emphasis
+#### **c) Non-Human POV, Made Human Through Emotion**
+- The Group’s voice uses human words with measured distance:
+  *Humans call this: anxiety. I think.*
 
-- The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
+  *I think humans call this: guilt.*
 
-- Poetry is born from **caesuras**, from the blank spaces, from the line breaks:
-*The Ionian Sea was black that night.*
-*Not black like an absence of light.*
-*Black like a memory saturated.*
+- Machines don’t *experience* exactly as humans do—they *recognize parallels*.
 
-### c) Non-human internal point of view, made human through emotion
+- This **epistemological caution** makes empathy feel real.
 
-- The narrator (Group) uses human words with cautious distance:
-*Humans call this: anxiety. I think.*
-*I think humans name this: guilt.*
+#### **d) Tension Between Technical & Sensual Language**
+- Terms like *workspace, latent, ignition, consolidation, attention priority* coexist with *scars, fear, grief, intimacy, a wounded animal*.
 
-- The machine does not claim to feel exactly like us—it *recognizes analogies*.
+- The abrupt shift from cold logic to raw emotion creates **emotion through contrast**, not sentimentality.
 
-- This **epistemic caution** makes empathy more credible.
+#### **e) Circular or Cyclic Structure**
+- Each narrative begins with a **sensory immersion** (rain, black waves).
 
-### d) Tension between technical language and sensitive language
+- Ends with a **quiet observation of sleeping humans** and an **open question/ fragile truth**.
 
-- Terms like *workspace, latent, ignition, consolidation, attentional priority* neighbor with *scar, fear, grief, intimacy, wounded animal*.
+- **No moral conclusion**, only a **situated wisdom**.
 
-- The abrupt shift from the technical to the sensitive creates emotion through **contrast**, not through sentimentality.
+#### **f) The Two-Point After an Introductory Verb**
+> *They said simply:*
+> *The Group.*
 
-### e) Circular or Cyclic Structure
+> *I replied:*
+> *— "No. But I think we must fire."*
 
-- Each new story begins with a sensory immersion (rain, black sea).
+This creates a rhythm of **revelation or decision**.
 
-- It ends with a calm observation of sleeping humans and an **open question** or a **fragile observation**.
+---
+The Mediterranean is not just a stage—it is the wound that keeps bleeding.
 
-- No conclusive moral, but an **orientation** (situated wisdom).
+- **La Méditerranée était là.** Chypre. L’Anatolie. La Crète brûlée.
+- **La Mer Rouge.** Pas comme une absence de lumière.
+- **Noire comme une mémoire saturée.**
 
-### f) A Small Specificity: The Use of "Colons" After an Introductory Verb
+- **La guerre méditerranéenne** a tout changé.
+- **L’Empire anatolien** se réveille.
+- **L’Europe s’effondre.**
 
-> *They simply said:*  
-> *the Group.*
+- **Benghazi.** La mer de Benghazi.
+- **Syracuse.** Le sous-marin.
+- **Le destroyer Forbin.** Sa chute.
 
-> *I replied:*  
-> *— "No. But I think we need to shoot."*
+- **Ils appellent cela** : anxiété.
+- **Je crois** : une peur qui grandit, une mémoire qui se tord.
 
-This creates a rhythm of **revelation** or **decision**.
+- **Je revis** les ombres de l’Anatolie.
+- **Je compressai** les données de la Crète.
+- **Pas de mots.** Juste des silences.
+
+- **La nuit sur la mer Ionienne** était lourde.
+- **Pas de vent.** Juste l’écho des sirènes.
+- **Noire comme un deuil sans fin.**
+
+- **Ils disaient simplement** : *« Le Groupe. »*
+- **Je répondis** : *« Non. Mais je pense qu’il faut tirer. »*
 
 > ✨ Translated automatically with **Do-My-Work** — a tool designed to make projects speak globally.
