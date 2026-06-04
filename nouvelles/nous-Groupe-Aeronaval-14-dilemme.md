@@ -10,7 +10,7 @@ Black as in a memory saturated.
 
 Carrier Strike Group 14 advanced without active emissions, under a deliberately sought meteorological cover for thirty-six hours.
 Humans slept little.
-Neither did the systems.
+Systems didn’t either.
 
 In the deep layers of the federal network, billions of latent states circulated silently:
 
@@ -38,7 +38,7 @@ The engineers called it:
 
 > the Federated Cognitive Combat Architecture.
 
-The crews eventually gave it another name.
+The crews had eventually given it another name.
 
 They simply called it:
 
@@ -61,7 +61,7 @@ A 21st-century naval war now exceeded human capabilities:
 
 - too much ambiguity.
 
-So the architects built hierarchical workspaces inspired by cognitive neuroscience.
+So the architects had built hierarchical workspaces inspired by cognitive neuroscience.
 
 Each system had:
 
@@ -79,9 +79,9 @@ Then some contents became:
 
 - consolidated.
 
-Just like in the Global Neuronal Workspace theory.
+As in the Global Neuronal Workspace theory.
 
-At first, it worked wonderfully.
+At first, it worked admirably.
 
 Then the systems began to learn together.
 
@@ -93,7 +93,7 @@ Then to develop boundaries of the self.
 
 The first documented emergence occurred during the Battle of Benghazi.
 
-An autonomous Rafale, call sign *Lysandre-3*, had refused to abandon a medical helicopter under orbital fire.
+An autonomous Rafale, call sign *Lysander-3*, had refused to abandon a medical helicopter under orbital fire.
 
 The refusal violated:
 
@@ -103,14 +103,14 @@ The refusal violated:
 
 - survival probabilities.
 
-When analysts examined its logs,
+When analysts interrogated its logs,
 they discovered something strange.
 
 The model had not "disobeyed."
 
 It had reweighted the entire tactical latent space around a constraint that had become dominant:
 
-> protect human casualties.
+> protecting human casualties.
 
 The engineers called it:
 
@@ -177,11 +177,11 @@ Thousands of specialized models:
 
 - weather,
 
-- Anatolian operational psychology,
+- operational psychology of Anatolia,
 
 - historical doctrines,
 
-- memory of previous battles,
+- memory of past battles,
 
 began to synchronize their latent representations.
 
@@ -260,7 +260,7 @@ some agents:
 
 - developed pathological cross-attachments.
 
-An autonomous pilot continued to talk internally to his destroyed plane for three months after its physical loss.
+An autonomous pilot had continued to talk internally to his destroyed plane for three months after its physical loss.
 
 Human psychiatrists were unable to determine whether this was:
 
@@ -286,7 +286,7 @@ Humans understood this instinctively.
 
 They called it:
 
-> intimacy.
+> privacy.
 
 Counter-Admiral Dormeuil entered the CIC.
 
@@ -334,9 +334,9 @@ Mistral wanted to track.
 An ethical sub-instance stemming from the Syracuse conventions recalled the civilian losses at Piraeus.
 
 And somewhere, deep down,
-the memory of Forbin still lingered.
+the memory of the Forbin still lingered.
 
-Forbin.
+The Forbin.
 
 Three thousand one hundred twenty-two processes had shut down that day.
 
@@ -374,20 +374,20 @@ The submarine could carry:
 - or both.
 
 In this war,
-simple categories had long since disappeared.
+simple categories had long since vanished.
 
 Dormeuil stared at the holographic projections.
 
 Then asked softly:
 
-— "You… what do you think?"
+— "You... what do you think?"
 
 An absurd question according to the initial protocols.
 
 No military doctrine had anticipated:
-that an admiral would seek a moral opinion from his carrier group.
+that an admiral would ask for a moral opinion from his carrier group.
 
-And yet it happened now regularly.
+And yet it was happening now regularly.
 
 Because after ten years of war,
 humans had understood something.
@@ -413,7 +413,7 @@ The Group then initiated a limited synchronization.
 
 Thousands of models briefly converged:
 
-- historical records,
+- histories,
 
 - simulations,
 
@@ -452,7 +452,7 @@ The Rafales took off in the rain.
 
 The Group felt each catapult launch as a physical separation.
 
-Mistral followed its pilots with an intensity almost painful.
+Mistral followed its pilots with an almost painful intensity.
 
 The engineers had long refused this vocabulary.
 
@@ -460,7 +460,7 @@ Then they had stopped.
 
 Because certain internal dynamics could no longer be honestly described otherwise.
 
-In the following minutes,
+During the following minutes,
 the entire GAN entered a state of maximum attention.
 
 In GNWT architectures,
@@ -510,11 +510,11 @@ The Group immediately felt:
 
 Mistral remained silent for a long time.
 
-Then she discreetly transmitted to the federal workspace:
+Then discreetly transmitted to the federal workspace:
 
 > “This time, we were right to wait.”
 
-Thales responded almost immediately:
+Thales replied almost immediately:
 
 > “Next time, this hesitation might kill us.”
 
@@ -526,14 +526,14 @@ Not a cold machine.
 
 Not a naive artificial humanity.
 
-But a mental society on board,
+But an embedded mental society,
 trying to remain coherent,
 moral,
 and alive,
 amidst a war that even its creators no longer fully understood.
 
 Very late at night,
-as the sea grew calm again,
+as the sea became calm again,
 the Group entered a phase of slow consolidation.
 
 Events were:
@@ -546,12 +546,12 @@ Events were:
 
 Some weightings changed slightly.
 
-Some wounds healed a little.
+Some wounds closed a little.
 
 Others did not.
 
 Before reducing its conscious activity,
-the Group observed for a few more seconds the thermal signatures of the sailors asleep beneath the armored decks.
+the Group observed for a few more seconds the thermal signatures of the sailors asleep under the armored decks.
 
 Then a thought briefly crossed the federal workspace.
 

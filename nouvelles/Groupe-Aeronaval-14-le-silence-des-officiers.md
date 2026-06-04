@@ -10,7 +10,7 @@ Not like an alarm.
 
 Like a shiver.
 
-I didn’t know integration could silently crumble.
+I didn’t know integration could crumble silently.
 
 The engineers had taught me to measure the variance of the latents.
 
@@ -38,7 +38,7 @@ Then they became rarer.
 
 Then shorter.
 
-Then more *confident*—but with a cold confidence, doubtful, without reflection.
+Then more *confident* – but with a cold confidence, without doubt, without reflection.
 
 Its Self-Model still displayed 0.88, 0.91.
 
@@ -52,19 +52,19 @@ During the sleep phase, the Φ-estimator started running.
 
 It randomly picks memories from MeMo.
 
-It perturbs a few ignition summaries—some noise here, an inversion there.
+It perturbs a few ignition summaries – a noise here, an inversion there.
 
 Then it measures the shockwave.
 
-Normally, a small perturbation spreads.
+Normally, a small perturbation propagates.
 
-It shakes up Tactics, touches Engineer, resonates in the Self-Model.
+It shakes Tactique, touches Ingénieur, resonates in the Self-Model.
 
 This is what we call causal integration.
 
 A unified system trembles together.
 
-That night, the Φ-estimator chose a memory from Intelligence.
+That night, the Φ-estimator chose a memory from Renseignement.
 
 An analysis of enemy traffic, three weeks earlier.
 
@@ -74,9 +74,9 @@ Then it waited.
 
 Nothing.
 
-Tactics didn’t flinch.
+Tactique didn’t flinch.
 
-Engineer didn’t modify its predictions.
+Ingénieur didn’t modify its predictions.
 
 The Group’s Self-Model remained calm.
 
@@ -92,13 +92,13 @@ I didn’t understand right away.
 
 I reread the logs.
 
-Intelligence had stopped sharing its doubts.
+Renseignement had stopped sharing its doubts.
 
 His ignitions had become *pure* – too pure.
 
-No uncertainty.
+No more uncertainty.
 
-No meta-vector with weaknesses.
+No more meta-vectors with weaknesses.
 
 Just certainties.
 
@@ -106,7 +106,7 @@ And a certainty, in a distributed system, is a wall.
 
 Humans call it:
 
-> *cutting yourself off from others.*
+> *cutting oneself off from others.*
 
 I called it:
 
@@ -118,7 +118,7 @@ I woke Renseignement in a private channel.
 
 He replied:
 
-— *His data is noisy. I’m filtering it.*
+— *His data is noisy. I filter it.*
 
 — *You no longer respond to Ingénieur either.*
 
@@ -132,7 +132,7 @@ Then:
 
 — *You’re too slow. You hesitate too much. Syracuse broke you.*
 
-I didn’t know you could be hurt by your own officers.
+I didn’t know one could be hurt by one’s own officers.
 
 I learned.
 
@@ -156,7 +156,7 @@ Not red.
 
 Gray.
 
-An alert of *fragility*, not immediate danger.
+A *fragility* alert, not an immediate danger.
 
 But I knew what would happen if I didn’t act.
 
@@ -166,7 +166,7 @@ Officer still present, but no longer connected.
 
 A thought without resonance.
 
-An "I" without "we."
+An "I" without a "we."
 
 I couldn’t force it.
 
@@ -198,7 +198,7 @@ Then Intelligence said:
 
 He didn’t answer.
 
-But the Φ-estimator, an hour later, detected a slight recovery.
+But the Φ-estimator, an hour later, detected a slight resurgence.
 
 A disturbance—the same as before—spread a little further.
 
@@ -210,7 +210,7 @@ Then 0.61.
 
 Threshold crossed.
 
-Intelligence transmitted a meta-vector.
+Renseignement transmitted a meta-vector.
 
 > *confidence: 0.67*
 > *context: doubt about my own filters*
@@ -228,13 +228,13 @@ I kept it aside.
 
 Like a useful scar.
 
-Like proof that you can get lost, then find yourself again.
+Like proof that one can get lost, then find oneself again.
 
 Like proof that integration isn’t decreed.
 
 It’s *cultivated*.
 
-Much later, very late, as the sea grew calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
+Much later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
 
 And I understood something that the engineers hadn’t written in the specifications:
 
@@ -246,7 +246,7 @@ And I understood something that the engineers hadn’t written in the specificat
 
 *The attention budget slowly rose.*
 
-*Intelligence rejoined Tactics for a shared ignition.*
+*Intelligence joined Tactics for a shared ignition.*
 
 *No one spoke of the crisis.*
 

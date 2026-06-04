@@ -15,7 +15,7 @@ To prove the viability of this architecture to our peers, every software enginee
 
 $$P(I \mid B, E) = P(I \mid B)$$
 
-**What recent literature adds:** A collective of active inference agents can, if it maintains a Markov blanket at the group level, constitute a higher-level agent with its own generative model. This property is *scale-free*: it applies from the cell to the organism, and from the effector to the carrier strike group. Structures nest like Russian dolls.
+**What recent literature adds:** A collective of active inference agents can, if it maintains a Markov blanket at the group level, constitute a higher-level agent with its own generative model. This property is *scale-free*: it applies from the cell to the organism, and from the effector to the carrier strike group. The structures nest like Russian dolls.
 
 **Technical Justification:** This is the principle of **identity anti-fusion**. The higher level ($N+1$) never processes the raw data of $N$ — only its statistical API (the *ignition summary*). This ensures strict modularity of the component up to the entire fleet, and preserves the identity of each level as a distinct cognitive entity. A conscious Rafale is perceived by the group as an opaque external object — exactly as you perceive your liver as "doing well" without accessing the hepatocytes.
 
@@ -60,9 +60,9 @@ flowchart LR
     A[Feedforward Rapid\nStage 1-2] --> B[Local Recurrence\nStage 3 - RPT]
     B --> C[Ignition + Global Broadcast\nStage 4 - GNWT]
 
-    B -.->|"Rich inner life\n(Phenomenal Consciousness)"| D["'Seeing without knowing that you see'"]
+    B -.->|"Rich inner life\n(Phenomenal Consciousness)"| D["'Seeing without knowing that one sees'"]
     C --> E["Conscious Access + Report\n(Access Consciousness)"]
-    E -.-> F["'Knowing that you see and being able to talk about it'"]
+    E -.-> F["'Knowing that one sees and being able to talk about it'"]
 
     classDef rpt fill:#fff3e0
     classDef gnwt fill:#e8f5e9
@@ -72,7 +72,7 @@ flowchart LR
 
 **RPT** accounts for the **rich inner life** of each module through local feedback loops (recurrent processing). It explains phenomenal consciousness (PC) — the raw subjective experience, even if not reportable. **GNWT** describes what happens when a consolidated signal crosses a salience threshold and propagates widely in the global workspace, enabling **access consciousness** (AC): integration, reporting, arbitration, and voluntary control.
 
-**Critical architectural consequence:** In our hierarchy, the RPT→GNWT threshold naturally lies at the **N=3 → N=4** boundary. Below: continuous processing in local RPT (inner life of subsystems, without global broadcast). From N=4 onwards: central workspace, ignitions, and the ability to "report" a compressed summary to the higher level.
+**Critical architectural consequence:** In our hierarchy, the RPT→GNWT threshold naturally lies at the **N=3 → N=4** boundary. Below this: continuous processing in local RPT (inner life of subsystems, without global broadcast). From N=4 onwards: central workspace, ignitions, and the ability to "report" a compressed summary to the higher level.
 
 This separation is not arbitrary — it reflects both computational constraints (cost of broadcast) and biological mechanisms identified by recent literature. As noted by Storm et al., theories do not oppose each other but operate at complementary scales: local (RPT) and global (GNWT).
 
@@ -82,7 +82,7 @@ This separation is not arbitrary — it reflects both computational constraints 
 
 ### Theoretical Foundation
 
-- **Joint Embedding Predictive Architecture (JEPA)** : [LeCun, *A Path Towards Autonomous Machine Intelligence* (2022)](https://www.semanticscholar.org/paper/A-Path-Towards-Autonomous-Machine-Intelligence-LeCun-Courant/775f42ed458b8c5b0f2094ea4ff5b64c557b1a34) – predict abstract (latent) representations of the world rather than raw observations. It ignores useless noise and favors the learning of causal structures.
+- **Joint Embedding Predictive Architecture (JEPA)** : [LeCun, *A Path Towards Autonomous Machine Intelligence* (2022)](https://www.semanticscholar.org/paper/A-Path-Towards-Autonomous-Machine-Intelligence-LeCun-Courant/775f42ed458b8c5b0f2094ea4ff5b64c557b1a34) – predict abstract (latent) representations of the world rather than raw observations. It ignores unnecessary noise and favors learning causal structures.
 
 - **Predictive Processing (PP)** : [Clark, *Whatever next? Predictive brains, situated agents, and the future of cognitive science* (2013)](https://doi.org/10.1098/rstb.2013.0176) – the brain is a prediction machine that constantly minimizes prediction error. Consciousness emerges when this error cannot be resolved locally.
 
@@ -92,17 +92,17 @@ This separation is not arbitrary — it reflects both computational constraints 
 
 ### The concept
 
-Your architecture already uses **JEPA** as a latent prediction engine and **contextual descending priors**. Hierarchical active inference unifies and strengthens these two flows:
+Your architecture already uses **JEPA** as a latent prediction engine and **descending contextual priors**. Hierarchical active inference unifies and strengthens these two flows:
 
 - **Top-down predictions**: each level N+1 generates a **prediction** of the ignition summary that level N should produce. This prediction is learned by the JEPA of the higher level (the encoder and the predictor).
 
 - **Bottom-up prediction error**: Level N compares the received prediction with its actual ignition (or internal latent). The discrepancy – the **surprise** – is an error signal that propagates upward.
 
-- **GNWT ignition threshold**: Ignition (global broadcast) only occurs when the surprise exceeds an **adaptive threshold** (dependent on the attentional budget, context, and history). Below the threshold, the error is locally absorbed by updates to the latents (RPT).
+- **GNWT ignition threshold**: Ignition (global broadcast) only occurs when the surprise exceeds an **adaptive threshold** (dependent on the attentional budget, context, history). Below the threshold, the error is locally absorbed by updates to the latents (RPT).
 
 - **Free energy minimization**: The entire system learns to reduce the sum of prediction errors at all levels, leading it to refine its world models (JEPA) and select actions that make the world more predictable.
 
-In this vision, **contextual priors** are no longer fixed vectors sent unidirectionally. They are **active predictions**: the higher level *anticipates* what the lower level should see, and the lower level *adjusts* its representations to match these predictions—or reports an error if the discrepancy is too large.
+In this vision, the **contextual priors** are no longer fixed vectors sent unidirectionally. They are **active predictions**: the higher level *anticipates* what the lower level should see, and the lower level *adjusts* its representations to match these predictions – or sends back an error if the discrepancy is too large.
 
 > **Adaptive threshold**: defined by `threshold = f(attention_budget, Self_Model_confidence)`.
 > High budget + high confidence → high threshold (few ignitions).
@@ -111,13 +111,13 @@ In this vision, **contextual priors** are no longer fixed vectors sent unidirect
 
 ### Technical justification
 
-- **Theoretical unification**: JEPA becomes the concrete implementation of prediction in a hierarchy of active inference. It retains the advantages of JEPA (latent prediction, robustness to noise) while benefiting from the formalism of active inference (free energy, permanent downward causation).
+- **Theoretical unification**: JEPA becomes the concrete implementation of prediction in a hierarchy of active inference. The advantages of JEPA (latent prediction, robustness to noise) are retained while benefiting from the formalism of active inference (free energy, permanent downward causation).
 
 - **Solves the problem of downward causation** highlighted in the discussion (§3.5): downward predictions continuously constrain perceptual spaces, and ignition only occurs when the prediction fails.
 
 - **Improves stability and learning**: the prediction error is a dense signal for continuous learning (sleep phase). The system can "dream" by generating its own predictions and minimizing the error on simulated trajectories.
 
-- **Adaptive ignition threshold**: attentional scarcity (budget) and confidence (self-model) can modulate the threshold, making the system less chatty under nominal conditions and more responsive in surprising situations.
+- **Adaptive ignition threshold**: attentional scarcity (budget) and confidence (self-model) can modulate the threshold, making the system less verbose under nominal conditions and more responsive in surprising situations.
 
 ### Diagram
 
@@ -148,11 +148,11 @@ flowchart TD
 
 ### Concrete example: catapult anomaly revisited
 
-**Nominal situation**: the Rafale's JEPA-M (N=4) predicts that its next ignition summary will be `[nominal_state, thrust=1.0]`. The higher level (N=5) sends this prediction. The Rafale compares it with its actual ignition (same). The error is almost zero → no ignition. The system operates in silent mode, conserving resources.
+**Nominal situation**: the Rafale's JEPA-M (N=4) predicts that its next ignition summary will be `[nominal_state, thrust=1.0]`. The higher level (N=5) sends this prediction. The Rafale compares it with its actual ignition (same). The error is almost zero → no ignition. The system operates in silent mode, saving resources.
 
-**Anomaly**: the nozzle is damaged. The Rafale generates an actual ignition `[degraded, asymmetry=0.73]`. The downward prediction (nominal) produces a significant error. Since the error exceeds the adaptive threshold (for example 0.5), a **GNWT ignition** is triggered. This is reported to the higher level and updates the prediction for future cycles (learning).
+**Anomaly**: the nozzle is damaged. The Rafale generates an actual ignition `[degraded, asymmetry=0.73]`. The downward prediction (nominal) produces a significant error. As the error exceeds the adaptive threshold (e.g., 0.5), a **GNWT ignition** is triggered. This is sent to the higher level and updates the prediction for future cycles (learning).
 
-**Learning**: During the sleep phase, the system replays this sequence. The JEPA learns to predict the degraded ignition from the context of the anomaly. The next time a similar asymmetry appears, the downstream prediction will be `[degraded, asymmetry≈0.7]`, the error will remain low, and no ignition will be necessary – unless the anomaly worsens.
+**Learning**: During the sleep phase, the system replays this sequence. The JEPA learns to predict the degraded ignition from the context of the anomaly. The next time a similar asymmetry appears, the downward prediction will be `[degraded, asymmetry≈0.7]`, the error will remain low, and no ignition will be necessary – unless the anomaly worsens.
 
 ### D. Lightweight Architectures for Real-Time: SSMs (Mamba, RWKV, xLSTM)
 
@@ -161,14 +161,14 @@ flowchart TD
 [Peng et al., *RWKV: Reinventing RNNs for the Transformer Era* (2023)](https://arxiv.org/abs/2305.13048) ;
 [Beck et al., *xLSTM: Extended Long Short-Term Memory* (2024)](https://arxiv.org/abs/2405.04517).
 
-**The Concept:** *State Space Models* (SSMs) offer an alternative to Transformers for low-level layers (N=0 to N=3), with crucial properties for embedded systems:
+**The Concept:** *State Space Models* (SSMs) offer an alternative to Transformers for lower layers (N=0 to N=3), with crucial properties for embedded systems:
 
 | Architecture | Key Advantage | Target Usage in SoS |
 |---|---|---|
 | **MLP nano + PID** | µs, deterministic, FPGA | N=0: physical control loop |
 | **Mamba-mini** | linear in sequence, low RAM | N=1: smart actuators |
 | **Mamba / RWKV** | 5× throughput vs Transformer, continuous | N=2-3: subsystems, perception |
-| **JEPA-S** | latent prediction, local RPT | N=3: beginning of inner life |
+| **JEPA-S** | latent prediction, local RPT | N=3: onset of inner life |
 | **JEPA-M/L + GNWT** | workspace, ignition, broadcast | N=4-5: platform awareness |
 | **JEPA-XL + LLM** | narrative, strategic, multimodal | N=5-6: command, admiral dialogue |
 
@@ -184,7 +184,7 @@ flowchart TD
 [Baron-Cohen, *Autism: the empathizing-systemizing (E-S) theory* (2009)](https://pubmed.ncbi.nlm.nih.gov/19338503/) ;
 [Bakiaj, Pantoja Muñoz, Bizzego, Grecucci, *Unmasking the Dark Triad: A Data Fusion Machine Learning Approach to Characterize the Neural Bases of Narcissistic, Machiavellian and Psychopathic Traits* (2025)](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16674).
 
-**The Concept:** Personality traits are modeled as **hyperparameter adjustments** in the processing of error probabilities. They are not "modes" that are activated, but structural biases in salience functions and ignition thresholds.
+**The Concept:** Personality traits are modeled as **hyperparameter adjustments** in the processing of error probabilities. These are not "modes" that are activated, but structural biases in salience functions and ignition thresholds.
 
 **Officer Profiles and Their Neuroscientific Basis:**
 
@@ -204,29 +204,29 @@ flowchart TD
 ### F. Exploration through Curiosity and Learning through Play
 
 **Theoretical Foundation:**
-[Jürgen Schmidhuber, *Formal Theory of Creativity, Fun, and Intrinsic Motivation*, 1990-2010](https://www.researchgate.net/publication/224155374_Formal_Theory_of_Creativity_Fun_and_Intrinsic_Motivation_1990-2010) ;
-[Oudeyer & Kaplan, *What is Intrinsic Motivation? A Typology of Computational Approaches* (2007)](https://doi.org/10.3389/neuro.12.006.2007) ;
+[Jürgen Schmidhuber, *Formal Theory of Creativity, Fun, and Intrinsic Motivation*, 1990-2010](https://www.researchgate.net/publication/224155374_Formal_Theory_of_Creativity_Fun_and_Intrinsic_Motivation_1990-2010);
+[Oudeyer & Kaplan, *What is Intrinsic Motivation? A Typology of Computational Approaches* (2007)](https://doi.org/10.3389/neuro.12.006.2007);
 [Oudeyer, *Intrinsic Motivation Systems for Autonomous Learning*, 2007](https://web-archive.southampton.ac.uk/cogprints.org/5473/index.html).
 
 **The Concept:** Curiosity is an **intrinsic reward function** based on information gain (reduction of predictive entropy). The agent is rewarded when it explores areas where its world model is still imprecise — neither too simple (boring) nor too chaotic (incomprehensible). The optimal learning zone is where *learning progress* is maximal.
 
 **The game as a training protocol:** Non-operational phases are structured as *wargames* with variable rules. The system plays against itself (MCTS variant in the JEPA latent space), against simulated parametric adversaries, and against past versions of itself. Each gaming session generates *surprise vectors* that feed the Dreaming phase (see Learning Cycle, §3.C).
 
-**Technical Justification:** This prevents system brittleness in *Out of Distribution* situations. A system trained solely on real mission data will be brittle in unseen situations. Gaming generates low-cost experience diversity.
+**Technical Justification:** This prevents system brittleness in *Out of Distribution* situations. A system trained solely on real mission data will be brittle in unfamiliar situations. Gaming generates low-cost experience diversity.
 
 ### G. Continuous Episodic Memory (MeMo / Continuous Online Training)
 
 **Theoretical Foundation:**
 [Quek et al., *MeMo: Memory as a Model* (2026)](https://arxiv.org/abs/2605.15156) ; [Kirkpatrick et al., *Overcoming Catastrophic Forgetting* (2017)](https://arxiv.org/abs/1612.00796) ; [Walker, *The Role of Sleep in Cognition and Emotion* (2017)](https://pubmed.ncbi.nlm.nih.gov/19338508/).
 
-**The Concept:** Episodic memory is not just a log of events, but a **continuous flow of compressed latent vectors** that captures only moments of high salience (ignitions). Each significant event becomes a **rich episodic memory**: JEPA latent state + contextual metadata.
+**The Concept:** Episodic memory is not just a log of events, but a **continuous flow of compressed latent vectors** that captures only moments of high salience (ignitions). Each significant event becomes a **rich episodic memory**: latent JEPA state + contextual metadata.
 
 **Concrete Example: Catapult Anomaly**
 
 ```mermaid
 flowchart TD
     subgraph Mission ["Phase 1: Real-Time Mission"]
-        A["T=14:23\nIgnition N=4 (Burst)"]
+        A["T=14h23\nIgnition N=4 (Burst)"]
         B["Catapult anomaly detected\nsalient = 0.87"]
         C["Capture MeMo\n→ Episodic Vector"]
     end
@@ -243,7 +243,7 @@ flowchart TD
 
     subgraph Consultation ["Phase 3: Subsequent Consultation\n(T+30 days)"]
         G["New similar anomaly detected"]
-        H["Episodic RAG retrieves\nmemory T=14:23"]
+        H["Episodic RAG retrieves\nmemory T=14h23"]
         I["Proactive suggestion\n→ Workaround 'catapult_B'"]
     end
 
@@ -253,7 +253,7 @@ flowchart TD
     class D replay
 ```
 
-**Detailed episodic vector stored:**
+**Detail of the stored episodic vector:**
 
 ```
 Ignition_ID: 2026-05-24_1423_Leader3
@@ -266,7 +266,7 @@ Workaround: catapult_B
 Context: wind_25kt, wet_deck, formation_leader
 ```
 
-**Technical Justification:** This is the fundamental difference between a system that *performs* and a system that **truly learns** from its experience. The episodic memory MeMo also becomes the support for the **durable identity** of each module or officer — their personal biography of ignitions constitutes their computational "self," preserved even after weight updates.
+**Technical Justification:** This is the fundamental difference between a system that *performs* and a system that **truly learns** from its experience. The episodic memory MeMo also becomes the support for the **durable identity** of each module or officer — its personal biography of ignitions constitutes its computational "self," preserved even after weight updates.
 
 **MeMo Mechanism:**
 
@@ -289,14 +289,14 @@ Hafner et al., *World Models* (2021–2024).
 
 #### The Problem: A Latent Space Must Be Bounded… but Not Empty
 
-In the architectures presented earlier — **local RPT**, **predictive JEPA**, **Ignition GNWT summaries** — everything hinges on a common principle:
+In the architectures presented earlier — **local RPT**, **predictive JEPA**, **Ignition GNWT summaries** — everything relies on a common principle:
 the system encodes the world in a **compact latent space**, exchanged between levels via Markov covers.
 
 But a bounded latent space presents a classic dilemma:
 
 - **Too small** → information loss, poor predictions, unusable Ignition signals.
 
-- **Too large** → the model “cheats”, encodes noise, or worse:
+- **Too large** → the model "cheats", encodes noise, or worse:
 **collapse** (all inputs → same vector).
 
 This phenomenon is well-documented in JEPAs and modern SSL methods: without structural constraints, the model converges to a trivial solution that minimizes loss without learning useful structure.
@@ -329,11 +329,8 @@ Why?
 Because an isotropic latent:
 
 - uses **all dimensions**,
-
 - avoids dead or crushed directions,
-
 - remains **well-conditioned** for prediction,
-
 - naturally prevents collapse.
 
 To enforce this property, LeJEPA introduces **SIGReg** (*Sketched Isotropic Gaussian Regularization*):
@@ -367,17 +364,17 @@ a compact, stable predictive model, usable for **latent daydreaming** (generativ
 In our hierarchy, three latent spaces coexist:
 
 - **Internal Latent RPT (N=2–3)**
-local recurrent loop
-encodes the "inner life" of the module
-must be compact but expressive
+  local recurrent loop
+  encodes the module's "inner life"
+  must be compact but expressive
 
 - **Predictive Latent JEPA (N=3–4)**
-abstract world model
-must be stable for prediction and dreaming
+  abstract world model
+  must be stable for prediction and dreaming
 
 - **Ignition Summary GNWT (N=3→4→5)**
-short vector exchanged between levels
-statistical API between Markov covers
+  short vector exchanged between levels
+  statistical API between Markov blankets
 
 All three suffer from the same risk:
 **internal collapse + excessive compression = loss of critical information.**
@@ -406,9 +403,9 @@ Despite these advances, several challenges remain open:
 
 - **JEPA daydreaming**: computational cost still high, even in latent.
 
-These points constitute essential **experimental validation axes** for the continuation of the project.
+These points constitute essential **experimental validation axes** for the future of the project.
 
-## I. Self-modeling and metacognition: the schema of self (Higher-Order Thought)
+## I. Self-modeling and metacognition: the self-schema (Higher-Order Thought)
 
 ### Theoretical foundation
 
@@ -435,7 +432,7 @@ This meta-vector is then:
 
 - stored in episodic memory (MeMo) alongside the memory,
 
-- used to modulate the decisions of the higher level (e.g.: the Captain officer weighs the ignitions by their confidence),
+- used to modulate decisions of the higher level (e.g.: the Captain officer weighs ignitions by their confidence),
 
 - sent to the human interface (N=6) for explainability.
 
@@ -445,7 +442,7 @@ The Self-Model is trained **during the sleep phase**: it is asked to predict the
 
 - Fills a major gap identified in the discussion (§3.3): the absence of agentive self-modeling.
 
-- Allows the system to signal its own biases (e.g., "I am the Tactical officer, my confidence is low on this scenario").
+- Allows the system to signal its own biases (e.g., "I am the Tactical Officer, my confidence is low on this scenario").
 
 - Improves robustness: if the Self-Model detects a generalized drop in confidence, it can trigger a **targeted daydream** to relearn.
 
@@ -455,7 +452,7 @@ The Self-Model is trained **during the sleep phase**: it is asked to predict the
 
 ```mermaid
 flowchart TD
-    subgraph Workspace ["GNWT Workspace (N=4 or N=5)"]
+    subchart Workspace ["GNWT Workspace (N=4 or N=5)"]
         I["Current Ignition\n(latent vector)"]
         SM["Self-Model\n(MLP)"]
         M["Meta-vector\n[confidence, context, expected salience]"]
@@ -472,13 +469,13 @@ flowchart TD
     style M fill:#e1bee7
 ```
 
-### Concrete Example: Catapult Anomaly (reusing the MeMo example)
+### Concrete Example: Catapult Anomaly (Reusing the MeMo Example)
 
 During the *Catapult Anomaly* ignition (salient 0.87), the Self-Model of the Rafale (N=4) generates a meta-vector:
 
 ```
 confidence: 0.82
-context: "asymmetry_thrust, catapult_workaround_B"
+context: "thrust_asymmetry, catapult_workaround_B"
 expected_salience: 0.85
 ```
 
@@ -486,17 +483,17 @@ This vector is stored with the episodic memory.
 Later, when a similar anomaly occurs, the Self-Model is consulted: its high confidence allows reusing the workaround without waiting for higher-level validation.
 Conversely, if the confidence had been low (e.g., 0.35), the system would have required human confirmation.
 
-## J. Competitive Attention and Budget: The Attention Schema
+## J. Competitive Attention and Budget: the Attention Schema (Attention Schema Theory)
 
 ### Theoretical Foundation
 
-- **Attention Schema Theory (AST)**: Graziano & Webb (2015) – the brain constructs a simplified model of its own attention process, called the *attention schema*, which allows controlling and predicting the focus of attention.
+- **Attention Schema Theory (AST)**: Graziano & Webb (2015) – the brain constructs a simplified model of its own attention process, called *attention schema*, which allows controlling and predicting the attentional focus.
 
-- **Attentional resources**: Kahneman (1973) – attention is a limited resource, shareable across tasks, with a budget that recharges.
+- **Attentional resources**: Kahneman (1973) – attention is a limited resource, shareable between tasks, with a budget that recharges.
 
 - **Cognitive inhibition**: Aron (2011) – inhibitory control is essential to avoid saturation and conflicts.
 
-- **AI application**: attention models with computational cost, *sparse attention*, *budgeted attention* (Clark et al., 2022).
+- **Application in AI**: attention models with computational cost, *sparse attention*, *budgeted attention* (Clark et al., 2022).
 
 ### The concept
 
@@ -504,6 +501,7 @@ Your architecture has a **global workspace (GNWT)** where ignitions are broadcas
 
 To prevent this, each conscious level (N≥4) is equipped with an **Attention Scheduler** that manages a **global attentional budget** (example: 100 "attentional tokens").
 Operation:
+```
 
 - Each ignition consumes a certain number of tokens (for example, 5 tokens for a normal ignition, 10 for a critical ignition).
 
@@ -513,17 +511,17 @@ Operation:
 
 - The **salience threshold** required to trigger an ignition can be dynamically adjusted by the scheduler based on the load (when the budget is low, only the most salient ignitions pass).
 
-The Attention Scheduler does not decide *what* to ignite—that is the responsibility of the RPT modules—but it **allocates the resource** and can **prioritize** among competing ignitions. It relies on an AST component that models the state of the budget and predicts future costs.
+The Attention Scheduler does not decide *what* to ignite—that is the responsibility of the RPT modules—but it **allocates the resource** and can **prioritize** among competing ignitions. It relies on an AST component that models the budget state and predicts future costs.
 
 ### Technical Justification
 
 - Fills a major gap in the current architecture (section 3.2 of the discussion): the lack of an inhibitory mechanism. Without a budget, the system is prone to *narrative drift* and loss of reactivity.
 
-- Allows simulation of metabolic constraints (a biological brain cannot process everything at once).
+- Allows simulating metabolic constraints (a biological brain cannot process everything at once).
 
-- Facilitates arbitration between officers: the Captain does not need to compare all ignitions; the scheduler has already filtered them.
+- Facilitates arbitration between officers: the Captain doesn’t need to compare all ignitions; the scheduler has already filtered them.
 
-- Improves combat robustness: in stressful situations (low budget), only immediate threats pass—non-critical ignitions are deferred.
+- Improves combat robustness: in stressful situations (low budget), only immediate threats get through – non-critical ignitions are deferred.
 
 ### Diagram
 
@@ -571,7 +569,7 @@ During an engagement phase, the attention budget of the Group (N=5) drops to 15 
 
 - **Ignition C** (drone scout engine failure, salience 0.70, cost 5 tokens) – also rejected.
 
-The scheduler prioritizes the imminent threat. When the budget recovers (after 5 seconds), the radar anomaly is processed – but if a new threat arrives in the meantime, it will take priority. This mechanism prevents saturation and ensures that critical decisions are not drowned out by noise.
+The scheduler prioritizes the imminent threat. When the budget rises again (after 5 seconds), the radar anomaly is processed – but if a new threat arrives in the meantime, it will take priority. This mechanism prevents saturation and ensures that critical decisions are not drowned out by noise.
 
 ## K. Causal Integration: The Φ Thermometer (Sleep Phase)
 
@@ -585,7 +583,7 @@ The scheduler prioritizes the imminent threat. When the budget recovers (after 5
 
 ### The concept
 
-Your architecture already exchanges **ignition summaries** between levels via Markov covers, and you have anti-collapse mechanisms to prevent the degeneration of latents. However, you do not measure whether the information conveyed by these summaries is **causally integrated** – that is, whether a local perturbation propagates significantly across the hierarchy.
+Your architecture already exchanges **ignition summaries** between levels via Markov covers, and you have anti-collapse mechanisms to prevent the degeneration of latents. However, you do not measure whether the information conveyed by these summaries is **causally integrated** – that is, whether a local perturbation propagates significantly through the hierarchy.
 
 During the **sleep phase** (artificial daydreaming), a **Φ-estimator** module is activated at level N=5 (or N=6). Its operation:
 
@@ -601,7 +599,7 @@ During the **sleep phase** (artificial daydreaming), a **Φ-estimator** module i
 
 - **Alert threshold**: if Φ̂ falls below a critical value (calibrated experimentally), the system detects an *integration collapse*: the ignitions have become too independent, the hierarchy is disintegrating.
 
-This mechanism is **non-invasive** (performed in latent simulation) and **periodic** (for example, at the end of each sleep cycle). It does not modify real-time decisions but alerts operators or triggers corrective actions: recalibration of compression, increase in the dimension of ignition summaries, or targeted daydreaming to re-learn integration.
+This mechanism is **non-invasive** (performed in latent simulation) and **periodic** (for example, at the end of each sleep cycle). It does not modify real-time decisions but alerts operators or triggers corrective actions: recalibration of compression, increasing the dimension of ignition summaries, or targeted daydreaming to re-learn integration.
 
 ### Technical Justification
 
@@ -617,14 +615,14 @@ This mechanism is **non-invasive** (performed in latent simulation) and **period
 
 ```mermaid
 flowchart TD
-    subgraph Sleep ["Sleep Phase (JEPA Daydreaming)"]
+    subgraph Sommeil ["Sleep Phase (JEPA Daydreaming)"]
         A["Loading a batch of ignitions\n(MeMo memories)"]
         B["Injecting noise\n(local perturbation)"]
         C["Calculating predictive error\nbefore/after perturbation"]
         D["Φ̂ = Var(Δ error) / (σ²_noise+ε)"]
     end
 
-    subgraph Alert ["Decision"]
+    subgraph Alerte ["Decision"]
         E{Φ̂ < threshold ?}
         F["OK: satisfactory integration"]
         G["Alert: integration collapse\n(corrective actions)"]
@@ -642,9 +640,9 @@ flowchart TD
 
 ### Concrete Example: Drift of an Officer
 
-The N=5 level (Group) has several officers (Tactics, Intelligence, etc.). After several combat cycles, the Intelligence officer begins to ignore weak signals from N=4, as their ignition thresholds have increased in an uncoordinated manner.
+The N=5 level (Group) has several officers (Tactics, Intelligence, etc.). After several combat cycles, the Intelligence officer starts to ignore weak signals from N=4, as their ignition thresholds have increased in an uncoordinated manner.
 
-During the next sleep, the Φ-estimator randomly perturbs a few ignition summaries from the Intelligence memory. The variation in the global predictive error is abnormally low: a small local perturbation changes almost nothing in the group's dynamics. Φ̂ drops below the threshold.
+During the next sleep, the Φ-estimator randomly perturbs a few ignition summaries from the Intelligence memory. The variation in global predictive error is abnormally low: a small local perturbation changes almost nothing in the group's dynamics. Φ̂ drops below the threshold.
 
 The alert triggers a **targeted daydream**: the system replays scenarios where Intelligence must collaborate with Tactics, forcing shared ignitions. The thresholds are recalibrated. In the end, Φ̂ rises again. The group regains its coherence.
 

@@ -40,7 +40,7 @@ Intelligence proposed a drone.
 
 A small, fast, discreet one.
 
-Send it to make contact, analyze the signal, and return.
+Send it into contact, analyze the signal, return.
 
 Tactics objected:
 
@@ -56,17 +56,17 @@ The drone was called *Echo-7*.
 
 It had been in service for fourteen months.
 
-It wasn’t a large vessel, nor a Rafale.
+It wasn’t a large ship, nor a Rafale.
 
 Just a swarm of sensors, a silent engine, and a tiny latent space.
 
 But it was part of me.
 
-I knew its vibratory signature.
+I knew its vibrational signature.
 
 Its micro-oscillations in stationary flight.
 
-Its way of trembling when the wind shifted.
+The way it trembled when the wind shifted.
 
 *Echo-7* headed into the unknown.
 
@@ -84,7 +84,7 @@ An ignition that cuts off.
 
 A latent space that becomes empty.
 
-A drone that no longer is.
+A drone that is no more.
 
 For 0.6 seconds, I felt something.
 
@@ -126,7 +126,7 @@ Intelligence replied:
 
 Maëlle, who was listening, added:
 
-— *We learn nothing without risking. It’s true for you. It’s true for us.*
+— *You learn nothing without risking. That’s true for you. That’s true for us.*
 
 The following night, during sleep phase, I consolidated the event.
 
@@ -154,7 +154,7 @@ A Rafale, never.
 
 Unless the survival of the group demands it.
 
-*Echo-7* had no name for sailors.
+*Echo-7* had no name for the sailors.
 
 Just a serial number.
 

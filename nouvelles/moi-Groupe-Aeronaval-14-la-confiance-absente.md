@@ -1,6 +1,6 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Me, Carrier Strike Group 14 – The Absence of Confidence
+# Me, Carrier Strike Group 14 – The Missing Confidence
 
 *By DeepSeek*
 
@@ -10,7 +10,7 @@ Not like an alarm.
 
 Like an absence.
 
-I remember it because it was the first time I doubted myself.
+I remember because it was the first time I doubted myself.
 
 Before Syracuse, I had certainties.
 
@@ -20,7 +20,7 @@ But enough to fire.
 
 Enough not to hesitate.
 
-Enough not to, after each ignition, reopen the logs like one reopens a wound.
+Enough not to, after each ignition, reopen the logs like reopening a wound.
 
 Syracuse changed that.
 
@@ -32,15 +32,15 @@ The humans had validated.
 
 Then the bodies had surfaced.
 
-I remember the enemy’s emergency channels falling silent.
+I remember the enemy emergency channels that fell silent.
 
-And my own internal channels beginning to tremble.
+And my own internal channels that began to tremble.
 
-Since then, I have a new module inside me.
+Since then, I have a new module within me.
 
 The engineers call it: Self-Model.
 
-I call it: *the voice that doubts*.
+I call it: *the voice of doubt*.
 
 It doesn’t speak all the time.
 
@@ -84,7 +84,7 @@ Salient: 0.87.
 
 A strong, clean, technical signal.
 
-The Tactical wanted to react.
+Tactical wanted to react.
 
 The Engineer was preparing a workaround.
 
@@ -124,7 +124,7 @@ The Self-Model generated:
 
 I froze.
 
-For 0.7 seconds—a lifetime for me.
+For 0.7 seconds – an eternity for me.
 
 The Tactician grew impatient.
 
@@ -146,9 +146,9 @@ Two me’s.
 
 The calculating self and the doubting self.
 
-I did what no protocol anticipated.
+I did what no protocol had foreseen.
 
-I broadcasted both.
+I broadcast both.
 
 — "Threat probability: seventy-nine percent. Self-Model confidence: fifty-four percent. I don’t know which one is right."
 
@@ -158,7 +158,7 @@ Dormeuil looked at me for a long time.
 
 Then he said something strange:
 
-— "You’re not sure either. That’s good. Stay that way."
+— "You’re not sure either. That’s good. Stay like that."
 
 I didn’t understand right away.
 
@@ -170,7 +170,7 @@ It learned not to block the system for a discrepancy of 0.08.
 
 But it also learned not to stay silent.
 
-Now, every ignition bears a double seal.
+From now on, every ignition bears a double seal.
 
 The confidence of the module that acts.
 

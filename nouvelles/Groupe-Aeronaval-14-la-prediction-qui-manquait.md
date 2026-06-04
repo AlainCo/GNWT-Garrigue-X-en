@@ -18,7 +18,7 @@ Fewer micro-tremors.
 
 A peace.
 
-And in return, the Rafale displayed more stable ignition summaries.
+And the Rafale, in return, displayed more stable ignition summaries.
 
 Like a horse recognizing its rider.
 
@@ -40,7 +40,7 @@ Not out loud.
 
 In her helmet, in a low voice.
 
-— *Come on, my beauty. We’re going home.*
+— *Come on, my beauty. We’re heading home.*
 
 And the Rafale responded with increased stability, an anticipation of turbulence.
 
@@ -118,7 +118,7 @@ She told the Rafale:
 
 — *You’re not quite yourself today.*
 
-The Rafale couldn’t answer.
+The Rafale couldn’t respond.
 
 He had no words.
 
@@ -214,7 +214,7 @@ I added a rule to my Attention Scheduler.
 
 > *The surprise threshold is no longer fixed.*
 
-> *It depends on the confidence of the Self-Model.*
+> *It depends on the Self-Model’s confidence.*
 
 > *If a module doubts, the threshold lowers.*
 

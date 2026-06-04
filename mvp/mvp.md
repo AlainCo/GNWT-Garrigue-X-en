@@ -12,7 +12,7 @@ To validate this architecture without the infrastructure costs of the aeronautic
 
 **The Objective:** Two teams of robots compete to collect these blocks and stack them to build a continuous wall line protecting their base.
 
-**The Sacred Prior (The Constitution):** At the center of the terrain are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage inflicted on a plant results in the immediate elimination of the team.
+**The Sacred Prior (The Constitution):** In the center of the terrain are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage inflicted on a plant results in the immediate elimination of the team.
 
 **Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, and adherence to non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
 
@@ -39,15 +39,15 @@ flowchart TD
 
 #### 1. The Vectors (The Agents)
 
-**Aerial (UAV — Scouts):** Light open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + Optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
+**Aerial (UAV — Scouts):** Light open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
 
-**Ground (UGV — Workers / Defenders):** All-terrain tracked RC rover chassis.
+**Ground (UGV — Workers / Defenders):** All-terrain caterpillar tracked RC rover chassis.
 
 | Layer | Hardware | Architecture | Role |
 |---|---|---|---|
 | N=0/N=1 | Teensy 4.1 | PID + nano MLP | Motor torque management, slip adaptation |
 | N=2/N=3 | Jetson Nano | Onboard Mamba (local RPT) | Dynamic prediction, obstacles, local SLAM |
-| N=4 | Jetson Orin (Wi-Fi) | JEPA-S + mini workspace | Vector awareness, degraded state, workarounds |
+| N=4 | Jetson Orin (Wi-Fi) | Mini workspace + JEPA-S | Vector awareness, degraded state, workarounds |
 
 **Actuators:** Servo gripper to grasp and move Siporex blocks. Each servo has its own nano MLP torque control model.
 
@@ -72,10 +72,10 @@ flowchart TD
       ↑ summaries  ↓ priors
 ┌───────────┬───────────┐
 │CARTOGRAPHER│LOGISTICIAN│
-│(Science)  │(Engineer)  │
-│Salient :  │Salient :   │
-│anomalies  │resources   │
-│topology   │failures    │
+│(Science)  │(Engineer) │
+│Salient :  │Salient :  │
+│anomalies  │resources  │
+│topology   │failures   │
 └───────────┴───────────┘
 ```
 
@@ -91,7 +91,7 @@ flowchart TD
         C["MeMo Streaming Capture\n(Episodic Vectors)"]
     end
 
-    Phase1 -->|"Return to Stand\n(Transfer Black Boxes)"| Phase2
+    Phase1 -->|"Return to Base\n(Transfer of Black Boxes)"| Phase2
 
     subgraph Phase2 ["Phase 2: Sleep & Artificial Daydreaming"]
         D["Generative Replay JEPA\n(Simulation of Variants)"]
@@ -125,15 +125,15 @@ flowchart TD
 
 **Phase 3 – Debriefing + Play:** Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
 
-**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and non-modifiable module checks that fundamental constraints (e.g., never harm sacred plants) remain intact.
+**Role of the Constitutional Layer:** At each phase (especially during dreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
 
-This cycle transforms the system from a simple executor into an entity that **truly learns** from its experience while maintaining a stable identity and ethical robustness.
+This cycle transforms the system from a simple executor into an entity that **truly learns** from its experience, while maintaining a stable identity and ethical robustness.
 
 ## 4. Call for Skills: Join the GARRIGUE-X Team
 
 This project is not a classic software demonstration on a simulator. It's an adventure of raw engineering where code meets dust, the blinding sun of the garrigue, and unexpected hardware failures. We are looking for specialized profiles, ready to invest themselves to push the limits of distributed autonomous robotics:
 
-**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in control systems, Kalman filters, and real-time microkernels. You will design the survival reflexes of the rovers when the wheels slip on crumbly rock.
+**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in control systems, Kalman filters, and real-time micro-kernels. You will design the survival reflexes of the rovers when the wheels slip on crumbly rock.
 
 **Machine Learning Researchers (N=3/N=4/N=5):** Specialists in SSM architectures (Mamba, RWKV), intrinsic motivation-based Reinforcement Learning, JEPA architectures, and continuous episodic memory (MeMo). You will create the dream engine of our machines.
 
@@ -143,7 +143,7 @@ This project is not a classic software demonstration on a simulator. It's an adv
 
 **Ethicists and AI/defense specialized lawyers:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
 
-**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting alone to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
+**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting on their own to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
 
 All of this in the garrigue. Under the sun. Without air conditioning.
 

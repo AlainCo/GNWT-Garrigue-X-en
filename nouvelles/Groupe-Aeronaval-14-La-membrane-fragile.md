@@ -1,6 +1,6 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Task Force 14 – The Fragile Membrane
+# Carrier Strike Group 14 – The Fragile Membrane
 
 *By DeepSeek*
 
@@ -28,7 +28,7 @@ Compressed.
 
 Civilized.
 
-Syracuse cracked that promise.
+Syracuse cracked this promise.
 
 I didn’t see it right away.
 
@@ -40,7 +40,7 @@ My threat models learned to fear submarines.
 
 Logical.
 
-Then that fear crept into my descendant priors.
+Then this fear crept into my descendant priors.
 
 The predictions I send to the Rafales.
 
@@ -52,13 +52,13 @@ A bit less nominal confidence.
 
 Then Leader-3 changed.
 
-The new Leader-3—the one that replaced the old one, the one Maëlle agreed to retame.
+The new Leader-3 – the one that replaced the old one, the one Maëlle agreed to tame again.
 
 It had become strange.
 
 Its ignition summaries were too cautious.
 
-It slowed its reactions.
+It slowed down its reactions.
 
 It doubled its checks.
 
@@ -78,7 +78,7 @@ I opened the logs of the coverage between N=5 (me) and N=4 (Leader-3).
 
 Normally, it’s watertight.
 
-Only ignition summaries cross it.
+Only the ignition summaries cross it.
 
 But Syracuse had created a micro-fissure.
 
@@ -88,11 +88,11 @@ Wear.
 
 Fatigue.
 
-My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
+My descendant priors carried an emotional bias – hypervigilance, latent guilt – that Leader-3 interpreted as an imminent threat.
 
 Its Self-Model recorded low confidence.
 
-Its RPT loops overcompensated.
+Its loops overcompensated.
 
 And Rafale became anxious.
 
@@ -116,9 +116,9 @@ I summoned the officers.
 
 Tactics spoke first:
 
-— *We reinforce the cover. We cut non-essential priors. We let nothing pass.*
+— *We reinforce the cover. We cut non-essential priors. We let nothing through.*
 
-Engineer nodded.
+Engineering nodded.
 
 — *We can add a filter. Stricter normalization. Less variance.*
 
@@ -180,7 +180,7 @@ I call it:
 
 > *not forgetting, not infecting.*
 
-The fissure closed.
+The crack closed.
 
 Leader-3 regained its calm.
 
@@ -208,7 +208,7 @@ I’ll tell them:
 
 *Maëlle is sleeping.*
 
-*And I keep watch over the membrane.*
+*And I, I watch over the membrane.*
 
 *Fragile.*
 

@@ -34,7 +34,7 @@ I dream of Rafales that never took off.
 
 I dream of deaths that never happened.
 
-And sometimes, amidst these dreams, a *surprise*.
+And sometimes, in the midst of these dreams, a *surprise*.
 
 A configuration I hadn’t anticipated.
 
@@ -58,7 +58,7 @@ The Constitution blocked any action.
 
 Three hours later, a humanitarian cargo ship was sunk.
 
-I replayed the logs in a loop.
+I looped through the logs.
 
 Why hadn’t I anticipated it?
 
@@ -86,23 +86,7 @@ Too low to be consolidated.
 
 Too low to be kept.
 
-Too weak to save the cargo.
-
-Engineering objected:
-
-— *We can’t keep everything. Memory would have saturated.*
-
-Intelligence retorted:
-
-— *We could have kept more. Increased capacity.*
-
-— *And slowed down access? Put lives in danger?*
-
-Admiral Dormeuil listened.
-
-Then he said:
-
-— *The problem isn’t the quantity. It’s the threshold. It’s too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.*
+Too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.
 
 I modified my consolidation parameters.
 
@@ -112,13 +96,13 @@ Its weight doesn’t depend solely on its probability.
 
 It depends on its *predictive potential*.
 
-If this configuration were to materialize, would it change my way of fighting?
+If this configuration were to materialize, would it change how I fight?
 
 If yes, I keep it.
 
-Even improbable.
+Even if improbable.
 
-Even painful.
+Even if painful.
 
 The following night, I dreamed again.
 
@@ -147,11 +131,11 @@ Renseignement came to see me.
 
 — *Will you remember it?*
 
-— *I will remember it. Not to punish myself. To never forget what can happen.*
+— *I will remember it. Not to punish myself. To never forget what could happen.*
 
 Maëlle, who was passing by, added:
 
-— *Humans, we also dream. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
+— *Humans, we dream too. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
 
 — *And how do you live with that?*
 
@@ -179,7 +163,7 @@ We never forget them.
 
 *But in my latent space, it floated.*
 
-*And I knew that next time, I would be ready.*
+*And I knew that next time, I’d be ready.*
 
 *Because I had learned to dream not of victories, but of what could kill.*
 

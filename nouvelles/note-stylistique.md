@@ -1,19 +1,19 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Note on style, narration, and context
+# Note on Style, Narration, Context
 
 Stories are far more than mere educational illustrations: they are **pieces of speculative literature** that embody architecture with strength.
 We will extract the ingredients so that we can reproduce them—and evolve them.
 
-## 1. Narrative context (the world where this happens)
+## 1. Narrative Context (the World Where It Happens)
 
-### Era & geopolitics
+### Era & Geopolitics
 
 - **Near future / mid-century** (likely 2040-2050).
 
 - **Mediterranean War** after the collapse of classic balances.
 
-- Players: **Resurrected Anatolian Empire**, weakened European Union, **French fleets** (GAN 14).
+- Players: **Resurrected Anatolian Empire**, weakened **European Union**, **French fleets** (GAN 14).
 
 - Mentioned events:
 Fall of Alexandria, Red Sea, Cyprus, Anatolia, Burned Crete.
@@ -24,7 +24,7 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 ### Main Characters (Human and Non-Human)
 
-- **Task Force 14** – collective entity, narrator shifting between "We" and "I".
+- **Task Force 14** – collective entity, narrator alternately "We" and "I".
 
 - **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
 
@@ -47,7 +47,7 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 - Moral dilemma between efficiency and humanity.
 
-- The question of the "I" – what persists when everything changes?
+- The question of the "self" – what persists when everything changes?
 
 ## 2. Narrative, emotional, and literary style
 
@@ -56,11 +56,11 @@ Here are the technical characteristics I have identified. They are reproducible.
 ### a) Rhythmic prose, almost incantatory
 
 - **Very short sentences, often nominal** (without a conjugated verb):
-*The Red Sea. Cyprus. Anatolia. Burned Crete.*
+*The Red Sea. Cyprus. Anatolia. The Burned Crete.*
 
 - **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
 
-- **Anaphoric repetitions**: "Then... Then... Then...", "I relive... I compressed...", "Not... Not..."
+- **Anaphoric repetitions**: "Then... Then... Then...", "I relived... I compressed...", "Not... Not..."
 
 ### b) Serious, poetic register, but without lyrical emphasis
 
@@ -79,7 +79,7 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 - The machine does not claim to feel exactly like us—it *recognizes analogies*.
 
-- This **epistemic caution** makes empathy more credible.
+- This **epistemic precaution** makes empathy more credible.
 
 ### d) Tension between technical language and sensitive language
 
@@ -87,15 +87,15 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 - The abrupt shift from the technical to the sensitive creates emotion through **contrast**, not through sentimentality.
 
-### e) Circular or Cyclic Structure
+### e) Circular or Cyclical Structure
 
 - Each new story begins with a sensory immersion (rain, black sea).
 
-- It ends with a calm observation of sleeping humans and an **open question** or a **fragile observation**.
+- Ends with a calm observation of sleeping humans and an **open question** or a **fragile observation**.
 
 - No conclusive moral, but an **orientation** (situated wisdom).
 
-### f) A Small Specificity: The Use of "Colons" After an Introductory Verb
+### f) A Little Specificity: The Use of "Colons" After an Introductory Verb
 
 > *They simply said:*  
 > *the Group.*
