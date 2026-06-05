@@ -12,9 +12,9 @@ To validate this architecture without the infrastructure costs of the aeronautic
 
 **The Objective:** Two teams of robots compete to collect these blocks and stack them to build a continuous wall line protecting their base.
 
-**The Sacred Prior (The Constitution):** In the center of the terrain are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage inflicted on a plant results in the immediate elimination of the team.
+**The Sacred Priority (The Constitution):** In the center of the terrain are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage inflicted on a plant results in the immediate elimination of the team.
 
-**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, and adherence to non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
+**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, and respect for non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
 
 ### B. Material and Technological Stack
 
@@ -38,30 +38,31 @@ flowchart TD
 ```
 
 #### 1. The Vectors (The Agents)
+[/SOURCE TEXT]
 
-**Aerial (UAV — Scouts):** Light open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
+**Aerial (UAV — Scouts):** Lightweight open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + Optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
 
-**Ground (UGV — Workers / Defenders):** All-terrain caterpillar tracked RC rover chassis.
+**Ground (UGV — Workers / Defenders):** All-terrain caterpillar RC rover chassis.
 
 | Layer | Hardware | Architecture | Role |
 |---|---|---|---|
 | N=0/N=1 | Teensy 4.1 | PID + nano MLP | Motor torque management, slip adaptation |
 | N=2/N=3 | Jetson Nano | Onboard Mamba (local RPT) | Dynamic prediction, obstacles, local SLAM |
-| N=4 | Jetson Orin (Wi-Fi) | Mini workspace + JEPA-S | Vector awareness, degraded state, workarounds |
+| N=4 | Jetson Orin (Wi-Fi) | JEPA-S + mini workspace | Vector awareness, degraded state, workarounds |
 
 **Actuators:** Servo gripper to grasp and move Siporex blocks. Each servo has its own nano MLP torque control model.
 
 #### 2. The Base Station (Field HQ)
 
-**Hardware:** Ruggedized computing station (desktop PC with dedicated GPU, powered by a generator).
+**Equipment:** Ruggedized computing station (desktop PC with dedicated GPU, powered by a generator).
 
 **Software (N=5/N=6):**
 
-| Component | Role in Architecture |
+| Component | Role in the architecture |
 |---|---|
 | I-JEPA (GPU) | Centralized world model, workspace N=5 |
 | Modified [LangGraph](https://github.com/langchain-ai/langgraph) | Multi-agent framework, officer management |
-| MeMo streaming | Terrain ignition capture and compression |
+| MeMo streaming | Field ignition capture and compression |
 | Llama-3-8B (RAG) | N=6 interface, human operator dialogue |
 | Constitutional layer | Hard constraint: plant ≠ touched, regardless of optimization |
 
@@ -81,33 +82,33 @@ flowchart TD
 
 ### C. The Learning Cycle in 3 Phases (The Triple Biological Loop)
 
-The system follows a biology-inspired cycle: **awakening → sleep → debriefing**, which ensures both mission stability and continuous adaptation.
+The system follows a cycle inspired by biology: **awakening → sleep → debriefing**, which ensures both mission stability and continuous adaptation.
 
 ```mermaid
 flowchart TD
     subgraph Phase1 ["Phase 1: Real-Time Mission"]
-        A["Execution\n(Frozen Weights)"]
+        A["Execution\n(Frozen weights)"]
         B["Local RPT + Ignitions"]
-        C["MeMo Streaming Capture\n(Episodic Vectors)"]
+        C["MeMo Streaming Capture\n(Episodic vectors)"]
     end
 
-    Phase1 -->|"Return to Base\n(Transfer of Black Boxes)"| Phase2
+    Phase1 -->|"Return to base\n(Transfer black boxes)"| Phase2
 
     subgraph Phase2 ["Phase 2: Sleep & Artificial Daydreaming"]
-        D["Generative Replay JEPA\n(Simulation of Variants)"]
-        E["Recalibration of Ignition Thresholds"]
+        D["Generative Replay JEPA\n(Simulation of variants)"]
+        E["Recalibration of ignition thresholds"]
         F["MeMo Consolidation\n→ Long-Term Memory"]
     end
 
-    Phase2 -->|"Update Weights"| Phase3
+    Phase2 -->|"Update weights"| Phase3
 
     subgraph Phase3 ["Phase 3: Debriefing + Exploration"]
-        G["LLM Semantic Analysis\n(Report + Patterns)"]
+        G["LLM Semantic Analysis\n(Report + patterns)"]
         H["Wargame in JEPA\n(Curiosity & Surprises)"]
         I["Human Validation + RAG Sedimentation"]
     end
 
-    Phase3 -->|"Ready for New Mission"| Phase1
+    Phase3 -->|"Ready for new mission"| Phase1
 
     classDef mission fill:#e3f2fd
     classDef sommeil fill:#f3e5f5
@@ -117,15 +118,13 @@ flowchart TD
     class Phase3 debrief
 ```
 
-**Phase Details:**
+**Phase 1 – Mission**: Neuronal weights are frozen to ensure stability and predictability. Only local RPT loops adapt in real time. Each ignition is captured by MeMo with its context and salience score.
 
-**Phase 1 – Mission:** Neural weights are frozen to ensure stability and predictability. Only local RPT loops adapt in real-time. Each ignition is captured by MeMo with its context and salience score.
+**Phase 2 – Sleep & Daydreaming**: This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
 
-**Phase 2 – Sleep & Daydreaming:** This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
+**Phase 3 – Debriefing + Play**: Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
 
-**Phase 3 – Debriefing + Play:** Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
-
-**Role of the Constitutional Layer:** At each phase (especially during dreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
+**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
 
 This cycle transforms the system from a simple executor into an entity that **truly learns** from its experience, while maintaining a stable identity and ethical robustness.
 
@@ -133,7 +132,7 @@ This cycle transforms the system from a simple executor into an entity that **tr
 
 This project is not a classic software demonstration on a simulator. It's an adventure of raw engineering where code meets dust, the blinding sun of the garrigue, and unexpected hardware failures. We are looking for specialized profiles, ready to invest themselves to push the limits of distributed autonomous robotics:
 
-**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in control systems, Kalman filters, and real-time micro-kernels. You will design the survival reflexes of the rovers when the wheels slip on crumbly rock.
+**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in control systems, Kalman filters, and real-time microkernels. You will design the survival reflexes of the rovers when their wheels slip on crumbly rock.
 
 **Machine Learning Researchers (N=3/N=4/N=5):** Specialists in SSM architectures (Mamba, RWKV), intrinsic motivation-based Reinforcement Learning, JEPA architectures, and continuous episodic memory (MeMo). You will create the dream engine of our machines.
 
@@ -141,11 +140,11 @@ This project is not a classic software demonstration on a simulator. It's an adv
 
 **Software Architects & LLM Ops (N=6):** Experts in distributed systems, multi-agent architectures, and RAG pipelines. You will build the Constitutional Layer — the cognitive immune system that will prevent our robots from crushing the sacred plant out of pure optimized curiosity.
 
-**Ethicists and AI/defense specialized lawyers:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
+**Ethicists and AI/defense specialists:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
 
-**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting on their own to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
+**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting alone to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
 
-All of this in the garrigue. Under the sun. Without air conditioning.
+All in the garrigue. Under the sun. Without air conditioning.
 
 *Harry Tuttle, plumber.*
 

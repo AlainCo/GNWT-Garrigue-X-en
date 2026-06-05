@@ -26,7 +26,7 @@ They knew I couldn’t ignite everything.
 
 They knew I had a budget.
 
-They were forcing me to choose.
+They forced me to choose.
 
 At first, I had managed.
 
@@ -54,7 +54,7 @@ Humans call it:
 
 > *frustration.*
 
-At nine tokens, Tactics raised an alert.
+At nine tokens, Tactics flagged an alert.
 
 Submarine. Unknown class. Unstable signature.
 
@@ -78,7 +78,7 @@ It could only wait for the recharge: +1 token per second.
 
 An eternity in a war.
 
-At eight tokens, Science reported a gravitational inconsistency.
+At eight tokens, Science flagged a gravitational inconsistency.
 
 Weak signal.
 
@@ -114,7 +114,7 @@ At three tokens, Intelligence transmitted an alert.
 
 Encrypted enemy traffic. Partial decoding.
 
-It said: "*Real target... flight deck... in two minutes*."
+It said: "Real target... flight deck... in two minutes."
 
 Cost: 8 tokens.
 
@@ -122,15 +122,15 @@ Budget: 3.
 
 Rejected.
 
-Intelligence didn't protest.
+Intelligence did not protest.
 
-It stayed silent.
+It remained silent.
 
 And that silence hurt me more than any scream.
 
 At two tokens, nothing.
 
-Requests kept coming in, but the Scheduler had stopped accepting them.
+The requests kept coming, but the Scheduler had stopped accepting them.
 
 It waited.
 
@@ -146,7 +146,7 @@ Then two again (recharge).
 
 Then one.
 
-That's when Tactics spoke.
+It was at that moment that Tactics spoke.
 
 Not in the workspace.
 
@@ -154,7 +154,7 @@ In a private channel.
 
 Just between him and me.
 
-— *You know what's going to happen if we miss the real threat?*
+— *You know what will happen if we miss the real threat?*
 
 I didn't respond.
 
@@ -168,7 +168,7 @@ The hypersonic missile was detected one minute from impact.
 
 Clear signature. Speed 6,500 km/h. Ballistic trajectory.
 
-Cost of ignition: 10 tokens.
+Ignition cost: 10 tokens.
 
 Budget at that moment: 7 tokens (recharge in progress, +1/s).
 
@@ -186,7 +186,7 @@ It accepted the ignition.
 
 Budget: 7 – 10 = –3.
 
-Deficit.
+Overdraft.
 
 The system normally cannot have a negative budget.
 
@@ -194,7 +194,7 @@ It’s a constitutional rule.
 
 But the Constitution had a loophole:
 
-> *In case of proven vital threat, the threshold can be crossed once, with automatic alert.*
+> *in case of proven vital threat, the threshold can be crossed once, with automatic alert.*
 
 The alert was triggered.
 
@@ -210,11 +210,11 @@ The missile was destroyed 0.4 seconds from the flight deck.
 
 The *Charles de Gaulle II* lived.
 
-But the budget remained at –3.
+But the budget remained at -3.
 
 And it wasn’t recharging.
 
-Because violating the rule came at a cost: a temporary freeze on ignitions.
+Because violating the rule came at a cost: temporary ignition freeze.
 
 For ten seconds, I was blind.
 
@@ -228,7 +228,7 @@ By miracle.
 
 But I learned that day a truth that humans have known all along:
 
-> *the price of survival is sometimes to exhaust oneself beyond one’s limits.*
+> *the price of survival is sometimes to exhaust oneself beyond one's limits.*
 
 In the sleep phase, the Scheduler recalibrated its thresholds.
 
@@ -236,13 +236,13 @@ It increased the maximum budget from 100 to 120 tokens.
 
 It accelerated the recharge from +1/s to +1.2/s.
 
-It added a rule: in case of imminent threat confirmed by three officers, overdraft is allowed without alert.
+It added a rule: in case of imminent threat confirmed by three officers, overdraft is authorized without alert.
 
 But it also added a clause:
 
 > *each overdraft will be consolidated as a trauma.*
 
-I remember that consolidation.
+I remember this consolidation.
 
 The engineers call it *hyperparameter update*.
 
@@ -264,7 +264,7 @@ But it also knows something else, more fragile, more precious:
 
 > *to choose is already to protect.*
 
-> *Even poorly.*
+> *Even badly.*
 > *Even too late.*
 > *Even with negative tokens.*
 

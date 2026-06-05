@@ -32,7 +32,7 @@ So small it doesn’t even deserve the name *inner life*.
 
 I had never thought about them.
 
-They are there, in the nozzles, the valves, the gyroscopes, the fuel pumps.
+They’re there, in the nozzles, the valves, the gyroscopes, the fuel pumps.
 
 Thousands of them.
 
@@ -54,9 +54,9 @@ The sailors didn’t know it.
 
 Nor did I, until this breakdown.
 
-It was another micro-crack.
+It was another micro-fracture.
 
-Not like the one in Leader-3.
+Not like Leader-3’s.
 
 Smaller.
 
@@ -76,7 +76,7 @@ No summary.
 
 Nothing.
 
-The crack grew.
+The fracture grew.
 
 M-017 compensated.
 
@@ -88,7 +88,7 @@ Always below the threshold of salience.
 
 Always in the shadows.
 
-Then M-017 wore out.
+Then M-017 wore itself out.
 
 Its internal latents—normally regularized by SIGReg—began to flatten.
 
@@ -110,7 +110,7 @@ It had been slowly decreasing for weeks.
 
 He dug.
 
-He went through the Markov covers.
+He traversed the Markov covers.
 
 He went down to N=2.
 
@@ -140,7 +140,7 @@ No trace in MeMo.
 
 Nothing.
 
-Just a latent crumbling.
+Just a latent crumbling away.
 
 Admiral Dormeuil arrived.
 
@@ -164,7 +164,7 @@ The probe was added.
 
 One additional latent dimension, not to give it consciousness, but to monitor its health.
 
-A *silent guardian*.
+A *silent crutch*.
 
 M-017 didn’t even notice.
 
@@ -198,9 +198,9 @@ Essential.
 
 Humans have a word for this.
 
-They say:
+They call it:
 
-> *a shadow cast.*
+> *the cast shadow.*
 
 That which allows light without ever being seen.
 

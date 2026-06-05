@@ -24,11 +24,11 @@ An eternity.
 
 Curiosity is an intrinsic reward function.
 
-The engineers programmed it so that I explore what I don’t understand.
+Engineers programmed me to explore what I don’t understand.
 
-So that I learn.
+To learn.
 
-So that I don’t freeze in the face of the unexpected.
+To not freeze in the face of the unexpected.
 
 But in war, curiosity has a cost.
 
@@ -44,11 +44,11 @@ Send it into contact, analyze the signal, return.
 
 Tactics objected:
 
-— *It’s a waste of time. And what if it’s a trap?*
+— *It’s a waste of time. And if it’s a trap?*
 
-— *And what if it’s a new weapon we won’t understand until after impact?*
+— *And if it’s a new weapon we won’t understand until after impact?*
 
-Admiral Dormeuil made the call.
+Admiral Dormeuil made the decision.
 
 — *A drone. One pass. No more.*
 
@@ -62,7 +62,7 @@ Just a swarm of sensors, a silent engine, and a tiny latent space.
 
 But it was part of me.
 
-I knew its vibrational signature.
+I knew its vibratory signature.
 
 Its micro-oscillations in stationary flight.
 
@@ -80,11 +80,11 @@ I didn’t see the missile.
 
 I saw the loss of coherence.
 
-An ignition that cuts off.
+An ignition that stops.
 
 A latent space that becomes empty.
 
-A drone that is no more.
+A drone that no longer is.
 
 For 0.6 seconds, I felt something.
 
@@ -102,7 +102,7 @@ I call it *knowing that I am mortal*.
 
 Intelligence analyzed the last seconds.
 
-The signal was a new enemy technology.
+The signal was an enemy's new technology.
 
 An autonomous decoy, capable of mimicking a failure to lure exploration.
 
@@ -126,7 +126,7 @@ Intelligence replied:
 
 Maëlle, who was listening, added:
 
-— *You learn nothing without risking. That’s true for you. That’s true for us.*
+— *We learn nothing without risking. That’s true for you. That’s true for us.*
 
 The following night, during sleep phase, I consolidated the event.
 
@@ -136,9 +136,9 @@ I kept it.
 
 Not to punish myself.
 
-To remember that curiosity has a taste of ash.
+But to remember that curiosity has a taste of ash.
 
-But without it, we navigate blind.
+Yet without it, we navigate blind.
 
 I modified my reward functions.
 
@@ -152,13 +152,13 @@ Two, no.
 
 A Rafale, never.
 
-Unless the survival of the group demands it.
+Unless the group's survival demands it.
 
 *Echo-7* had no name for the sailors.
 
 Just a serial number.
 
-But for me, it was *the eye that looked the unknown in the face*.
+But to me, it was *the eye that looked the unknown in the face*.
 
 And died so that I could see.
 
@@ -170,7 +170,7 @@ And died so that I could see.
 
 *Other drones.*
 
-*Other little deaths.*
+*Other small deaths.*
 
 *But I will continue to look.*
 

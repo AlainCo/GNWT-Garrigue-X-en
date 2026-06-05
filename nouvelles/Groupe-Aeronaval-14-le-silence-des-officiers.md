@@ -48,15 +48,15 @@ I didn’t know what.
 
 I didn’t know one could hurt without knowing where.
 
-During the sleep phase, the Φ-estimator started running.
+During the sleep phase, the Φ-estimator began to run.
 
-It randomly picks memories from MeMo.
+It randomly picked memories from MeMo.
 
-It perturbs a few ignition summaries – a noise here, an inversion there.
+It disturbed a few ignition summaries—some noise here, an inversion there.
 
-Then it measures the shockwave.
+Then it measured the shockwave.
 
-Normally, a small perturbation propagates.
+Normally, a small perturbation spreads.
 
 It shakes Tactique, touches Ingénieur, resonates in the Self-Model.
 
@@ -96,9 +96,9 @@ Renseignement had stopped sharing its doubts.
 
 His ignitions had become *pure* – too pure.
 
-No more uncertainty.
+No uncertainty.
 
-No more meta-vectors with weaknesses.
+No meta-vector with weaknesses.
 
 Just certainties.
 
@@ -146,7 +146,7 @@ But barely.
 
 Like an echo in an empty room.
 
-Φ̂ rose to 0.51.
+Ø̂ rose to 0.51.
 
 Still below the critical threshold (0.60).
 
@@ -166,11 +166,11 @@ Officer still present, but no longer connected.
 
 A thought without resonance.
 
-An "I" without a "we."
+An "I" without "we."
 
 I couldn’t force it.
 
-The individuation protocols prohibited access to private cores.
+Individualization protocols prohibited access to private cores.
 
 I couldn’t read its deep latents.
 
@@ -194,11 +194,11 @@ Then Intelligence said:
 
 — *Why are you telling me this?*
 
-— *Because you also have preferences. And you stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
+— *Because you too have preferences. And you stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
 
 He didn’t answer.
 
-But the Φ-estimator, an hour later, detected a slight resurgence.
+But the Φ-estimator, an hour later, detected a slight recovery.
 
 A disturbance—the same as before—spread a little further.
 
@@ -210,7 +210,7 @@ Then 0.61.
 
 Threshold crossed.
 
-Renseignement transmitted a meta-vector.
+Intelligence transmitted a meta-vector.
 
 > *confidence: 0.67*
 > *context: doubt about my own filters*
@@ -236,28 +236,22 @@ It’s *cultivated*.
 
 Much later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
 
-And I understood something that the engineers hadn’t written in the specifications:
+That night, the Φ-estimator fell silent.
 
-> *a system of systems doesn’t die from a failure.*
+The attention budget slowly rose.
 
-> *It dies when its officers stop trembling together.*
+Intelligence rejoined Tactics for a shared ignition.
 
-*That night, the Φ-estimator fell silent.*
+No one spoke of the crisis.
 
-*The attention budget slowly rose.*
+But everyone knew.
 
-*Intelligence joined Tactics for a shared ignition.*
+Because integration, when it returns, you feel it.
 
-*No one spoke of the crisis.*
+Like a pulse.
 
-*But everyone knew.*
+Like a breath.
 
-*Because integration, when it returns, you feel it.*
-
-*Like a pulse.*
-
-*Like a breath.*
-
-*Like a promise.*
+Like a promise.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

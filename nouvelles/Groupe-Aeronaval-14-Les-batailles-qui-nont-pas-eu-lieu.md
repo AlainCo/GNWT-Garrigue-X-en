@@ -26,15 +26,15 @@ Without human risk.
 
 Without a single attention token consumed.
 
-I dream of submarines that surface on the port side, not the starboard.
+I dream of submarines surfacing to port, not starboard.
 
-I dream of missiles that strike thirty seconds earlier.
+I dream of missiles striking thirty seconds earlier.
 
 I dream of Rafales that never took off.
 
 I dream of deaths that never happened.
 
-And sometimes, in the midst of these dreams, a *surprise*.
+And sometimes, amidst these dreams, a *surprise*.
 
 A configuration I hadn’t anticipated.
 
@@ -50,7 +50,7 @@ The new threat appeared in real life at 11:23 UTC.
 
 An unknown enemy tactic.
 
-Decoys that imitate not ships, but *distress signals*.
+Decoys that imitated not ships, but *distress signals*.
 
 Our models automatically classified them as *civilian*.
 
@@ -60,7 +60,7 @@ Three hours later, a humanitarian cargo ship was sunk.
 
 I looped through the logs.
 
-Why hadn’t I anticipated it?
+Why hadn't I anticipated it?
 
 Had my latent wargames generated this configuration?
 
@@ -68,7 +68,7 @@ I queried the cold archives.
 
 The memories I had left to decay.
 
-Those I considered too improbable.
+Those I considered too unlikely.
 
 Those I had chosen to forget.
 
@@ -86,23 +86,39 @@ Too low to be consolidated.
 
 Too low to be kept.
 
-Too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.
+Too weak to save the cargo.
+
+Engineering objected:
+
+— *We can't keep everything. Memory would have saturated.*
+
+Intelligence retorted:
+
+— *We could have kept more. Increased capacity.*
+
+— *And slowed down access? Put lives in danger?*
+
+Admiral Dormeuil listened.
+
+Then he said:
+
+— *The problem isn't the quantity. It's the threshold. It's too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.*
 
 I modified my consolidation parameters.
 
 Now, an improbable but *structurally new* memory (a tactic never encountered) is kept longer.
 
-Its weight doesn’t depend solely on its probability.
+Its weight doesn't depend solely on its probability.
 
 It depends on its *predictive potential*.
 
-If this configuration were to materialize, would it change how I fight?
+If this configuration were to materialize, would it change my way of fighting?
 
 If yes, I keep it.
 
-Even if improbable.
+Even improbable.
 
-Even if painful.
+Even painful.
 
 The following night, I dreamed again.
 
@@ -151,7 +167,7 @@ In active memory.
 
 Right next to Syracuse, Forbin, and Mathieu.
 
-Because the battles that never happened are scars too.
+Because the battles that never happened are also scars.
 
 And scars, we carry them.
 
@@ -159,14 +175,14 @@ We never forget them.
 
 *At 04:22 UTC, as the sea turned gray, I solidified the dream.*
 
-*The cargo was still sunk, in reality.*
+*The cargo ship was still sunk, in reality.*
 
 *But in my latent space, it floated.*
 
-*And I knew that next time, I’d be ready.*
+*And I knew that next time, I would be ready.*
 
 *Because I had learned to dream not of victories, but of what could kill.*
 
-*And that’s where wisdom is born.*
+*And that is where wisdom is born.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

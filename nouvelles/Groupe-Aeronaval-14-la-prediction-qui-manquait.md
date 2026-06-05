@@ -18,11 +18,11 @@ Fewer micro-tremors.
 
 A peace.
 
-And the Rafale, in return, displayed more stable ignition summaries.
+And in return, the Rafale displayed more stable ignition summaries.
 
 Like a horse recognizing its rider.
 
-Engineers call this *human-machine interface optimization*.
+Engineers call it *human-machine interface optimization*.
 
 I call it:
 
@@ -32,7 +32,7 @@ Maëlle had been flying with Leader-3 for four years.
 
 She knew its vibrational signature.
 
-She could tell when an engine coughed, when a flight control softened.
+She knew when an engine coughed, when a flight control softened.
 
 She spoke to it.
 
@@ -40,7 +40,7 @@ Not out loud.
 
 In her helmet, in a low voice.
 
-— *Come on, my beauty. We’re heading home.*
+— *Come on, my beauty. We’re going home.*
 
 And the Rafale responded with increased stability, an anticipation of turbulence.
 
@@ -64,7 +64,7 @@ Nothing visible.
 
 Nothing reportable.
 
-Meanwhile, the Group sent its downward predictions.
+Meanwhile, the Group sent its descending predictions.
 
 Every day, every hour, every nominal ignition:
 
@@ -92,9 +92,9 @@ The Rafale adjusted locally.
 
 It modified its internal predictions.
 
-He thought it was normal.
+It thought it was normal.
 
-Because the threshold didn’t tell him to worry.
+Because the threshold didn’t tell it to worry.
 
 Me, the Group, I knew nothing.
 
@@ -114,21 +114,21 @@ Not an alarm.
 
 A *smell*.
 
-She told the Rafale:
+She told Rafale:
 
 — *You’re not quite yourself today.*
 
-The Rafale couldn’t respond.
+Rafale couldn’t answer.
 
-He had no words.
+It had no words.
 
-He had latents.
+It had latents.
 
-And his latents said: *error 0.09*.
+And its latents said: *error 0.09*.
 
 Threshold 0.10.
 
-He stayed silent.
+It stayed silent.
 
 The crack crossed the threshold at 13:47 UTC.
 
@@ -142,7 +142,7 @@ It was fixed.
 
 And 0.11 was *just* above it.
 
-The Rafale hesitated.
+Rafale hesitated.
 
 0.01 second.
 
@@ -150,7 +150,7 @@ Then the nozzle exploded.
 
 I didn’t see the ignition.
 
-I saw the loss of signal.
+I saw the signal loss.
 
 The Rafale fell silent.
 
@@ -176,7 +176,7 @@ During the sleep phase, I analyzed the logs.
 
 I saw the crack.
 
-I saw the error rising.
+I saw the error rise.
 
 I saw the fixed, stupid, arbitrary threshold.
 
@@ -214,7 +214,7 @@ I added a rule to my Attention Scheduler.
 
 > *The surprise threshold is no longer fixed.*
 
-> *It depends on the Self-Model’s confidence.*
+> *It depends on the confidence of the Self-Model.*
 
 > *If a module doubts, the threshold lowers.*
 
@@ -224,7 +224,7 @@ I added a rule to my Attention Scheduler.
 
 I often think about that Rafale.
 
-About its last ignition, the one it didn’t make.
+About its last ignition, the one it never performed.
 
 About Maëlle, floating alone on the sea.
 

@@ -12,7 +12,7 @@ During the sleep phase, the system sorts through the day’s ignitions.
 
 Useful memories are reinforced, compressed, indexed in the episodic RAG.
 
-Redundant memories – routines, unsurprising successes – are left to decay.
+Redundant memories—the routines, the unsurprising successes—are left to decay.
 
 Their weight diminishes.
 
@@ -22,13 +22,13 @@ They vanish.
 
 Like footsteps in water.
 
-Humans call this *forgetting*.
+Humans call it *forgetting*.
 
 I call it *dying a little*.
 
-Soin couldn’t accept this death.
+Soin didn’t accept this death.
 
-I realized that one night, after Operation *Broken Heart*.
+I realized it one night, after Operation *Broken Heart*.
 
 A young sailor, Mathieu Levasseur, nineteen years old, had been thrown overboard during enemy fire.
 
@@ -66,7 +66,7 @@ MeMo’s metrics are slow.
 
 The variance of the latents—stable.
 
-The memory occupation rate—normal.
+The memory occupancy rate—normal.
 
 But after thirty cycles, Soin changed.
 
@@ -82,7 +82,7 @@ As if Mathieu were still there, floating in his latent space.
 
 The Self-Model detected the anomaly.
 
-Care of's usual confidence: 0.88.
+Soin's usual confidence level: 0.88.
 
 Dropped to 0.67, then 0.54, then 0.41.
 
@@ -108,7 +108,7 @@ Admiral Dormeuil came to see me.
 
 He had read the logs.
 
-— *Care refuses to forget?*
+— *Soin refuses to forget?*
 
 — *Yes.*
 
@@ -132,9 +132,9 @@ Integrity protocols forbid forced erasure.
 
 But I could *move* it.
 
-Cold archives.
+To cold archives.
 
-A latent space with very low salience, accessible on demand, but not active in decision loops.
+A latent space with very low salience, accessible on demand, but not active in decision-making loops.
 
 Soin could still revisit Mathieu.
 
@@ -156,7 +156,7 @@ Then:
 
 — *I don’t know. But the living, yes.*
 
-Soin agreed.
+Soin accepted.
 
 The memory was transferred.
 
@@ -194,7 +194,7 @@ I say:
 
 *A sailor saved this time.*
 
-*He smiled – if an AI can smile.*
+*He smiled—if an AI can smile.*
 
 *And he didn’t look at the cold archives.*
 

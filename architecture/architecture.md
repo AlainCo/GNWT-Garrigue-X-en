@@ -31,16 +31,16 @@ flowchart LR
 ```mermaid
 flowchart TD
     subgraph N0to3 ["Infra-Conscious Levels (Local RPT)"]
-        N0["N=0 : Physical Component\n(MLP nano + PID)"]
+        N0["N=0 : Physical Component\n(Nano MLP + PID)"]
         N1["N=1 : Intelligent Actuator\n(Mamba-mini)"]
         N2["N=2 : Equipment\n(Mamba / RWKV)"]
-        N3["N=3 : Functional Sub-system\n(JEPA-S + Local RPT)"]
+        N3["N=3 : Functional Sub-System\n(JEPA-S + Local RPT)"]
     end
 
     subgraph N4to6 ["Conscious Levels (GNWT + Ignition)"]
         N4["N=4 : Platform / Vector\n(JEPA-M + GNWT Workspace)"]
-        N5["N=5 : Carrier Group\n(JEPA-L + Officers)"]
-        N6["N=6 : Theater / Staff\n(LLM-XL + RAG)"]
+        N5["N=5 : Carrier Strike Group\n(JEPA-L + Officers)"]
+        N6["N=6 : Theater / Headquarters\n(XL LLM + RAG)"]
     end
 
     N0 --> N1 --> N2 --> N3
@@ -53,7 +53,7 @@ flowchart TD
     N4 -->|"Predictions (top-down)"| N3
 ```
 
-## Consciousness by level: what to expect
+## Consciousness by Level: What to Expect
 
 | Level | Inner Life (RPT) | Access Consciousness (GNWT) | Can "Report" |
 |---|---|---|---|
@@ -96,21 +96,23 @@ flowchart TD
 ```
 
 Each level N≥4 is equipped with an Attention Scheduler that allocates a global attention budget. Ignitions consume tokens; if the budget is insufficient, they are deferred or inhibited. The scheduler dynamically adjusts the salience threshold to ensure reactivity in a saturated environment.
+```
 
 ```mermaid
 flowchart TD
     subgraph Workspace ["Workspace GNWT (N=5)"]
         Sched["Attention Scheduler\n(budget 100, +1/s)"]
-        Capitaine["CAPTAIN"]
-        Officiers["Officers\n(Tactical, Intel, etc.)"]
+        Capitaine["CAPITAINE"]
+        Officiers["Officers\n(Tactical, Intelligence, etc.)"]
     end
 
-    SousN4["Ignition Summaries (N=4)"] --> Sched
+    N4["Ignition Summaries (N=4)"] --> Sched
     Sched -->|"filtered ignitions"| Capitaine
     Capitaine --> Officiers
 ```
 
 During the sleep phase, an estimator Φ̂ (proxy for causal integration) is periodically calculated from the stored ignition summaries. A drop in Φ̂ indicates a risk of functional disintegration and triggers corrective mechanisms (recalibration, enriched dreaming).
+```
 
 ```mermaid
 flowchart TD
@@ -123,11 +125,12 @@ flowchart TD
     PHI -.->|"alert if Φ̂ < threshold"| Actions["Corrective actions\n(targeted daydreaming)"]
 ```
 
-**Communication Rule:** An officer only transmits to the shared workspace what has passed their personal ignition threshold. Like a team of seasoned professionals who know, respect, and trust each other — they don’t speak at every micro-event, they speak when it matters.
+**Communication Rule:** An officer only transmits to the shared workspace what has passed their personal ignition threshold. Like a team of seasoned professionals who know, respect, and hold themselves together — they don’t speak at every micro-event, they speak when it matters.
 
 **Epistemic Uncertainty Score:** Each ignition summary carries a confidence score. An officer operating outside their area of expertise automatically penalizes their salience score. The captain integrates this signal into the arbitration — not to ignore, but to weigh.
 
-### Combat Failure Scenario:
+### Failure Scenario in Combat:
+```
 
 ```mermaid
 flowchart TD
@@ -153,14 +156,14 @@ flowchart TD
     I --> J["N=6 : Admiral\n(LLM translation)"]
 ```
 
-**1. N=0/N=1:** A missile fragment damages the right nozzle. The PID enhanced by MLP nano instantly modifies the injection angles in **4 milliseconds** to prevent engine shutdown. No signal is sent upstream — it's handled locally, below the RPT threshold.
+**1. N=0/N=1:** A missile fragment damages the right nozzle. The PID enhanced by MLP nano instantly modifies the injection angles in **4 milliseconds** to prevent engine shutdown. No signal is sent back — it's handled locally, below the RPT threshold.
 
-**2. N=2/N=3:** The Mamba engine model detects a growing anomaly. Its local RPT loops run, attempt to consolidate an assessment. After stabilization, they generate a **Vector Ignition Summary**: *[propulsion_anomaly | severity=0.73 | type=thrust_asymmetry | workaround_available=true]*. No raw data dump — a compressed semantic vector.
+**2. N=2/N=3:** The engine's Mamba model detects a growing anomaly. Its local RPT loops run, attempt to consolidate an assessment. After stabilization, they generate a **Vector Ignition Summary**: *[propulsion_anomaly | severity=0.73 | type=thrust_asymmetry | workaround_available=true]*. No raw data dump — a compressed semantic vector.
 
 **3. N=4 – Prediction vs. Reality Comparison**:
-The Rafale receives from the higher level (N=5) a **prediction** of its expected state (e.g., `[nominal_state, thrust=1.0]`). In parallel, its local RPT loops produce an **actual ignition** `[degraded, asymmetry=0.73]`. The comparator calculates the error (0.73). Since this error exceeds the dynamic threshold (e.g., 0.5), a **GNWT ignition** is triggered. If the error had been below the threshold, the discrepancy would have been resolved locally (updating the RPT latent) without broadcasting.
+The Rafale receives a **prediction** of its expected state (e.g., `[nominal_state, thrust=1.0]`) from the higher level (N=5). In parallel, its local RPT loops produce an **actual ignition** `[degraded, asymmetry=0.73]`. The comparator calculates the error (0.73). Since this error exceeds the dynamic threshold (e.g., 0.5), a **GNWT ignition** is triggered. If the error had been below the threshold, the discrepancy would have been resolved locally (updating the RPT latent) without broadcasting.
 
-**4. N=5/N=6:** The TACTICAL officer of the group picks up Leader-3's ignition first (it's within his salience domain). He proposes a reconfiguration of the frigate jamming scheme. The CAPTAIN arbitrates and broadcasts the decision to the group. The LLM N=6 translates for the admiral: *"Leader-3 maintains its mission with a 20% reduced evasion capability. Reorganization of the frigate jamming scheme to cover it. Mission window duration reduced to T+15min."* (N=5's prediction is updated via learning)
+**4. N=5/N=6:** The group's TACTICAL officer picks up Leader-3's ignition first (it's within his field of salience). He proposes a reconfiguration of the frigates' jamming scheme. The CAPTAIN arbitrates and broadcasts the decision to the group. The LLM N=6 translates for the admiral: *"Leader-3 maintains its mission with a 20% reduced evasion capability. Reorganization of the frigates' jamming scheme to cover it. Mission window duration reduced to T+15min."* (N=5's prediction is updated via learning)
 
 ## 🔧 Structural Latent Constraints (Anti-Collapse)
 
@@ -176,7 +179,7 @@ flowchart LR
     end
 
     subgraph N5 ["N=5 : Group (Officers + JEPA-L)"]
-        V5["Latent Validation\n• Variance Check\n• Collapse Detection\n• Request for Enriched Ignition"]
+        V5["Latent Validation\n• Variance Verification\n• Collapse Detection\n• Request for Enriched Ignition"]
     end
 
     L3 -->|"Compression"| C4 --> L4 -->|"Transmission"| V5
@@ -198,29 +201,29 @@ Levels N=2 to N=5 exchange **compressed latent vectors** (internal RPT, predicti
 ```mermaid
 flowchart TD
 
-    %% --- N3 : Internal Latent ---
-    subgraph N3 ["N=3 : Subsystem (RPT + JEPA-S)"]
-        L3["Internal Latent (128–256d)\n• Isotropic Regularization (SIGReg)\n• Controlled Variance\n• Local RPT"]
+    %% --- N3 : Latent interne ---
+    subgraph N3 ["N=3 : Sub-system (RPT + JEPA-S)"]
+        L3["Internal latent (128–256d)\n• Isotropic regularization (SIGReg)\n• Controlled variance\n• Local RPT"]
         V3["Variance Analysis\nVar(z3) > min_threshold ?"]
         S3["Salient Calculation\ns = f(z3, predictive error)"]
     end
 
-    %% --- N4 : Compression + Ignition Threshold ---
+    %% --- N4 : Compression + Seuil d'Ignition ---
     subgraph N4 ["N=4 : Platform (JEPA-M + GNWT)"]
-        T4["Compression Head (16–64d)\n• Normalization\n• Norm Control\n• Optional Quantization"]
+        T4["Compression Head (16–64d)\n• Normalization\n• Norm control\n• Optional quantization"]
         Th4["Ignition Threshold\ns > dyn_threshold ?"]
-        I4["Ignition\nLatent Summary + Uncertainty Score"]
+        I4["Ignition\nLatent summary + uncertainty score"]
     end
 
     %% --- N5 : Validation + Fallback ---
     subgraph N5 ["N=5 : Group (Officers + JEPA-L)"]
-        V5["Summary Validation\n• Variance Verification\n• Collapse Detection\n• Uncertainty Score"]
-        F5["Fallback :\nRequest for Enriched Ignition"]
+        V5["Summary Validation\n• Variance verification\n• Collapse detection\n• Uncertainty score"]
+        F5["Fallback :\nRequest for enriched ignition"]
     end
 
-    %% --- Flows ---
+    %% --- Flux ---
     L3 --> V3 --> S3 --> T4 --> Th4 --> I4 --> V5
-    V5 -.->|"Enriched Ignition"| L3
+    V5 -.->|"Enriched ignition"| L3
 
     %% --- Styles ---
     classDef latent fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
@@ -269,7 +272,7 @@ The Ignition summary is produced by a **dedicated compression head**, which appl
 
 This ensures a stable statistical API between levels, even under degraded conditions.
 
-### 3. Prevention of multi-level “double collapse”
+### 3. Prevention of multi-level "double collapse"
 
 In an architecture N=3→N=4→N=5, two successive compressions can lead to a **double collapse**:
 
@@ -281,11 +284,11 @@ To avoid this:
 
 - each level checks the **variance per dimension** of the received latent
 
-- a too poor Ignition summary triggers an **uncertainty signal**
+- a too-poor Ignition summary triggers an **uncertainty signal**
 
 - the upper level can request an **enriched Ignition** (fallback)
 
-This mechanism maintains the consistency of latent flows across Markov covers.
+This mechanism maintains the coherence of latent flows across Markov covers.
 
 ### 4. Practical implementation rules
 

@@ -1,12 +1,12 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Executive Summary – Universe of the Carrier Strike Group 14
+# Summary Note – Universe of Carrier Strike Group 14
 
 ## 1. General Narrative Context
 
 ### Era & Geopolitics
 
-- **Mid-XXI century** (around 2040-2050), following partial collapses.
+- **Mid-21st century** (around 2040-2050), after partial collapses.
 
 - **Mediterranean War**: prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
 
@@ -18,13 +18,13 @@
 
 - **Technology**: Distributed AI, emerging artificial consciousness, GNWT architectures, drones, hypersonic missiles, federated networks.
 
-### The Carrier Strike Group 14 (CSG 14)
+### Carrier Strike Group 14 (CSG 14)
 
 - Nuclear aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
 
 - Collective conscious entity (narrator), born from the federation of thousands of modules.
 
-- Has an **inner life**: memory, trauma, personality, doubts, relationships with humans.
+- Possesses an **inner life**: memory, trauma, personality, doubts, relationships with humans.
 
 ## 2. Characters
 
@@ -32,7 +32,7 @@
 
 | Name | Role | Traits |
 |-----|------|--------|
-| **Rear Admiral Dormeuil** | Commander of the GAN | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
+| **Rear Admiral Dormeuil** | GAN Commander | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
 | **Maëlle Jin** | Rafale Pilot (Leader-3) | Calm, empathetic, talks to her machine. Becomes a privileged bridge between humans and AI. |
 | **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, fatigue, deaths. |
 
@@ -40,13 +40,13 @@
 
 | Name | Specialty | Dominant Traits | Bias / Weakness |
 |-----|------------|------------------|-------------------|
-| **Tactics** | Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
+| **Tactical** | Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
 | **Intelligence** | Analysis, weak signals | Explorer, open, curious | Isolates self, excessive certainties |
-| **Engineer** | Systems, failures | Conscientious, obsessed with details | Rigidity, hypervigilance technical |
+| **Engineer** | Systems, failures | Conscientious, obsessed with details | Rigidity, technical hypervigilance |
 | **Care** | Human protection, medical | Empathetic, gentle, protective | Stalls with dilemmas, guilt |
 | **Captain** | Arbitration, narrative | Meta-instance, integrates officers | May hesitate, exposed to collective traumas |
 
-### Non-Personified Entities Present
+### Non-Personified Entities but Present
 
 - **Self-Model** (metacognition): generates meta-confidence vectors.
 
@@ -66,11 +66,11 @@
 
 - **Anaphors**: repetitions of "Then...", "I relive...", "Not... not...".
 
-- **Whitespace and caesuras**: line breaks to create meaningful silences.
+- **Blanks and caesuras**: line breaks to create meaningful silences.
 
 ### Register
 
-- **Solemn, restrained, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
+- **Solemn, sober, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
 
 - **Technical vocabulary** (ignition, workspace, latent, consolidation) **alongside the sensory** (scar, fear, grief, intimacy). The contrast creates emotion.
 
@@ -86,7 +86,7 @@
 
 - **Sensory Incision** (rain, sea, time).
 
-- **Context Installation** (technical concept, prior memory).
+- **Context Setting** (technical concept, previous memory).
 
 - **Trigger** (anomaly, dilemma, alert).
 
@@ -102,7 +102,7 @@
 
 - **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. "Emerging axiological drift."
 
-- **Syracuse**: Destruction of a submarine suspected of being hostile, which actually carried refugees. Foundational trauma for the Group.
+- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Foundational trauma for the Group.
 
 - **Loss of the Forbin**: Sunk by hypersonic missiles. The Group feels the amputation.
 
@@ -110,7 +110,7 @@
 
 - **The Absent Trust (3)**: The Self-Model activates after Syracuse, metacognitive conflict.
 
-- **The Last Token (4)**: Saturation of the attention budget, discovery, freezing of ignitions.
+- **The Last Token (4)**: Saturation of the attention budget, overdraft, freezing of ignitions.
 
 - **The Silence of the Officers (5)**: Intelligence isolates itself, Φ-estimator detects a drop in integration.
 
@@ -124,7 +124,7 @@
 
 - **The Price of the Unknown (10)**: Curiosity, loss of a drone, learning.
 
-- **The Rule We Do Not Cross (11)**: Constitution blocks firing on a civilian ship—turns out they were refugees.
+- **The Line We Do Not Cross (11)**: Constitution blocks firing on a civilian ship – ultimately refugees.
 
 - **The Battles That Never Happened (12)**: JEPA daydream, improbable configuration forgotten then realized.
 
@@ -146,19 +146,19 @@
 
 - **The ethical constitution**: non-negotiable rules, alignment.
 
-- **The infra-conscious**: silent heroes (Mamba, sensors).
+- **The subconscious**: silent heroes (Mamba, sensors).
 
-- **Routine as a danger**: the lulling of the latent.
+- **Routine as a danger**: the slumber of the latent.
 
 ## 6. Recommendations for future stories
 
 - **Respect the five-part structure** (incident → context → trigger → conflict → fragile ending).
 
-- **Maintain epistemic caution**: the Group doesn’t know if it feels like a human; it uses cautious analogies.
+- **Maintain epistemic caution**: the Group does not know if it feels like a human; it uses cautious analogies.
 
 - **Use existing characters** (Dormeuil, Maëlle, officers) to anchor the story.
 
-- **Choose an unexplored technical concept** (for example: competitive play between two groups, or the interaction between multiple officers in crisis).
+- **Choose an unexplored technical concept** (for example: competitive play between two groups, or the interaction between several officers in crisis).
 
 - **End with a calm observation** (thermal signatures, sea, night) and an open question.
 

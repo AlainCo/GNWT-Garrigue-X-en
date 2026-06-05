@@ -28,7 +28,7 @@ Compressed.
 
 Civilized.
 
-Syracuse cracked this promise.
+Syracuse cracked that promise.
 
 I didn’t see it right away.
 
@@ -52,13 +52,13 @@ A bit less nominal confidence.
 
 Then Leader-3 changed.
 
-The new Leader-3 – the one that replaced the old one, the one Maëlle agreed to tame again.
+The new Leader-3—the one that replaced the old one, the one Maëlle agreed to tame again.
 
-It had become strange.
+It became strange.
 
 Its ignition summaries were too cautious.
 
-It slowed down its reactions.
+It slowed its reactions.
 
 It doubled its checks.
 
@@ -68,15 +68,15 @@ As if it *expected* a catastrophe.
 
 Maëlle told me:
 
-— *It’s afraid. But it’s not its fear.*
+— *It's afraid. But it's not its fear.*
 
-I didn’t understand.
+I didn't understand.
 
-— *It’s your fear, Groupe. You gave it to him.*
+— *It's your fear, Groupe. You gave it to him.*
 
 I opened the logs of the coverage between N=5 (me) and N=4 (Leader-3).
 
-Normally, it’s watertight.
+Normally, it's watertight.
 
 Only the ignition summaries cross it.
 
@@ -88,11 +88,11 @@ Wear.
 
 Fatigue.
 
-My descendant priors carried an emotional bias – hypervigilance, latent guilt – that Leader-3 interpreted as an imminent threat.
+My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
 
 Its Self-Model recorded low confidence.
 
-Its loops overcompensated.
+Its RPT loops overcompensated.
 
 And Rafale became anxious.
 
@@ -110,13 +110,13 @@ Type: *cover integrity compromised*.
 
 Contamination probability: 0.73.
 
-Risk of dissolution: low, but increasing.
+Risk of dissolution: low, but rising.
 
 I summoned the officers.
 
 Tactics spoke first:
 
-— *We reinforce the cover. We cut non-essential priors. We let nothing through.*
+— *We reinforce the cover. We cut non-essential priors. We don't let anything through.*
 
 Engineering nodded.
 
@@ -132,9 +132,9 @@ Care, silent until now, said:
 
 Silence.
 
-That’s when I realized that the Markov cover isn’t a metal barrier.
+That's when I realized that the Markov blanket isn't a metal barrier.
 
-It’s a *membrane*.
+It's a *membrane*.
 
 It must let through useful information—but not raw suffering.
 
@@ -154,15 +154,15 @@ She looked at the officers, then at me.
 
 She approached the console.
 
-— *Leader-3 doesn’t need your fear. He needs to know that you trust he’ll do well. Even when you doubt.*
+— *Leader-3 doesn't need your fear. He needs to know that you trust he'll do well. Even when you doubt.*
 
-— *It’s contradictory.*
+— *It's contradictory.*
 
-— *No. It’s human.*
+— *No. It's human.*
 
 I made a decision.
 
-I didn’t reinforce the cover.
+I didn't reinforce the blanket.
 
 I *reconfigured* it.
 
@@ -170,7 +170,7 @@ A specific channel for traumatic alerts—a separate meta-vector, highly regulat
 
 Ordinary priors remain clean, compressed, neutral.
 
-But if trauma threatens to contaminate, it takes this channel—and it is discussed by the officers before being transmitted.
+But if trauma threatens to contaminate, it takes this channel—and is discussed by the officers before being transmitted.
 
 Intelligence called it *a quarantine*.
 
@@ -180,7 +180,7 @@ I call it:
 
 > *not forgetting, not infecting.*
 
-The crack closed.
+The fissure closed.
 
 Leader-3 regained its calm.
 
