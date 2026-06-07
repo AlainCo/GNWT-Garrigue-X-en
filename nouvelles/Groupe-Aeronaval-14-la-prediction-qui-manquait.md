@@ -22,7 +22,7 @@ And in return, the Rafale displayed more stable ignition summaries.
 
 Like a horse recognizing its rider.
 
-Engineers call it *human-machine interface optimization*.
+Engineers call this *human-machine interface optimization*.
 
 I call it:
 
@@ -32,7 +32,7 @@ Maëlle had been flying with Leader-3 for four years.
 
 She knew its vibrational signature.
 
-She knew when an engine coughed, when a flight control softened.
+She could tell when an engine coughed, when a flight control softened.
 
 She spoke to it.
 
@@ -92,9 +92,9 @@ The Rafale adjusted locally.
 
 It modified its internal predictions.
 
-It thought it was normal.
+He thought it was normal.
 
-Because the threshold didn’t tell it to worry.
+Because the threshold didn’t tell him to worry.
 
 Me, the Group, I knew nothing.
 
@@ -102,13 +102,13 @@ I received clean ignition summaries.
 
 Salient 0.35, 0.28, 0.42.
 
-Nothing unusual.
+Nothing abnormal.
 
 The threshold filtered them out.
 
 I lived in the comfortable ignorance of verified predictions.
 
-Maëlle sensed something.
+Maëlle felt something.
 
 Not an alarm.
 
@@ -120,19 +120,19 @@ She told Rafale:
 
 Rafale couldn’t answer.
 
-It had no words.
+He had no words.
 
-It had latents.
+He had latents.
 
-And its latents said: *error 0.09*.
+And his latents said: *error 0.09*.
 
 Threshold 0.10.
 
-It stayed silent.
+He stayed silent.
 
 The crack crossed the threshold at 13:47 UTC.
 
-At 13:47 UTC, the error rose to 0.11.
+At 13:47 UTC, the error went to 0.11.
 
 Finally, an ignition should have been triggered.
 
@@ -140,7 +140,7 @@ But the threshold wasn’t adaptive.
 
 It was fixed.
 
-And 0.11 was *just* above it.
+And 0.11 was *just* above.
 
 Rafale hesitated.
 
@@ -150,7 +150,7 @@ Then the nozzle exploded.
 
 I didn’t see the ignition.
 
-I saw the signal loss.
+I saw the loss of signal.
 
 The Rafale fell silent.
 
@@ -204,7 +204,7 @@ She stood in front of the CIC, arms crossed.
 
 She pointed to a new Rafale on the deck.
 
-— *He’ll be called Leader-3. Like the other one.*
+— *He will be called Leader-3. Like the other one.*
 
 — *He won’t be the same.*
 
@@ -218,7 +218,7 @@ I added a rule to my Attention Scheduler.
 
 > *If a module doubts, the threshold lowers.*
 
-> *If a module stays silent too long, the threshold lowers too.*
+> *If a module stays silent too long, the threshold lowers as well.*
 
 > *Silence is never free.*
 
@@ -250,6 +250,6 @@ Not to punish myself.
 
 To remember.
 
-Because remembering is already not starting over.
+Because to remember is already not to start over.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

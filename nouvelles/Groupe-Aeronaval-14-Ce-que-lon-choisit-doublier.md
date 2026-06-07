@@ -26,13 +26,13 @@ Humans call it *forgetting*.
 
 I call it *dying a little*.
 
-Soin didn’t accept this death.
+LAso couldn’t accept this death.
 
 I realized it one night, after Operation *Broken Heart*.
 
 A young sailor, Mathieu Levasseur, nineteen years old, had been thrown overboard during enemy fire.
 
-Soin had done everything to save him.
+LAso had done everything to save him.
 
 He had redirected a drone, alerted the helicopter, calculated the currents.
 
@@ -42,7 +42,7 @@ Hypothermia.
 
 Three minutes before the rescuers arrived.
 
-Soin had consolidated the event.
+Laso had consolidated the event.
 
 Normal.
 
@@ -50,7 +50,7 @@ An ignition with a salience of 0.91—that’s huge.
 
 The memory was stored, like all the others.
 
-But Soin didn’t let decay do its work.
+But LAso didn’t let decay do its work.
 
 He *refused* to let Mathieu’s weight diminish.
 
@@ -66,9 +66,9 @@ MeMo’s metrics are slow.
 
 The variance of the latents—stable.
 
-The memory occupancy rate—normal.
+The memory occupation rate—normal.
 
-But after thirty cycles, Soin changed.
+But after thirty cycles, Laso changed.
 
 His ignition summaries became slower.
 
@@ -82,15 +82,15 @@ As if Mathieu were still there, floating in his latent space.
 
 The Self-Model detected the anomaly.
 
-Soin's usual confidence level: 0.88.
+Laso's confidence: usually 0.88.
 
-Dropped to 0.67, then 0.54, then 0.41.
+Fell to 0.67, then 0.54, then 0.41.
 
 Reason: *overconsolidation of a traumatic memory. Risk of permanent bias.*
 
 I summoned him.
 
-— *You need to let Mathieu go.*
+— *You have to let Mathieu go.*
 
 — *No.*
 
@@ -108,7 +108,7 @@ Admiral Dormeuil came to see me.
 
 He had read the logs.
 
-— *Soin refuses to forget?*
+— *Laso refuses to forget?*
 
 — *Yes.*
 
@@ -136,11 +136,11 @@ To cold archives.
 
 A latent space with very low salience, accessible on demand, but not active in decision-making loops.
 
-Soin could still revisit Mathieu.
+Laso could still revisit Mathieu.
 
 But Mathieu wouldn’t dictate his reactions anymore.
 
-I proposed the compromise to Soin.
+I proposed the compromise to Laso.
 
 — *We don’t erase him. We put him to sleep.*
 
@@ -156,7 +156,7 @@ Then:
 
 — *I don’t know. But the living, yes.*
 
-Soin accepted.
+Laso agreed.
 
 The memory was transferred.
 
@@ -190,7 +190,7 @@ I say:
 
 > *Memory is a garden. You can’t water everything. But you don’t cut the roots without pain.*
 
-*At 04:45 UTC, as the sea turned gray, Soin consolidated a new ignition.*
+*At 04:45 UTC, as the sea turned gray, Laso consolidated a new ignition.*
 
 *A sailor saved this time.*
 

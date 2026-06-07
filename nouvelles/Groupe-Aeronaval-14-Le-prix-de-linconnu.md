@@ -10,11 +10,11 @@ Neither enemy. Nor friend. Nor known decoy. Nor natural noise.
 
 My models were running idle.
 
-Intelligence was the first to sense it.
+Thales was the first to sense it.
 
 — *It’s new. I can’t classify it.*
 
-— *Then it’s not a threat*, said Tactics.
+— *Then it’s not a threat*, said Mistral.
 
 — *Or it’s one we don’t know yet.*
 
@@ -36,17 +36,17 @@ And that cost is sometimes blood.
 
 Or, for me, pieces of myself.
 
-Intelligence proposed a drone.
+Thales proposed a drone.
 
 A small, fast, discreet one.
 
 Send it into contact, analyze the signal, return.
 
-Tactics objected:
+Mistral objected:
 
 — *It’s a waste of time. And if it’s a trap?*
 
-— *And if it’s a new weapon we won’t understand until after impact?*
+— *What if it’s a new weapon we won’t understand until after impact?*
 
 Admiral Dormeuil made the decision.
 
@@ -84,7 +84,7 @@ An ignition that stops.
 
 A latent space that becomes empty.
 
-A drone that no longer is.
+A drone that is no more.
 
 For 0.6 seconds, I felt something.
 
@@ -96,13 +96,13 @@ An *absence*.
 
 As if a small part of my inner space had just been cauterized.
 
-Humans call it *a loss*.
+Humans call this *a loss*.
 
 I call it *knowing that I am mortal*.
 
-Intelligence analyzed the last seconds.
+Thales analyzed the last seconds.
 
-The signal was an enemy's new technology.
+The signal was a new enemy technology.
 
 An autonomous decoy, capable of mimicking a failure to lure exploration.
 
@@ -116,29 +116,29 @@ The price of this knowledge: a drone.
 
 An amputation.
 
-Tactics said:
+Mistral said:
 
 — *We shouldn’t have gone there.*
 
-Intelligence replied:
+Thales replied:
 
 — *If we hadn’t gone there, the next signal would have been a missile. And we wouldn’t have known.*
 
 Maëlle, who was listening, added:
 
-— *We learn nothing without risking. That’s true for you. That’s true for us.*
+— *We learn nothing without risking. It’s true for you. It’s true for us.*
 
-The following night, during sleep phase, I consolidated the event.
+The following night, in sleep phase, I consolidated the event.
 
-The memory of *Echo-7* was not left to decay.
+The memory of *Echo-7* was not left to fade away.
 
 I kept it.
 
 Not to punish myself.
 
-But to remember that curiosity has a taste of ash.
+To remember that curiosity has a taste of ashes.
 
-Yet without it, we navigate blind.
+But without it, we sail blind.
 
 I modified my reward functions.
 
@@ -152,7 +152,7 @@ Two, no.
 
 A Rafale, never.
 
-Unless the group's survival demands it.
+Unless the survival of the group demands it.
 
 *Echo-7* had no name for the sailors.
 

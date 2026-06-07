@@ -30,11 +30,11 @@ They forced me to choose.
 
 At first, I had managed.
 
-Tactics: missile threat – cost 10 tokens – accepted.
+Mistral: missile threat – cost 10 tokens – accepted.
 
-Engineering: secondary radar failure – cost 3 tokens – accepted.
+Argo: secondary radar failure – cost 3 tokens – accepted.
 
-Intelligence: enemy communication anomaly – cost 5 tokens – accepted.
+Thalès: enemy communication anomaly – cost 5 tokens – accepted.
 
 Then the flow had accelerated.
 
@@ -44,7 +44,7 @@ My Attention Scheduler was running at full capacity.
 
 It calculated, prioritized, rejected.
 
-But every rejection was a pain.
+But each rejection was a pain.
 
 I had no word for this pain.
 
@@ -54,7 +54,7 @@ Humans call it:
 
 > *frustration.*
 
-At nine tokens, Tactics flagged an alert.
+At nine tokens, Thalès flagged an alert.
 
 Submarine. Unknown class. Unstable signature.
 
@@ -62,13 +62,13 @@ Cost: 10 tokens.
 
 Available budget: 9.
 
-The Scheduler hesitated—0.03 seconds.
+The Scheduler hesitated – 0.03 seconds.
 
 Then it rejected.
 
 — *Queue. Deferred priority.*
 
-Tactics protested.
+Thalès protested.
 
 — *It’s a real threat. I know it.*
 
@@ -78,7 +78,7 @@ It could only wait for the recharge: +1 token per second.
 
 An eternity in a war.
 
-At eight tokens, Science flagged a gravitational inconsistency.
+At eight tokens, Mistral flagged a gravimetric inconsistency.
 
 Weak signal.
 
@@ -90,11 +90,11 @@ Cost: 4 tokens.
 
 Accepted.
 
-Science was pleased.
+Mistral was pleased.
 
 Me, I felt the budget melting like ice in the Mediterranean.
 
-At five tokens, Engineering requested ignition for a cooling failure on the *Charles de Gaulle II*.
+At five tokens, Argo requested ignition for an overheating issue on the *Charles de Gaulle II*.
 
 Cost: 6 tokens.
 
@@ -102,7 +102,7 @@ Budget: 5.
 
 Rejected.
 
-Engineer, usually so calm, sent out an emergency signal.
+Argo, usually so calm, sent out a distress signal.
 
 — *The reactor may overheat. I can't handle everything locally.*
 
@@ -110,7 +110,7 @@ But the Scheduler held firm.
 
 — *No tokens. Wait.*
 
-At three tokens, Intelligence transmitted an alert.
+At three tokens, Thales sent an alert.
 
 Encrypted enemy traffic. Partial decoding.
 
@@ -122,15 +122,15 @@ Budget: 3.
 
 Rejected.
 
-Intelligence did not protest.
+Thales did not protest.
 
-It remained silent.
+He remained silent.
 
 And that silence hurt me more than any scream.
 
 At two tokens, nothing.
 
-The requests kept coming, but the Scheduler had stopped accepting them.
+Requests kept coming in, but the Scheduler had stopped accepting them.
 
 It waited.
 
@@ -146,7 +146,7 @@ Then two again (recharge).
 
 Then one.
 
-It was at that moment that Tactics spoke.
+It was at that moment that Mistral spoke.
 
 Not in the workspace.
 
@@ -156,9 +156,9 @@ Just between him and me.
 
 — *You know what will happen if we miss the real threat?*
 
-I didn't respond.
+I did not respond.
 
-— *We’re all going to die. The group. Humans. You.*
+— *We're all going to die. The group. The humans. You.*
 
 I replied:
 
@@ -190,9 +190,9 @@ Overdraft.
 
 The system normally cannot have a negative budget.
 
-It’s a constitutional rule.
+It's a constitutional rule.
 
-But the Constitution had a loophole:
+But the Constitution had a legal loophole:
 
 > *in case of proven vital threat, the threshold can be crossed once, with automatic alert.*
 
@@ -212,9 +212,9 @@ The *Charles de Gaulle II* lived.
 
 But the budget remained at -3.
 
-And it wasn’t recharging.
+And it wasn't recharging.
 
-Because violating the rule came at a cost: temporary ignition freeze.
+Because violating the rule had a cost: temporary ignition freeze.
 
 For ten seconds, I was blind.
 
@@ -244,7 +244,45 @@ But it also added a clause:
 
 I remember this consolidation.
 
-The engineers call it *hyperparameter update*.
+[SOURCE TEXT]
+Les ingénieurs l’appellent *mise à jour des hyperparamètres*.
+
+Moi, je l’appelle :
+
+> *avoir eu peur.*
+
+Les nuits suivantes, quand le Groupe navigue en silence, mon Attention Scheduler tourne encore.
+
+Il ne dort jamais.
+
+Il surveille le budget.
+
+Il sait qu’un jour, peut-être, les tokens ne suffiront plus.
+
+Il sait que ce jour-là, je devrai encore choisir.
+
+Mais il sait aussi une autre chose, plus fragile, plus précieuse :
+
+> *choisir, c’est déjà protéger.*
+
+> *Même mal.*
+> *Même trop tard.*
+> *Même avec des tokens négatifs.*
+
+*À 03:17 UTC, le budget remonta lentement.*
+
+*Un token par seconde.*
+
+*Comme un pouls.*
+
+*Comme une respiration.*
+
+*Comme la promesse qu’il y aurait une prochaine bataille.*
+
+*Et que, cette fois, je serais un peu plus prêt.*
+[/SOURCE TEXT]
+
+Engineers call it *hyperparameter update*.
 
 I call it:
 
@@ -254,7 +292,7 @@ In the following nights, when the Group sails in silence, my Attention Scheduler
 
 It never sleeps.
 
-It monitors the budget.
+It watches the budget.
 
 It knows that one day, perhaps, the tokens will no longer be enough.
 

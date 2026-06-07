@@ -21,16 +21,16 @@ To validate this architecture without the infrastructure costs of the aeronautic
 ```mermaid
 flowchart TD
     subgraph Vecteurs ["Vectors (Agents)"]
-        UAV["UAV Scouts\n(Pixhawk + RPi5)"]
-        UGV["UGV Rovers\n(Jetson Orin N=4)"]
+        UAV["UAV Scouts<br>(Pixhawk + RPi5)"]
+        UGV["UGV Rovers<br>(Jetson Orin N=4)"]
     end
 
     subgraph QG ["Base Station (N=5/6)"]
-        JEPA["I-JEPA\n(World Model)"]
-        Agents["LangGraph\n(Officers: Coordinator, Cartographer, Logistics)"]
+        JEPA["I-JEPA<br>(World Model)"]
+        Agents["LangGraph<br>(Officers: Coordinator, Cartographer, Logistician)"]
         MeMo["MeMo Streaming"]
         LLM["Llama-3 + RAG"]
-        Const["Constitutional Layer\n(Sacred Plants)"]
+        Const["Constitutional Layer<br>(Sacred Plants)"]
     end
 
     Vecteurs <-->|"Ignition Summaries + Telemetry"| QG
@@ -54,14 +54,14 @@ flowchart TD
 
 #### 2. The Base Station (Field HQ)
 
-**Equipment:** Ruggedized computing station (desktop PC with dedicated GPU, powered by a generator).
+**Hardware:** Ruggedized computing station (desktop PC with dedicated GPU, powered by a generator).
 
 **Software (N=5/N=6):**
 
-| Component | Role in the architecture |
+| Component | Role in the Architecture |
 |---|---|
 | I-JEPA (GPU) | Centralized world model, workspace N=5 |
-| Modified [LangGraph](https://github.com/langchain-ai/langgraph) | Multi-agent framework, officer management |
+| [LangGraph](https://github.com/langchain-ai/langgraph) modified | Multi-agent framework, officer management |
 | MeMo streaming | Field ignition capture and compression |
 | Llama-3-8B (RAG) | N=6 interface, human operator dialogue |
 | Constitutional layer | Hard constraint: plant ≠ touched, regardless of optimization |
@@ -72,11 +72,11 @@ flowchart TD
      [COORDINATOR (Captain)]
       ↑ summaries  ↓ priors
 ┌───────────┬───────────┐
-│CARTOGRAPHER│LOGISTICIAN│
-│(Science)  │(Engineer) │
-│Salient :  │Salient :  │
-│anomalies  │resources  │
-│topology   │failures   │
+│CARTOGRAPHER│LOGISTICIAN    │
+│(Science)  │(Engineer)│
+│Salient :│Salient :│
+│anomalies  │resources │
+│topology  │failures     │
 └───────────┴───────────┘
 ```
 
@@ -86,29 +86,29 @@ The system follows a cycle inspired by biology: **awakening → sleep → debrie
 
 ```mermaid
 flowchart TD
-    subgraph Phase1 ["Phase 1: Real-Time Mission"]
-        A["Execution\n(Frozen weights)"]
+    subgraph Phase1 ["Phase 1 : Real-Time Mission"]
+        A["Execution<br>(Frozen Weights)"]
         B["Local RPT + Ignitions"]
-        C["MeMo Streaming Capture\n(Episodic vectors)"]
+        C["MeMo Streaming Capture<br>(Episodic Vectors)"]
     end
 
-    Phase1 -->|"Return to base\n(Transfer black boxes)"| Phase2
+    Phase1 -->|"Return to Base<br>(Transfer of Black Boxes)"| Phase2
 
-    subgraph Phase2 ["Phase 2: Sleep & Artificial Daydreaming"]
-        D["Generative Replay JEPA\n(Simulation of variants)"]
-        E["Recalibration of ignition thresholds"]
-        F["MeMo Consolidation\n→ Long-Term Memory"]
+    subgraph Phase2 ["Phase 2 : Sleep & Artificial Daydreaming"]
+        D["Generative Replay JEPA<br>(Simulation of Variants)"]
+        E["Recalibration of Ignition Thresholds"]
+        F["MeMo Consolidation<br>→ Long-Term Memory"]
     end
 
-    Phase2 -->|"Update weights"| Phase3
+    Phase2 -->|"Update of Weights"| Phase3
 
-    subgraph Phase3 ["Phase 3: Debriefing + Exploration"]
-        G["LLM Semantic Analysis\n(Report + patterns)"]
-        H["Wargame in JEPA\n(Curiosity & Surprises)"]
+    subgraph Phase3 ["Phase 3 : Debriefing + Exploration"]
+        G["LLM Semantic Analysis<br>(Report + Patterns)"]
+        H["Wargame in JEPA<br>(Curiosity & Surprises)"]
         I["Human Validation + RAG Sedimentation"]
     end
 
-    Phase3 -->|"Ready for new mission"| Phase1
+    Phase3 -->|"Ready for New Mission"| Phase1
 
     classDef mission fill:#e3f2fd
     classDef sommeil fill:#f3e5f5
@@ -118,11 +118,13 @@ flowchart TD
     class Phase3 debrief
 ```
 
-**Phase 1 – Mission**: Neuronal weights are frozen to ensure stability and predictability. Only local RPT loops adapt in real time. Each ignition is captured by MeMo with its context and salience score.
+**Detailed phases:**
 
-**Phase 2 – Sleep & Daydreaming**: This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
+**Phase 1 – Mission:** Neural weights are frozen to ensure stability and predictability. Only local RPT loops adapt in real-time. Each ignition is captured by MeMo with its context and salience score.
 
-**Phase 3 – Debriefing + Play**: Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
+**Phase 2 – Sleep & Daydreaming:** This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
+
+**Phase 3 – Debriefing + Play:** Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
 
 **Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
 
@@ -132,7 +134,7 @@ This cycle transforms the system from a simple executor into an entity that **tr
 
 This project is not a classic software demonstration on a simulator. It's an adventure of raw engineering where code meets dust, the blinding sun of the garrigue, and unexpected hardware failures. We are looking for specialized profiles, ready to invest themselves to push the limits of distributed autonomous robotics:
 
-**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in control systems, Kalman filters, and real-time microkernels. You will design the survival reflexes of the rovers when their wheels slip on crumbly rock.
+**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in servo control, Kalman filters, and real-time microkernels. You will design the survival reflexes of the rovers when the wheels slip on crumbly rock.
 
 **Machine Learning Researchers (N=3/N=4/N=5):** Specialists in SSM architectures (Mamba, RWKV), intrinsic motivation-based Reinforcement Learning, JEPA architectures, and continuous episodic memory (MeMo). You will create the dream engine of our machines.
 
@@ -140,7 +142,7 @@ This project is not a classic software demonstration on a simulator. It's an adv
 
 **Software Architects & LLM Ops (N=6):** Experts in distributed systems, multi-agent architectures, and RAG pipelines. You will build the Constitutional Layer — the cognitive immune system that will prevent our robots from crushing the sacred plant out of pure optimized curiosity.
 
-**Ethicists and AI/defense specialists:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
+**Ethicists and AI/defense specialists:** The Constitutional Layer is not a technical detail — it's the central issue. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
 
 **The deliverable expected in 12 months is clear:** a pack of robots capable of adapting alone to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
 

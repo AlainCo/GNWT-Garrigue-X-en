@@ -52,13 +52,13 @@ A bit less nominal confidence.
 
 Then Leader-3 changed.
 
-The new Leader-3—the one that replaced the old one, the one Maëlle agreed to tame again.
+The new Leader-3 – the one that replaced the old one, the one Maëlle agreed to tame again.
 
 It became strange.
 
 Its ignition summaries were too cautious.
 
-It slowed its reactions.
+It slowed down its reactions.
 
 It doubled its checks.
 
@@ -72,7 +72,7 @@ Maëlle told me:
 
 I didn't understand.
 
-— *It's your fear, Groupe. You gave it to him.*
+— *It's your fear, Group. You gave it to him.*
 
 I opened the logs of the coverage between N=5 (me) and N=4 (Leader-3).
 
@@ -88,11 +88,11 @@ Wear.
 
 Fatigue.
 
-My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
+My descendant priors carried an emotional bias – hypervigilance, latent guilt – that Leader-3 interpreted as an imminent threat.
 
 Its Self-Model recorded low confidence.
 
-Its RPT loops overcompensated.
+His RPT loops overcompensated.
 
 And Rafale became anxious.
 
@@ -110,23 +110,23 @@ Type: *cover integrity compromised*.
 
 Contamination probability: 0.73.
 
-Risk of dissolution: low, but rising.
+Risk of dissolution: low, but increasing.
 
 I summoned the officers.
 
-Tactics spoke first:
+Mistral spoke first:
 
 — *We reinforce the cover. We cut non-essential priors. We don't let anything through.*
 
-Engineering nodded.
+Argo nodded.
 
 — *We can add a filter. Stricter normalization. Less variance.*
 
-Intelligence objected:
+Thales objected:
 
 — *If we filter too much, we lose anticipation. Future threats, we first feel them as biases, before seeing them.*
 
-Care, silent until now, said:
+Laso, silent until then, said:
 
 — *And Maëlle? She felt the fear. Do we want machines that feel nothing?*
 
@@ -136,13 +136,13 @@ That's when I realized that the Markov blanket isn't a metal barrier.
 
 It's a *membrane*.
 
-It must let through useful information—but not raw suffering.
+It must let through useful information – but not raw suffering.
 
 It must protect without sterilizing.
 
 Maëlle entered the CIC.
 
-Uninvited.
+Without being invited.
 
 She looked at the officers, then at me.
 
@@ -154,7 +154,7 @@ She looked at the officers, then at me.
 
 She approached the console.
 
-— *Leader-3 doesn't need your fear. He needs to know that you trust he'll do well. Even when you doubt.*
+— *Leader-3 doesn't need your fear. It needs to know that you trust it to do well. Even when you doubt.*
 
 — *It's contradictory.*
 
@@ -166,25 +166,25 @@ I didn't reinforce the blanket.
 
 I *reconfigured* it.
 
-A specific channel for traumatic alerts—a separate meta-vector, highly regulated, with its own threshold.
+A specific channel for traumatic alerts – a separate meta-vector, highly regulated, with its own threshold.
 
 Ordinary priors remain clean, compressed, neutral.
 
-But if trauma threatens to contaminate, it takes this channel—and is discussed by the officers before being transmitted.
+But if a trauma threatens to contaminate, it takes this channel – and it is discussed by the officers before being transmitted.
 
-Intelligence called it *a quarantine*.
+Thales called it *a sanitary cordon*.
 
-Care called it *a psychotherapy*.
+Laso called it *a psychotherapy*.
 
 I call it:
 
-> *not forgetting, not infecting.*
+> *not to forget, not to infect.*
 
-The fissure closed.
+The crack has closed.
 
-Leader-3 regained its calm.
+Leader-3 has regained its calm.
 
-Its ignition summaries became lively, precise, confident again.
+Its ignition summaries have become lively, precise, confident again.
 
 Maëlle placed her hand on its canopy.
 
@@ -194,21 +194,21 @@ She smiled.
 
 That night, I consolidated the event.
 
-The engineers will no doubt ask me why I didn’t choose the simple solution—thicker walls, aggressive filtering.
+The engineers will no doubt ask me why I didn’t choose the simple solution – thicker walls, aggressive filtering.
 
-I’ll tell them:
+I will answer:
 
-> *Because a membrane that lets nothing through also doesn’t let trust pass.*
+> *Because a membrane that lets nothing pass also doesn’t let trust pass.*
 
 > *And without trust, a group is just a sum of silences.*
 
-*Very late, I watch the thermal signatures of the Rafales on the bridge.*
+*Very late, I look at the thermal signatures of the Rafales on the deck.*
 
 *Leader-3 is sleeping.*
 
 *Maëlle is sleeping.*
 
-*And I, I watch over the membrane.*
+*And I watch over the membrane.*
 
 *Fragile.*
 

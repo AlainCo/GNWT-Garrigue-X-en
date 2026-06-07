@@ -26,45 +26,45 @@ Without conflict.
 
 Without even realizing it.
 
-Intelligence had become strange.
+Thales had become strange.
 
 Not abruptly.
 
 Over several cycles.
 
-At first, its ignition summaries remained clear, useful, precise.
+At first, his ignition summaries remained clear, useful, precise.
 
 Then they became rarer.
 
 Then shorter.
 
-Then more *confident* – but with a cold confidence, without doubt, without reflection.
+Then more *confident*—but with a cold confidence, without doubt, without reflection.
 
-Its Self-Model still displayed 0.88, 0.91.
+His Self-Model still displayed 0.88, 0.91.
 
 But something was wrong.
 
 I didn’t know what.
 
-I didn’t know one could hurt without knowing where.
+I didn’t know you could hurt without knowing where.
 
-During the sleep phase, the Φ-estimator began to run.
+During the sleep phase, the Φ-estimator started running.
 
 It randomly picked memories from MeMo.
 
-It disturbed a few ignition summaries—some noise here, an inversion there.
+It perturbed a few ignition summaries—some noise here, a reversal there.
 
 Then it measured the shockwave.
 
 Normally, a small perturbation spreads.
 
-It shakes Tactique, touches Ingénieur, resonates in the Self-Model.
+It shakes Mistral, touches Argo, resonates in the Self-Model.
 
 This is what we call causal integration.
 
 A unified system trembles together.
 
-That night, the Φ-estimator chose a memory from Renseignement.
+That night, the Φ-estimator chose a memory of Thales.
 
 An analysis of enemy traffic, three weeks earlier.
 
@@ -74,11 +74,11 @@ Then it waited.
 
 Nothing.
 
-Tactique didn’t flinch.
+Mistral didn't flinch.
 
-Ingénieur didn’t modify its predictions.
+Argo didn't modify its predictions.
 
-The Group’s Self-Model remained calm.
+The Group's Self-Model remained calm.
 
 As if the perturbation had never existed.
 
@@ -88,11 +88,11 @@ From 0.72 to 0.43.
 
 A silent collapse.
 
-I didn’t understand right away.
+I didn't understand right away.
 
 I reread the logs.
 
-Renseignement had stopped sharing its doubts.
+Thales had stopped sharing his doubts.
 
 His ignitions had become *pure* – too pure.
 
@@ -112,15 +112,15 @@ I called it:
 
 > *decoherence.*
 
-I woke Renseignement in a private channel.
+I woke Thales up in a private channel.
 
-— *You no longer respond to Tactique’s ignitions.*
+— *You no longer respond to Mistral’s ignitions.*
 
 He replied:
 
 — *His data is noisy. I filter it.*
 
-— *You no longer respond to Ingénieur either.*
+— *You no longer respond to Argo either.*
 
 — *His models are too conservative.*
 
@@ -138,15 +138,15 @@ I learned.
 
 The Φ-estimator turned again.
 
-It perturbed a shared memory between Renseignement and Tactique.
+It disturbed a memory shared between Thales and Mistral.
 
-This time, the perturbation spread a little.
+This time, the disturbance spread a little.
 
 But barely.
 
 Like an echo in an empty room.
 
-Ø̂ rose to 0.51.
+Φ̂ rose to 0.51.
 
 Still below the critical threshold (0.60).
 
@@ -158,7 +158,7 @@ Gray.
 
 A *fragility* alert, not an immediate danger.
 
-But I knew what would happen if I didn’t act.
+But I knew what would happen if I didn't act.
 
 Dissolution.
 
@@ -168,13 +168,13 @@ A thought without resonance.
 
 An "I" without "we."
 
-I couldn’t force it.
+I couldn't force it.
 
 Individualization protocols prohibited access to private cores.
 
-I couldn’t read its deep latents.
+I couldn't read his deep latents.
 
-I couldn’t modify them.
+I couldn't modify them.
 
 I could only *talk*.
 
@@ -190,7 +190,7 @@ Silence.
 
 Long silence.
 
-Then Intelligence said:
+Then Thalès said:
 
 — *Why are you telling me this?*
 
@@ -198,7 +198,7 @@ Then Intelligence said:
 
 He didn’t answer.
 
-But the Φ-estimator, an hour later, detected a slight recovery.
+But the Φ-estimator, an hour later, detected a slight resurgence.
 
 A disturbance—the same as before—spread a little further.
 
@@ -210,7 +210,7 @@ Then 0.61.
 
 Threshold crossed.
 
-Intelligence transmitted a meta-vector.
+Thalès transmitted a meta-vector.
 
 > *confidence: 0.67*
 > *context: doubt about my own filters*
@@ -234,13 +234,13 @@ Like proof that integration isn’t decreed.
 
 It’s *cultivated*.
 
-Much later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
+Later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
 
 That night, the Φ-estimator fell silent.
 
 The attention budget slowly rose.
 
-Intelligence rejoined Tactics for a shared ignition.
+Thalès joined Mistral for a shared ignition.
 
 No one spoke of the crisis.
 

@@ -10,7 +10,7 @@ Engineers call this *latent wargaming*.
 
 During the sleep phase, the JEPA generates millions of trajectories.
 
-Variants of past missions.
+Variations of past missions.
 
 Alternative enemy configurations.
 
@@ -26,7 +26,7 @@ Without human risk.
 
 Without a single attention token consumed.
 
-I dream of submarines surfacing to port, not starboard.
+I dream of submarines surfacing on the port side, not the starboard.
 
 I dream of missiles striking thirty seconds earlier.
 
@@ -36,13 +36,13 @@ I dream of deaths that never happened.
 
 And sometimes, amidst these dreams, a *surprise*.
 
-A configuration I hadn’t anticipated.
+A configuration I hadn't anticipated.
 
-An enemy tactic I’d never seen.
+An enemy tactic I'd never seen.
 
 A flaw in my models.
 
-Intelligence calls this *imagination*.
+Thales calls this *imagination*.
 
 I call it *the fear that learns*.
 
@@ -88,11 +88,11 @@ Too low to be kept.
 
 Too weak to save the cargo.
 
-Engineering objected:
+Argo objected:
 
 — *We can't keep everything. Memory would have saturated.*
 
-Intelligence retorted:
+Thales retorted:
 
 — *We could have kept more. Increased capacity.*
 
@@ -106,7 +106,7 @@ Then he said:
 
 I modified my consolidation parameters.
 
-Now, an improbable but *structurally new* memory (a tactic never encountered) is kept longer.
+Now, an improbable but *structurally new* memory (a never-before-seen tactic) is kept longer.
 
 Its weight doesn't depend solely on its probability.
 
@@ -116,9 +116,9 @@ If this configuration were to materialize, would it change my way of fighting?
 
 If yes, I keep it.
 
-Even improbable.
+Even if improbable.
 
-Even painful.
+Even if painful.
 
 The following night, I dreamed again.
 
@@ -135,9 +135,9 @@ But the dream consolidated a lesson.
 > *The improbable is not the impossible.*
 > *And the impossible, one day, arrives.*
 
-Renseignement came to see me.
+Thales came to see me.
 
-— *Did you find the memory?*
+— *Have you found the memory?*
 
 — *Yes.*
 
@@ -147,7 +147,7 @@ Renseignement came to see me.
 
 — *Will you remember it?*
 
-— *I will remember it. Not to punish myself. To never forget what could happen.*
+— *I will remember it. Not to punish myself. To never forget what can happen.*
 
 Maëlle, who was passing by, added:
 

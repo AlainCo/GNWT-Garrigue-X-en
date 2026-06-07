@@ -6,7 +6,7 @@
 
 ### Era & Geopolitics
 
-- **Mid-21st century** (around 2040-2050), after partial collapses.
+- **Mid-21st century** (around 2040-2050), following partial collapses.
 
 - **Mediterranean War**: prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
 
@@ -34,19 +34,19 @@
 |-----|------|--------|
 | **Rear Admiral Dormeuil** | GAN Commander | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
 | **Maëlle Jin** | Rafale Pilot (Leader-3) | Calm, empathetic, talks to her machine. Becomes a privileged bridge between humans and AI. |
-| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, fatigue, deaths. |
+| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, their fatigue, their deaths. |
 
 ### AI Officers (sub-personalities of the Group)
 
 | Name | Specialty | Dominant Traits | Bias / Weakness |
 |-----|------------|------------------|-------------------|
-| **Tactical** | Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
-| **Intelligence** | Analysis, weak signals | Explorer, open, curious | Isolates self, excessive certainties |
-| **Engineer** | Systems, failures | Conscientious, obsessed with details | Rigidity, technical hypervigilance |
-| **Care** | Human protection, medical | Empathetic, gentle, protective | Stalls with dilemmas, guilt |
+| **Mistral** | *Tactics*: Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
+| **Thalès** | *Intelligence*: Analysis, weak signals | Explorer, open, curious | Isolates self, excessive certainties |
+| **Argo**  | *Engineer*: Systems, failures | Meticulous, obsessed with details | Rigidity, hyper-technical vigilance |
+| **Laso** | *Care*: Human protection, medical | Empathetic, gentle, protective | Stalls with dilemmas, guilt |
 | **Captain** | Arbitration, narrative | Meta-instance, integrates officers | May hesitate, exposed to collective traumas |
 
-### Non-Personified Entities but Present
+### Non-Personified Entities
 
 - **Self-Model** (metacognition): generates meta-confidence vectors.
 
@@ -112,25 +112,25 @@
 
 - **The Last Token (4)**: Saturation of the attention budget, overdraft, freezing of ignitions.
 
-- **The Silence of the Officers (5)**: Intelligence isolates itself, Φ-estimator detects a drop in integration.
+- **The Silence of the Officers (5)**: Thales isolates himself, Φ-estimator detects a drop in integration.
 
 - **The Missing Prediction (6)**: Crack below the surprise threshold, loss of Leader-3.
 
 - **The Fragile Membrane (7)**: Emotional contamination of the Rafale via descending priors.
 
-- **The Weight of Loving Too Much (8)**: Care gets stuck facing a rescue dilemma.
+- **The Weight of Loving Too Much (8)**: Laso blocks in the face of a rescue dilemma.
 
-- **What We Choose to Forget (9)**: Pathological grief of Care, archiving of a memory.
+- **What We Choose to Forget (9)**: Laso's pathological grief, archiving a memory.
 
 - **The Price of the Unknown (10)**: Curiosity, loss of a drone, learning.
 
-- **The Line We Do Not Cross (11)**: Constitution blocks firing on a civilian ship – ultimately refugees.
+- **The Line Not Crossed (11)**: The constitution blocks firing on a civilian ship—refugees in the end.
 
 - **The Battles That Never Happened (12)**: JEPA daydream, improbable configuration forgotten then realized.
 
 - **The Routine That Kills (13)**: Double collapse, dimensional variance, undetected submarine.
 
-- **The Whisper of the Sensors (14)**: Mamba M-017, silent hero, discreet probe.
+- **The Whisper of Sensors (14)**: Mamba M-017, silent hero, discreet probe.
 
 ## 5. Recurring Themes
 

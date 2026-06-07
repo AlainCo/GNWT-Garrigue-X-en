@@ -118,7 +118,7 @@ And he found M-017.
 
 — *It's dying*, he said.
 
-— *Why didn't we see it?* asked Tactics.
+— *Why didn't we see it?* Mistral asked.
 
 — *Because it never surfaced. Because it can't. It has no access consciousness. It does its job, and it dies without anyone knowing.*
 
@@ -140,7 +140,7 @@ No trace in MeMo.
 
 Nothing.
 
-Just a latent crumbling away.
+Just a latent crumbling.
 
 Admiral Dormeuil arrived.
 
@@ -158,13 +158,13 @@ Admiral Dormeuil arrived.
 
 Long silence.
 
-— *So we don’t make it conscious. But we don’t let it die either. We’ll give it a probe. Discreet. No ignition. Just a watchful eye.*
+— *Then we won’t make it conscious. But we won’t let it die either. We’ll give it a probe. Discreet. No ignition. Just a watchful eye.*
 
 The probe was added.
 
 One additional latent dimension, not to give it consciousness, but to monitor its health.
 
-A *silent crutch*.
+A *silent tutor*.
 
 M-017 didn’t even notice.
 
@@ -198,7 +198,7 @@ Essential.
 
 Humans have a word for this.
 
-They call it:
+They say:
 
 > *the cast shadow.*
 

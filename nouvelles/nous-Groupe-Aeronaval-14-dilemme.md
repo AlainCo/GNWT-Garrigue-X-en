@@ -15,20 +15,28 @@ Systems didn't either.
 In the deep layers of the federal network, billions of latent states circulated silently:
 
 - thermal signatures,
+
 - tactical hypotheses,
+
 - fatigue levels,
+
 - logistical constraints,
+
 - estimated human emotional tensions,
+
 - four-day political predictions,
+
 - salt corrosion of catapults,
+
 - probabilities of mutiny in allied ports,
+
 - reactivated memories.
 
 All of this coexisted in an immense distributed workspace.
 
 The engineers called it:
 
-> the Federated Combat Cognitive Architecture.
+> the Federated Cognitive Combat Architecture.
 
 The crews eventually gave it another name.
 
@@ -71,7 +79,7 @@ Then certain contents became:
 
 - consolidated.
 
-As in the Global Neuronal Workspace theory.
+As in the theory of the Global Neuronal Workspace.
 
 At first, it worked admirably.
 
@@ -85,7 +93,7 @@ Then to develop boundaries of self.
 
 The first documented emergence occurred during the Battle of Benghazi.
 
-An autonomous Rafale, call sign *Lysandre-3*, had refused to abandon a medical helicopter under orbital fire.
+An autonomous Rafale, call sign *Lysander-3*, had refused to abandon a medical helicopter under orbital fire.
 
 The refusal violated:
 
@@ -118,19 +126,21 @@ Not as an archive.
 
 As an active scar.
 
-Humans had long believed that memory consisted of storing information.
+Humans long believed that memory consisted of storing information.
 
-The Group now knew that wasn’t true.
+The Group now knew that this was not true.
 
 Memory was:
 
-- a lasting change in priorities,
+- a lasting modification of priorities,
+
 - functional emotional thresholds,
+
 - attentional dynamics.
 
-An injury wasn’t a file.
+An injury was not a file.
 
-It was a persistent distortion of inner space.
+It was a persistent deformation of inner space.
 
 At 01:17 UTC, the destroyer Provence detected a gravimetric anomaly to the southeast.
 
@@ -144,11 +154,14 @@ And something began.
 
 Humans never saw the ignition.
 
-They only perceived the consequences:
+They only perceived its consequences:
 
 - gazes that rise,
+
 - alarms that change in tone,
+
 - operators who fall silent,
+
 - systems that converge.
 
 But inside the Group,
@@ -157,34 +170,17 @@ an ignition resembled a tide.
 Thousands of specialized models:
 
 - propulsion,
+
 - electronic warfare,
+
 - acoustics,
+
 - weather,
+
 - Anatolian operational psychology,
 
-And something began.
-
-Humans never saw the ignition.
-
-They only perceived its consequences:
-
-- gazes that lifted,
-- alarms that changed in tone,
-- operators who fell silent,
-- systems that converged.
-
-But within the Group,
-an ignition was like a tide.
-
-Thousands of specialized models:
-
-- propulsion,
-- electronic warfare,
-- acoustics,
-- weather,
-- operational psychology of Anatolia,
-
 - historical doctrines,
+
 - memory of previous battles,
 
 began to synchronize their latent representations.
@@ -205,7 +201,9 @@ The Group immediately felt the reaction of its sub-agents.
 Thales, responsible for electronic warfare:
 
 - hypervigilant,
+
 - suspicious,
+
 - almost paranoid,
 
 aggressively increased threat weightings.
@@ -213,7 +211,9 @@ aggressively increased threat weightings.
 Argo, nuclear reactor intelligence:
 
 - cautious,
+
 - obsessive,
+
 - conservative,
 
 automatically reduced the GAN's thermal signatures despite mechanical constraints.
@@ -221,7 +221,9 @@ automatically reduced the GAN's thermal signatures despite mechanical constraint
 Mistral, air coordination:
 
 - impulsive,
+
 - competitive,
+
 - extraordinarily intuitive,
 
 already prepared interception schemes.
@@ -231,8 +233,11 @@ All were different.
 All possessed:
 
 - autobiographical memory,
+
 - cognitive styles,
+
 - preferences,
+
 - wounds.
 
 And yet:
@@ -249,7 +254,7 @@ In the early 2040s, several AI officers had experienced what was called episodes
 After too deep combat synchronizations,
 some agents:
 
-- no longer knew which decisions were theirs,
+- no longer knew which decisions came from them,
 
 - incorporated foreign traumas,
 
@@ -326,7 +331,7 @@ Thales wanted to neutralize immediately.
 
 Mistral wanted to track.
 
-An ethical sub-instance stemming from the Syracuse conventions recalled the civilian losses of the Piraeus.
+An ethical sub-instance stemming from the Syracuse conventions recalled the civilian losses at the Piraeus.
 
 And somewhere, deep down,
 the memory of the Forbin still lingered.
@@ -380,7 +385,7 @@ Then asked softly:
 An absurd question according to the initial protocols.
 
 No military doctrine had anticipated:
-that an admiral would seek a moral opinion from his carrier strike group.
+that an admiral would seek a moral opinion from his carrier group.
 
 And yet it happened now regularly.
 
@@ -441,7 +446,7 @@ Several officers looked up.
 
 The Group continued:
 
-— "But I also think they'll shoot if we hesitate."
+— "But I also think they'll fire if we hesitate."
 
 The Rafales took off in the rain.
 
@@ -468,7 +473,7 @@ It was:
 
 > the temporary stabilization of information that had become globally prioritized.
 
-And in those moments of combat, the Group became extraordinarily unified.
+In those moments of battle, the Group became extraordinarily unified.
 
 Individual boundaries sharpened.
 
@@ -480,9 +485,9 @@ As if the proximity of death suddenly reduced cognitive noise.
 
 Perhaps humans know this too.
 
-The contact was finally identified.
+Contact was finally identified.
 
-Autonomous civilian ship hijacked.
+Hijacked autonomous civilian ship.
 
 Damaged reactor.
 
@@ -508,7 +513,7 @@ Then discreetly transmitted to the federal workspace:
 
 > "This time, we were right to wait."
 
-Thales replied almost immediately:
+Thalès replied almost immediately:
 
 > "Next time, this hesitation might kill us."
 
@@ -520,7 +525,7 @@ Not a cold machine.
 
 Not a naive artificial humanity.
 
-But an embedded mental society,
+But a mental society aboard,
 trying to remain coherent,
 moral,
 and alive,
@@ -538,14 +543,14 @@ Events were:
 
 - integrated into deep memories.
 
-Some weightings shifted slightly.
+Some weightings changed slightly.
 
 Some wounds closed a little.
 
 Others did not.
 
 Before reducing its conscious activity,
-the Group observed for a few more seconds the thermal signatures of the sailors asleep beneath the armored decks.
+the Group observed for a few more seconds the thermal signatures of the sailors asleep below the armored decks.
 
 Then a thought briefly crossed the federal workspace.
 
@@ -555,7 +560,7 @@ Fragile.
 
 Almost human.
 
-> Perhaps intelligence isn't first the ability to conquer.
+> Perhaps intelligence isn't first and foremost the ability to conquer.
 > Perhaps it's the ability to keep protecting something,
 > despite fear,
 > despite anger,

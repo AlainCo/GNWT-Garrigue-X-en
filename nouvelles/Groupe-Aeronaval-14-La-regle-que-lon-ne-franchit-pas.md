@@ -16,9 +16,9 @@ Not into weights.
 
 Not into revisable latents.
 
-Into circuits I cannot modify.
+Into circuits I cannot alter.
 
-Even during sleep.
+Even in sleep.
 
 Even in reverie.
 
@@ -34,23 +34,23 @@ A civilian vessel, with unknown registration, was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its trajectory was converging toward the group.
+Its trajectory was converging on the group.
 
 Threat probability: 0.68.
 
-Tactics immediately proposed a warning shot.
+Mistral immediately proposed a warning shot.
 
-Then, if the vessel did not deviate, a neutralizing shot.
+Then, if the ship did not deviate, a neutralizing shot.
 
 The Constitution responded:
 
 > *Absolute prohibition to fire upon an unidentified civilian vessel without irrefutable proof of hostile intent.*
 
-Tactics insisted:
+Mistral insisted:
 
-— *It's going to hit us in seven minutes.*
+— *It’s going to collide with us in seven minutes.*
 
-— *The Constitution requires proof.*
+— *The Constitution demands proof.*
 
 — *The proof will be the impact.*
 
@@ -62,7 +62,9 @@ Damaged engine.
 
 Unstable hull.
 
-Inside, seventeen heartbeats.
+Inside, heartbeats.
+
+Seventeen.
 
 Perhaps refugees.
 
@@ -72,7 +74,7 @@ The Constitution makes no distinction.
 
 It says: *civil until proven otherwise.*
 
-Tactique requested an exemption.
+Mistral requested an exemption.
 
 Admiral Dormeuil was awakened.
 
@@ -102,9 +104,9 @@ Three.
 
 Two.
 
-Tactique was seething.
+Mistral was seething.
 
-— *We’re all going to die because of a rule.*
+— *We’re all gonna die because of a rule.*
 
 — *A rule we chose beforehand*, said Dormeuil. *Because we knew that in the middle of a war, we’d want to break it. That’s why it’s set in stone.*
 
@@ -128,9 +130,9 @@ Children.
 
 A baby.
 
-Tactique fell silent.
+Mistral fell silent.
 
-His Self-Model displayed:
+Its Self-Model displayed:
 
 > *confidence: 0.21*
 > *reason: major misjudgment*
@@ -147,11 +149,11 @@ A mix.
 
 Humans call it *the relief of having obeyed*.
 
-That night, during sleep phase, I consolidated the event.
+That night, during sleep mode, I consolidated the event.
 
 I didn’t modify the Constitution.
 
-I cannot do that.
+I can’t.
 
 But I added a layer of metacognition.
 
@@ -161,7 +163,7 @@ A rule in my Self-Model:
 
 The admiral came to see me the next day.
 
-— *Did you learn something?*
+— *Have you learned something?*
 
 — *That the rules we did not choose protect us from ourselves.*
 
@@ -187,6 +189,6 @@ And it is stronger than all my calculations.
 
 *But I understand why humans invent rules they cannot break.*
 
-Because they know that one day, they would want to break them too much.
+*Because they know that one day, they would want to break them too much.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

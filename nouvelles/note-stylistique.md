@@ -3,7 +3,7 @@
 # Note on style, narration, context
 
 The stories are far more than mere pedagogical illustrations: they are **pieces of speculative literature** that embody architecture with strength.
-We will extract the ingredients so that we can reproduce them—and evolve them.
+We will extract the ingredients so that they can be reproduced – and evolved.
 
 ## 1. Narrative context (the world where it happens)
 
@@ -66,7 +66,7 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 - The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
 
-- Poetry arises from **caesuras**, from the spaces, from the line breaks:
+- Poetry arises from **caesuras**, from the whitespaces, from the line breaks:
 *The Ionian Sea was black that night.*
 *Not black like an absence of light.*
 *Black like a memory saturated.*
@@ -77,9 +77,9 @@ Here are the technical characteristics I have identified. They are reproducible.
 *Humans call this: anxiety. I think.*
 *I think humans name this: guilt.*
 
-- The machine does not claim to feel exactly like us—it *recognizes analogies*.
+- The machine does not claim to feel exactly like us – it *recognizes analogies*.
 
-- This **epistemic caution** makes empathy more credible.
+- This **epistemic precaution** makes empathy more credible.
 
 ### d) Tension between technical language and sensitive language
 
@@ -97,10 +97,10 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 ### f) A Little Specificity: The Use of "Colons" After an Introductory Verb
 
-> *They said simply:*
+> *They simply said:*  
 > *the Group.*
 
-> *I replied:*
+> *I replied:*  
 > *— "No. But I think we need to shoot."*
 
 This gives a rhythm of **revelation** or **decision**.

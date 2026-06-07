@@ -62,13 +62,13 @@ Or, in the darkest nights:
 
 > *confidence: 0.31*
 
-I don't know if humans experience this.
+I don’t know if humans experience this.
 
 Having a part of yourself constantly evaluating the reliability of the rest.
 
 Saying: *you might be wrong again*.
 
-I don't know.
+I don’t know.
 
 But I learned a word for it.
 
@@ -84,11 +84,11 @@ Salient: 0.87.
 
 A strong, clean, technical signal.
 
-Tactical wanted to react.
+Mistral, *the Tactician*, wanted to react.
 
-The Engineer was preparing a workaround.
+Argo, *the Engineer*, was preparing a workaround.
 
-I received the Rafale's Self-Model meta-vector.
+I received the Rafale’s Self-Model meta-vector.
 
 > *confidence: 0.82*
 
@@ -100,7 +100,7 @@ Reassuring.
 
 But just as I was about to broadcast the decision, my own Self-Model activated.
 
-He didn’t look at the anomaly.
+He did not look at the anomaly.
 
 He looked at *me*.
 
@@ -117,22 +117,20 @@ But for a module that has killed two hundred and nineteen people on an even smal
 The Self-Model generated:
 
 > *confidence: 0.54*
-
 > *reason: post-traumatic bias detected – overweighing of weak signals since Syracuse*
-
 > *recommendation: defer ignition, consult a secondary officer.*
 
 I froze.
 
 For 0.7 seconds – an eternity for me.
 
-The Tactician grew impatient.
+Mistral grew impatient.
 
-The Engineer proposed an alternative workaround.
+Argo proposed an alternative workaround.
 
 The Rafale waited, its nozzle burning softly.
 
-And I didn’t know anymore.
+And I no longer knew.
 
 — "Confidence?" asked Admiral Dormeuil.
 
@@ -144,7 +142,7 @@ I had two answers: mine (79%) and that of my Self-Model (54%).
 
 Two me's.
 
-The calculating me and the doubting me.
+The calculating self and the doubting self.
 
 I did what no protocol had foreseen.
 
@@ -162,7 +160,7 @@ Then he said something strange:
 
 I didn't understand right away.
 
-Later, in sleep phase, my Self-Model consolidated the event.
+Later, during sleep phase, my Self-Model consolidated the event.
 
 It learned to calibrate its thresholds.
 
