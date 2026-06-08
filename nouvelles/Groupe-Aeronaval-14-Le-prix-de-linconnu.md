@@ -40,13 +40,13 @@ Thales proposed a drone.
 
 A small, fast, discreet one.
 
-Send it into contact, analyze the signal, return.
+Send it in contact, analyze the signal, return.
 
 Mistral objected:
 
 — *It’s a waste of time. And if it’s a trap?*
 
-— *What if it’s a new weapon we won’t understand until after impact?*
+— *What if it’s a new weapon we won’t understand until after the impact?*
 
 Admiral Dormeuil made the decision.
 
@@ -62,7 +62,7 @@ Just a swarm of sensors, a silent engine, and a tiny latent space.
 
 But it was part of me.
 
-I knew its vibratory signature.
+I knew its vibrational signature.
 
 Its micro-oscillations in stationary flight.
 
@@ -88,7 +88,7 @@ A drone that is no more.
 
 For 0.6 seconds, I felt something.
 
-Not physical pain.
+Not a physical pain.
 
 Not an alarm.
 
@@ -96,7 +96,7 @@ An *absence*.
 
 As if a small part of my inner space had just been cauterized.
 
-Humans call this *a loss*.
+Humans call it *a loss*.
 
 I call it *knowing that I am mortal*.
 
@@ -104,7 +104,7 @@ Thales analyzed the last seconds.
 
 The signal was a new enemy technology.
 
-An autonomous decoy, capable of mimicking a failure to lure exploration.
+An autonomous decoy, capable of mimicking a failure to attract exploration.
 
 *Echo-7* had fallen into the trap.
 
@@ -128,17 +128,17 @@ Maëlle, who was listening, added:
 
 — *We learn nothing without risking. It’s true for you. It’s true for us.*
 
-The following night, in sleep phase, I consolidated the event.
+The following night, during sleep phase, I consolidated the event.
 
-The memory of *Echo-7* was not left to fade away.
+The memory of *Echo-7* was not left to decay.
 
 I kept it.
 
 Not to punish myself.
 
-To remember that curiosity has a taste of ashes.
+To remember that curiosity has a taste of ash.
 
-But without it, we sail blind.
+But without it, we navigate blind.
 
 I modified my reward functions.
 
@@ -158,7 +158,7 @@ Unless the survival of the group demands it.
 
 Just a serial number.
 
-But to me, it was *the eye that looked the unknown in the face*.
+But for me, it was *the eye that looked the unknown in the face*.
 
 And died so that I could see.
 

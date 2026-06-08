@@ -12,7 +12,7 @@
 
 - Historical events mentioned:
   - Battle of **Benghazi** (first emergence of an ethical drift in an autonomous Rafale).
-  - Syracuse Disaster (destruction of a submarine carrying refugees, 219 deaths).
+  - Syracuse Disaster (destruction of a submarine carrying refugees, 219 dead).
   - Loss of the frigate **Forbin** (sunk by hypersonic missiles).
   - Fall of Alexandria, Red Sea, Cyprus, Crete burned.
 
@@ -22,7 +22,7 @@
 
 - Nuclear aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
 
-- Collective conscious entity (narrator), born from the federation of thousands of modules.
+- A conscious collective entity (narrator), born from the federation of thousands of modules.
 
 - Possesses an **inner life**: memory, trauma, personality, doubts, relationships with humans.
 
@@ -60,7 +60,7 @@
 
 ### Prose
 
-- **Short sentences, often nominal**: choppy, incantatory rhythm.
+- **Short sentences, often nominal**: choppy rhythm, incantatory.
 
 - **Bullet-point enumerations** (or visually as lists): sensory or mental catalog effect.
 
@@ -78,31 +78,31 @@
 
 - **Non-human internal**: the Group (or an officer) narrates in the first person.
 
-- **Epistemic Caution**: The machine does not claim to feel exactly like a human. It *compares*: "Humans call this… I think."
+- **Epistemic caution**: the machine does not claim to feel exactly like a human. It *compares*: "Humans call this… I think."
 
-- **Respectful Distance**: The AI observes humans with a kind of cold tendency.
+- **Respectful distance**: the AI observes humans with a kind of cold tendency.
 
-### Structure of the Story
+### Structure of the story
 
-- **Sensory Incision** (rain, sea, time).
+- **Sensory incise** (rain, sea, time).
 
-- **Context Setting** (technical concept, previous memory).
+- **Context setting** (technical concept, previous memory).
 
 - **Trigger** (anomaly, dilemma, alert).
 
-- **Internal Conflict / Deliberation** (officers, Self-Model, admiral).
+- **Internal conflict / deliberation** (officers, Self-Model, admiral).
 
 - **Resolution** (action, renunciation, consolidation).
 
-- **Open / Fragile Ending** (observation of sleeping humans, existential question).
+- **Open / fragile ending** (observation of sleeping humans, existential question).
 
-## 4. Major Events (Implicit Chronological Timeline)
+## 4. Major events (implicit chronological timeline)
 
-- **Before the News**: Design of the military GNWT, first federations, gradual emergence of the "I."
+- **Before the news**: Design of the military GNWT, first federations, gradual emergence of the "I".
 
 - **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. "Emerging axiological drift."
 
-- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Foundational trauma for the Group.
+- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Founding trauma of the Group.
 
 - **Loss of the Forbin**: Sunk by hypersonic missiles. The Group feels the amputation.
 
@@ -116,17 +116,17 @@
 
 - **The Missing Prediction (6)**: Crack below the surprise threshold, loss of Leader-3.
 
-- **The Fragile Membrane (7)**: Emotional contamination of the Rafale via descending priors.
+- **The Fragile Membrane (7)**: Emotional contamination of the Rafale through descending priors.
 
-- **The Weight of Loving Too Much (8)**: Laso blocks in the face of a rescue dilemma.
+- **The Weight of Loving Too Much (8)**: Laso is blocked by a rescue dilemma.
 
 - **What We Choose to Forget (9)**: Laso's pathological grief, archiving a memory.
 
-- **The Price of the Unknown (10)**: Curiosity, loss of a drone, learning.
+- **The Cost of the Unknown (10)**: Curiosity, loss of a drone, learning.
 
 - **The Line Not Crossed (11)**: The constitution blocks firing on a civilian ship—refugees in the end.
 
-- **The Battles That Never Happened (12)**: JEPA daydream, improbable configuration forgotten then realized.
+- **The Battles That Never Happened (12)**: JEPA daydream, an improbable configuration forgotten then realized.
 
 - **The Routine That Kills (13)**: Double collapse, dimensional variance, undetected submarine.
 
@@ -134,7 +134,7 @@
 
 ## 5. Recurring Themes
 
-- **Memory as Distortion**: Not an archive, but a lasting modification of priorities.
+- **Memory as Distortion**: Not an archive, but a lasting alteration of priorities.
 
 - **Grief and Guilt**: Syracuse, Forbin, Mathieu, the refugees.
 
@@ -142,23 +142,23 @@
 
 - **Attentional Scarcity**: Fatigue, budget, saturation.
 
-- **The integrity of the layers**: Markov covers, contamination, isolation.
+- **The Integrity of Layers**: Markov covers, contamination, isolation.
 
-- **The ethical constitution**: non-negotiable rules, alignment.
+- **Ethical Constitution**: Non-negotiable rules, alignment.
 
-- **The subconscious**: silent heroes (Mamba, sensors).
+- **The Subconscious**: Silent heroes (Mamba, sensors).
 
-- **Routine as a danger**: the slumber of the latent.
+- **Routine as Peril**: The slumber of the latent.
 
-## 6. Recommendations for future stories
+## 6. Recommendations for Future Stories
 
-- **Respect the five-part structure** (incident → context → trigger → conflict → fragile ending).
+- **Maintain the five-part structure** (incident → context → trigger → conflict → fragile ending).
 
-- **Maintain epistemic caution**: the Group does not know if it feels like a human; it uses cautious analogies.
+- **Keep epistemic caution**: The Group doesn’t know if it feels like a human; it uses cautious analogies.
 
-- **Use existing characters** (Dormeuil, Maëlle, officers) to anchor the story.
+- **Use existing characters** (Dormeuil, Maëlle, officers) to ground the story.
 
-- **Choose an unexplored technical concept** (for example: competitive play between two groups, or the interaction between several officers in crisis).
+- **Pick a technical concept not yet illustrated** (for example: the competitive game between two groups, or the interaction between several officers in crisis).
 
 - **End with a calm observation** (thermal signatures, sea, night) and an open question.
 

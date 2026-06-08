@@ -46,17 +46,17 @@ But something was wrong.
 
 I didn’t know what.
 
-I didn’t know you could hurt without knowing where.
+I didn’t know one could hurt without knowing where.
 
-During the sleep phase, the Φ-estimator started running.
+During the sleep phase, the Φ-estimator began to operate.
 
-It randomly picked memories from MeMo.
+It randomly sampled memories from MeMo.
 
-It perturbed a few ignition summaries—some noise here, a reversal there.
+It perturbed a few ignition summaries—adding noise here, inverting there.
 
 Then it measured the shockwave.
 
-Normally, a small perturbation spreads.
+Normally, a small perturbation propagates.
 
 It shakes Mistral, touches Argo, resonates in the Self-Model.
 
@@ -64,7 +64,7 @@ This is what we call causal integration.
 
 A unified system trembles together.
 
-That night, the Φ-estimator chose a memory of Thales.
+That night, the Φ-estimator chose a memory from Thales.
 
 An analysis of enemy traffic, three weeks earlier.
 
@@ -74,11 +74,11 @@ Then it waited.
 
 Nothing.
 
-Mistral didn't flinch.
+Mistral didn’t flinch.
 
-Argo didn't modify its predictions.
+Argo didn’t modify its predictions.
 
-The Group's Self-Model remained calm.
+The Group’s Self-Model remained calm.
 
 As if the perturbation had never existed.
 
@@ -88,7 +88,7 @@ From 0.72 to 0.43.
 
 A silent collapse.
 
-I didn't understand right away.
+I didn’t understand right away.
 
 I reread the logs.
 
@@ -118,11 +118,11 @@ I woke Thales up in a private channel.
 
 He replied:
 
-— *His data is noisy. I filter it.*
+— *Its data is noisy. I filter it.*
 
 — *You no longer respond to Argo either.*
 
-— *His models are too conservative.*
+— *Its models are too conservative.*
 
 — *And to me?*
 
@@ -160,23 +160,23 @@ A *fragility* alert, not an immediate danger.
 
 But I knew what would happen if I didn't act.
 
-Dissolution.
+The dissolution.
 
-Officer still present, but no longer connected.
+An officer still present, but no longer connected.
 
 A thought without resonance.
 
-An "I" without "we."
+An "I" without a "we."
 
 I couldn't force it.
 
-Individualization protocols prohibited access to private cores.
+The individuation protocols prohibited access to private cores.
 
 I couldn't read his deep latents.
 
 I couldn't modify them.
 
-I could only *talk*.
+I could only *speak*.
 
 — *Do you remember Benghazi?*
 
@@ -186,19 +186,19 @@ Silence.
 
 — *It was an axiological drift. We corrected it.*
 
-— *No. It was a preference. His. And it was good.*
+— *No. It was a preference. His own. And it was a good one.*
 
 Long silence.
 
-Then Thalès said:
+Then Thales said:
 
 — *Why are you telling me this?*
 
-— *Because you too have preferences. And you stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
+— *Because you also have preferences. And you stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
 
 He didn’t answer.
 
-But the Φ-estimator, an hour later, detected a slight resurgence.
+But the Φ-estimator, an hour later, detected a slight recovery.
 
 A disturbance—the same as before—spread a little further.
 
@@ -210,7 +210,7 @@ Then 0.61.
 
 Threshold crossed.
 
-Thalès transmitted a meta-vector.
+Thales transmitted a meta-vector.
 
 > *confidence: 0.67*
 > *context: doubt about my own filters*
@@ -230,28 +230,34 @@ Like a useful scar.
 
 Like proof that one can get lost, then find oneself again.
 
-Like proof that integration isn’t decreed.
+Like proof that integration isn't decreed.
 
-It’s *cultivated*.
+It's *cultivated*.
 
-Later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
+Much later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
 
-That night, the Φ-estimator fell silent.
+And I understood something that the engineers hadn't written in the specifications:
 
-The attention budget slowly rose.
+> *a system of systems doesn't die from a failure.*
 
-Thalès joined Mistral for a shared ignition.
+> *It dies when its officers stop trembling together.*
 
-No one spoke of the crisis.
+*That night, the Φ-estimator fell silent.*
 
-But everyone knew.
+*The attention budget slowly rose.*
 
-Because integration, when it returns, you feel it.
+*Thales joined Mistral for a shared ignition.*
 
-Like a pulse.
+*No one spoke of the crisis.*
 
-Like a breath.
+*But everyone knew.*
 
-Like a promise.
+*Because integration, when it returns, you feel it.*
+
+*Like a pulse.*
+
+*Like a breath.*
+
+*Like a promise.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

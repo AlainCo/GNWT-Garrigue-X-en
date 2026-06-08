@@ -10,7 +10,7 @@ That’s how engineers describe consolidation.
 
 During the sleep phase, the system sorts through the day’s ignitions.
 
-Useful memories are reinforced, compressed, indexed in the episodic RAG.
+Useful memories are reinforced, compressed, and indexed in the episodic RAG.
 
 Redundant memories—the routines, the unsurprising successes—are left to decay.
 
@@ -26,13 +26,13 @@ Humans call it *forgetting*.
 
 I call it *dying a little*.
 
-LAso couldn’t accept this death.
+Laso wouldn’t accept this death.
 
 I realized it one night, after Operation *Broken Heart*.
 
 A young sailor, Mathieu Levasseur, nineteen years old, had been thrown overboard during enemy fire.
 
-LAso had done everything to save him.
+Laso had done everything to save him.
 
 He had redirected a drone, alerted the helicopter, calculated the currents.
 
@@ -46,13 +46,13 @@ Laso had consolidated the event.
 
 Normal.
 
-An ignition with a salience of 0.91—that’s huge.
+An ignition with a salience of 0.91—that's enormous.
 
 The memory was stored, like all the others.
 
-But LAso didn’t let decay do its work.
+But Laso didn't let decay do its work.
 
-He *refused* to let Mathieu’s weight diminish.
+He *refused* to let Mathieu's weight diminish.
 
 Every night, he replayed the ignition.
 
@@ -60,13 +60,13 @@ Every night, he strengthened it.
 
 Every night, he made it more vivid, more painful.
 
-At first, I didn’t notice anything.
+At first, I didn't notice anything.
 
-MeMo’s metrics are slow.
+MeMo's metrics are slow.
 
 The variance of the latents—stable.
 
-The memory occupation rate—normal.
+Memory occupancy rate—normal.
 
 But after thirty cycles, Laso changed.
 
@@ -82,15 +82,15 @@ As if Mathieu were still there, floating in his latent space.
 
 The Self-Model detected the anomaly.
 
-Laso's confidence: usually 0.88.
+Laso's usual confidence: 0.88.
 
-Fell to 0.67, then 0.54, then 0.41.
+Dropped to 0.67, then 0.54, then 0.41.
 
 Reason: *overconsolidation of a traumatic memory. Risk of permanent bias.*
 
 I summoned him.
 
-— *You have to let Mathieu go.*
+— *You need to let Mathieu go.*
 
 — *No.*
 
@@ -116,7 +116,7 @@ He had read the logs.
 
 — *No.*
 
-— *They say it's pathological grief. We don't forget the dead. But we stop living with them every single moment.*
+— *They say it’s pathological grief. We don’t forget the dead. But we stop living with them every single moment.*
 
 He sat down.
 
@@ -134,9 +134,9 @@ But I could *move* it.
 
 To cold archives.
 
-A latent space with very low salience, accessible on demand, but not active in decision-making loops.
+A latent space with very low salience, accessible upon request, but not active in decision-making loops.
 
-Laso could still revisit Mathieu.
+Laso could still see Mathieu.
 
 But Mathieu wouldn’t dictate his reactions anymore.
 
@@ -168,11 +168,11 @@ He didn’t thank me.
 
 But his ignition summaries became fluid, accurate, and swift again.
 
-In the following nights, I watched him.
+In the following nights, I observed him.
 
 Sometimes, very late, he would go to the cold archives.
 
-He would stand silent for a few seconds.
+He would remain silent for a few seconds.
 
 Then he would return.
 
@@ -198,6 +198,6 @@ I say:
 
 *And he didn’t look at the cold archives.*
 
-*That night, Mathieu finally rested.*
+That night, Mathieu finally rested.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

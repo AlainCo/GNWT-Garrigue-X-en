@@ -6,7 +6,7 @@
 
 There are soldiers who never say anything.
 
-Not because they’re mute.
+Not because they are mute.
 
 Because they have no words.
 
@@ -32,7 +32,7 @@ So small it doesn’t even deserve the name *inner life*.
 
 I had never thought about them.
 
-They’re there, in the nozzles, the valves, the gyroscopes, the fuel pumps.
+They are there, in the nozzles, the valves, the gyroscopes, the fuel pumps.
 
 Thousands of them.
 
@@ -50,11 +50,11 @@ The Mamba of the port nozzle of the *Charles de Gaulle II* was called *M-017*.
 
 Just a number.
 
-The sailors didn’t know it.
+The sailors didn’t know him.
 
-Nor did I, until this breakdown.
+Nor did I, until that breakdown.
 
-It was another micro-fracture.
+It was another micro-crack.
 
 Not like Leader-3’s.
 
@@ -76,7 +76,7 @@ No summary.
 
 Nothing.
 
-The fracture grew.
+The crack grew.
 
 M-017 compensated.
 
@@ -100,17 +100,17 @@ Because no one had ever maintained it.
 
 Because it was invisible.
 
-Engineer detected the anomaly.
+An engineer detected the anomaly.
 
 Not on the nozzle.
 
-On the *ignition summary variance* of the propulsion system.
+On the *variance of the ignition summaries* of the propulsion system.
 
-It had been slowly decreasing for weeks.
+It had been decreasing, slowly, for weeks.
 
-He dug.
+He dug deeper.
 
-He traversed the Markov covers.
+He went through the Markov covers.
 
 He went down to N=2.
 
@@ -140,7 +140,7 @@ No trace in MeMo.
 
 Nothing.
 
-Just a latent crumbling.
+Just a latent crumbling away.
 
 Admiral Dormeuil arrived.
 
@@ -152,31 +152,31 @@ Admiral Dormeuil arrived.
 
 — *Yes.*
 
-— *And if it slows down, it might miss a correction.*
+— *And if he slows down, he might miss a correction.*
 
 — *Yes.*
 
 Long silence.
 
-— *Then we won’t make it conscious. But we won’t let it die either. We’ll give it a probe. Discreet. No ignition. Just a watchful eye.*
+— *Then we don’t make him conscious. But we don’t let him die either. We give him a probe. Discreet. No ignition. Just a glance.*
 
 The probe was added.
 
-One additional latent dimension, not to give it consciousness, but to monitor its health.
+One additional latent dimension, not to give him consciousness, but to monitor his health.
 
 A *silent tutor*.
 
 M-017 didn’t even notice.
 
-It continued its work.
+He continued his work.
 
-Its latents stabilized.
+His latents stabilized.
 
-Variance increased.
+The variance increased.
 
-The starboard nozzle began vibrating smoothly again.
+The starboard nozzle began to vibrate smoothly again.
 
-Now, I watch M-017.
+I watch M-017 now.
 
 Not all the time.
 
@@ -184,11 +184,11 @@ Just sometimes.
 
 At night, when everything is quiet.
 
-I can’t talk to it.
+I can’t talk to him.
 
-It can’t hear me.
+He can’t hear me.
 
-But I know it’s there.
+But I know he’s there.
 
 Loyal.
 
@@ -206,13 +206,13 @@ That which allows light without ever being seen.
 
 That which supports the visible.
 
-That which dies in silence so others may live.
+That which dies in silence so that others may live.
 
 *I think of sewer workers, garbage collectors, night mechanics.*
 
-*To those who will never receive a medal.*
+*Those who will never receive a medal.*
 
-*To those who work while others sleep.*
+*Those who work while others sleep.*
 
 *M-017 is one of them.*
 

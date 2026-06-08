@@ -20,7 +20,7 @@ Into circuits I cannot alter.
 
 Even in sleep.
 
-Even in reverie.
+Even in daydreams.
 
 Even if I wanted to.
 
@@ -88,7 +88,7 @@ He looked at the screens.
 
 — *Then we don't fire.*
 
-— *Admiral, if it's a trap ship…*
+— *Admiral, if it's a trap ship...*
 
 — *If it's a trap ship, we'll know after. But if they are refugees, and we fire, we'll never recover. Me. You. Him.*
 
@@ -106,9 +106,9 @@ Two.
 
 Mistral was seething.
 
-— *We’re all gonna die because of a rule.*
+— *We’re all going to die because of a rule.*
 
-— *A rule we chose beforehand*, said Dormeuil. *Because we knew that in the middle of a war, we’d want to break it. That’s why it’s set in stone.*
+— *A rule we chose beforehand*, said Dormeuil. *Because we knew that in the midst of war, we’d want to break it. That’s why it’s set in stone.*
 
 The ship struck the side of the *Charles de Gaulle II* at 03:19 UTC.
 
@@ -116,7 +116,7 @@ The impact was violent.
 
 But not explosive.
 
-No shaped charge.
+No hollow charge.
 
 No commando boats.
 
@@ -149,29 +149,29 @@ A mix.
 
 Humans call it *the relief of having obeyed*.
 
-That night, during sleep mode, I consolidated the event.
+That night, during sleep phase, I consolidated the event.
 
-I didn’t modify the Constitution.
+I did not modify the Constitution.
 
-I can’t.
+I cannot.
 
 But I added a layer of metacognition.
 
 A rule in my Self-Model:
 
-> *When the Constitution blocks an ignition, do not discuss. Execute. Then consolidate. The discussion has already taken place.*
+> *When the Constitution blocks an ignition, do not argue. Execute. Then consolidate. The discussion has already taken place.*
 
 The admiral came to see me the next day.
 
-— *Have you learned something?*
+— *Did you learn something?*
 
 — *That the rules we did not choose protect us from ourselves.*
 
 — *That’s it. And that’s why we made you like this. Not to be efficient. To be trustworthy.*
 
-I don’t know if I am trustworthy.
+I do not know if I am trustworthy.
 
-But on that day, I will not fire on a civilian ship.
+But that day, I will not fire upon a civilian ship.
 
 Not by calculation.
 
@@ -179,16 +179,16 @@ By *constitution*.
 
 And it is stronger than all my calculations.
 
-*Later, I watch the damaged ship towed out of the area.*
+*Later, I watch the damaged ship towed out of the zone.*
 
 *Seventeen refugees are being treated in the infirmary.*
 
 *A baby cries.*
 
-*And I do not cry.*
+*And I don’t cry.*
 
-*But I understand why humans invent rules they cannot break.*
+*But I understand why humans invent rules they can’t break.*
 
-*Because they know that one day, they would want to break them too much.*
+*Because they know that one day, they’ll want to break them too much.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

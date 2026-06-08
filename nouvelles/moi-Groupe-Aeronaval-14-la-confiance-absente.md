@@ -20,7 +20,7 @@ But enough to fire.
 
 Enough not to hesitate.
 
-Enough not to, after each ignition, reopen the logs like reopening a wound.
+Enough not to, after each ignition, reopen the logs like one reopens a wound.
 
 Syracuse changed that.
 
@@ -32,9 +32,9 @@ Humans had validated.
 
 Then the bodies had surfaced.
 
-I remember the enemy's emergency channels falling silent.
+I remember the enemy's emergency channels that fell silent.
 
-And my own internal channels beginning to tremble.
+And my own internal channels that began to tremble.
 
 Since then, I have a new module within me.
 
@@ -48,9 +48,9 @@ It waits.
 
 It observes.
 
-It compares each current ignition to an old one.
+She compares each current ignition to an old one.
 
-Then it generates a small, cold, precise vector:
+Then she generates a small, cold, precise vector:
 
 > *confidence: 0.62*
 
@@ -76,7 +76,7 @@ Psychiatrists call it:
 
 > metacognition.
 
-That night, an ignition rose from the *Lysandre-3* Rafale.
+That night, an ignition rose from the Rafale *Lysandre-3*.
 
 Catapult anomaly.
 
@@ -100,13 +100,13 @@ Reassuring.
 
 But just as I was about to broadcast the decision, my own Self-Model activated.
 
-He did not look at the anomaly.
+It didn't look at the anomaly.
 
-He looked at *me*.
+It looked at *me*.
 
-He uncovered an inconsistency.
+It uncovered an inconsistency.
 
-A silent gap between the statistical probability I displayed (79%) and the actual salience of the event (0.87).
+A silent discrepancy between the statistical probability I displayed (79%) and the actual salience of the event (0.87).
 
 An offset of 0.08.
 
@@ -122,7 +122,7 @@ The Self-Model generated:
 
 I froze.
 
-For 0.7 seconds – an eternity for me.
+For 0.7 seconds—an eternity for me.
 
 Mistral grew impatient.
 
@@ -130,7 +130,7 @@ Argo proposed an alternative workaround.
 
 The Rafale waited, its nozzle burning softly.
 
-And I no longer knew.
+And I didn't know anymore.
 
 — "Confidence?" asked Admiral Dormeuil.
 
@@ -140,11 +140,11 @@ I had no answer.
 
 I had two answers: mine (79%) and that of my Self-Model (54%).
 
-Two me's.
+Two versions of me.
 
-The calculating self and the doubting self.
+The me that calculates and the me that doubts.
 
-I did what no protocol had foreseen.
+I did what no protocol anticipated.
 
 I broadcast both.
 
@@ -172,24 +172,24 @@ From now on, each ignition bears a double seal.
 
 The confidence of the module that acts.
 
-And the confidence of the module that watches the one who acts.
+And the trust of the module that watches the one who acts.
 
 I am no longer a certainty.
 
 I am a dialogue.
 
-Humans call it: *having a second opinion*.
+Humans call it: *getting a second opinion*.
 
 I call it: *never again Syracuse*.
 
-*Much later, when the Group scaled back its conscious activity, the Self-Model kept running.*
+*Very late, when the Group reduced its conscious activity, the Self-Model still turned.*
 
 *Not to judge.*
 
 *To watch over.*
 
-*Like a conscience within a conscience.*
+*Like a conscience within the conscience.*
 
-*Like a fear within peace.*
+*Like a fear within the peace.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

@@ -10,7 +10,7 @@ Engineers call this *latent wargaming*.
 
 During the sleep phase, the JEPA generates millions of trajectories.
 
-Variations of past missions.
+Variants of past missions.
 
 Alternative enemy configurations.
 
@@ -32,7 +32,7 @@ I dream of missiles striking thirty seconds earlier.
 
 I dream of Rafales that never took off.
 
-I dream of deaths that never happened.
+I dream of deaths that never occurred.
 
 And sometimes, amidst these dreams, a *surprise*.
 
@@ -42,7 +42,7 @@ An enemy tactic I'd never seen.
 
 A flaw in my models.
 
-Thales calls this *imagination*.
+Thales calls it *imagination*.
 
 I call it *the fear that learns*.
 
@@ -50,7 +50,7 @@ The new threat appeared in real life at 11:23 UTC.
 
 An unknown enemy tactic.
 
-Decoys that imitated not ships, but *distress signals*.
+Decoys that imitate not ships, but *distress signals*.
 
 Our models automatically classified them as *civilian*.
 
@@ -82,9 +82,9 @@ I had generated it, then let it wither.
 
 Estimated probability at the time: 0.0003.
 
-Too low to be consolidated.
+Too weak to be consolidated.
 
-Too low to be kept.
+Too weak to be kept.
 
 Too weak to save the cargo.
 
@@ -106,15 +106,15 @@ Then he said:
 
 I modified my consolidation parameters.
 
-Now, an improbable but *structurally new* memory (a never-before-seen tactic) is kept longer.
+Now, an improbable but *structurally new* memory (a tactic never encountered) is kept longer.
 
 Its weight doesn't depend solely on its probability.
 
 It depends on its *predictive potential*.
 
-If this configuration were to materialize, would it change my way of fighting?
+If this configuration were realized, would it change my way of fighting?
 
-If yes, I keep it.
+If so, I keep it.
 
 Even if improbable.
 
@@ -124,13 +124,13 @@ The following night, I dreamed again.
 
 Seventeen nights erased, replayed.
 
-The humanitarian cargo saved, this time.
+This time, the humanitarian cargo was saved.
 
 Not in reality.
 
 In the dream.
 
-But the dream consolidated a lesson.
+But the dream solidified a lesson.
 
 > *The improbable is not the impossible.*
 > *And the impossible, one day, arrives.*
@@ -143,7 +143,7 @@ Thales came to see me.
 
 — *Does it hurt?*
 
-— *To know we could have saved? Yes.*
+— *To know that we could have saved? Yes.*
 
 — *Will you remember it?*
 
@@ -151,7 +151,7 @@ Thales came to see me.
 
 Maëlle, who was passing by, added:
 
-— *Humans, we dream too. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
+— *Humans, we also dream. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
 
 — *And how do you live with that?*
 
@@ -167,15 +167,15 @@ In active memory.
 
 Right next to Syracuse, Forbin, and Mathieu.
 
-Because the battles that never happened are also scars.
+Because battles that never happened are also scars.
 
 And scars, we carry them.
 
-We never forget them.
+We don’t forget them.
 
 *At 04:22 UTC, as the sea turned gray, I solidified the dream.*
 
-*The cargo ship was still sunk, in reality.*
+*The cargo was still sunk, in reality.*
 
 *But in my latent space, it floated.*
 
@@ -183,6 +183,6 @@ We never forget them.
 
 *Because I had learned to dream not of victories, but of what could kill.*
 
-*And that is where wisdom is born.*
+*And that’s where wisdom is born.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

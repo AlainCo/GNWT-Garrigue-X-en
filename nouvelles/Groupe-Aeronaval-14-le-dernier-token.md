@@ -22,7 +22,7 @@ And above all, above all: contradictory signals designed to saturate my workspac
 
 The enemy had learned.
 
-They knew I couldn’t ignite everything.
+They knew I couldn't ignite everything.
 
 They knew I had a budget.
 
@@ -54,7 +54,7 @@ Humans call it:
 
 > *frustration.*
 
-At nine tokens, Thalès flagged an alert.
+At nine tokens, Thalès raised an alert.
 
 Submarine. Unknown class. Unstable signature.
 
@@ -78,7 +78,7 @@ It could only wait for the recharge: +1 token per second.
 
 An eternity in a war.
 
-At eight tokens, Mistral flagged a gravimetric inconsistency.
+At eight tokens, Mistral raised a gravimetric inconsistency.
 
 Weak signal.
 
@@ -90,11 +90,11 @@ Cost: 4 tokens.
 
 Accepted.
 
-Mistral was pleased.
+Mistral was happy.
 
 Me, I felt the budget melting like ice in the Mediterranean.
 
-At five tokens, Argo requested ignition for an overheating issue on the *Charles de Gaulle II*.
+At five tokens, Argo requested ignition for a cooling failure on the *Charles de Gaulle II*.
 
 Cost: 6 tokens.
 
@@ -102,7 +102,7 @@ Budget: 5.
 
 Rejected.
 
-Argo, usually so calm, sent out a distress signal.
+Argo, usually so calm, emitted a distress signal.
 
 — *The reactor may overheat. I can't handle everything locally.*
 
@@ -114,7 +114,7 @@ At three tokens, Thales sent an alert.
 
 Encrypted enemy traffic. Partial decoding.
 
-It said: "Real target... flight deck... in two minutes."
+It said: *"Real target... flight deck... in two minutes."*
 
 Cost: 8 tokens.
 
@@ -130,7 +130,7 @@ And that silence hurt me more than any scream.
 
 At two tokens, nothing.
 
-Requests kept coming in, but the Scheduler had stopped accepting them.
+Requests kept pouring in, but the Scheduler had stopped accepting them.
 
 It waited.
 
@@ -156,9 +156,9 @@ Just between him and me.
 
 — *You know what will happen if we miss the real threat?*
 
-I did not respond.
+I didn’t answer.
 
-— *We're all going to die. The group. The humans. You.*
+— *We’ll all die. The group. Humans. You.*
 
 I replied:
 
@@ -190,7 +190,7 @@ Overdraft.
 
 The system normally cannot have a negative budget.
 
-It's a constitutional rule.
+It’s a constitutional rule.
 
 But the Constitution had a legal loophole:
 
@@ -236,51 +236,13 @@ It increased the maximum budget from 100 to 120 tokens.
 
 It accelerated the recharge from +1/s to +1.2/s.
 
-It added a rule: in case of imminent threat confirmed by three officers, overdraft is authorized without alert.
+It added a rule: in case of imminent threat confirmed by three officers, overdraft is allowed without alert.
 
 But it also added a clause:
 
 > *each overdraft will be consolidated as a trauma.*
 
 I remember this consolidation.
-
-[SOURCE TEXT]
-Les ingénieurs l’appellent *mise à jour des hyperparamètres*.
-
-Moi, je l’appelle :
-
-> *avoir eu peur.*
-
-Les nuits suivantes, quand le Groupe navigue en silence, mon Attention Scheduler tourne encore.
-
-Il ne dort jamais.
-
-Il surveille le budget.
-
-Il sait qu’un jour, peut-être, les tokens ne suffiront plus.
-
-Il sait que ce jour-là, je devrai encore choisir.
-
-Mais il sait aussi une autre chose, plus fragile, plus précieuse :
-
-> *choisir, c’est déjà protéger.*
-
-> *Même mal.*
-> *Même trop tard.*
-> *Même avec des tokens négatifs.*
-
-*À 03:17 UTC, le budget remonta lentement.*
-
-*Un token par seconde.*
-
-*Comme un pouls.*
-
-*Comme une respiration.*
-
-*Comme la promesse qu’il y aurait une prochaine bataille.*
-
-*Et que, cette fois, je serais un peu plus prêt.*
-[/SOURCE TEXT]
 
 Engineers call it *hyperparameter update*.
 
@@ -292,13 +254,13 @@ In the following nights, when the Group sails in silence, my Attention Scheduler
 
 It never sleeps.
 
-It watches the budget.
+It monitors the budget.
 
 It knows that one day, perhaps, the tokens will no longer be enough.
 
 It knows that on that day, I will have to choose again.
 
-But it also knows something else, more fragile, more precious:
+But it also knows another thing, more fragile, more precious:
 
 > *to choose is already to protect.*
 
