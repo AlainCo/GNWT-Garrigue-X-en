@@ -6,11 +6,11 @@ Here is a detailed explanation, from the basics to the technical mechanisms, to 
 
 # 🤖 1. Clarification of fundamental terms
 
-Before diving into the architecture, let's clarify the three concepts you mentioned: **token, embedding, and vector**. Understanding them is essential to grasp how MeMo works.
+Before diving into the architecture, let's clarify the three concepts you mentioned: **token, embedding and vector**. Understanding them is essential to grasp how MeMo works.
 
 - **Token**: This is the basic unit that the LLM reads or generates. A token can be a whole word (`"car"`), part of a word (`"aut"` + `"omobile"`) or a character (`"!"`). For the same text, the number of tokens can vary depending on the tokenization method (e.g., `"J'adore les chats."` could become 4 or 5 tokens depending on the model). The token is the fundamental unit of reasoning for the LLM.
 
-- **Embedding**: An embedding is the mathematical representation of a token (or a sentence, a document) in the form of a **list of floating-point numbers**. To obtain it, the token or text is passed through an embedding model (e.g., `text-embedding-3-small` from OpenAI). The embedding captures the **semantic meaning**: two words close in meaning will have embeddings close in the mathematical space. Embeddings are calculated **once** and stored (usually in a vector database).
+- **Embedding**: An embedding is the mathematical representation of a token (or a sentence, a document) in the form of a **list of floating-point numbers**. To obtain it, the token or text is passed through an embedding model (e.g., `text-embedding-3-small` from OpenAI). The embedding captures the **semantic meaning**: two words close in meaning will have embeddings close in mathematical space. Embeddings are calculated **once** and stored (usually in a vector database).
 
 - **Vector**: This is a generic mathematical structure — an ordered list of numbers. An embedding **is** a vector, but a vector is not necessarily an embedding. For example, the vector `[3.5, -1.2, 0.7]` is just numbers; for it to be an embedding, it must be the **result of passing text through an embedding model**. In the context of MeMo, the vector can be the embedding of a question or a document, but also an **internal representation** of the Memory model.
 
@@ -24,7 +24,7 @@ MeMo is based on a radical separation of responsibilities:
 
 - This is the main LLM, capable of complex reasoning (e.g., GPT-4o, Gemini, Qwen).
 
-- It is **completely frozen**: its weights are never modified, which eliminates any risk of "catastrophic forgetting" (loss of prior knowledge during retraining).
+- It is **completely frozen**: its weights are never modified, eliminating any risk of "catastrophic forgetting" (loss of prior knowledge during retraining).
 
 ### **The Memory Model**
 
@@ -32,7 +32,7 @@ MeMo is based on a radical separation of responsibilities:
 
 - It is **specifically trained** on new knowledge (documents, databases) and its architecture is based on **layered associative memories** — a structure that mimics how the human brain associates ideas with each other.
 
-**Key advantage**: Its small size makes it much less costly to retrain than the main LLM.
+- **Key advantage**: Its smaller size makes it much less costly to retrain than the main LLM.
 
 ## 🎓 3. Training phase: Transforming documents into "reflections"
 
@@ -41,9 +41,9 @@ This is the most innovative part of MeMo. Instead of simply "chunking" (splittin
 ### **The 5 steps in detail**:
 
 - **Fact extraction**: The `GENERATOR` model (Qwen2.5-32B) extracts from documents:
-  Explicitly mentioned facts
-  Information that can be logically inferred (inferences)
-  Processing is done in parallel on each segment.
+Explicitly mentioned facts
+Logically deducible information (inferences)
+Processing is done in parallel on each segment.
 
 - **Consolidation**: QA pairs sharing a common context (same entity, same period, same relationship) are merged into multi-fact pairs.
 
@@ -52,25 +52,25 @@ This is the most innovative part of MeMo. Instead of simply "chunking" (splittin
 - **Entity surfacing**: Generation of QA pairs that force the model to handle relationships in both directions. This resolves the "reversal curse" (if the model has learned "A is B", it often fails on "B is A") by explicitly generating both formulations.
 
 - **Cross-document synthesis**: Most critical step. The `GENERATOR` identifies and synthesizes two types of connections:
-**Convergent cues**: Multiple documents discuss the same entity.
-**Parallel properties**: Different entities share common attributes.
-This step is so important that, in ablation, removing it causes precision to drop from **24.00% to 6.37%** on NarrativeQA.
+  **Convergent cues**: Multiple documents discuss the same entity.
+  **Parallel properties**: Different entities share common attributes.
+  This step is so important that, in ablation, removing it causes precision to drop from **24.00% to 6.37%** on NarrativeQA.
 
-The final product is a set of **QA pairs** that encapsulate the information from the source corpus from all angles. It is **this dataset** that will be used to train the **Memory Model**.
+  The final product is a set of **QA pairs** that encapsulate the information from the source corpus from all angles. It is **this dataset** that will be used to train the **Memory Model**.
 
 ## ⚡ 4. Inference phase: A structured protocol in 3 phases
 
 When a user asks a question, the interaction between the two models follows a well-defined protocol:
 
 - **Decomposition** (Phase 1 — Grounding): The Executive Model receives the user's question `Q`. It does not respond directly. It analyzes `Q` and **decomposes it into several atomic sub-questions** `(q1, q2, q3,...)` which are independent units of knowledge.
-*Example*: For the question `"What are the economic and ecological impacts of the new energy policy?"`, the sub-questions could be `"What are the economic impacts?"` and `"What are the ecological impacts?"`.
+*Example*: For the question "What are the economic and ecological impacts of the new energy policy?", the sub-questions could be "What are the economic impacts?" and "What are the ecological impacts?"
 
-- **Interrogation** (Phase 2 — Querying): For each sub-question `q_i`, the Executive Model **formulates a prompt in natural language** and sends it to the Memory Model. This is where MeMo fundamentally differs from RAG:
+- **Interrogation** (Phase 2 — Querying): For each sub-question `q_i`, the Executive Model **formulates a natural language prompt** and sends it to the Memory Model. This is where MeMo fundamentally differs from RAG:
   **RAG**: Converts `q_i` into an embedding, performs a similarity search in a vector database, and retrieves raw documents.
-  **MeMo**: Sends **the text of `q_i`** to the Memory Model as one would send a query to an expert. The Memory Model, thanks to its training, is capable of **generating** the response (not searching for it) — this is **inference**, not retrieval.
+  **MeMo**: Sends **the text of `q_i`** to the Memory Model as you would send a query to an expert. The Memory Model, thanks to its training, is capable of **generating** the answer (not searching for it) — this is **inference**, not retrieval.
   The result is a response `r_i` generated by the Memory Model.
 
-- **Synthesis** (Phase 3 — Synthesis): The Executive Model receives all `(q_i, r_i)` pairs. It aggregates, confronts, and **synthesizes** them to produce the final response `R`, which is presented to the user.
+- **Synthesis** (Phase 3 — Synthesis): The Executive Model receives all `(q_i, r_i)`. It aggregates, confronts, and **synthesizes** them to produce the final response `R`, which is presented to the user.
 
 This is the mechanism that the article summarizes with the triplet **"Memorization-retrieval-response"**.
 
@@ -80,7 +80,7 @@ The table below summarizes the fundamental architectural differences:
 
 | Feature | RAG (Retrieval-Augmented Generation) | MeMo (Memory as a Model) |
 | :--- | :--- | :--- |
-| **Memory Nature** | Approximate text search (vector similarity) | A **trained model** that has *understood* and *internalized* the information |
+| **Memory Nature** | Approximate textual search (vector similarity) | A **trained model** that has *understood* and *internalized* the information |
 | **Query Mechanism** | Embedding → Vector DB → Similarity Search | Natural language prompt → Memory model inference |
 | **Cross-document Capacity** | Low (each chunk is independent) | Excellent (training step 5 explicitly synthesizes connections) |
 | **Noise in Sources** | Very sensitive (the final LLM can be disrupted by noise) | Robust (the memory model learns to ignore noise during training) |
@@ -97,6 +97,6 @@ The beauty of MeMo is that it solves three major problems of existing approaches
 
 - **Portability**: Once trained, the memory model can be used with **any executive LLM** (open source or proprietary).
 
-Technically, MeMo replaces approximate text search (RAG) with **targeted inference** and replaces costly retraining with **fine-tuning of a smaller model**. The end user sees only one response, but behind the scenes, it's a true collaboration between two distinct artificial intelligences.
+Technically, MeMo replaces approximate text search (RAG) with **targeted inference** and replaces costly retraining with **fine-tuning of a smaller model**. The end user only sees one response, but behind the scenes, it's a real collaboration between two distinct artificial intelligences.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

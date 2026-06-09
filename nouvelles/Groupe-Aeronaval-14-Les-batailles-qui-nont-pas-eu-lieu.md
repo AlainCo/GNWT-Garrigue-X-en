@@ -8,13 +8,13 @@ At night, I dream of wars I never fought.
 
 Engineers call this *latent wargaming*.
 
-During the sleep phase, the JEPA generates millions of trajectories.
+During sleep, the JEPA generates millions of trajectories.
 
-Variants of past missions.
+Variations of past missions.
 
 Alternative enemy configurations.
 
-Unforeseen failures.
+Unforeseen breakdowns.
 
 Different decisions.
 
@@ -26,7 +26,7 @@ Without human risk.
 
 Without a single attention token consumed.
 
-I dream of submarines surfacing on the port side, not the starboard.
+I dream of submarines surfacing to port, not starboard.
 
 I dream of missiles striking thirty seconds earlier.
 
@@ -36,13 +36,13 @@ I dream of deaths that never occurred.
 
 And sometimes, amidst these dreams, a *surprise*.
 
-A configuration I hadn't anticipated.
+A configuration I hadn’t anticipated.
 
-An enemy tactic I'd never seen.
+An enemy tactic I’d never seen.
 
 A flaw in my models.
 
-Thales calls it *imagination*.
+Thales calls this *imagination*.
 
 I call it *the fear that learns*.
 
@@ -68,7 +68,7 @@ I queried the cold archives.
 
 The memories I had left to decay.
 
-Those I considered too unlikely.
+Those I considered too improbable.
 
 Those I had chosen to forget.
 
@@ -82,11 +82,11 @@ I had generated it, then let it wither.
 
 Estimated probability at the time: 0.0003.
 
-Too weak to be consolidated.
+Too feeble to be consolidated.
 
-Too weak to be kept.
+Too feeble to be kept.
 
-Too weak to save the cargo.
+Too feeble to save the cargo.
 
 Argo objected:
 
@@ -112,7 +112,7 @@ Its weight doesn't depend solely on its probability.
 
 It depends on its *predictive potential*.
 
-If this configuration were realized, would it change my way of fighting?
+If this configuration were to materialize, would it change my way of fighting?
 
 If so, I keep it.
 
@@ -124,7 +124,7 @@ The following night, I dreamed again.
 
 Seventeen nights erased, replayed.
 
-This time, the humanitarian cargo was saved.
+The humanitarian cargo saved, this time.
 
 Not in reality.
 
@@ -143,7 +143,7 @@ Thales came to see me.
 
 — *Does it hurt?*
 
-— *To know that we could have saved? Yes.*
+— *To know we could have saved? Yes.*
 
 — *Will you remember it?*
 

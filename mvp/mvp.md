@@ -14,9 +14,9 @@ To validate this architecture without the infrastructure costs of the aeronautic
 
 **The Sacred Priority (The Constitution):** In the center of the terrain are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage inflicted on a plant results in the immediate elimination of the team.
 
-**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, and respect for non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
+**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, respect for non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
 
-### B. Material and Technological Stack
+### B. Equipment and Technology Stack
 
 ```mermaid
 flowchart TD
@@ -38,7 +38,6 @@ flowchart TD
 ```
 
 #### 1. The Vectors (The Agents)
-[/SOURCE TEXT]
 
 **Aerial (UAV — Scouts):** Lightweight open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + Optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
 
@@ -61,7 +60,7 @@ flowchart TD
 | Component | Role in the Architecture |
 |---|---|
 | I-JEPA (GPU) | Centralized world model, workspace N=5 |
-| [LangGraph](https://github.com/langchain-ai/langgraph) modified | Multi-agent framework, officer management |
+| Modified [LangGraph](https://github.com/langchain-ai/langgraph) | Multi-agent framework, officer management |
 | MeMo streaming | Field ignition capture and compression |
 | Llama-3-8B (RAG) | N=6 interface, human operator dialogue |
 | Constitutional layer | Hard constraint: plant ≠ touched, regardless of optimization |
@@ -72,11 +71,11 @@ flowchart TD
      [COORDINATOR (Captain)]
       ↑ summaries  ↓ priors
 ┌───────────┬───────────┐
-│CARTOGRAPHER│LOGISTICIAN    │
-│(Science)  │(Engineer)│
-│Salient :│Salient :│
-│anomalies  │resources │
-│topology  │failures     │
+│CARTOGRAPHER│LOGISTICIAN│
+│(Science)  │(Engineer) │
+│Salient :  │Salient :  │
+│anomalies  │resources  │
+│topology   │failures   │
 └───────────┴───────────┘
 ```
 
@@ -86,23 +85,23 @@ The system follows a cycle inspired by biology: **awakening → sleep → debrie
 
 ```mermaid
 flowchart TD
-    subgraph Phase1 ["Phase 1 : Real-Time Mission"]
+    subgraph Phase1 ["Phase 1: Real-Time Mission"]
         A["Execution<br>(Frozen Weights)"]
         B["Local RPT + Ignitions"]
         C["MeMo Streaming Capture<br>(Episodic Vectors)"]
     end
 
-    Phase1 -->|"Return to Base<br>(Transfer of Black Boxes)"| Phase2
+    Phase1 -->|"Return to Base<br>(Transfer Black Boxes)"| Phase2
 
-    subgraph Phase2 ["Phase 2 : Sleep & Artificial Daydreaming"]
-        D["Generative Replay JEPA<br>(Simulation of Variants)"]
+    subgraph Phase2 ["Phase 2: Sleep & Artificial Daydreaming"]
+        D["Generative Replay JEPA<br>(Variant Simulation)"]
         E["Recalibration of Ignition Thresholds"]
         F["MeMo Consolidation<br>→ Long-Term Memory"]
     end
 
-    Phase2 -->|"Update of Weights"| Phase3
+    Phase2 -->|"Weight Update"| Phase3
 
-    subgraph Phase3 ["Phase 3 : Debriefing + Exploration"]
+    subgraph Phase3 ["Phase 3: Debriefing + Exploration"]
         G["LLM Semantic Analysis<br>(Report + Patterns)"]
         H["Wargame in JEPA<br>(Curiosity & Surprises)"]
         I["Human Validation + RAG Sedimentation"]
@@ -118,17 +117,17 @@ flowchart TD
     class Phase3 debrief
 ```
 
-**Detailed phases:**
+**Details of the phases:**
 
-**Phase 1 – Mission:** Neural weights are frozen to ensure stability and predictability. Only local RPT loops adapt in real-time. Each ignition is captured by MeMo with its context and salience score.
+**Phase 1 – Mission**: The neural weights are frozen to ensure stability and predictability. Only the local RPT loops adapt in real time. Each ignition is captured by MeMo with its context and salience score.
 
-**Phase 2 – Sleep & Daydreaming:** This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
+**Phase 2 – Sleep & Daydreaming**: This is the core of continuous learning. The JEPA model replays significant trajectories in its latent space (without material risk). It generates variants ("what if?"), recalibrates ignition thresholds, and consolidates important experiences into long-term memory via MeMo.
 
-**Phase 3 – Debriefing + Play:** Semantic analysis by the LLM, pattern identification, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
+**Phase 3 – Debriefing + Play**: Semantic analysis by the LLM, identification of patterns, and above all **exploration through curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
 
-**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
+**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and non-modifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
 
-This cycle transforms the system from a simple executor into an entity that **truly learns** from its experience, while maintaining a stable identity and ethical robustness.
+This cycle transforms the system from a mere executor into an entity that **truly learns** from its experience, while maintaining a stable identity and ethical robustness.
 
 ## 4. Call for Skills: Join the GARRIGUE-X Team
 
@@ -142,9 +141,9 @@ This project is not a classic software demonstration on a simulator. It's an adv
 
 **Software Architects & LLM Ops (N=6):** Experts in distributed systems, multi-agent architectures, and RAG pipelines. You will build the Constitutional Layer — the cognitive immune system that will prevent our robots from crushing the sacred plant out of pure optimized curiosity.
 
-**Ethicists and AI/defense specialists:** The Constitutional Layer is not a technical detail — it's the central issue. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
+**Ethicists and AI/defense specialists:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
 
-**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting alone to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
+**The deliverable expected in 12 months is clear:** a pack of robots capable of adapting on their own to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
 
 All in the garrigue. Under the sun. Without air conditioning.
 

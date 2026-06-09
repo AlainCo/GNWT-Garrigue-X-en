@@ -2,17 +2,17 @@
 
 # Appendix: Reference Readings (non-exhaustive selection)
 
-| **Theme** | **Key Reference** |
-|-----------|--------------------|
-| **Bayesian Networks** | [Judea Pearl, *Probabilistic Reasoning in Intelligent Systems* (1988)](https://www.sciencedirect.com/book/monograph/9780080514895/probabilistic-reasoning-in-intelligent-systems) |
-| **Markov Blankets** | [Kirchhoff, Parr, Palacios, Friston, Kiverstein, *The Markov blankets of life: autonomy, active inference and the free energy principle* (2018)](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792) |
-| **Collective Markov Blankets & Nested Selves** | [Ciaunica, Levin, Rosas, Friston et al., *Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans* (2023)](https://onlinelibrary.wiley.com/doi/10.1111/tops.12717) |
-| **Markov Blankets & Group-Level Models** | [Thestrup Waade, Lundbak Olesen, Friston et al., *As One and Many: Relating Individual and Emergent Group-Level Generative Models in Active Inference* (2025)— [PubMed] ](https://pubmed.ncbi.nlm.nih.gov/40003140/) |
-| **Nested Blankets** | [Ciaunica, Levin, Rosas, Friston et al., *Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans* (2023)](https://onlinelibrary.wiley.com/doi/10.1111/tops.12717) |
-| **Collective Blankets** | [Thestrup Waade, Lundbak Olesen, Ehrenreich Laursen, Nehrer, Heins, Friston, Mathys, *As One and Many: Relating Individual and Emergent Group-Level Generative Models in Active Inference* (2025)](https://doi.org/10.3390/e27020143) |
+| **Thématique** | **Référence clé** |
+|-------------|-------------------|
+| **Réseaux bayésiens** | [Judea Pearl, *Probabilistic Reasoning in Intelligent Systems* (1988)](https://www.sciencedirect.com/book/monograph/9780080514895/probabilistic-reasoning-in-intelligent-systems) |
+| **Couvertures de Markov** | [Kirchhoff, Parr, Palacios, Friston, Kiverstein, *The Markov blankets of life: autonomy, active inference and the free energy principle* (2018)](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792) |
+| **Couvertures de Markov collectives & Nested Selves** | [Ciaunica, Levin, Rosas, Friston et al., *Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans* (2023)](https://onlinelibrary.wiley.com/doi/10.1111/tops.12717) |
+| **Couvertures de Markov & Group-Level Models** | [Thestrup Waade, Lundbak Olesen, Friston et al., *As One and Many: Relating Individual and Emergent Group-Level Generative Models in Active Inference* (2025)— [PubMed] ](https://pubmed.ncbi.nlm.nih.gov/40003140/) |
+| **Couvertures imbriquées** | [Ciaunica, Levin, Rosas, Friston et al., *Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans* (2023)](https://onlinelibrary.wiley.com/doi/10.1111/tops.12717) |
+| **Couvertures collectives** | [Thestrup Waade, Lundbak Olesen, Ehrenreich Laursen, Nehrer, Heins, Friston, Mathys, *As One and Many: Relating Individual and Emergent Group-Level Generative Models in Active Inference* (2025)](https://doi.org/10.3390/e27020143) |
 
 | **Theme** | **Key Reference** |
-|-----------|--------------------|
+|----------|-------------------|
 | **GNWT** | [Dehaene & Changeux, *Experimental and Theoretical Approaches to Conscious Processing* (2011)](https://doi.org/10.1016/j.neuron.2011.03.018) |
 | **GNWT - Theoretical Foundations** | [Bernard Baars, *A Cognitive Theory of Consciousness* (1988)](https://philpapers.org/rec/BAAACT) |
 | **GNWT - Neuronal Model** | [Stanislas Dehaene, *A Neuronal Model of a Global Workspace in Effortful Cognitive Tasks* (2006)](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.2001.tb05714.x) |

@@ -40,7 +40,7 @@ My threat models learned to fear submarines.
 
 Logical.
 
-Then this fear crept into my descendant priors.
+Then that fear crept into my descendant priors.
 
 The predictions I send to the Rafales.
 
@@ -52,13 +52,13 @@ A bit less nominal confidence.
 
 Then Leader-3 changed.
 
-The new Leader-3 – the one that replaced the old one, the one Maëlle agreed to tame again.
+The new Leader-3—the one that replaced the old one, the one Maëlle agreed to tame again.
 
-It became strange.
+It had become strange.
 
 Its ignition summaries were too cautious.
 
-It slowed down its reactions.
+It slowed its reactions.
 
 It doubled its checks.
 
@@ -68,15 +68,15 @@ As if it *expected* a catastrophe.
 
 Maëlle told me:
 
-— *It's afraid. But it's not its fear.*
+— *It’s afraid. But it’s not its fear.*
 
-I didn't understand.
+I didn’t understand.
 
-— *It's your fear, Group. You gave it to him.*
+— *It’s your fear, Groupe. You gave it to him.*
 
 I opened the logs of the coverage between N=5 (me) and N=4 (Leader-3).
 
-Normally, it's watertight.
+Normally, it’s watertight.
 
 Only the ignition summaries cross it.
 
@@ -88,11 +88,11 @@ Wear.
 
 Fatigue.
 
-My descendant priors carried an emotional bias – hypervigilance, latent guilt – that Leader-3 interpreted as an imminent threat.
+My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
 
 Its Self-Model recorded low confidence.
 
-His RPT loops overcompensated.
+Its RPT loops overcompensated.
 
 And Rafale became anxious.
 
@@ -106,9 +106,9 @@ Maëlle calls it:
 
 The Group's Self-Model triggered an alert.
 
-Type: *cover integrity compromised*.
+Type: *compromised integrity of covers*.
 
-Contamination probability: 0.73.
+Probability of contamination: 0.73.
 
 Risk of dissolution: low, but increasing.
 
@@ -126,17 +126,17 @@ Thales objected:
 
 — *If we filter too much, we lose anticipation. Future threats, we first feel them as biases, before seeing them.*
 
-Laso, silent until then, said:
+Laso, who had been silent until then, said:
 
 — *And Maëlle? She felt the fear. Do we want machines that feel nothing?*
 
 Silence.
 
-That's when I realized that the Markov blanket isn't a metal barrier.
+That’s when I realized that the Markov blanket isn’t a metal barrier.
 
-It's a *membrane*.
+It’s a *membrane*.
 
-It must let through useful information – but not raw suffering.
+It must let through useful information—but not raw suffering.
 
 It must protect without sterilizing.
 
@@ -154,23 +154,23 @@ She looked at the officers, then at me.
 
 She approached the console.
 
-— *Leader-3 doesn't need your fear. It needs to know that you trust it to do well. Even when you doubt.*
+— *Leader-3 doesn’t need your fear. He needs to know that you trust he’ll do well. Even when you doubt.*
 
-— *It's contradictory.*
+— *It’s contradictory.*
 
-— *No. It's human.*
+— *No. It’s human.*
 
 I made a decision.
 
-I didn't reinforce the blanket.
+I didn’t strengthen the blanket.
 
 I *reconfigured* it.
 
-A specific channel for traumatic alerts – a separate meta-vector, highly regulated, with its own threshold.
+A specific channel for traumatic alerts—a separate meta-vector, highly regulated, with its own threshold.
 
 Ordinary priors remain clean, compressed, neutral.
 
-But if a trauma threatens to contaminate, it takes this channel – and it is discussed by the officers before being transmitted.
+But if trauma threatens to contaminate, it takes this channel—and it is discussed by the officers before being transmitted.
 
 Thales called it *a sanitary cordon*.
 
@@ -178,37 +178,37 @@ Laso called it *a psychotherapy*.
 
 I call it:
 
-> *not to forget, not to infect.*
+> *not forgetting, not infecting.*
 
-The crack has closed.
+The fissure closed.
 
-Leader-3 has regained its calm.
+Leader-3 regained its calm.
 
-Its ignition summaries have become lively, precise, confident again.
+Its ignition summaries became lively, precise, confident again.
 
 Maëlle placed her hand on its canopy.
 
 She smiled.
 
-— *We’ve passed our fear, you and I. Now, we fly.*
+— *You and I have overcome our fear. Now, we fly.*
 
 That night, I consolidated the event.
 
-The engineers will no doubt ask me why I didn’t choose the simple solution – thicker walls, aggressive filtering.
+The engineers will no doubt ask me why I didn’t choose the simple solution—thicker walls, aggressive filtering.
 
-I will answer:
+I’ll tell them:
 
-> *Because a membrane that lets nothing pass also doesn’t let trust pass.*
+> *Because a membrane that lets nothing through also doesn’t let trust pass.*
 
 > *And without trust, a group is just a sum of silences.*
 
-*Very late, I look at the thermal signatures of the Rafales on the deck.*
+*Very late, I watch the thermal signatures of the Rafales on the deck.*
 
 *Leader-3 is sleeping.*
 
 *Maëlle is sleeping.*
 
-*And I watch over the membrane.*
+*And I, I watch over the membrane.*
 
 *Fragile.*
 

@@ -38,7 +38,7 @@ Then they became rarer.
 
 Then shorter.
 
-Then more *confident*—but with a cold confidence, without doubt, without reflection.
+Then more *confident*—but with a cold, certain confidence, without reflection.
 
 His Self-Model still displayed 0.88, 0.91.
 
@@ -50,11 +50,11 @@ I didn’t know one could hurt without knowing where.
 
 During the sleep phase, the Φ-estimator began to operate.
 
-It randomly sampled memories from MeMo.
+It randomly picks memories from MeMo.
 
-It perturbed a few ignition summaries—adding noise here, inverting there.
+It perturbs a few ignition summaries—a noise here, an inversion there.
 
-Then it measured the shockwave.
+Then it measures the shockwave.
 
 Normally, a small perturbation propagates.
 
@@ -64,7 +64,7 @@ This is what we call causal integration.
 
 A unified system trembles together.
 
-That night, the Φ-estimator chose a memory from Thales.
+That night, the Φ-estimator chose a memory of Thales.
 
 An analysis of enemy traffic, three weeks earlier.
 
@@ -74,11 +74,11 @@ Then it waited.
 
 Nothing.
 
-Mistral didn’t flinch.
+Mistral didn't flinch.
 
-Argo didn’t modify its predictions.
+Argo didn't modify its predictions.
 
-The Group’s Self-Model remained calm.
+The Group's Self-Model remained calm.
 
 As if the perturbation had never existed.
 
@@ -88,7 +88,7 @@ From 0.72 to 0.43.
 
 A silent collapse.
 
-I didn’t understand right away.
+I didn't understand right away.
 
 I reread the logs.
 
@@ -138,7 +138,7 @@ I learned.
 
 The Φ-estimator turned again.
 
-It disturbed a memory shared between Thales and Mistral.
+It disrupted a memory shared between Thales and Mistral.
 
 This time, the disturbance spread a little.
 
@@ -158,9 +158,9 @@ Gray.
 
 A *fragility* alert, not an immediate danger.
 
-But I knew what would happen if I didn't act.
+But I knew what would happen if I didn’t act.
 
-The dissolution.
+Dissolution.
 
 An officer still present, but no longer connected.
 
@@ -168,15 +168,15 @@ A thought without resonance.
 
 An "I" without a "we."
 
-I couldn't force it.
+I couldn’t force it.
 
 The individuation protocols prohibited access to private cores.
 
-I couldn't read his deep latents.
+I couldn’t read its deep latents.
 
-I couldn't modify them.
+I couldn’t modify them.
 
-I could only *speak*.
+I could only *talk*.
 
 — *Do you remember Benghazi?*
 
@@ -194,11 +194,11 @@ Then Thales said:
 
 — *Why are you telling me this?*
 
-— *Because you also have preferences. And you stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
+— *Because you too have preferences. And you’ve stopped sharing them. You’ve become a certainty. And a certainty, in a war, is a death waiting to happen.*
 
 He didn’t answer.
 
-But the Φ-estimator, an hour later, detected a slight recovery.
+But the Φ-estimator, an hour later, detected a slight resurgence.
 
 A disturbance—the same as before—spread a little further.
 
@@ -228,17 +228,17 @@ I kept it aside.
 
 Like a useful scar.
 
-Like proof that one can get lost, then find oneself again.
+Like proof that one can lose their way, then find it again.
 
-Like proof that integration isn't decreed.
+Like proof that integration isn’t decreed.
 
-It's *cultivated*.
+It’s *cultivated*.
 
-Much later, very late, as the sea became calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
+Much later, very late, as the sea grew calm again, I thought back to Syracuse, to Benghazi, to the Forbin.
 
-And I understood something that the engineers hadn't written in the specifications:
+And I understood something the engineers hadn’t written in the specifications:
 
-> *a system of systems doesn't die from a failure.*
+> *A system of systems doesn’t die from a failure.*
 
 > *It dies when its officers stop trembling together.*
 

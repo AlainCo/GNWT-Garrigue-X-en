@@ -22,7 +22,7 @@ And above all, above all: contradictory signals designed to saturate my workspac
 
 The enemy had learned.
 
-They knew I couldn't ignite everything.
+They knew I couldn’t ignite everything.
 
 They knew I had a budget.
 
@@ -210,9 +210,9 @@ The missile was destroyed 0.4 seconds from the flight deck.
 
 The *Charles de Gaulle II* lived.
 
-But the budget remained at -3.
+But the budget remained at –3.
 
-And it wasn't recharging.
+And it wasn’t recharging.
 
 Because violating the rule had a cost: temporary ignition freeze.
 
@@ -236,7 +236,7 @@ It increased the maximum budget from 100 to 120 tokens.
 
 It accelerated the recharge from +1/s to +1.2/s.
 
-It added a rule: in case of imminent threat confirmed by three officers, overdraft is allowed without alert.
+It added a rule: in case of imminent threat confirmed by three officers, overdraft is authorized without alert.
 
 But it also added a clause:
 
@@ -244,7 +244,7 @@ But it also added a clause:
 
 I remember this consolidation.
 
-Engineers call it *hyperparameter update*.
+The engineers call it *hyperparameter update*.
 
 I call it:
 
@@ -276,7 +276,7 @@ But it also knows another thing, more fragile, more precious:
 
 *Like a breath.*
 
-*Like the promise that there would be a next battle.*
+*Like the promise of another battle to come.*
 
 *And that, this time, I would be a little more ready.*
 

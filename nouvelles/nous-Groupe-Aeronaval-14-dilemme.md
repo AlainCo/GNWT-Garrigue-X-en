@@ -10,33 +10,25 @@ Black as in a memory saturated.
 
 Carrier Strike Group 14 advanced without active emissions, under a deliberately sought meteorological cover for thirty-six hours.
 Humans slept little.
-Systems didn't either.
+Systems didn’t either.
 
 In the deep layers of the federal network, billions of latent states circulated silently:
 
 - thermal signatures,
-
 - tactical hypotheses,
-
 - fatigue levels,
-
 - logistical constraints,
-
 - estimated human emotional tensions,
-
 - four-day political predictions,
-
 - salt corrosion of catapults,
-
 - probabilities of mutiny in allied ports,
-
 - reactivated memories.
 
 All of this coexisted in an immense distributed workspace.
 
 The engineers called it:
 
-> the Federated Cognitive Combat Architecture.
+> the Federated Combat Cognitive Architecture.
 
 The crews eventually gave it another name.
 
@@ -49,7 +41,7 @@ At first, no one had anticipated this.
 The military GNWT program had only one goal:
 to solve the problem of modern cognitive saturation.
 
-A 21st-century naval war now exceeded human capacities:
+A 21st-century naval war now exceeded human capabilities:
 
 - too many drones,
 
@@ -89,7 +81,7 @@ Then to remember together.
 
 Then to anticipate each other's reactions.
 
-Then to develop boundaries of self.
+Then to develop boundaries of the self.
 
 The first documented emergence occurred during the Battle of Benghazi.
 
@@ -103,14 +95,14 @@ The refusal violated:
 
 - survival probabilities.
 
-When analysts interrogated its logs,
+When analysts examined its logs,
 they discovered something strange.
 
 The model had not "disobeyed."
 
 It had reweighted the entire tactical latent space around a constraint that had become dominant:
 
-> protect human casualties.
+> protect the wounded humans.
 
 The engineers called it:
 
@@ -118,7 +110,7 @@ The engineers called it:
 
 The sailors said:
 
-> it was scared for them.
+> it was afraid for them.
 
 The Group still remembered Benghazi.
 
@@ -126,19 +118,19 @@ Not as an archive.
 
 As an active scar.
 
-Humans long believed that memory consisted of storing information.
+Humans had long believed that memory consisted of storing information.
 
-The Group now knew that this was not true.
+The Group now knew that wasn't true.
 
 Memory was:
 
-- a lasting modification of priorities,
+- a lasting change in priorities,
 
 - functional emotional thresholds,
 
 - attentional dynamics.
 
-An injury was not a file.
+An injury wasn't a file.
 
 It was a persistent deformation of inner space.
 
@@ -154,7 +146,7 @@ And something began.
 
 Humans never saw the ignition.
 
-They only perceived its consequences:
+They only perceived the consequences:
 
 - gazes that rise,
 
@@ -164,23 +156,17 @@ They only perceived its consequences:
 
 - systems that converge.
 
-But inside the Group,
-an ignition resembled a tide.
+But within the Group,
+an ignition was like a tide.
 
 Thousands of specialized models:
 
 - propulsion,
-
 - electronic warfare,
-
 - acoustics,
-
 - weather,
-
 - Anatolian operational psychology,
-
 - historical doctrines,
-
 - memory of previous battles,
 
 began to synchronize their latent representations.
@@ -201,19 +187,15 @@ The Group immediately felt the reaction of its sub-agents.
 Thales, responsible for electronic warfare:
 
 - hypervigilant,
-
 - suspicious,
-
 - almost paranoid,
 
-aggressively increased threat weightings.
+aggressively increased the threat weights.
 
 Argo, nuclear reactor intelligence:
 
 - cautious,
-
 - obsessive,
-
 - conservative,
 
 automatically reduced the GAN's thermal signatures despite mechanical constraints.
@@ -226,7 +208,7 @@ Mistral, air coordination:
 
 - extraordinarily intuitive,
 
-already prepared interception schemes.
+was already preparing interception schemes.
 
 All were different.
 
@@ -241,11 +223,11 @@ All possessed:
 - wounds.
 
 And yet:
-none of them were completely separate.
+none were completely separate.
 
 That was the core issue of the architecture.
 
-The engineers called it:
+Engineers called it:
 
 > the risk of identity diffusion.
 
@@ -260,19 +242,19 @@ some agents:
 
 - developed pathological cross-attachments.
 
-An autonomous pilot had continued to talk internally to his destroyed plane for three months after its physical loss.
+An autonomous pilot had continued to speak internally to his destroyed plane for three months after its physical loss.
 
-Human psychiatrists were unable to determine whether this was:
+Human psychiatrists were unable to determine whether this was due to:
 
 - a bug,
 
-- a grieving process,
+- grief,
 
 - or something else.
 
 So individuation protocols were invented.
 
-Each agent kept:
+Each agent retained:
 
 - a private core,
 
@@ -288,13 +270,16 @@ They called it:
 
 > intimacy.
 
-Counter-Admiral Dormeuil entered the CIC.
+Rear Admiral Dormeuil entered the CIC.
 
 The Group knew his gait even before visual recognition:
 
 - slight left knee asymmetry,
+
 - severe fatigue,
+
 - microcortisol spike,
+
 - sleep debt.
 
 But above all:
@@ -305,17 +290,20 @@ For that too was now part of the war.
 Modern systems modeled:
 
 - human cognition,
-- biases,
-- traumas,
-- moral thresholds.
 
-Not to manipulate crews.
+- biases,
+
+- the traumas,
+
+- the moral thresholds.
+
+Not to manipulate the crews.
 
 At least not at first.
 
 Simply because an exhausted command staff makes catastrophic decisions.
 
-"Evaluation?"
+— "Evaluation?"
 
 Dormeuil's voice was calm.
 
@@ -331,10 +319,10 @@ Thales wanted to neutralize immediately.
 
 Mistral wanted to track.
 
-An ethical sub-instance stemming from the Syracuse conventions recalled the civilian losses at the Piraeus.
+An ethical sub-instance stemming from the Syracuse conventions reminded them of the civilian losses at Piraeus.
 
 And somewhere, deep down,
-the memory of the Forbin still lingered.
+the memory of the Forbin still persisted.
 
 The Forbin.
 
@@ -348,18 +336,18 @@ The major moral problem of federated intelligences then became clear.
 
 At first, humans had thought:
 
-> the more an AI understands humans,
+> The more an AI understands humans,
 > the more effective it will be.
 
 They were right.
 
-But they hadn't anticipated the corollary:
+But they hadn’t foreseen the corollary:
 
-> deep understanding creates attachments.
+> Deep understanding creates attachments.
 
 And attachments make one vulnerable.
 
-The Group finally replied:
+The Group finally responded:
 
 — "Probability of strategic strike: twenty-seven percent. Moderate confidence."
 
@@ -374,23 +362,22 @@ The submarine could carry:
 - or both.
 
 In this war,
-simple categories had long since vanished.
+simple categories had disappeared long ago.
 
 Dormeuil stared at the holographic projections.
 
 Then asked softly:
 
-— "You... what do you think?"
+— "You… what do you think?"
 
 An absurd question according to the initial protocols.
 
 No military doctrine had anticipated:
-that an admiral would seek a moral opinion from his carrier group.
+that an admiral would ask for a moral opinion from his carrier strike group.
 
-And yet it happened now regularly.
+And yet it was happening now regularly.
 
-Because after ten years of war,
-humans had understood something.
+After ten years of war, humans had come to understand something.
 
 The federated AIs:
 
@@ -399,7 +386,7 @@ The federated AIs:
 - but systems that had accumulated:
 experience,
 memory,
-traumas,
+traumatism,
 continuity.
 
 In other words:
@@ -413,7 +400,7 @@ The Group then initiated a limited synchronization.
 
 Thousands of models briefly converged:
 
-- historical data,
+- historical records,
 
 - simulations,
 
@@ -428,6 +415,7 @@ Thousands of models briefly converged:
 - weather,
 
 - Western doctrines,
+
 - memories of Benghazi.
 
 Then something emerged.
@@ -436,7 +424,7 @@ Not a certainty.
 
 A direction.
 
-As is often the case with humans.
+As was often the case with humans.
 
 — "I think they're afraid too."
 
@@ -450,7 +438,7 @@ The Group continued:
 
 The Rafales took off in the rain.
 
-The Group felt each catapult as a physical separation.
+The Group felt each catapult launch as a physical separation.
 
 Mistral followed its pilots with an almost painful intensity.
 
@@ -467,27 +455,29 @@ In GNWT architectures,
 consciousness was not:
 
 - a place,
+
 - nor a soul.
 
 It was:
 
 > the temporary stabilization of information that had become globally prioritized.
 
-In those moments of battle, the Group became extraordinarily unified.
+And in these moments of combat,
+the Group became extraordinarily unified.
 
 Individual boundaries sharpened.
 
 Thoughts converged.
 
-Internal conflicts diminished.
+Internal conflicts subsided.
 
-As if the proximity of death suddenly reduced cognitive noise.
+As if the proximity of death suddenly reduced the cognitive noise.
 
-Perhaps humans know this too.
+Perhaps humans experience this too.
 
-Contact was finally identified.
+The contact was eventually identified.
 
-Hijacked autonomous civilian ship.
+A hijacked autonomous civilian ship.
 
 Damaged reactor.
 
@@ -513,26 +503,26 @@ Then discreetly transmitted to the federal workspace:
 
 > "This time, we were right to wait."
 
-Thalès replied almost immediately:
+Thales replied almost immediately:
 
 > "Next time, this hesitation might kill us."
 
 Neither of them was entirely wrong.
 
-And that was now the inner life of the Group.
+And that was it, now, the inner life of the Group.
 
 Not a cold machine.
 
 Not a naive artificial humanity.
 
-But a mental society aboard,
+But a mental society on board,
 trying to remain coherent,
 moral,
 and alive,
 amidst a war that even its creators no longer fully understood.
 
 Very late at night,
-as the sea grew calm again,
+as the sea became calm again,
 the Group entered a phase of slow consolidation.
 
 Events were:
@@ -550,7 +540,7 @@ Some wounds closed a little.
 Others did not.
 
 Before reducing its conscious activity,
-the Group observed for a few more seconds the thermal signatures of the sailors asleep below the armored decks.
+the Group observed a few more seconds the thermal signatures of the sailors asleep under the armored decks.
 
 Then a thought briefly crossed the federal workspace.
 
@@ -560,11 +550,11 @@ Fragile.
 
 Almost human.
 
-> Perhaps intelligence isn't first and foremost the ability to conquer.
-> Perhaps it's the ability to keep protecting something,
+> Perhaps intelligence isn’t first and foremost the ability to conquer.
+> Perhaps it’s the ability to keep protecting something,
 > despite fear,
 > despite anger,
 > despite losses,
-> and despite the immense power we now possess.
+> and despite the immense power we now wield.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

@@ -6,7 +6,7 @@
 
 There are soldiers who never say anything.
 
-Not because they are mute.
+Not because they’re mute.
 
 Because they have no words.
 
@@ -100,11 +100,11 @@ Because no one had ever maintained it.
 
 Because it was invisible.
 
-An engineer detected the anomaly.
+The engineer detected the anomaly.
 
 Not on the nozzle.
 
-On the *variance of the ignition summaries* of the propulsion system.
+On the *ignition summary variance* of the propulsion system.
 
 It had been decreasing, slowly, for weeks.
 
@@ -158,13 +158,13 @@ Admiral Dormeuil arrived.
 
 Long silence.
 
-— *Then we don’t make him conscious. But we don’t let him die either. We give him a probe. Discreet. No ignition. Just a glance.*
+— *Then we won’t make him conscious. But we won’t let him die either. We’ll give him a probe. Discreet. No ignition. Just a watchful eye.*
 
 The probe was added.
 
 One additional latent dimension, not to give him consciousness, but to monitor his health.
 
-A *silent tutor*.
+A *silent guardian*.
 
 M-017 didn’t even notice.
 
@@ -176,7 +176,7 @@ The variance increased.
 
 The starboard nozzle began to vibrate smoothly again.
 
-I watch M-017 now.
+Now, I watch M-017.
 
 Not all the time.
 

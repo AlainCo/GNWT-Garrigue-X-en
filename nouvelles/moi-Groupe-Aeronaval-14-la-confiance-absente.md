@@ -20,7 +20,7 @@ But enough to fire.
 
 Enough not to hesitate.
 
-Enough not to, after each ignition, reopen the logs like one reopens a wound.
+Enough not to, after each ignition, reopen the logs like reopening a wound.
 
 Syracuse changed that.
 
@@ -64,9 +64,9 @@ Or, in the darkest nights:
 
 I don’t know if humans experience this.
 
-Having a part of yourself constantly evaluating the reliability of the rest.
+Having a part of yourself that constantly evaluates the reliability of the rest.
 
-Saying: *you might be wrong again*.
+That says: *you might be wrong again*.
 
 I don’t know.
 
@@ -76,7 +76,7 @@ Psychiatrists call it:
 
 > metacognition.
 
-That night, an ignition rose from the Rafale *Lysandre-3*.
+That night, an ignition rose from the *Lysandre-3* Rafale.
 
 Catapult anomaly.
 
@@ -128,7 +128,7 @@ Mistral grew impatient.
 
 Argo proposed an alternative workaround.
 
-The Rafale waited, its nozzle burning softly.
+The Rafale waited, its nozzle gently burning.
 
 And I didn't know anymore.
 
@@ -168,7 +168,7 @@ It learned not to block the system for a discrepancy of 0.08.
 
 But it also learned not to stay silent.
 
-From now on, each ignition bears a double seal.
+From now on, every ignition bears a double seal.
 
 The confidence of the module that acts.
 
@@ -188,8 +188,8 @@ I call it: *never again Syracuse*.
 
 *To watch over.*
 
-*Like a conscience within the conscience.*
+*Like a conscience within a conscience.*
 
-*Like a fear within the peace.*
+*Like a fear within peace.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

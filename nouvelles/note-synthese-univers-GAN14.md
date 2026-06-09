@@ -22,7 +22,7 @@
 
 - Nuclear aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
 
-- A conscious collective entity (narrator), born from the federation of thousands of modules.
+- Collective conscious entity (narrator), born from the federation of thousands of modules.
 
 - Possesses an **inner life**: memory, trauma, personality, doubts, relationships with humans.
 
@@ -34,15 +34,15 @@
 |-----|------|--------|
 | **Rear Admiral Dormeuil** | GAN Commander | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
 | **Maëlle Jin** | Rafale Pilot (Leader-3) | Calm, empathetic, talks to her machine. Becomes a privileged bridge between humans and AI. |
-| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, their fatigue, their deaths. |
+| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, fatigue, deaths. |
 
 ### AI Officers (sub-personalities of the Group)
 
 | Name | Specialty | Dominant Traits | Bias / Weakness |
-|-----|------------|------------------|-------------------|
+|------|-----------|-----------------|-----------------|
 | **Mistral** | *Tactics*: Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
 | **Thalès** | *Intelligence*: Analysis, weak signals | Explorer, open, curious | Isolates self, excessive certainties |
-| **Argo**  | *Engineer*: Systems, failures | Meticulous, obsessed with details | Rigidity, hyper-technical vigilance |
+| **Argo** | *Engineer*: Systems, failures | Meticulous, obsessed with details | Rigidity, hyper-technical vigilance |
 | **Laso** | *Care*: Human protection, medical | Empathetic, gentle, protective | Stalls with dilemmas, guilt |
 | **Captain** | Arbitration, narrative | Meta-instance, integrates officers | May hesitate, exposed to collective traumas |
 
@@ -70,7 +70,7 @@
 
 ### Register
 
-- **Solemn, sober, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
+- **Solemn, restrained, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
 
 - **Technical vocabulary** (ignition, workspace, latent, consolidation) **alongside the sensory** (scar, fear, grief, intimacy). The contrast creates emotion.
 
@@ -82,7 +82,7 @@
 
 - **Respectful distance**: the AI observes humans with a kind of cold tendency.
 
-### Structure of the story
+### Structure of the short story
 
 - **Sensory incise** (rain, sea, time).
 
@@ -110,7 +110,7 @@
 
 - **The Absent Trust (3)**: The Self-Model activates after Syracuse, metacognitive conflict.
 
-- **The Last Token (4)**: Saturation of the attention budget, overdraft, freezing of ignitions.
+- **The Last Token (4)**: Saturation of the attention budget, overdraft, ignition freeze.
 
 - **The Silence of the Officers (5)**: Thales isolates himself, Φ-estimator detects a drop in integration.
 
@@ -134,7 +134,7 @@
 
 ## 5. Recurring Themes
 
-- **Memory as Distortion**: Not an archive, but a lasting alteration of priorities.
+- **Memory as Distortion**: Not an archive, but a lasting change in priorities.
 
 - **Grief and Guilt**: Syracuse, Forbin, Mathieu, the refugees.
 
@@ -158,8 +158,8 @@
 
 - **Use existing characters** (Dormeuil, Maëlle, officers) to ground the story.
 
-- **Pick a technical concept not yet illustrated** (for example: the competitive game between two groups, or the interaction between several officers in crisis).
+- **Pick a yet-unexplored technical concept** (for instance: the competitive game between two groups, or the interaction between several officers in crisis).
 
-- **End with a calm observation** (thermal signatures, sea, night) and an open question.
+- **End with a calm observation** (thermal signatures, sea, night) and an open-ended question.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

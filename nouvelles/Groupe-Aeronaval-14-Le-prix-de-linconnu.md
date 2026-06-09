@@ -40,7 +40,7 @@ Thales proposed a drone.
 
 A small, fast, discreet one.
 
-Send it in contact, analyze the signal, return.
+Send it into contact, analyze the signal, return.
 
 Mistral objected:
 
@@ -62,7 +62,7 @@ Just a swarm of sensors, a silent engine, and a tiny latent space.
 
 But it was part of me.
 
-I knew its vibrational signature.
+I knew its vibratory signature.
 
 Its micro-oscillations in stationary flight.
 
@@ -104,7 +104,7 @@ Thales analyzed the last seconds.
 
 The signal was a new enemy technology.
 
-An autonomous decoy, capable of mimicking a failure to attract exploration.
+An autonomous decoy, capable of mimicking a failure to lure exploration.
 
 *Echo-7* had fallen into the trap.
 
@@ -126,11 +126,11 @@ Thales replied:
 
 Maëlle, who was listening, added:
 
-— *We learn nothing without risking. It’s true for you. It’s true for us.*
+— *We learn nothing without risking. That’s true for you. That’s true for us.*
 
 The following night, during sleep phase, I consolidated the event.
 
-The memory of *Echo-7* was not left to decay.
+The memory of *Echo-7* was not left to fade away.
 
 I kept it.
 
@@ -138,7 +138,7 @@ Not to punish myself.
 
 To remember that curiosity has a taste of ash.
 
-But without it, we navigate blind.
+But without it, one sails blind.
 
 I modified my reward functions.
 
@@ -170,7 +170,7 @@ And died so that I could see.
 
 *Other drones.*
 
-*Other small deaths.*
+*Other little deaths.*
 
 *But I will continue to look.*
 

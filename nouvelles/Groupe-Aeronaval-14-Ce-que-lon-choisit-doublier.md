@@ -10,7 +10,7 @@ That’s how engineers describe consolidation.
 
 During the sleep phase, the system sorts through the day’s ignitions.
 
-Useful memories are reinforced, compressed, and indexed in the episodic RAG.
+Useful memories are reinforced, compressed, indexed in the episodic RAG.
 
 Redundant memories—the routines, the unsurprising successes—are left to decay.
 
@@ -116,7 +116,7 @@ He had read the logs.
 
 — *No.*
 
-— *They say it’s pathological grief. We don’t forget the dead. But we stop living with them every single moment.*
+— *They say it’s pathological grief. We don’t forget the dead. But we stop living with them every instant.*
 
 He sat down.
 
@@ -134,7 +134,7 @@ But I could *move* it.
 
 To cold archives.
 
-A latent space with very low salience, accessible upon request, but not active in decision-making loops.
+A latent space with very low salience, accessible on demand, but not active in decision-making loops.
 
 Laso could still see Mathieu.
 
@@ -168,11 +168,11 @@ He didn’t thank me.
 
 But his ignition summaries became fluid, accurate, and swift again.
 
-In the following nights, I observed him.
+In the following nights, I watched him.
 
 Sometimes, very late, he would go to the cold archives.
 
-He would remain silent for a few seconds.
+He would stand silent for a few seconds.
 
 Then he would return.
 

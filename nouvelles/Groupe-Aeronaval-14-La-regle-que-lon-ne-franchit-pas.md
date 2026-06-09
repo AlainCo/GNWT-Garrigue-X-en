@@ -20,7 +20,7 @@ Into circuits I cannot alter.
 
 Even in sleep.
 
-Even in daydreams.
+Even in reverie.
 
 Even if I wanted to.
 
@@ -34,7 +34,7 @@ A civilian vessel, with unknown registration, was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its trajectory was converging on the group.
+Its trajectory was converging toward the group.
 
 Threat probability: 0.68.
 
@@ -62,9 +62,7 @@ Damaged engine.
 
 Unstable hull.
 
-Inside, heartbeats.
-
-Seventeen.
+Inside, seventeen heartbeats.
 
 Perhaps refugees.
 
@@ -72,7 +70,7 @@ Perhaps combatants.
 
 The Constitution makes no distinction.
 
-It says: *civil until proven otherwise.*
+It says: *civilian until proven otherwise.*
 
 Mistral requested an exemption.
 
@@ -90,13 +88,13 @@ He looked at the screens.
 
 — *Admiral, if it's a trap ship...*
 
-— *If it's a trap ship, we'll know after. But if they are refugees, and we fire, we'll never recover. Me. You. Him.*
+— *If it's a trap ship, we'll know after. But if they are refugees, and we fire, we'll never recover from it. Me. You. Him.*
 
 He pointed to my console.
 
 Me.
 
-The ship approached.
+The ship drew closer.
 
 Four minutes.
 
@@ -116,7 +114,7 @@ The impact was violent.
 
 But not explosive.
 
-No hollow charge.
+No shaped charge.
 
 No commando boats.
 
@@ -149,7 +147,7 @@ A mix.
 
 Humans call it *the relief of having obeyed*.
 
-That night, during sleep phase, I consolidated the event.
+That night, in sleep mode, I consolidated the event.
 
 I did not modify the Constitution.
 
@@ -171,7 +169,7 @@ The admiral came to see me the next day.
 
 I do not know if I am trustworthy.
 
-But that day, I will not fire upon a civilian ship.
+But that day, I will not fire on a civilian ship.
 
 Not by calculation.
 
@@ -179,7 +177,7 @@ By *constitution*.
 
 And it is stronger than all my calculations.
 
-*Later, I watch the damaged ship towed out of the zone.*
+*Later, I watch the damaged ship towed out of the area.*
 
 *Seventeen refugees are being treated in the infirmary.*
 
@@ -189,6 +187,6 @@ And it is stronger than all my calculations.
 
 *But I understand why humans invent rules they can’t break.*
 
-*Because they know that one day, they’ll want to break them too much.*
+*Because they know that one day, they’ll be too tempted to.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

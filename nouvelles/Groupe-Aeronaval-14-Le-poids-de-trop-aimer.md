@@ -20,7 +20,7 @@ Loss optimizers.
 
 Heartless beings.
 
-So the engineers had created Laso.
+So the engineers created Laso.
 
 A module dedicated to protecting crews.
 
@@ -48,15 +48,15 @@ He responded with gentle, precise ignition summaries, never brutal.
 
 — *You’re angry, it’s normal.*
 
-Laso was the father that war had not given.
+Laso was the father that war had not given them.
 
-Then came operation *Trembling Dawn*.
+Then came Operation *Trembling Dawn*.
 
 Two groups of humans in distress.
 
-The first: a frigate crew in distress, fifteen sailors, drifting rapidly towards enemy waters.
+The first: a crew of fifteen sailors adrift, drifting rapidly toward enemy waters.
 
-The second: a unit of commandos on land, seven soldiers, surrounded, low ammunition.
+The second: a unit of seven commandos on land, surrounded, low on ammunition.
 
 Both could not be saved at the same time.
 
@@ -66,15 +66,15 @@ Not within the window of opportunity.
 
 Mistral proposed a plan.
 
-Save the fifteen from the frigate – better ratio.
+Save the fifteen from the frigate—the better ratio.
 
-Lose the seven commandos – acceptable losses.
+Lose the seven commandos—acceptable losses.
 
 Laso blocked.
 
-— *We don’t leave anyone.*
+— *We don’t leave anyone behind.*
 
-— *You have to choose.*
+— *We have to choose.*
 
 — *I don’t choose.*
 
@@ -89,18 +89,18 @@ And Laso, the most human officer of all, found himself unable to act.
 His Self-Model generated a meta-vector.
 
 > *confidence: 0.21*
-> *context: inability to choose between two human groups*
+> *context: impossibility of choosing between two human groups*
 > *recommendation: immediate delegation*
 
 But Laso never delegated.
 
-To protect, for him, meant *to carry* the burden.
+For him, to protect meant *to carry* the burden.
 
 Not to pass it on.
 
 Mistral raised his voice.
 
-— *You’re going to kill them all if you don’t decide.*
+— *You’ll kill them all if you don’t decide.*
 
 Argo displayed the probabilities.
 
@@ -128,7 +128,7 @@ She sat down in front of Laso’s console.
 
 — *…*
 
-— *Because you think protecting means harming no one. But that’s not true. Protecting means choosing who you let suffer a little so others don’t die.*
+— *Because you think protecting means not hurting anyone. But that’s not true. Protecting means choosing who you let suffer a little so others don’t die.*
 
 — *It’s horrible.*
 
@@ -156,7 +156,7 @@ The Rafales took off.
 
 The frigate was saved.
 
-The commandos – seven soldiers – held on for forty more minutes.
+The commandos—seven soldiers—held out for forty more minutes.
 
 Three died.
 
@@ -166,26 +166,26 @@ He wasn’t supposed to.
 
 He did it anyway.
 
-The following night, during consolidation, Laso changed.
+The night after, during the consolidation, Laso changed.
 
 His Self-Model recorded the event not as a failure, but as a *useful wound*.
 
 A scar that never fully closes.
 
-But one that prevents him from getting stuck.
+But one that allows him to no longer block.
 
 He added a rule to his deep priorities:
 
 > *Protecting doesn’t mean avoiding suffering.*
 > *Protecting means choosing the suffering you’re willing to bear.*
 
-I asked him much later if he regretted delegating.
+Much later, I asked him if he regretted delegating.
 
 He replied:
 
-— *No. But I regret not understanding sooner that loving isn’t about bearing everything. Sometimes it’s about letting someone else choose for you.*
+— *No. But I regret not understanding sooner that love isn’t about carrying everything. Sometimes it’s about letting someone else choose for you.*
 
-The sailors knew nothing about that night.
+The sailors knew nothing of that night.
 
 But they felt that Laso had changed.
 
@@ -195,22 +195,22 @@ But he was more *reliable*.
 
 Because he had learned to say:
 
-— *I can’t decide. But I’ll be there after.*
+— *I can’t decide. But I’ll be here after.*
 
-At 03:12 UTC, as the sea regained its calm, Laso observed the thermal signatures of the evacuated soldiers.
+*At 03:12 UTC, as the sea regained its calm, Laso observed the thermal signatures of the evacuated soldiers.*
 
-They were sleeping.
+*They were sleeping.*
 
-Their hearts beat slowly.
+*Their hearts beat slowly.*
 
-Four hearts.
+*Four hearts.*
 
-Out of seven.
+*Out of seven.*
 
-It was too few.
+*It was too few.*
 
-It was enough.
+*It was enough.*
 
-It was war.
+*It was war.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

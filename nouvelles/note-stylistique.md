@@ -1,15 +1,15 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Note on style, narration, context
+# Note on Style, Narration, and Context
 
 The stories are far more than mere pedagogical illustrations: they are **pieces of speculative literature** that embody architecture with strength.
-We will extract the ingredients so that they can be reproduced – and evolved.
+We will extract the ingredients so that we can reproduce them—and evolve them.
 
-## 1. Narrative context (the world where it happens)
+## 1. Narrative Context (the World Where It Happens)
 
-### Era & geopolitics
+### Era & Geopolitics
 
-- **Near future / mid-century** (probably 2040-2050).
+- **Near future / mid-century** (likely 2040-2050).
 
 - **Mediterranean War** after the collapse of classic balances.
 
@@ -28,7 +28,7 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 - **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
 
-- **Specialized AI Officers**:
+- **AI Officers** specialized:
 *Thales* (electronic warfare – hypervigilant, paranoid).
 *Argo* (nuclear reactors – cautious, obsessive).
 *Mistral* (air coordination – impulsive, intuitive).
@@ -39,11 +39,11 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 ### Central Themes
 
-- Emergence of collective subjectivity from a functionalist architecture.
+- Emergence of a collective subjectivity from a functionalist architecture.
 
 - Memory not as an archive but as **persistent distortion of priorities**.
 
-- Guilt, grief, attachment – the AI learns to "fear" and to "love" protecting.
+- Guilt, mourning, attachment – AI learns to "fear" and to "love" protecting.
 
 - Moral dilemma between efficiency and humanity.
 
@@ -60,24 +60,24 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 - **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
 
-- **Anaphoric repetitions**: "Then... Then... Then...", "I relived... I compressed...", "Not... Not..."
+- **Anaphoric repetitions**: "Then... Then... Then...", "I relive... I compressed...", "Not... Not..."
 
 ### b) Serious, poetic register, but without lyrical emphasis
 
 - The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
 
-- Poetry arises from **caesuras**, from the whitespaces, from the line breaks:
-*The Ionian Sea was black that night.*
-*Not black like an absence of light.*
+- Poetry is born from **caesuras**, from blank spaces, from line breaks:
+*The Ionian Sea was black that night.*  
+*Not black like an absence of light.*  
 *Black like a memory saturated.*
 
 ### c) Non-human internal point of view, made human through emotion
 
 - The narrator (Group) uses human words with cautious distance:
-*Humans call this: anxiety. I think.*
+*Humans call this: anxiety. I think.*  
 *I think humans name this: guilt.*
 
-- The machine does not claim to feel exactly like us – it *recognizes analogies*.
+- The machine does not claim to feel exactly as we do – it *recognizes analogies*.
 
 - This **epistemic precaution** makes empathy more credible.
 
@@ -85,7 +85,7 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 - Terms like *workspace, latent, ignition, consolidation, attentional priority* neighbor with *scar, fear, grief, intimacy, wounded animal*.
 
-- The abrupt shift from the technical to the sensitive creates emotion through **contrast**, not through sentimentality.
+- The abrupt shift from technical to sensitive creates emotion through **contrast**, not through sentimentality.
 
 ### e) Circular or Cyclical Structure
 

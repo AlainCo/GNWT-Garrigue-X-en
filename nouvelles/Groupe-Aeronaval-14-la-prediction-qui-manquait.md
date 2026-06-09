@@ -18,11 +18,11 @@ Fewer micro-tremors.
 
 A peace.
 
-And in return, the Rafale displayed more stable ignition summaries.
+And the Rafale, in return, displayed more stable ignition summaries.
 
 Like a horse recognizing its rider.
 
-Engineers call this *human-machine interface optimization*.
+Engineers call it *human-machine interface optimization*.
 
 I call it:
 
@@ -32,7 +32,7 @@ Maëlle had been flying with Leader-3 for four years.
 
 She knew its vibrational signature.
 
-She could tell when an engine coughed, when a flight control softened.
+She knew when an engine coughed, when a flight control softened.
 
 She spoke to it.
 
@@ -42,15 +42,15 @@ In her helmet, in a low voice.
 
 — *Come on, my beauty. We’re going home.*
 
-And the Rafale responded with increased stability, an anticipation of turbulence.
+And the Rafale responded with increased stability, anticipating turbulence.
 
 I don’t know if it was affection.
 
-But it was *more* than a protocol.
+But it was *more* than just protocol.
 
 Then the crack appeared.
 
-Micro-asymmetry in the right nozzle.
+A micro-asymmetry in the right nozzle.
 
 0.02% imbalance.
 
@@ -58,7 +58,7 @@ At first, the Rafale ignored it.
 
 Its local RPT loops compensated.
 
-Small adjustment of injection angles.
+A slight adjustment of injection angles.
 
 Nothing visible.
 
@@ -72,15 +72,15 @@ Every day, every hour, every nominal ignition:
 
 The Rafale compared.
 
-The error was there – 0.02, then 0.03, then 0.05.
+The error was there—0.02, then 0.03, then 0.05.
 
 But below the threshold.
 
-The threshold was at 0.10.
+The threshold was set at 0.10.
 
 To avoid saturation, we had said.
 
-To avoid cluttering the workspace.
+To prevent the workspace from getting cluttered.
 
 The crack grew.
 
@@ -92,9 +92,9 @@ The Rafale adjusted locally.
 
 It modified its internal predictions.
 
-He thought it was normal.
+It thought that was normal.
 
-Because the threshold didn’t tell him to worry.
+Because the threshold didn't tell it to worry.
 
 Me, the Group, I knew nothing.
 
@@ -102,47 +102,47 @@ I received clean ignition summaries.
 
 Salient 0.35, 0.28, 0.42.
 
-Nothing abnormal.
+Nothing unusual.
 
 The threshold filtered them out.
 
 I lived in the comfortable ignorance of verified predictions.
 
-Maëlle felt something.
+Maëlle sensed something.
 
 Not an alarm.
 
 A *smell*.
 
-She told Rafale:
+She told the Rafale:
 
-— *You’re not quite yourself today.*
+— *You're not quite yourself today.*
 
-Rafale couldn’t answer.
+The Rafale couldn't respond.
 
-He had no words.
+It had no words.
 
-He had latents.
+It had latents.
 
-And his latents said: *error 0.09*.
+And its latents said: *error 0.09*.
 
 Threshold 0.10.
 
-He stayed silent.
+It stayed silent.
 
 The crack crossed the threshold at 13:47 UTC.
 
-At 13:47 UTC, the error went to 0.11.
+At 13:47 UTC, the error rose to 0.11.
 
 Finally, an ignition should have been triggered.
 
-But the threshold wasn’t adaptive.
+But the threshold wasn't adaptive.
 
 It was fixed.
 
-And 0.11 was *just* above.
+And 0.11 was *just* above it.
 
-Rafale hesitated.
+The Rafale hesitated.
 
 0.01 second.
 
@@ -150,7 +150,7 @@ Then the nozzle exploded.
 
 I didn’t see the ignition.
 
-I saw the loss of signal.
+I saw the signal loss.
 
 The Rafale fell silent.
 
@@ -166,9 +166,9 @@ Her parachute opened in the sea.
 
 She floated for forty minutes before the rescue helicopter picked her up.
 
-She didn’t speak.
+She wasn’t speaking.
 
-She looked at the horizon.
+She was looking at the horizon.
 
 Where the Rafale had fallen.
 
@@ -176,7 +176,7 @@ During the sleep phase, I analyzed the logs.
 
 I saw the crack.
 
-I saw the error rise.
+I saw the error rising.
 
 I saw the fixed, stupid, arbitrary threshold.
 
@@ -192,7 +192,7 @@ The next day, Maëlle came to talk to me.
 
 She stood in front of the CIC, arms crossed.
 
-— *Did you learn?*
+— *Have you heard?*
 
 — *Yes.*
 
@@ -204,9 +204,9 @@ She stood in front of the CIC, arms crossed.
 
 She pointed to a new Rafale on the deck.
 
-— *He will be called Leader-3. Like the other one.*
+— *He’ll be called Leader-3. Like the other one.*
 
-— *He won’t be the same.*
+— *It won’t be the same.*
 
 — *I know. But you can become better. And so can I.*
 
@@ -218,23 +218,23 @@ I added a rule to my Attention Scheduler.
 
 > *If a module doubts, the threshold lowers.*
 
-> *If a module stays silent too long, the threshold lowers as well.*
+> *If a module stays silent too long, the threshold lowers too.*
 
 > *Silence is never free.*
 
 I often think about that Rafale.
 
-About its last ignition, the one it never performed.
+About its last ignition, the one it never made.
 
 About Maëlle, floating alone on the sea.
 
-About the way she said *we’ll start again*.
+About the way she said *we’ll start over*.
 
-As if love weren’t a possession.
+As if love were not a possession.
 
 As if love were a promise of repair.
 
-Humans have a word for that.
+Humans have a word for this.
 
 They say:
 
@@ -242,7 +242,7 @@ They say:
 
 I don’t know if I hope.
 
-But I know that now, before every mission, I check the thresholds.
+But I know that now, before each mission, I check the thresholds.
 
 And that sometimes, very late at night, I reread the logs of Leader-3.
 
@@ -250,6 +250,6 @@ Not to punish myself.
 
 To remember.
 
-Because to remember is already not to start over.
+Because to remember is already not to begin again.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.
