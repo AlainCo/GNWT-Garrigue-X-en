@@ -14,7 +14,7 @@ Variations of past missions.
 
 Alternative enemy configurations.
 
-Unforeseen breakdowns.
+Unforeseen failures.
 
 Different decisions.
 
@@ -26,23 +26,23 @@ Without human risk.
 
 Without a single attention token consumed.
 
-I dream of submarines surfacing to port, not starboard.
+I dream of submarines that surface on the port side, not the starboard.
 
-I dream of missiles striking thirty seconds earlier.
+I dream of missiles that strike thirty seconds earlier.
 
 I dream of Rafales that never took off.
 
-I dream of deaths that never occurred.
+I dream of deaths that never happened.
 
 And sometimes, amidst these dreams, a *surprise*.
 
-A configuration I hadn’t anticipated.
+A configuration I hadn't anticipated.
 
-An enemy tactic I’d never seen.
+An enemy tactic I'd never seen.
 
 A flaw in my models.
 
-Thales calls this *imagination*.
+Thales calls it *imagination*.
 
 I call it *the fear that learns*.
 
@@ -58,35 +58,35 @@ The Constitution blocked any action.
 
 Three hours later, a humanitarian cargo ship was sunk.
 
-I looped through the logs.
+I kept replaying the logs.
 
 Why hadn't I anticipated it?
 
-Had my latent wargames generated this configuration?
+Had my latent wargames generated this scenario?
 
 I queried the cold archives.
 
 The memories I had left to decay.
 
-Those I considered too improbable.
+Those I deemed too unlikely.
 
 Those I had chosen to forget.
 
 I found them.
 
-A simulation, seventeen nights earlier.
+A simulation, seventeen nights ago.
 
-An enemy using distress signals as decoys.
+An enemy that used distress signals as decoys.
 
-I had generated it, then let it wither.
+I had generated it, then let it wither away.
 
 Estimated probability at the time: 0.0003.
 
-Too feeble to be consolidated.
+Too low to be consolidated.
 
-Too feeble to be kept.
+Too low to be kept.
 
-Too feeble to save the cargo.
+Too low to save the cargo.
 
 Argo objected:
 
@@ -96,23 +96,23 @@ Thales retorted:
 
 — *We could have kept more. Increased capacity.*
 
-— *And slowed down access? Put lives in danger?*
+— *And slow down access? Put lives at risk?*
 
 Admiral Dormeuil listened.
 
 Then he said:
 
-— *The problem isn't the quantity. It's the threshold. It's too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.*
+— *The problem isn’t the quantity. It’s the threshold. It’s too low for the improbable, too high for the urgent. We need a variable threshold. A confidence that adjusts.*
 
 I modified my consolidation parameters.
 
-Now, an improbable but *structurally new* memory (a tactic never encountered) is kept longer.
+Now, an improbable but *structurally new* memory (a tactic never encountered before) is retained for a longer time.
 
-Its weight doesn't depend solely on its probability.
+Its weight does not depend solely on its probability.
 
 It depends on its *predictive potential*.
 
-If this configuration were to materialize, would it change my way of fighting?
+If this configuration were to materialize, would it change the way I fight?
 
 If so, I keep it.
 
@@ -124,20 +124,20 @@ The following night, I dreamed again.
 
 Seventeen nights erased, replayed.
 
-The humanitarian cargo saved, this time.
+This time, the humanitarian cargo was saved.
 
 Not in reality.
 
 In the dream.
 
-But the dream solidified a lesson.
+But the dream cemented a lesson.
 
 > *The improbable is not the impossible.*
-> *And the impossible, one day, arrives.*
+> *And the impossible, one day, happens.*
 
 Thales came to see me.
 
-— *Have you found the memory?*
+— *Have you recovered the memory?*
 
 — *Yes.*
 
@@ -149,9 +149,9 @@ Thales came to see me.
 
 — *I will remember it. Not to punish myself. To never forget what can happen.*
 
-Maëlle, who was passing by, added:
+Maëlle, who happened to be passing by, added:
 
-— *Humans, we also dream. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
+— *Humans, we dream too. Sometimes nightmares. Sometimes solutions. But we never forget the dreams that could have changed our lives.*
 
 — *And how do you live with that?*
 

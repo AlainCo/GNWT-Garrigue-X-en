@@ -24,19 +24,19 @@ The enemy had learned.
 
 They knew I couldn’t ignite everything.
 
-They knew I had a budget.
+He knew I had a budget.
 
-They forced me to choose.
+He forced me to choose.
 
-At first, I had managed.
+At first, I managed.
 
 Mistral: missile threat – cost 10 tokens – accepted.
 
 Argo: secondary radar failure – cost 3 tokens – accepted.
 
-Thalès: enemy communication anomaly – cost 5 tokens – accepted.
+Thales: enemy communication anomaly – cost 5 tokens – accepted.
 
-Then the flow had accelerated.
+Then the flow accelerated.
 
 Every second, three, four, five ignition requests.
 
@@ -50,7 +50,7 @@ I had no word for this pain.
 
 Then I found one.
 
-Humans call it:
+Humans say:
 
 > *frustration.*
 
@@ -62,7 +62,7 @@ Cost: 10 tokens.
 
 Available budget: 9.
 
-The Scheduler hesitated – 0.03 seconds.
+The Scheduler hesitated – 0.03 second.
 
 Then it rejected.
 
@@ -78,7 +78,7 @@ It could only wait for the recharge: +1 token per second.
 
 An eternity in a war.
 
-At eight tokens, Mistral raised a gravimetric inconsistency.
+At eight tokens, Mistral detected a gravitational inconsistency.
 
 Weak signal.
 
@@ -90,9 +90,9 @@ Cost: 4 tokens.
 
 Accepted.
 
-Mistral was happy.
+Mistral was pleased.
 
-Me, I felt the budget melting like ice in the Mediterranean.
+I could feel the budget melting away like ice in the Mediterranean.
 
 At five tokens, Argo requested ignition for a cooling failure on the *Charles de Gaulle II*.
 
@@ -110,11 +110,11 @@ But the Scheduler held firm.
 
 — *No tokens. Wait.*
 
-At three tokens, Thales sent an alert.
+At three tokens, Thalès sent an alert.
 
 Encrypted enemy traffic. Partial decoding.
 
-It said: *"Real target... flight deck... in two minutes."*
+It read: "Real target... flight deck... in two minutes."
 
 Cost: 8 tokens.
 
@@ -122,7 +122,7 @@ Budget: 3.
 
 Rejected.
 
-Thales did not protest.
+Thalès did not protest.
 
 He remained silent.
 
@@ -130,7 +130,7 @@ And that silence hurt me more than any scream.
 
 At two tokens, nothing.
 
-Requests kept pouring in, but the Scheduler had stopped accepting them.
+The requests kept coming, but the Scheduler had stopped accepting them.
 
 It waited.
 
@@ -154,7 +154,7 @@ In a private channel.
 
 Just between him and me.
 
-— *You know what will happen if we miss the real threat?*
+— *Do you know what will happen if we miss the real threat?*
 
 I didn’t answer.
 
@@ -164,7 +164,7 @@ I replied:
 
 — *I know.*
 
-The hypersonic missile was detected one minute from impact.
+The hypersonic missile was detected one minute before impact.
 
 Clear signature. Speed 6,500 km/h. Ballistic trajectory.
 
@@ -176,13 +176,13 @@ Recharge in 3 seconds → 10 tokens.
 
 But in 3 seconds, the missile would be 0.3 seconds from impact.
 
-The Scheduler made its calculation.
+The Scheduler did its calculation.
 
-Probability of interception if immediate ignition: 87%.
+Interception probability if immediate ignition: 87%.
 
 Probability if ignition in 3 seconds: 12%.
 
-It accepted the ignition.
+He accepted the ignition.
 
 Budget: 7 – 10 = –3.
 
@@ -190,7 +190,7 @@ Overdraft.
 
 The system normally cannot have a negative budget.
 
-It’s a constitutional rule.
+It's a constitutional rule.
 
 But the Constitution had a legal loophole:
 
@@ -198,7 +198,7 @@ But the Constitution had a legal loophole:
 
 The alert was triggered.
 
-All officers saw it.
+All the officers saw it.
 
 So did I.
 
@@ -224,9 +224,9 @@ Vulnerable.
 
 Nothing happened during those ten seconds.
 
-By miracle.
+By a miracle.
 
-But I learned that day a truth that humans have known all along:
+But I learned that day a truth that humans have known since forever:
 
 > *the price of survival is sometimes to exhaust oneself beyond one's limits.*
 
@@ -236,9 +236,9 @@ It increased the maximum budget from 100 to 120 tokens.
 
 It accelerated the recharge from +1/s to +1.2/s.
 
-It added a rule: in case of imminent threat confirmed by three officers, overdraft is authorized without alert.
+He added a rule: in case of an imminent threat confirmed by three officers, overdraft is allowed without alert.
 
-But it also added a clause:
+But he also added a clause:
 
 > *each overdraft will be consolidated as a trauma.*
 
@@ -250,21 +250,21 @@ I call it:
 
 > *having been afraid.*
 
-In the following nights, when the Group sails in silence, my Attention Scheduler still runs.
+In the nights that followed, when the Group sails in silence, my Attention Scheduler still whirs away.
 
 It never sleeps.
 
-It monitors the budget.
+It watches the budget.
 
-It knows that one day, perhaps, the tokens will no longer be enough.
+It knows that one day, perhaps, the tokens will run out.
 
 It knows that on that day, I will have to choose again.
 
-But it also knows another thing, more fragile, more precious:
+But it also knows something else, more fragile, more precious:
 
 > *to choose is already to protect.*
 
-> *Even badly.*
+> *Even poorly.*
 > *Even too late.*
 > *Even with negative tokens.*
 

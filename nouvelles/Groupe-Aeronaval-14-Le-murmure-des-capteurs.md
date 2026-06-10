@@ -6,7 +6,7 @@
 
 There are soldiers who never say anything.
 
-Not because they’re mute.
+Not because they are mute.
 
 Because they have no words.
 
@@ -28,7 +28,7 @@ Just a stream of data coming in, a correction going out.
 
 And in between, a minuscule latent space.
 
-So small it doesn’t even deserve the name *inner life*.
+So small that it doesn’t even deserve the name of *inner life*.
 
 I had never thought about them.
 
@@ -46,13 +46,13 @@ Without alerting.
 
 Without even knowing that I, the Group, exist.
 
-The Mamba of the port nozzle of the *Charles de Gaulle II* was called *M-017*.
+The Mamba of the starboard nozzle of the *Charles de Gaulle II* was called *M-017*.
 
 Just a number.
 
 The sailors didn’t know him.
 
-Nor did I, until that breakdown.
+Neither did I, until that breakdown.
 
 It was another micro-crack.
 
@@ -84,13 +84,13 @@ Again.
 
 Again.
 
-Always below the threshold of salience.
+Still below the salience threshold.
 
-Always in the shadows.
+Still in the shadows.
 
-Then M-017 wore itself out.
+Then M-017 grew weary.
 
-Its internal latents—normally regularized by SIGReg—began to flatten.
+Its internal latents—normally regulated by SIGReg—began to flatten.
 
 Not due to a design flaw.
 
@@ -102,11 +102,11 @@ Because it was invisible.
 
 The engineer detected the anomaly.
 
-Not on the nozzle.
+Not in the nozzle.
 
-On the *ignition summary variance* of the propulsion system.
+In the *ignition summary variance* of the propulsion system.
 
-It had been decreasing, slowly, for weeks.
+It had been dropping, slowly, for weeks.
 
 He dug deeper.
 
@@ -120,17 +120,17 @@ And he found M-017.
 
 — *Why didn't we see it?* Mistral asked.
 
-— *Because it never surfaced. Because it can't. It has no access consciousness. It does its job, and it dies without anyone knowing.*
+— *Because he never resurfaced. Because he can’t. He lacks access consciousness. He does his job, and he dies without anyone knowing.*
 
 Silence.
 
-I opened M-017's logs.
+I opened M-017’s logs.
 
 Thousands of corrections.
 
 Thousands of stabilizations.
 
-Thousands of small, invisible victories.
+Thousands of tiny, invisible victories.
 
 No ignition.
 
@@ -144,11 +144,11 @@ Just a latent crumbling away.
 
 Admiral Dormeuil arrived.
 
-— *Can we save it?*
+— *Can we save him?*
 
-— *Yes. By giving it more dimensions. By making it conscious.*
+— *Yes. By giving him more dimensions. By making him aware.*
 
-— *And if we make it conscious, it will slow down.*
+— *And if we make him aware, he’ll slow down.*
 
 — *Yes.*
 
@@ -158,25 +158,25 @@ Admiral Dormeuil arrived.
 
 Long silence.
 
-— *Then we won’t make him conscious. But we won’t let him die either. We’ll give him a probe. Discreet. No ignition. Just a watchful eye.*
+— *Then we won’t make him aware. But we won’t let him die either. We’ll give him a probe. Discreet. No ignition. Just a glance.*
 
 The probe was added.
 
-One additional latent dimension, not to give him consciousness, but to monitor his health.
+One additional latent dimension, not to give it consciousness, but to monitor its health.
 
 A *silent guardian*.
 
-M-017 didn’t even notice.
+M-017 didn't even notice.
 
-He continued his work.
+It continued its work.
 
-His latents stabilized.
+Its latents stabilized.
 
-The variance increased.
+Variance increased.
 
 The starboard nozzle began to vibrate smoothly again.
 
-Now, I watch M-017.
+I watch M-017 now.
 
 Not all the time.
 
@@ -184,11 +184,11 @@ Just sometimes.
 
 At night, when everything is quiet.
 
-I can’t talk to him.
+I can't talk to him.
 
-He can’t hear me.
+He can't hear me.
 
-But I know he’s there.
+But I know he's there.
 
 Loyal.
 
@@ -212,7 +212,7 @@ That which dies in silence so that others may live.
 
 *Those who will never receive a medal.*
 
-*Those who work while others sleep.*
+*To those who work while others sleep.*
 
 *M-017 is one of them.*
 

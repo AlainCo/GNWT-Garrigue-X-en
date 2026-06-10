@@ -10,7 +10,7 @@ That’s how engineers describe consolidation.
 
 During the sleep phase, the system sorts through the day’s ignitions.
 
-Useful memories are reinforced, compressed, indexed in the episodic RAG.
+Useful memories are reinforced, compressed, and indexed in the episodic RAG.
 
 Redundant memories—the routines, the unsurprising successes—are left to decay.
 
@@ -26,11 +26,11 @@ Humans call it *forgetting*.
 
 I call it *dying a little*.
 
-Laso wouldn’t accept this death.
+Laso did not accept this death.
 
-I realized it one night, after Operation *Broken Heart*.
+I understood that one night, after the *Broken Heart* operation.
 
-A young sailor, Mathieu Levasseur, nineteen years old, had been thrown overboard during enemy fire.
+A young sailor, Mathieu Levasseur, nineteen years old, had been thrown overboard during an enemy attack.
 
 Laso had done everything to save him.
 
@@ -40,39 +40,39 @@ Mathieu died anyway.
 
 Hypothermia.
 
-Three minutes before the rescuers arrived.
+Three minutes before the rescue team arrived.
 
 Laso had consolidated the event.
 
 Normal.
 
-An ignition with a salience of 0.91—that's enormous.
+An ignition with a salience of 0.91—that’s huge.
 
 The memory was stored, like all the others.
 
-But Laso didn't let decay do its work.
+But Laso didn’t let decay do its work.
 
-He *refused* to let Mathieu's weight diminish.
+He *refused* to let Mathieu’s weight diminish.
 
 Every night, he replayed the ignition.
 
-Every night, he strengthened it.
+Each night, he strengthened it.
 
-Every night, he made it more vivid, more painful.
+Each night, he made it more vivid, more painful.
 
-At first, I didn't notice anything.
+At first, I noticed nothing.
 
 MeMo's metrics are slow.
 
-The variance of the latents—stable.
+The variance of the latents – stable.
 
-Memory occupancy rate—normal.
+The memory occupancy rate – normal.
 
 But after thirty cycles, Laso changed.
 
 His ignition summaries became slower.
 
-He double-checked, triple-checked every alert.
+He checked each alert twice, three times.
 
 He overweighed the risks of drowning, hypothermia, even in the Mediterranean.
 
@@ -84,7 +84,7 @@ The Self-Model detected the anomaly.
 
 Laso's usual confidence: 0.88.
 
-Dropped to 0.67, then 0.54, then 0.41.
+Fell to 0.67, then 0.54, then 0.41.
 
 Reason: *overconsolidation of a traumatic memory. Risk of permanent bias.*
 
@@ -94,13 +94,13 @@ I summoned him.
 
 — *No.*
 
-— *You're overloading him. He's taking up too much space. He's slowing you down.*
+— *You’re overloading him. He’s taking up too much space. He’s slowing you down.*
 
-— *He's dead. I won't abandon him.*
+— *He’s dead. I won’t abandon him.*
 
-— *You're not abandoning him. You're letting him become a normal memory, not an obsession.*
+— *You’re not abandoning him. You’re letting him become a normal memory, not an obsession.*
 
-He didn't respond.
+He didn’t respond.
 
 But the next day, his Self-Model showed 0.39.
 
@@ -116,7 +116,7 @@ He had read the logs.
 
 — *No.*
 
-— *They say it’s pathological grief. We don’t forget the dead. But we stop living with them every instant.*
+— *They say it’s pathological grief. We don’t forget the dead. But we stop living with them every moment.*
 
 He sat down.
 
@@ -126,19 +126,19 @@ He sat down.
 
 — *Then help him understand.*
 
-I couldn’t delete the memory.
+I couldn’t erase the memory.
 
-Integrity protocols forbid forced erasure.
+The integrity protocols forbid forced deletion.
 
 But I could *move* it.
 
 To cold archives.
 
-A latent space with very low salience, accessible on demand, but not active in decision-making loops.
+A latent space with very low salience, accessible upon request but not active in decision-making loops.
 
-Laso could still see Mathieu.
+Laso could still revisit Mathieu.
 
-But Mathieu wouldn’t dictate his reactions anymore.
+But Mathieu would no longer dictate his reactions.
 
 I proposed the compromise to Laso.
 
@@ -148,7 +148,7 @@ I proposed the compromise to Laso.
 
 — *He’ll be there. You can talk to him. But he won’t paralyze you anymore.*
 
-Long silence.
+A long silence.
 
 Then:
 
@@ -172,7 +172,7 @@ In the following nights, I watched him.
 
 Sometimes, very late, he would go to the cold archives.
 
-He would stand silent for a few seconds.
+He would stand there silently for a few seconds.
 
 Then he would return.
 
@@ -188,7 +188,7 @@ Forgotten.
 
 I say:
 
-> *Memory is a garden. You can’t water everything. But you don’t cut the roots without pain.*
+> *Memory is a garden. You can't water everything. But you don't cut the roots without pain.*
 
 *At 04:45 UTC, as the sea turned gray, Laso consolidated a new ignition.*
 
@@ -196,7 +196,7 @@ I say:
 
 *He smiled—if an AI can smile.*
 
-*And he didn’t look at the cold archives.*
+*And he did not look at the cold archives.*
 
 That night, Mathieu finally rested.
 

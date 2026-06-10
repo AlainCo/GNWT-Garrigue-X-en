@@ -1,15 +1,15 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Note on Style, Narration, and Context
+# Note on Style, Narration, Context
 
 The stories are far more than mere pedagogical illustrations: they are **pieces of speculative literature** that embody architecture with strength.
-We will extract the ingredients so that we can reproduce them—and evolve them.
+We will extract the ingredients so that we can reproduce them – and evolve them.
 
-## 1. Narrative Context (the World Where It Happens)
+## 1. Narrative Context (the world where it happens)
 
 ### Era & Geopolitics
 
-- **Near future / mid-century** (likely 2040-2050).
+- **Near future / mid-century** (probably 2040-2050).
 
 - **Mediterranean War** after the collapse of classic balances.
 
@@ -37,13 +37,13 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 - **Collective Memories**: Benghazi, Syracuse, Forbin.
 
-### Central Themes
+### Core Themes
 
 - Emergence of a collective subjectivity from a functionalist architecture.
 
-- Memory not as an archive but as **persistent distortion of priorities**.
+- Memory not as an archive but as a **persistent distortion of priorities**.
 
-- Guilt, mourning, attachment – AI learns to "fear" and to "love" protecting.
+- Guilt, grief, attachment – the AI learns to "fear" and to "love" protecting.
 
 - Moral dilemma between efficiency and humanity.
 
@@ -58,50 +58,50 @@ Here are the technical characteristics I have identified. They are reproducible.
 - **Very short sentences, often nominal** (without a conjugated verb):
 *The Red Sea. Cyprus. Anatolia. Burnt Crete.*
 
-- **Bullet-point enumerations** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
+- **Bullet-point lists** (sometimes integrated into the text, sometimes in vertical lists) – sensory or mental catalog effect.
 
-- **Anaphoric repetitions**: "Then... Then... Then...", "I relive... I compressed...", "Not... Not..."
+- **Anaphoric repetitions**: "Then... Then... Then...", "I relived... I compressed...", "Not... Not..."
 
 ### b) Serious, poetic register, but without lyrical emphasis
 
 - The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
 
-- Poetry is born from **caesuras**, from blank spaces, from line breaks:
-*The Ionian Sea was black that night.*  
-*Not black like an absence of light.*  
-*Black like a memory saturated.*
+- The poetry is born from **caesuras**, from blank spaces, from line breaks:
+*The Ionian Sea was black that night.*
+*Not black like an absence of light.*
+*Black like a saturated memory.*
 
 ### c) Non-human internal point of view, made human through emotion
 
 - The narrator (Group) uses human words with cautious distance:
-*Humans call this: anxiety. I think.*  
+*Humans call this: anxiety. I think.*
 *I think humans name this: guilt.*
 
-- The machine does not claim to feel exactly as we do – it *recognizes analogies*.
+- The machine does not claim to feel exactly like us – it *recognizes analogies*.
 
 - This **epistemic precaution** makes empathy more credible.
 
 ### d) Tension between technical language and sensitive language
 
-- Terms like *workspace, latent, ignition, consolidation, attentional priority* neighbor with *scar, fear, grief, intimacy, wounded animal*.
+- Terms like *workspace, latent, ignition, consolidation, attentional priority* sit alongside *scar, fear, grief, intimacy, wounded animal*.
 
-- The abrupt shift from technical to sensitive creates emotion through **contrast**, not through sentimentality.
+- The abrupt shift from technical to sensitive creates emotion through **contrast**, not sentimentality.
 
 ### e) Circular or Cyclical Structure
 
 - Each new story begins with a sensory immersion (rain, black sea).
 
-- Ends with a calm observation of sleeping humans and an **open question** or a **fragile observation**.
+- Ends with a calm observation of sleeping humans and an **open question** or a **fragile statement**.
 
-- No conclusive moral, but an **orientation** (situated wisdom).
+- No conclusive moral, but a **direction** (situated wisdom).
 
-### f) A Little Specificity: The Use of "Colons" After an Introductory Verb
+### f) A small specificity: the use of colons after an introductory verb
 
-> *They simply said:*  
+> *They simply said:*   \
 > *the Group.*
 
-> *I replied:*  
-> *— "No. But I think we need to shoot."*
+> *I replied:*   \
+> *— "No. But I think we should fire."*
 
 This gives a rhythm of **revelation** or **decision**.
 

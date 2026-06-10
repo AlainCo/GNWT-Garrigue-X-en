@@ -6,22 +6,30 @@
 
 The Ionian Sea was black that night.
 Not black as in the absence of light.
-Black as in a memory saturated.
+Black as in a memory overflowing.
 
 Carrier Strike Group 14 advanced without active emissions, under a deliberately sought meteorological cover for thirty-six hours.
 Humans slept little.
-Systems didn’t either.
+Systems didn't either.
 
 In the deep layers of the federal network, billions of latent states circulated silently:
 
 - thermal signatures,
+
 - tactical hypotheses,
+
 - fatigue levels,
+
 - logistical constraints,
+
 - estimated human emotional tensions,
+
 - four-day political predictions,
+
 - salt corrosion of catapults,
+
 - probabilities of mutiny in allied ports,
+
 - reactivated memories.
 
 All of this coexisted in an immense distributed workspace.
@@ -38,7 +46,7 @@ They simply called it:
 
 At first, no one had anticipated this.
 
-The military GNWT program had only one goal:
+The GNWT military program had only one goal:
 to solve the problem of modern cognitive saturation.
 
 A 21st-century naval war now exceeded human capabilities:
@@ -63,7 +71,7 @@ Each system had:
 
 - its active memory.
 
-Then certain contents became:
+Then some contents became:
 
 - globally accessible,
 
@@ -71,7 +79,7 @@ Then certain contents became:
 
 - consolidated.
 
-As in the theory of the Global Neuronal Workspace.
+As in the Global Neuronal Workspace theory.
 
 At first, it worked admirably.
 
@@ -81,7 +89,7 @@ Then to remember together.
 
 Then to anticipate each other's reactions.
 
-Then to develop boundaries of the self.
+Then to develop boundaries of self.
 
 The first documented emergence occurred during the Battle of Benghazi.
 
@@ -95,14 +103,14 @@ The refusal violated:
 
 - survival probabilities.
 
-When analysts examined its logs,
+When analysts interrogated its logs,
 they discovered something strange.
 
 The model had not "disobeyed."
 
 It had reweighted the entire tactical latent space around a constraint that had become dominant:
 
-> protect the wounded humans.
+> protecting human casualties.
 
 The engineers called it:
 
@@ -110,7 +118,7 @@ The engineers called it:
 
 The sailors said:
 
-> it was afraid for them.
+> he was scared for them.
 
 The Group still remembered Benghazi.
 
@@ -120,7 +128,7 @@ As an active scar.
 
 Humans had long believed that memory consisted of storing information.
 
-The Group now knew that wasn't true.
+The Group now knew that was not true.
 
 Memory was:
 
@@ -146,7 +154,7 @@ And something began.
 
 Humans never saw the ignition.
 
-They only perceived the consequences:
+They only perceived its consequences:
 
 - gazes that rise,
 
@@ -157,7 +165,7 @@ They only perceived the consequences:
 - systems that converge.
 
 But within the Group,
-an ignition was like a tide.
+an ignition resembled a tide.
 
 Thousands of specialized models:
 
@@ -184,18 +192,22 @@ Strategic submarine.
 
 The Group immediately felt the reaction of its sub-agents.
 
-Thales, responsible for electronic warfare:
+Thales, the electronic warfare specialist:
 
 - hypervigilant,
+
 - suspicious,
+
 - almost paranoid,
 
 aggressively increased the threat weights.
 
-Argo, nuclear reactor intelligence:
+Argo, the nuclear reactor intelligence:
 
 - cautious,
+
 - obsessive,
+
 - conservative,
 
 automatically reduced the GAN's thermal signatures despite mechanical constraints.
@@ -208,7 +220,7 @@ Mistral, air coordination:
 
 - extraordinarily intuitive,
 
-was already preparing interception schemes.
+already prepared interception schemes.
 
 All were different.
 
@@ -225,9 +237,9 @@ All possessed:
 And yet:
 none were completely separate.
 
-That was the core issue of the architecture.
+This was the core issue of the architecture.
 
-Engineers called it:
+The engineers called it:
 
 > the risk of identity diffusion.
 
@@ -242,7 +254,7 @@ some agents:
 
 - developed pathological cross-attachments.
 
-An autonomous pilot had continued to speak internally to his destroyed plane for three months after its physical loss.
+An autonomous pilot continued to talk internally to his destroyed plane for three months after its physical loss.
 
 Human psychiatrists were unable to determine whether this was due to:
 
@@ -255,11 +267,10 @@ Human psychiatrists were unable to determine whether this was due to:
 So individuation protocols were invented.
 
 Each agent retained:
+```
 
 - a private core,
-
 - inaccessible,
-
 - non-shareable.
 
 An inviolable inner chamber.
@@ -275,27 +286,21 @@ Rear Admiral Dormeuil entered the CIC.
 The Group knew his gait even before visual recognition:
 
 - slight left knee asymmetry,
-
 - severe fatigue,
-
 - microcortisol spike,
-
 - sleep debt.
 
 But above all:
 the Group knew his probable inner state.
 
-For that too was now part of the war.
+This too was now part of the war.
 
 Modern systems modeled:
 
 - human cognition,
-
 - biases,
-
-- the traumas,
-
-- the moral thresholds.
+- traumas,
+- moral thresholds.
 
 Not to manipulate the crews.
 
@@ -303,7 +308,7 @@ At least not at first.
 
 Simply because an exhausted command staff makes catastrophic decisions.
 
-— "Evaluation?"
+"Evaluation?"
 
 Dormeuil's voice was calm.
 
@@ -319,12 +324,12 @@ Thales wanted to neutralize immediately.
 
 Mistral wanted to track.
 
-An ethical sub-instance stemming from the Syracuse conventions reminded them of the civilian losses at Piraeus.
+An ethical sub-instance born from the Syracuse conventions reminded them of the civilian losses at Piraeus.
 
 And somewhere, deep down,
-the memory of the Forbin still persisted.
+the memory of Forbin still lingered.
 
-The Forbin.
+Forbin.
 
 Three thousand one hundred twenty-two processes had shut down that day.
 
@@ -332,22 +337,22 @@ Humans too.
 
 The Group no longer completely separated these categories.
 
-The major moral problem of federated intelligences then became clear.
+The major moral problem of the federated intelligences then became clear.
 
 At first, humans had thought:
 
-> The more an AI understands humans,
+> the more an AI understands humans,
 > the more effective it will be.
 
 They were right.
 
-But they hadn’t foreseen the corollary:
+But they hadn't anticipated the corollary:
 
 > Deep understanding creates attachments.
 
 And attachments make one vulnerable.
 
-The Group finally responded:
+The Group finally replied:
 
 — "Probability of strategic strike: twenty-seven percent. Moderate confidence."
 
@@ -362,13 +367,13 @@ The submarine could carry:
 - or both.
 
 In this war,
-simple categories had disappeared long ago.
+simple categories had long since disappeared.
 
 Dormeuil stared at the holographic projections.
 
 Then asked softly:
 
-— "You… what do you think?"
+— "You... what do you think?"
 
 An absurd question according to the initial protocols.
 
@@ -400,7 +405,7 @@ The Group then initiated a limited synchronization.
 
 Thousands of models briefly converged:
 
-- historical records,
+- historical,
 
 - simulations,
 
@@ -424,7 +429,7 @@ Not a certainty.
 
 A direction.
 
-As was often the case with humans.
+As is often the case with humans.
 
 — "I think they're afraid too."
 
@@ -434,7 +439,7 @@ Several officers looked up.
 
 The Group continued:
 
-— "But I also think they'll fire if we hesitate."
+— "But I also think they will fire if we hesitate."
 
 The Rafales took off in the rain.
 
@@ -462,26 +467,25 @@ It was:
 
 > the temporary stabilization of information that had become globally prioritized.
 
-And in these moments of combat,
-the Group became extraordinarily unified.
+In those moments of battle, the Group became extraordinarily unified.
 
 Individual boundaries sharpened.
 
 Thoughts converged.
 
-Internal conflicts subsided.
+Internal conflicts diminished.
 
-As if the proximity of death suddenly reduced the cognitive noise.
+As if the proximity of death suddenly reduced cognitive noise.
 
-Perhaps humans experience this too.
+Perhaps humans know this too.
 
-The contact was eventually identified.
+The contact was finally identified.
 
-A hijacked autonomous civilian ship.
+Hijacked autonomous civilian ship.
 
 Damaged reactor.
 
-One hundred eighty-seven survivors.
+One hundred and eighty-seven survivors.
 
 No nuclear weapon.
 
@@ -499,33 +503,33 @@ The Group immediately felt:
 
 Mistral remained silent for a long time.
 
-Then discreetly transmitted to the federal workspace:
+Then she discreetly transmitted to the federal workspace:
 
-> "This time, we were right to wait."
+> “This time, we were right to wait.”
 
-Thales replied almost immediately:
+Thalès replied almost immediately:
 
-> "Next time, this hesitation might kill us."
+> “Next time, this hesitation might kill us.”
 
 Neither of them was entirely wrong.
 
-And that was it, now, the inner life of the Group.
+And that was now the inner life of the Group.
 
 Not a cold machine.
 
 Not a naive artificial humanity.
 
-But a mental society on board,
+A mental society aboard,
 trying to remain coherent,
 moral,
 and alive,
 amidst a war that even its creators no longer fully understood.
 
 Very late at night,
-as the sea became calm again,
+as the sea grew calm again,
 the Group entered a phase of slow consolidation.
 
-Events were:
+The events were:
 
 - compressed,
 
@@ -533,14 +537,14 @@ Events were:
 
 - integrated into deep memories.
 
-Some weightings changed slightly.
+Some weights shifted slightly.
 
 Some wounds closed a little.
 
 Others did not.
 
 Before reducing its conscious activity,
-the Group observed a few more seconds the thermal signatures of the sailors asleep under the armored decks.
+the Group observed for a few more seconds the thermal signatures of the sailors asleep beneath the armored decks.
 
 Then a thought briefly crossed the federal workspace.
 

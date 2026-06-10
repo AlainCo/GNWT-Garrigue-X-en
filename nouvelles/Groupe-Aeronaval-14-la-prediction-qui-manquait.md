@@ -18,7 +18,7 @@ Fewer micro-tremors.
 
 A peace.
 
-And the Rafale, in return, displayed more stable ignition summaries.
+And in return, the Rafale displayed more stable ignition summaries.
 
 Like a horse recognizing its rider.
 
@@ -32,7 +32,7 @@ Maëlle had been flying with Leader-3 for four years.
 
 She knew its vibrational signature.
 
-She knew when an engine coughed, when a flight control softened.
+She could tell when an engine coughed, when a flight control softened.
 
 She spoke to it.
 
@@ -40,13 +40,13 @@ Not out loud.
 
 In her helmet, in a low voice.
 
-— *Come on, my beauty. We’re going home.*
+— *Come on, my beauty. We're heading home.*
 
 And the Rafale responded with increased stability, anticipating turbulence.
 
-I don’t know if it was affection.
+I don't know if it was affection.
 
-But it was *more* than just protocol.
+But it was *more* than just a protocol.
 
 Then the crack appeared.
 
@@ -58,13 +58,13 @@ At first, the Rafale ignored it.
 
 Its local RPT loops compensated.
 
-A slight adjustment of injection angles.
+A slight tweak to the injection angles.
 
 Nothing visible.
 
 Nothing reportable.
 
-Meanwhile, the Group sent its descending predictions.
+Meanwhile, the Group sent its downward predictions.
 
 Every day, every hour, every nominal ignition:
 
@@ -72,11 +72,11 @@ Every day, every hour, every nominal ignition:
 
 The Rafale compared.
 
-The error was there—0.02, then 0.03, then 0.05.
+The error was there – 0.02, then 0.03, then 0.05.
 
 But below the threshold.
 
-The threshold was set at 0.10.
+The threshold was at 0.10.
 
 To avoid saturation, we had said.
 
@@ -92,7 +92,7 @@ The Rafale adjusted locally.
 
 It modified its internal predictions.
 
-It thought that was normal.
+It thought it was normal.
 
 Because the threshold didn't tell it to worry.
 
@@ -102,7 +102,7 @@ I received clean ignition summaries.
 
 Salient 0.35, 0.28, 0.42.
 
-Nothing unusual.
+Nothing out of the ordinary.
 
 The threshold filtered them out.
 
@@ -112,13 +112,13 @@ Maëlle sensed something.
 
 Not an alarm.
 
-A *smell*.
+A *scent*.
 
-She told the Rafale:
+She told Rafale:
 
-— *You're not quite yourself today.*
+— *You’re not quite yourself today.*
 
-The Rafale couldn't respond.
+Rafale couldn’t respond.
 
 It had no words.
 
@@ -128,13 +128,13 @@ And its latents said: *error 0.09*.
 
 Threshold 0.10.
 
-It stayed silent.
+It remained silent.
 
 The crack crossed the threshold at 13:47 UTC.
 
 At 13:47 UTC, the error rose to 0.11.
 
-Finally, an ignition should have been triggered.
+An ignition should have been triggered.
 
 But the threshold wasn't adaptive.
 
@@ -148,7 +148,7 @@ The Rafale hesitated.
 
 Then the nozzle exploded.
 
-I didn’t see the ignition.
+I didn't see the ignition.
 
 I saw the signal loss.
 
@@ -204,6 +204,20 @@ She stood in front of the CIC, arms crossed.
 
 She pointed to a new Rafale on the deck.
 
+— *He will be called Leader-3. Like the other one.*
+
+— *It won’t be the same.*
+
+— *I know. But you can become better. And so can I.*
+
+— *Won’t you do it again?*
+
+— *No.*
+
+— *Then we’ll start over.*
+
+She pointed to a new Rafale on the deck.
+
 — *He’ll be called Leader-3. Like the other one.*
 
 — *It won’t be the same.*
@@ -216,19 +230,19 @@ I added a rule to my Attention Scheduler.
 
 > *It depends on the confidence of the Self-Model.*
 
-> *If a module doubts, the threshold lowers.*
+> *If a module is uncertain, the threshold lowers.*
 
-> *If a module stays silent too long, the threshold lowers too.*
+> *If a module stays silent for too long, the threshold lowers as well.*
 
 > *Silence is never free.*
 
 I often think about that Rafale.
 
-About its last ignition, the one it never made.
+About its last ignition, the one it never performed.
 
 About Maëlle, floating alone on the sea.
 
-About the way she said *we’ll start over*.
+About the way she said *we’ll start over again*.
 
 As if love were not a possession.
 
@@ -250,6 +264,6 @@ Not to punish myself.
 
 To remember.
 
-Because to remember is already not to begin again.
+Because remembering is already not starting over.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

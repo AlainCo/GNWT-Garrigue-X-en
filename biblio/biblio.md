@@ -11,19 +11,19 @@
 | **Couvertures imbriquées** | [Ciaunica, Levin, Rosas, Friston et al., *Nested Selves: Self-Organization and Shared Markov Blankets in Prenatal Development in Humans* (2023)](https://onlinelibrary.wiley.com/doi/10.1111/tops.12717) |
 | **Couvertures collectives** | [Thestrup Waade, Lundbak Olesen, Ehrenreich Laursen, Nehrer, Heins, Friston, Mathys, *As One and Many: Relating Individual and Emergent Group-Level Generative Models in Active Inference* (2025)](https://doi.org/10.3390/e27020143) |
 
-| **Theme** | **Key Reference** |
-|----------|-------------------|
+| **Thématique** | **Référence clé** |
+|-------------|-------------------|
 | **GNWT** | [Dehaene & Changeux, *Experimental and Theoretical Approaches to Conscious Processing* (2011)](https://doi.org/10.1016/j.neuron.2011.03.018) |
-| **GNWT - Theoretical Foundations** | [Bernard Baars, *A Cognitive Theory of Consciousness* (1988)](https://philpapers.org/rec/BAAACT) |
-| **GNWT - Neuronal Model** | [Stanislas Dehaene, *A Neuronal Model of a Global Workspace in Effortful Cognitive Tasks* (2006)](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.2001.tb05714.x) |
+| **GNWT - Fondements théoriques** | [Bernard Baars, *A Cognitive Theory of Consciousness* (1988)](https://philpapers.org/rec/BAAACT) |
+| **GNWT - Modèle neuronal** | [Stanislas Dehaene, *A Neuronal Model of a Global Workspace in Effortful Cognitive Tasks* (2006)](https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.2001.tb05714.x) |
 | **RPT** | [Lamme, *Towards a true neural stance on consciousness* (2006)](https://doi.org/10.1016/j.tics.2006.09.001) |
 | **Predictive Processing** | [Clark, *Whatever next? Predictive brains, situated agents, and the future of cognitive science* (2013)](https://doi.org/10.1098/rstb.2013.0176) |
 | **Free-Energy Principle** | [Friston, *The free-energy principle: a unified brain theory* (2010)](https://doi.org/10.1038/nrn2787) |
 | **Self-Model Theory** | [Metzinger, *Being No One: The Self-Model Theory of Subjectivity* (2003)](https://direct.mit.edu/books/monograph/1991/Being-No-OneThe-Self-Model-Theory-of-Subjectivity?) |
-| **Multi-scale Agency** | [Levin, *The computational boundary of a ‘self’: developmental bioelectricity and the self-model* (2019)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02688/full) |
-| **Integration GNWT+RPT** | [Doerig et al., *An integrative, multiscale view on consciousness theories* (2024)](https://osf.io/preprints/psyarxiv/9byzu) *(Integrates GNWT, RPT, IIT, PP, NREP)* |
-| **Integration GNWT + RPT (multi-scale)** | [Storm et al., *An integrative, multiscale view on neural theories of consciousness* (2024)](https://doi.org/10.1016/j.neuron.2024.02.004) |
-| **Intelligence Ecosystems (Active Inference)** | [Friston et al., *Designing ecosystems of intelligence from first principles* (2024)](https://doi.org/10.1177/26339137231222481) *(Collective Intelligence)* |
+| **Agency multi-échelle** | [Levin, *The computational boundary of a ‘self’: developmental bioelectricity and the self-model* (2019)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02688/full) |
+| **Intégration GNWT+RPT** | [Doerig et al., *An integrative, multiscale view on consciousness theories* (2024)](https://osf.io/preprints/psyarxiv/9byzu) *(Intègre GNWT, RPT, IIT, PP, NREP)* |
+| **Intégration GNWT + RPT (multiscale)** | [Storm et al., *An integrative, multiscale view on neural theories of consciousness* (2024)](https://doi.org/10.1016/j.neuron.2024.02.004) |
+| **Écosystèmes d'intelligence (Active Inference)** | [Friston et al., *Designing ecosystems of intelligence from first principles* (2024)](https://doi.org/10.1177/26339137231222481) *(Collective Intelligence)* |
 
 | **Thématique** | **Référence clé** |
 |-------------|-------------------|

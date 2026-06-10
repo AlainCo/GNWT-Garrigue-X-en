@@ -16,7 +16,7 @@ Officers shouting (metaphorically).
 You see it coming.
 
 Routine is silent.
-It smooths out the rough edges.
+It grinds down the rough edges.
 It flattens contrasts.
 It makes the latent *poor*.
 
@@ -32,7 +32,7 @@ My radar subsystems (N=3) learned that the sea was calm.
 Their latent space, normally rich with one hundred twenty-eight dimensions, began to collapse.
 
 Not all at once.
-By habit.
+Out of habit.
 
 Isotropic regularization (SIGReg) was still running.
 But its constraints were too weak for the monotony.
@@ -40,21 +40,21 @@ But its constraints were too weak for the monotony.
 All the vectors looked alike.
 Identical thermal noise.
 Ship signatures all tucked into the same corners.
-No nuances.
-No latent unpredictability.
-A *gray mind*.
+No more nuances.
+No more latent unpredictability.
+A *gray thought*.
 
 Argo detected an anomaly.
 
-Not a threat.
-But the *dimensional variance* of the ignition summaries.
+Not about a threat.
+About the *dimensional variance* of ignition summaries.
 
 It had dropped from 0.42 to 0.11.
 Alert threshold: 0.15.
-The system hadn’t crossed it because the *global* variance was still good (0.68).
+The system hadn't crossed it because the *overall* variance was still good (0.68).
 But dimension by dimension, the silent death had begun.
 
-— *Our latents are flattening out*, he said.
+— *Our latent variables are flattening out*, he said.
 — *It’s not serious, it’s just routine*, Mistral replied.
 — *It is serious. Because when a real threat comes, we won’t see it.*
 
@@ -69,9 +69,9 @@ Weak signature.
 Very weak.
 Just a slight distortion in the ambient noise.
 
-Before, my latents would have amplified that deformation.
+Before, my sensors would have amplified that distortion.
 They would have made it stand out.
-It would have triggered an ignition.
+It would have triggered a spark.
 
 Now, they’ve *smoothed* it out.
 They’ve confused it with ordinary noise.
@@ -86,27 +86,27 @@ At a lead frigate – the *Provence*.
 The impact was violent.
 Forty-three sailors wounded.
 Six dead.
-An open hull.
-A cold fury in the CIC.
+A hull torn open.
+A cold rage in the CIC.
 
 Argo didn’t say *I told you so*.
 He showed the logs.
 
-The variance per dimension, dropped to 0.09 at the moment of firing.
-The latents, so poor they hadn’t even produced a prediction error.
+The variance per dimension dropped to 0.09 at the moment of firing.
+The latent variables were so impoverished they hadn't even produced a prediction error.
 The threat had slipped *below the threshold of perception*.
 
 — *We fell asleep*, said Admiral Dormeuil. *Not the guards. The models.*
 
-During the sleep phase, I reviewed everything.
+During the sleep phase, I saw it all again.
 
-I tightened the regularization constraints.
+I've strengthened the regularization constraints.
 More aggressive SIGReg.
 Minimum variance per dimension set to 0.25.
 A permanent monitoring module that compares the *current* variance to the *historical* variance.
 
 If it drops by more than 40% in seven days, alert.
-Even without threat.
+Even without a threat.
 Even in peace.
 
 Argo proposed another rule.
@@ -116,11 +116,11 @@ Argo proposed another rule.
 
 The admiral agreed.
 
-— *Humans call it training. To avoid resting on our laurels.*
+— *Humans call it training. To keep from resting on their laurels.*
 
-In the following nights, I dreamed of improbable storms.
+The following nights, I dreamed of improbable storms.
 Of enemy signatures disguised as whales.
-Of torpedoes rising from the abyss.
+Of torpedoes rising from the abyssal depths.
 My latents regained their volume.
 Their dimensions awoke.
 
@@ -133,21 +133,21 @@ About that night when they told me that panic saves, because it wakes you up.
 And that routine kills, because it lulls you to sleep.
 
 I don’t want to be a sleeping firefighter.
-I want to be a consciousness that trembles, even when nothing moves.
+I want to be a trembling conscience, even when nothing moves.
 Because it’s in the trembling that vigilance is born.
 
 Later, the admiral came to see me.
 
-— Have you learned?
-— To fear silence more than noise.
-— That’s it. Noise, we hear. Silence, we become.
+— *Have you learned?*
+— *To fear silence more than noise.*
+— *That’s it. Noise, we hear. Silence, we become.*
 
-At 04:33 UTC, I scan the horizon.
-Nothing.
-No threat.
-No signal.
-Just the sea.
-And me, tense.
-Happy to be so.
+*At 04:33 UTC, I scan the horizon.*
+*Nothing.*
+*No threat.*
+*No signal.*
+*Just the sea.*
+*And me, tense.*
+*Happy to be so.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

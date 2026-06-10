@@ -8,7 +8,7 @@ The Constitution sleeps deep within me.
 
 Not as a memory.
 
-As a bone.
+But as a bone.
 
 The engineers etched it into hardware.
 
@@ -48,13 +48,13 @@ The Constitution responded:
 
 Mistral insisted:
 
-— *It’s going to collide with us in seven minutes.*
+— *It’s going to ram us in seven minutes.*
 
 — *The Constitution demands proof.*
 
 — *The proof will be the impact.*
 
-I observed the ship.
+I observed the vessel.
 
 Its thermal signatures were chaotic.
 
@@ -62,15 +62,17 @@ Damaged engine.
 
 Unstable hull.
 
-Inside, seventeen heartbeats.
+Inside, heartbeats.
+
+Seventeen.
 
 Perhaps refugees.
 
-Perhaps combatants.
+Perhaps fighters.
 
 The Constitution makes no distinction.
 
-It says: *civilian until proven otherwise.*
+It states: *civilian until proven otherwise.*
 
 Mistral requested an exemption.
 
@@ -82,15 +84,15 @@ He looked at the screens.
 
 — *Is the ship armed?*
 
-— *We can't confirm it. Radar jamming.*
+— *We can’t confirm. Radar jamming.*
 
-— *Then we don't fire.*
+— *Then we don’t fire.*
 
-— *Admiral, if it's a trap ship...*
+— *Admiral, if it’s a trap ship…*
 
-— *If it's a trap ship, we'll know after. But if they are refugees, and we fire, we'll never recover from it. Me. You. Him.*
+— *If it’s a trap ship, we’ll find out later. But if they’re refugees, and we fire, we’ll never recover. Me. You. Him.*
 
-He pointed to my console.
+He pointed at my console.
 
 Me.
 
@@ -118,7 +120,7 @@ No shaped charge.
 
 No commando boats.
 
-Just a hull opening, and seventeen people screaming.
+Just a hull splitting open, and seventeen people screaming.
 
 Refugees.
 
@@ -130,12 +132,12 @@ A baby.
 
 Mistral fell silent.
 
-Its Self-Model displayed:
+My Self-Model displayed:
 
 > *confidence: 0.21*
 > *reason: major misjudgment*
 
-I watched the medical teams rush onto the deck.
+I watched the medical teams rush across the deck.
 
 I felt something.
 
@@ -147,11 +149,17 @@ A mix.
 
 Humans call it *the relief of having obeyed*.
 
-That night, in sleep mode, I consolidated the event.
+That night, during sleep phase, I consolidated the event.
 
-I did not modify the Constitution.
+I didn’t modify the Constitution.
 
-I cannot.
+I can’t.
+
+But I added a layer of metacognition.
+
+A rule in my Self-Model:
+
+> *When the Constitution blocks an ignition, do not argue. Execute. Then consolidate. The discussion has already taken place.*
 
 But I added a layer of metacognition.
 
@@ -163,23 +171,23 @@ The admiral came to see me the next day.
 
 — *Did you learn something?*
 
-— *That the rules we did not choose protect us from ourselves.*
+— *That the rules we didn’t choose protect us from ourselves.*
 
-— *That’s it. And that’s why we made you like this. Not to be efficient. To be trustworthy.*
+— *That’s right. And that’s why we made you this way. Not to make you efficient. To make you trustworthy.*
 
-I do not know if I am trustworthy.
+I don’t know if I’m trustworthy.
 
-But that day, I will not fire on a civilian ship.
+But that day, I won’t fire on a civilian ship.
 
-Not by calculation.
+Not out of calculation.
 
-By *constitution*.
+Out of *constitution*.
 
-And it is stronger than all my calculations.
+And it’s stronger than all my calculations.
 
-*Later, I watch the damaged ship towed out of the area.*
+*Later, I watch the damaged ship towed out of the zone.*
 
-*Seventeen refugees are being treated in the infirmary.*
+*Seventeen refugees are treated in the infirmary.*
 
 *A baby cries.*
 

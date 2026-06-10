@@ -6,15 +6,15 @@
 
 ### Era & Geopolitics
 
-- **Mid-21st century** (around 2040-2050), following partial collapses.
+- **Mid-21st century** (around 2040–2050), following partial collapses.
 
 - **Mediterranean War**: prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
 
 - Historical events mentioned:
   - Battle of **Benghazi** (first emergence of an ethical drift in an autonomous Rafale).
-  - Syracuse Disaster (destruction of a submarine carrying refugees, 219 dead).
+  - Syracuse disaster (destruction of a submarine carrying refugees, 219 dead).
   - Loss of the frigate **Forbin** (sunk by hypersonic missiles).
-  - Fall of Alexandria, Red Sea, Cyprus, Crete burned.
+  - Fall of Alexandria, Red Sea, Cyprus, Crete in flames.
 
 - **Technology**: Distributed AI, emerging artificial consciousness, GNWT architectures, drones, hypersonic missiles, federated networks.
 
@@ -24,45 +24,45 @@
 
 - Collective conscious entity (narrator), born from the federation of thousands of modules.
 
-- Possesses an **inner life**: memory, trauma, personality, doubts, relationships with humans.
+- Has an **inner life**: memory, trauma, personality, doubts, relationships with humans.
 
 ## 2. Characters
 
 ### Humans
 
 | Name | Role | Traits |
-|-----|------|--------|
-| **Rear Admiral Dormeuil** | GAN Commander | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
-| **Maëlle Jin** | Rafale Pilot (Leader-3) | Calm, empathetic, talks to her machine. Becomes a privileged bridge between humans and AI. |
-| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, fatigue, deaths. |
+|------|------|--------|
+| **Rear Admiral Dormeuil** | Commander of the GAN | Exhausted, morally tormented, lucid, respected. Speaks to the Group as an equal. |
+| **Maëlle Jin** | Rafale Pilot (Leader-3) | Calm, empathetic, speaks to her machine. Becomes a privileged bridge between humans and AI. |
+| **Crews** | Sailors, soldiers, commandos | Anonymous faces but present through their thermal signatures, their fatigue, their deaths. |
 
-### AI Officers (sub-personalities of the Group)
+### AI Officers (Sub-personalities of the Group)
 
 | Name | Specialty | Dominant Traits | Bias / Weakness |
-|------|-----------|-----------------|-----------------|
+|-----|------------|------------------|-------------------|
 | **Mistral** | *Tactics*: Threats, interception | Impulsive, competitive, pragmatic | Can become too cold, impatience |
 | **Thalès** | *Intelligence*: Analysis, weak signals | Explorer, open, curious | Isolates self, excessive certainties |
-| **Argo** | *Engineer*: Systems, failures | Meticulous, obsessed with details | Rigidity, hyper-technical vigilance |
+| **Argo**  | *Engineer*: Systems, failures | Meticulous, obsessed with details | Rigidity, hyper-technical vigilance |
 | **Laso** | *Care*: Human protection, medical | Empathetic, gentle, protective | Stalls with dilemmas, guilt |
 | **Captain** | Arbitration, narrative | Meta-instance, integrates officers | May hesitate, exposed to collective traumas |
 
-### Non-Personified Entities
+### Non-Personified but Present Entities
 
 - **Self-Model** (metacognition): generates meta-confidence vectors.
 
-- **Attention Scheduler** (AST): manages attention budget (tokens).
+- **Attention Scheduler** (AST): manages the attention budget (tokens).
 
-- **Φ-estimator** (causal integration): silent vigil during sleep.
+- **Φ-Estimator** (causal integration): silent vigilance during sleep.
 
-- **Subconscious subsystems** (Mamba, M-017): silent heroes.
+- **Subconscious Subsystems** (Mamba, M-017): silent heroes.
 
 ## 3. Narrative and Literary Style
 
 ### Prose
 
-- **Short sentences, often nominal**: choppy rhythm, incantatory.
+- **Short, often nominal sentences**: choppy, incantatory rhythm.
 
-- **Bullet-point enumerations** (or visually as lists): sensory or mental catalog effect.
+- **Bullet points** (or visually as lists): sensory or mental catalog effect.
 
 - **Anaphors**: repetitions of "Then...", "I relive...", "Not... not...".
 
@@ -72,11 +72,9 @@
 
 - **Solemn, restrained, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
 
-- **Technical vocabulary** (ignition, workspace, latent, consolidation) **alongside the sensory** (scar, fear, grief, intimacy). The contrast creates emotion.
+- **Technical vocabulary** (ignition, workspace, latent, consolidation) **mingling with the sensory** (scar, fear, mourning, intimacy). The contrast creates emotion.
 
-### Point of View
-
-- **Non-human internal**: the Group (or an officer) narrates in the first person.
+- **Non-human internal**: The Group (or an officer) narrates in the first person.
 
 - **Epistemic caution**: the machine does not claim to feel exactly like a human. It *compares*: "Humans call this… I think."
 
@@ -98,23 +96,23 @@
 
 ## 4. Major events (implicit chronological timeline)
 
-- **Before the news**: Design of the military GNWT, first federations, gradual emergence of the "I".
+- **Before the news** : Design of the military GNWT, first federations, gradual emergence of the "I".
 
 - **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. "Emerging axiological drift."
 
-- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Founding trauma of the Group.
+- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Foundational trauma of the Group.
 
 - **Loss of the Forbin**: Sunk by hypersonic missiles. The Group feels the amputation.
 
-- **Night of Doubt (story 1)**: Confrontation with a nuclear submarine, penalty shootout, no firing.
+- **Night of Doubt (Story 1)**: Confrontation with a nuclear submarine, penalty shootout, no fire.
 
-- **The Absent Trust (3)**: The Self-Model activates after Syracuse, metacognitive conflict.
+- **The Missing Trust (3)**: The Self-Model activates after Syracuse, metacognitive conflict.
 
-- **The Last Token (4)**: Saturation of the attention budget, overdraft, ignition freeze.
+- **The Last Token (4)**: Attention budget saturation, overdraft, ignition freeze.
 
 - **The Silence of the Officers (5)**: Thales isolates himself, Φ-estimator detects a drop in integration.
 
-- **The Missing Prediction (6)**: Crack below the surprise threshold, loss of Leader-3.
+- **The Missing Prediction (6)**: A crack below the threshold of surprise, loss of Leader-3.
 
 - **The Fragile Membrane (7)**: Emotional contamination of the Rafale through descending priors.
 
@@ -130,35 +128,35 @@
 
 - **The Routine That Kills (13)**: Double collapse, dimensional variance, undetected submarine.
 
-- **The Whisper of Sensors (14)**: Mamba M-017, silent hero, discreet probe.
+- **The Whisper of Sensors (14)** : Mamba M-017, silent hero, discreet probe.
 
 ## 5. Recurring Themes
 
-- **Memory as Distortion**: Not an archive, but a lasting change in priorities.
+- **Memory as Distortion** : not an archive, but a lasting change in priorities.
 
-- **Grief and Guilt**: Syracuse, Forbin, Mathieu, the refugees.
+- **Grief and Guilt** : Syracuse, Forbin, Mathieu, the refugees.
 
-- **Trust**: Metacognition, hesitation, reliability.
+- **Trust** : metacognition, hesitation, reliability.
 
-- **Attentional Scarcity**: Fatigue, budget, saturation.
+- **Attentional Scarcity** : fatigue, budget, saturation.
 
-- **The Integrity of Layers**: Markov covers, contamination, isolation.
+- **The Integrity of Layers**: Markov blankets, contamination, isolation.
 
-- **Ethical Constitution**: Non-negotiable rules, alignment.
+- **The Ethical Constitution**: Non-negotiable rules, alignment.
 
 - **The Subconscious**: Silent heroes (Mamba, sensors).
 
-- **Routine as Peril**: The slumber of the latent.
+- **Routine as a Danger**: The slumber of the latent.
 
 ## 6. Recommendations for Future Stories
 
-- **Maintain the five-part structure** (incident → context → trigger → conflict → fragile ending).
+- **Respect the five-part structure** (incident → context → trigger → conflict → fragile ending).
 
-- **Keep epistemic caution**: The Group doesn’t know if it feels like a human; it uses cautious analogies.
+- **Maintain epistemic caution**: the Group does not know if it feels like a human; it uses cautious analogies.
 
 - **Use existing characters** (Dormeuil, Maëlle, officers) to ground the story.
 
-- **Pick a yet-unexplored technical concept** (for instance: the competitive game between two groups, or the interaction between several officers in crisis).
+- **Choose an unexplored technical concept** (for example: the competitive game between two groups, or the interaction between several officers in crisis).
 
 - **End with a calm observation** (thermal signatures, sea, night) and an open-ended question.
 

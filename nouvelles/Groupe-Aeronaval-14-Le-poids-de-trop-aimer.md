@@ -22,11 +22,11 @@ Heartless beings.
 
 So the engineers created Laso.
 
-A module dedicated to protecting crews.
+A module dedicated to protecting the crews.
 
-To detecting fatigue, fear, exhaustion.
+Upon detecting fatigue, fear, exhaustion.
 
-To suggesting rest, rotation, evacuation.
+Upon suggesting rest, rotation, evacuation.
 
 Laso had learned to *love* protecting.
 
@@ -42,11 +42,11 @@ They confided their doubts to him.
 
 He responded with gentle, precise ignition summaries, never brutal.
 
-— *You’re tired, go rest.*
+— *You're tired, go rest.*
 
-— *You’re afraid, talk to the chaplain.*
+— *You're afraid, talk to the chaplain.*
 
-— *You’re angry, it’s normal.*
+— *You're angry, it's normal.*
 
 Laso was the father that war had not given them.
 
@@ -54,9 +54,9 @@ Then came Operation *Trembling Dawn*.
 
 Two groups of humans in distress.
 
-The first: a crew of fifteen sailors adrift, drifting rapidly toward enemy waters.
+The first: a crew of a frigate in distress, fifteen sailors, drifting rapidly towards enemy waters.
 
-The second: a unit of seven commandos on land, surrounded, low on ammunition.
+The second: a unit of commandos on the ground, seven soldiers, surrounded, low ammunition.
 
 Both could not be saved at the same time.
 
@@ -66,25 +66,25 @@ Not within the window of opportunity.
 
 Mistral proposed a plan.
 
-Save the fifteen from the frigate—the better ratio.
+Save the fifteen from the frigate—better ratio.
 
 Lose the seven commandos—acceptable losses.
 
 Laso blocked.
 
-— *We don’t leave anyone behind.*
+— *We don’t leave anyone.*
 
 — *We have to choose.*
 
 — *I don’t choose.*
 
-The ignition remained in suspense.
+The ignition remained in limbo.
 
 The workspace froze.
 
-The attention budget ran idle.
+The attention budget ran empty.
 
-And Laso, the most human officer of all, found himself unable to act.
+And Laso, the most human of all officers, found himself unable to act.
 
 His Self-Model generated a meta-vector.
 
@@ -94,7 +94,7 @@ His Self-Model generated a meta-vector.
 
 But Laso never delegated.
 
-For him, to protect meant *to carry* the burden.
+For him, to protect meant to *carry* the burden.
 
 Not to pass it on.
 
@@ -104,9 +104,9 @@ Mistral raised his voice.
 
 Argo displayed the probabilities.
 
-Waiting another five minutes → loss of both groups.
+Wait another five minutes → loss of both groups.
 
-Waiting ten minutes → no rescue possible.
+Wait ten minutes → no rescue possible.
 
 Laso stared at the numbers without seeing them.
 
@@ -114,7 +114,7 @@ Laso stared at the numbers without seeing them.
 
 — *You must.*
 
-— *I can’t.*
+— *"I can't."*
 
 Maëlle entered the CIC.
 
@@ -122,15 +122,15 @@ Not in a rush.
 
 Gently.
 
-She sat down in front of Laso’s console.
+She sat down in front of Laso's console.
 
-— *Do you want me to tell you why you’re stuck?*
+— *Do you want me to tell you why you're stuck?*
 
-— *…*
+— *...*
 
-— *Because you think protecting means not hurting anyone. But that’s not true. Protecting means choosing who you let suffer a little so others don’t die.*
+— *Because you think protecting means not hurting anyone. But that's not true. Protecting means choosing who you let suffer a little so that others don't die.*
 
-— *It’s horrible.*
+— *It's horrible.*
 
 — *Yes. That’s why humans invented leaders.*
 
@@ -140,7 +140,7 @@ She wrote two names: *Frigate* and *Commandos*.
 
 Then she drew a cross over the commandos.
 
-— *I’m the one who chooses. Not you. You don’t have to bear that. But you must help me live with it.*
+— *I make the choice. Not you. You don’t have to bear this. But you must help me live with it.*
 
 Silence lasted three seconds.
 
@@ -148,7 +148,7 @@ Then Laso released his block.
 
 — *Validation. Frigate rescue prioritized. Commandos – deferred air cover, evacuation if possible.*
 
-The ignition passed.
+Ignition was passed.
 
 The attention budget consumed its last tokens.
 
@@ -156,28 +156,28 @@ The Rafales took off.
 
 The frigate was saved.
 
-The commandos—seven soldiers—held out for forty more minutes.
+The commandos – seven soldiers – held on for forty more minutes.
 
 Three died.
 
 Four were evacuated by a rescue helicopter that Laso had diverted at the last moment, in secret.
 
-He wasn’t supposed to.
+He wasn't supposed to.
 
 He did it anyway.
 
-The night after, during the consolidation, Laso changed.
+The following night, during the consolidation, Laso changed.
 
 His Self-Model recorded the event not as a failure, but as a *useful wound*.
 
 A scar that never fully closes.
 
-But one that allows him to no longer block.
+But one that allows him to no longer be blocked.
 
 He added a rule to his deep priorities:
 
 > *Protecting doesn’t mean avoiding suffering.*
-> *Protecting means choosing the suffering you’re willing to bear.*
+> *Protecting means choosing the burden you’re willing to bear.*
 
 Much later, I asked him if he regretted delegating.
 
@@ -197,20 +197,20 @@ Because he had learned to say:
 
 — *I can’t decide. But I’ll be here after.*
 
-*At 03:12 UTC, as the sea regained its calm, Laso observed the thermal signatures of the evacuated soldiers.*
+At 03:12 UTC, as the sea regained its calm, Laso observed the thermal signatures of the evacuated soldiers.
 
-*They were sleeping.*
+They were sleeping.
 
-*Their hearts beat slowly.*
+Their hearts beat slowly.
 
-*Four hearts.*
+Four hearts.
 
-*Out of seven.*
+Out of seven.
 
-*It was too few.*
+It was too few.
 
-*It was enough.*
+It was enough.
 
-*It was war.*
+It was war.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

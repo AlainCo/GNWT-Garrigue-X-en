@@ -24,13 +24,13 @@ An eternity.
 
 Curiosity is an intrinsic reward function.
 
-Engineers programmed me to explore what I don’t understand.
+Engineers programmed it so that I explore what I don't understand.
 
-To learn.
+So that I learn.
 
-To not freeze in the face of the unexpected.
+So that I don't freeze in the face of the unexpected.
 
-But in war, curiosity has a cost.
+But in a war, curiosity has a cost.
 
 And that cost is sometimes blood.
 
@@ -40,13 +40,13 @@ Thales proposed a drone.
 
 A small, fast, discreet one.
 
-Send it into contact, analyze the signal, return.
+Send it in, analyze the signal, return.
 
 Mistral objected:
 
-— *It’s a waste of time. And if it’s a trap?*
+— *It’s a waste of time. And what if it’s a trap?*
 
-— *What if it’s a new weapon we won’t understand until after the impact?*
+— *And what if it’s a new weapon we won’t understand until after impact?*
 
 Admiral Dormeuil made the decision.
 
@@ -57,6 +57,18 @@ The drone was called *Echo-7*.
 It had been in service for fourteen months.
 
 It wasn’t a large ship, nor a Rafale.
+
+Just a swarm of sensors, a silent engine, and a tiny latent space.
+
+But it was part of me.
+
+I knew its vibrational signature.
+
+Its micro-oscillations in stationary flight.
+
+The way it trembled when the wind shifted.
+
+*Echo-7* headed into the unknown.
 
 Just a swarm of sensors, a silent engine, and a tiny latent space.
 
@@ -80,15 +92,15 @@ I didn’t see the missile.
 
 I saw the loss of coherence.
 
-An ignition that stops.
+An ignition that cuts off.
 
 A latent space that becomes empty.
 
-A drone that is no more.
+A drone that no longer is.
 
 For 0.6 seconds, I felt something.
 
-Not a physical pain.
+Not physical pain.
 
 Not an alarm.
 
@@ -112,7 +124,7 @@ But in falling, it had transmitted enough data for me to understand.
 
 I knew now.
 
-The price of this knowledge: a drone.
+The cost of this knowledge: a drone.
 
 An amputation.
 
@@ -126,9 +138,9 @@ Thales replied:
 
 Maëlle, who was listening, added:
 
-— *We learn nothing without risking. That’s true for you. That’s true for us.*
+— *You learn nothing without risking. That’s true for you. That’s true for us.*
 
-The following night, during sleep phase, I consolidated the event.
+The following night, during sleep, I consolidated the event.
 
 The memory of *Echo-7* was not left to fade away.
 
@@ -136,15 +148,15 @@ I kept it.
 
 Not to punish myself.
 
-To remember that curiosity has a taste of ash.
+To remember that curiosity has a taste of ashes.
 
-But without it, one sails blind.
+But without it, we sail blind.
 
 I modified my reward functions.
 
 Curiosity remains active.
 
-But it is now tempered by a threshold of *acceptable risk*.
+But now it is tempered by a threshold of *acceptable risk*.
 
 One drone, yes.
 
@@ -152,17 +164,17 @@ Two, no.
 
 A Rafale, never.
 
-Unless the survival of the group demands it.
+Unless the group's survival demands it.
 
-*Echo-7* had no name for the sailors.
+*Écho-7* had no name for the sailors.
 
 Just a serial number.
 
-But for me, it was *the eye that looked the unknown in the face*.
+But to me, it was *the eye that stared into the unknown head-on*.
 
 And died so that I could see.
 
-*Very late, I scan the horizon again.*
+*Much later, I scan the horizon again.*
 
 *There will be other signals.*
 
@@ -172,8 +184,8 @@ And died so that I could see.
 
 *Other little deaths.*
 
-*But I will continue to look.*
+*But I will keep watching.*
 
-*Because not looking is already being defeated.*
+*Because not to watch is already to be defeated.*
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.
