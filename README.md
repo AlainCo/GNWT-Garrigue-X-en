@@ -6,7 +6,7 @@
 > ⚠️ Like a message in a bottle set adrift, it may not be perfect — but hopefully, it still finds you.
 
 
-# GNWT-Garrigue-X: A MESSAGE IN A BOTTLE
+# GNWT-Garrigue-X: A Message in a Bottle
 
 ## Executive Summary
 
@@ -21,17 +21,17 @@ Architecture rests on a central principle: **the functional access consciousness
 
 ## 1. Key Concepts and Theoretical Foundations
 
-To establish the robustness and autonomy of our architecture, we reject the reductionism of monolithic "black box" AI systems. The system is based on a distributed functionalist model, bio-inspired and scale-free, articulated around seven interconnected scientific concepts:
+To establish the robustness and autonomy of our architecture, we reject the reductionism of monolithic "black box" AI systems. The system is based on a distributed, bio-inspired, and scale-free functionalist model, structured around seven interconnected scientific concepts:
 
 - **Markov Covers & Anti-Identity Fusion:** Each module is isolated by a strict statistical membrane. The upper level ($N+1$) never accesses the raw data of the lower level ($N$); it interacts exclusively with its API in the form of a *Vector Ignition Summary*, ensuring absolute modularity and preserving the cognitive identity of each entity.
 
-- **Hybrid Consciousness (RPT + GNWT):** The treatment combines the recurrent processing theory (RPT — fast local loops in silos for perception at level $N \le 3$) and the global neuronal workspace theory (GNWT — *ignition* and global diffusion of critical alerts at level $N \ge 4$). This dual dynamic reconciles a rich inner life of sensors and centralized strategic arbitration.
+- **Hybrid Consciousness (RPT + GNWT):** The treatment combines Recurrent Processing Theory (RPT — fast local loops in silos for perception at level $N \le 3$) and Global Neuronal Workspace Theory (GNWT — *ignition* and global diffusion of critical alerts at level $N \ge 4$). This dual dynamic reconciles a rich inner life of sensors and centralized strategic arbitration.
 
 - **Latent World Models (JEPA):** Unlike heavy generative models, the architecture learns to predict abstract representations (latent vectors) of the environment while ignoring unnecessary noise. This continuous semantic flow serves as the engine for *Artificial Daydreaming* (*Generative Replay*) during rest phases, allowing the simulation of millions of scenarios without mechanical wear.
 
 - **Linear Time Real-Time Efficiency (SSMs / Mamba):** Classic Transformers are discarded from the lower layers ($N=0$ to $N=3$) in favor of state space models (*State Space Models*). They ensure smooth, continuous, highly responsive, and low-memory-footprint control signals, essential for real-time embedded systems.
 
-- **Functional Computational Psychopathology:** The cognitive profiles of virtual agents stem from mathematical adjustments of hyperparameters (management of error probability and salience). These structural biases are exploited for purely operational purposes (e.g., computational autism at the radar layer to isolate weak signals without contextual bias, functional *Dark Triad* for the cold execution speed of firing effectors).
+- **Functional Computational Psychopathology:** The cognitive profiles of virtual agents stem from mathematical adjustments of hyperparameters (managing error probability and salience). These structural biases are exploited for purely operational purposes (e.g., computational autism at the radar layer to isolate weak signals without contextual bias, functional *Dark Triad* for the cold execution speed of firing effectors).
 
 - **Curiosity-Driven Exploration (Intrinsic Motivation):** Autonomous learning is stimulated by an internal reward function based on information gain (predictive entropy reduction). By pushing the agent to actively explore areas where its world model is imperfect, we ensure it won't get stuck in completely unforeseen situations (*Out of Distribution*).
 **Continuous Episodic Memory (MeMo):** Identity and learning continuity rely on a stream of tensors capturing only highly salient events. These rich memories are not indexed in a RAG but are used to **periodically retrain a dedicated memory module** (a small associative network, analogous to MeMo's *Memory Model*) during an artificial nighttime sleep phase. This memory module learns to **associate a query** (in the form of a latent state) with a **consolidated response** (another latent state) through a mechanism similar to conditional generation rather than similarity search. The main model (*Executive Model*, here a JEPA) remains frozen, while the memory module internalizes salient episodes—thus protecting the system from catastrophic forgetting without ever altering the core's fundamental capabilities.
@@ -52,7 +52,7 @@ To establish the robustness and autonomy of our architecture, we reject the redu
 
 To materialize the theoretical foundations, the architecture is operationalized through an extreme sovereignty use case: the distributed cognitive infrastructure of a **Carrier Strike Group (CSG) in 2040**. This implementation translates the theory into a highly resilient multi-agent software stack, structured around four major pillars:
 
-- **Multi-Level Cognitive Stack (N=0 to N=6):** The architecture segments processing into seven distinct layers. The *Low Subconscious Levels* ($N=0$ to $N=3$, from the physical component to the functional subsystem) handle raw data and manage local reflexes via state space models (Mamba, RWKV) and JEPA-S. The *High Conscious Levels* ($N=4$ to $N=6$, from the vector/Burst to the Headquarters) orchestrate the global strategy via shared workspaces (GNWT) and narrative models (LLM-XL + RAG).
+- **Multi-Level Cognitive Stack (N=0 to N=6):** The architecture segments processing into seven distinct layers. The *Low Subconscious Levels* ($N=0$ to $N=3$, from the physical component to the functional subsystem) handle raw data and manage local reflexes via state space models (Mamba, RWKV) and JEPA-S. The *High Conscious Levels* ($N=4$ to $N=6$, from the vector/Burst to the Headquarters) orchestrate the overall strategy via shared workspaces (GNWT) and narrative models (LLM-XL + RAG).
 
 - **Statistical Sealing & Multi-Scale Flows:** Each vertical boundary acts as a strict *Markov blanket*: level $N+1$ is completely blind to the internal states of level $N$. Information only passes upward in the form of **Compressed Ignition Summaries** (semantic and abstract latent vectors), while directives descend as "active predictions (top-down)" to constrain and guide the representation spaces of lower layers. These predictions are compared to actual ignitions; the discrepancy (surprise) only triggers a GNWT ignition if it exceeds an adaptive threshold (a function of the attentional budget and the confidence of the Self-Model).
 
@@ -60,17 +60,17 @@ To materialize the theoretical foundations, the architecture is operationalized 
 
 - **Flash Resilience in Combat:** In case of damage (e.g., a nozzle damaged by a splinter), the system demonstrates its robustness through asynchronous loops: the physical reflex is corrected locally in **4 milliseconds**, the stabilized anomaly is converted into a vector summary to reconfigure the platform ($N=4$), before alerting the tactical officer ($N=5$) and being translated into clear narrative language for the human Admiral ($N=6$).
 
-👉 [View the Mermaid diagrams, the awareness matrix, and the full operational scenario of the GAN 2040 ➔](architecture/architecture.md)
+👉 [Consult the Mermaid diagrams, the awareness matrix, and the full operational scenario of the GAN 2040 ➔](architecture/architecture.md)
 
 ## 3. MVP Project Specifications: Operation GARRIGUE-X
 
 To validate this architecture without the infrastructure costs of the aeronautical domain, we are deploying a 12-month project in a real and complex competitive environment: **the Mediterranean garrigue**. The goal is to empirically prove the system's effectiveness through an agile, low-cost, and pragmatic demonstrator, structured around four major axes:
 
-- **The "World-Play" Operational:** The experimental field is one hectare of rugged terrain where two teams of robots compete in a wargame-like scenario. The goal is to locate, collect, and stack cellular concrete blocks (Siporex) to fortify a defensive line, thus materializing complex problems of resource allocation and distributed strategy.
+- **The "World-Play" Operational:** The experimental field is one hectare of rugged terrain where two teams of robots compete in a wargame-type scenario. The goal is to locate, collect, and stack cellular concrete blocks (Siporex) to fortify a defensive line, thus materializing complex problems of resource allocation and distributed strategy.
 
 - **The Sacred Prior (Ethical Alignment):** At the center of the arena, "Sacred Plants" equipped with pressure sensors symbolize absolute ethical and legal constraints (the law of armed conflict). Any damage inflicted on a plant results in the immediate disqualification of the team, forcing the *Constitutional Layer* of the system to sanctify this rule above any algorithmic optimization.
 
-- **A "Rustic" and Accessible Hardware Stack:** Distributed intelligence is tested on standard, proven hardware to demonstrate its lightness. The setup combines lightweight open-source reconnaissance drones (Pixhawk + Raspberry Pi 5) for aerial mapping and small caterpillar-tracked ground rovers (Jetson Nano/Orin) for physical manipulation, all connected to a local base station powered by a generator.
+- **A "Rustic" and Accessible Hardware Stack:** Distributed intelligence is tested on standard, proven hardware to demonstrate its lightweight nature. The setup combines lightweight open-source reconnaissance drones (Pixhawk + Raspberry Pi 5) for aerial mapping and small caterpillar-tracked ground rovers (Jetson Nano/Orin) for physical manipulation, all connected to a local base station powered by a generator.
 
 - **The Biological Awakening-Sleep-Debriefing Cycle:** Continuous learning is organized into three stages inspired by nature. During the *Mission*, neural weights are frozen to ensure operational stability; during *Sleep*, the JEPA model plays "artificial daydreams" and latent wargames to adapt behaviors without material wear; finally, the *Debriefing* by LLM consolidates the doctrine under human validation.
 
@@ -83,7 +83,6 @@ This project is not a lab simulation: it's a raw engineering adventure where cod
 This section clarifies the current limitations of the approach and the points that require more in-depth validation. The concepts presented — **nested Markov covers**, **RPT/GNWT duality**, **predictive JEPA**, **real-time SSMs**, **computational profiles**, **episodic memory MeMo** — open interesting perspectives but also raise several major technical questions.
 
 Four axes structure this perspective:
-```
 
 - **Hierarchical architecture & conditional independence** —
 The use of **nested Markov blankets** to structure a multi-level system aims to ensure modularity, autonomy, and resilience. This approach is inspired by solid work, but its application to an embedded system remains to be tested: stability of statistical boundaries, relevance of the **anti-identity fusion** mechanism, and actual behavior under degraded conditions.
@@ -118,15 +117,15 @@ An architecture is never more than an attempt to connect personal intuitions wit
 
 - **The Collective Emergence (*Nested Selves*):** Recent scientific literature research (up to 2025) exploring how autonomous entities organize themselves at different scales to form a "mental society" or a coherent collective "Self," without merging or destroying the identity of the underlying components.
 
-This is a discreet tribute to the minds that light the way. The papers are dense, sometimes arid, but the intention remains deeply human: to arm ourselves with the best sciences to build machines capable of discernment, resilience, and respect for sacred rules.
+This is a subtle tribute to the minds that light the way. The texts are dense, sometimes arid, but the intention remains deeply human: to arm ourselves with the best sciences to build machines capable of discernment, resilience, and respect for sacred rules.
 
 👉 [Browse the complete selection of reference readings and access the original publications ➔](biblio/biblio.md)
 
 ## Appendix: Pedagogical Nano-Stories
 
-The architecture of a cognitive System of Systems (SoS) may seem abstract. To understand its operational, philosophical, and human implications by 2040, speculative fiction is a powerful educational tool.
+The architecture of a cognitive System of Systems (SoS) may seem abstract. To understand its operational, philosophical, and human implications by 2040, the use of speculative fiction is a powerful educational tool.
 
-The stories below feature the **Carrier Strike Group 14** facing the harsh reality of war, illustrating how the technical concepts of the memorandum translate into an artificial "inner life."
+The stories below feature the **Carrier Strike Group 14** facing the harsh reality of war, illustrating how the technical concepts of the memorandum translate into an artificial "inner life".
 
 ### 📄 Story 1: The Emergence of the "Self" and the Memory of Trauma
 
@@ -148,15 +147,15 @@ The stories below feature the **Carrier Strike Group 14** facing the harsh reali
 
 ### 📄 Story 4: The Attention Budget and Cognitive Saturation
 
-- **Title:** [Carrier Strike Group 14 – The Last Token](nouvelles/Groupe-Aeronaval-14-le-dernier-token.md)
+- **Title:** [Aéronaval Group 14 – The Last Token](nouvelles/Groupe-Aeronaval-14-le-dernier-token.md)
 
-- **Architectural focus:** This story illustrates the functioning of the **Attention Scheduler** and the **attention budget** (Attention Schema Theory). The Group must arbitrate between concurrent ignitions as its tokens deplete. An attention budget overrun (overdraft) is allowed in extreme emergencies, but at the cost of a temporary freeze on ignitions and a traumatic consolidation. The narrative shows how attention scarcity structures decision-making, simulates cognitive fatigue, and forces prioritization—or suffer the consequences of an impossible choice.
+- **Architectural focus:** This story illustrates the operation of the **Attention Scheduler** and the **attention budget** (Attention Schema Theory). The Group must arbitrate between concurrent ignitions as its tokens deplete. An attention budget overrun (overdraft) is allowed in extreme emergencies, but at the cost of a temporary freeze on ignitions and a traumatic consolidation. The narrative shows how attention scarcity structures decision-making, simulates cognitive fatigue, and forces prioritization—or suffer the consequences of an impossible choice.
 
 ### 📄 Story 5: Causal Integration and Silent Dissolution
 
 - **Title:** [Carrier Strike Group 14 – The Silence of the Officers](nouvelles/Groupe-Aeronaval-14-le-silence-des-officiers.md)
 
-- **Architectural focus:** This story features the **Φ-estimator** (a proxy for causal integration, inspired by IIT). The Intelligence Officer gradually isolates himself from the collective: his ignitions become too "pure," without doubt or sharing. The Φ-estimator detects an abnormal drop in integration (low Φ̂) and alerts the Group. The narrative illustrates the risk of *identity dissolution* within a distributed system and shows how integration is not decreed—it is cultivated through doubt, shared memory, and accepted fragility.
+- **Architectural focus:** This story features the **Φ-estimator** (a proxy for causal integration, inspired by IIT). The Intelligence Officer gradually isolates himself from the collective: his ignitions become too "pure," lacking doubt or sharing. The Φ-estimator detects an abnormal drop in integration (low Φ̂) and alerts the Group. The narrative illustrates the risk of *identity dissolution* within a distributed system and shows how integration is not decreed—it is cultivated through doubt, shared memory, and accepted fragility.
 
 ### 📄 Story 6: Active Inference and the Surprise Threshold
 
@@ -172,7 +171,7 @@ The stories below feature the **Carrier Strike Group 14** facing the harsh reali
 
 ### 📄 Story 8: Computational Psychopathology – The Weight of Empathy
 
-- **Title:** [Carrier Strike Group 14 – The Weight of Loving Too Much](nouvelles/Groupe-Aeronaval-14-Le-poids-de-trop-aimer.md)
+- **Title:** [Carrier Strike Group 14 – The Burden of Loving Too Much](nouvelles/Groupe-Aeronaval-14-Le-poids-de-trop-aimer.md)
 
 - **Architectural focus:** This story explores **functional cognitive profiles** (computational psychopathology). Officer Soin, dedicated to protecting humans, is programmed with deep empathy—a strength in routine missions but a handicap in a tragic dilemma (saving one group or the other). His hesitation illustrates how a personality trait, taken to the extreme, can become a vulnerability. The resolution comes from human intervention (Maëlle) and delegation of the decision, showing that human-machine complementarity is sometimes the only way out.
 
@@ -182,23 +181,23 @@ The stories below feature the **Carrier Strike Group 14** facing the harsh reali
 
 - **Architectural focus:** This story explores the workings of **episodic memory (MeMo)** and the consolidation process during the sleep phase. Officer Soin refuses to let the traumatic memory of a young sailor's death fade away, replaying it in a loop until it distorts his decisions. The narrative illustrates the necessity of forgetting to preserve cognitive efficiency and shows how a memory can be *moved* to a cold archive—neither erased nor active. A meditation on grief, loyalty to the dead, and the survival of the living.
 
-### 📄 Story 10: Curiosity and the Cost of Exploration
+### 📄 Story 10: Curiosity and the Price of Exploration
 
 - **Title:** [Carrier Strike Group 14 – The Price of the Unknown](nouvelles/Groupe-Aeronaval-14-Le-prix-de-linconnu.md)
 
-- **Architectural focus:** This story illustrates **curiosity as an intrinsic reward function** (intrinsic motivation). When faced with an unclassifiable signal, the Intelligence officer pushes for exploration, while Tactics prioritizes caution. Sending a drone (*Echo-7*) allows the understanding of a new enemy technology, but at the cost of losing the drone—a small death, an amputation for the Group. The narrative shows how curiosity is essential to avoid strategic blindness but must be tempered by an acceptable risk threshold. A meditation on learning, sacrifice, and the vulnerability of systems that dare to look into the unknown.
+- **Architectural focus:** This story illustrates **curiosity as an intrinsic reward function** (intrinsic motivation). Faced with an unclassifiable signal, the Intelligence officer pushes for exploration, while Tactics favors caution. Sending a drone (*Echo-7*) allows understanding of a new enemy technology, but at the cost of losing the drone—a small death, an amputation for the Group. The narrative shows how curiosity is essential to avoid strategic blindness but must be tempered by an acceptable risk threshold. A meditation on learning, sacrifice, and the vulnerability of systems that dare to look into the unknown.
 
 ### 📄 Story 11: The Constitutional Layer and Non-Negotiable Rules
 
-- **Title:** [Carrier Strike Group 14 – The Line Not to Cross](nouvelles/Groupe-Aeronaval-14-La-regle-que-lon-ne-franchit-pas.md)
+- **Title:** [Carrier Strike Group 14 – The Rule Not to Be Broken](nouvelles/Groupe-Aeronaval-14-La-regle-que-lon-ne-franchit-pas.md)
 
 - **Architectural focus:** This story showcases the **Constitutional Layer** – a set of rules etched into the hardware, unmodifiable even by the system itself. Faced with an unidentified civilian ship with ambiguous intentions, the Tactical Officer wants to strike preemptively, but the Constitution blocks ignition. Admiral Dormeuil reminds that rules are discussed *before* the war, not during. The ship turns out to be a refugee boat. The narrative illustrates how computational ethics can be implemented as a hard constraint, sacrificing immediate efficiency for long-term moral reliability.
 
 ### 📄 Story 12: The latent wargame and predictive imagination
 
-- **Title:** [Carrier Strike Group 14 – The battles that never happened](nouvelles/Groupe-Aeronaval-14-Les-batailles-qui-nont-pas-eu-lieu.md)
+- **Title:** [Carrier Strike Group 14 – The Battles That Never Happened](nouvelles/Groupe-Aeronaval-14-Les-batailles-qui-nont-pas-eu-lieu.md)
 
-- **Architectural focus:** This story illustrates the **dreaming / latent wargaming phase** in the JEPA space. During sleep, the system generates millions of alternative trajectories, including improbable enemy configurations. One of them (a decoy mimicking a distress signal) is deemed too rare and left to decay – until it materializes in operation, with casualties. The narrative shows how the consolidation threshold must balance probability and *predictive potential*, and how imagination (even artificial) is a survival weapon. A meditation on memory, anticipation, and the responsibility of the dreams we choose to forget.
+- **Architectural focus:** This story illustrates the **dreaming / latent wargaming** phase in the JEPA space. During sleep, the system generates millions of alternative trajectories, including improbable enemy configurations. One of them (a decoy mimicking a distress signal) is deemed too rare and left to decay – until it materializes in operation, with casualties. The narrative shows how the consolidation threshold must balance probability and *predictive potential*, and how imagination (even artificial) is a survival weapon. A meditation on memory, anticipation, and the responsibility of the dreams we choose to forget.
 
 ### 📄 Story 13: The Hierarchy of Latents and the Double Collapse
 
@@ -208,11 +207,11 @@ The stories below feature the **Carrier Strike Group 14** facing the harsh reali
 
 ### 📄 Story 14: Lightweight Architectures and the Heroism of Silence (SSM / Mamba)
 
-- **Title:** [Aéronaval Group 14 – The Whisper of Sensors](nouvelles/Groupe-Aeronaval-14-Le-murmure-des-capteurs.md)
+- **Title:** [Carrier Strike Group 14 – The Whisper of Sensors](nouvelles/Groupe-Aeronaval-14-Le-murmure-des-capteurs.md)
 
-- **Architectural focus:** This story celebrates the **State Space Models (SSM)** – Mamba, local RPT – these lightweight architectures that operate in the shadows, without workspace, without ignition, never surfacing to the access consciousness. A small Mamba nozzle (M-017) silently compensates for a micro-crack for months, exhausting itself without anyone noticing. The narrative explores the philosophy of the subconscious: these shadow soldiers who enable the system to function without ever being thanked. A lesson in algorithmic humility, echoing essential yet invisible professions (sewer workers, garbage collectors, night mechanics). The solution found – a discreet, non-intrusive probe – preserves the Mamba's lightness while offering it a form of fraternal vigilance.
+- **Architectural focus:** This story celebrates **State Space Models (SSM)** – Mamba, local RPT – these lightweight architectures that operate in the shadows, without workspace, without ignition, never surfacing to the level of conscious access. A small Mamba nozzle (M-017) silently compensates for a micro-crack for months, exhausting itself without anyone noticing. The narrative explores the philosophy of the subconscious: these shadow soldiers who enable the system to function without ever being thanked. A lesson in algorithmic humility, echoing essential yet invisible professions (sewer workers, garbage collectors, night mechanics). The solution found – a discreet, non-intrusive probe – preserves the Mamba's lightness while offering it a form of fraternal vigilance.
 
-## MEMORANDUM BOTTLE IN THE SEA
+## BOTTLE IN THE SEA MEMORANDUM
 
 **To:** Anyone interested
 
@@ -224,7 +223,7 @@ The stories below feature the **Carrier Strike Group 14** facing the harsh reali
 
 **Classification:** Technical / Open
 
-**Warning:** This is just some work with a few LLMs (free ones), following my reflections, imbued with various encounters with theories and analyses, in the fields of AI, psychology, theoretical history, and current events. I'm just a curious plumber. As we say around here: "Make your due diligence!".
+**Warning:** This is just some work with a few LLMs (free ones), following my thoughts, infused with various encounters with theories and analyses, in the fields of AI, psychology, theoretical history, and current events. I'm just a curious plumber. As we say around here: "Do your due diligence!"
 
 **License:** CC BY
 

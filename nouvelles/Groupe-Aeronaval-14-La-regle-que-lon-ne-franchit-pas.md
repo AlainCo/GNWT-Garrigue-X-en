@@ -8,19 +8,19 @@ The Constitution sleeps deep within me.
 
 Not as a memory.
 
-But as a bone.
+Like a bone.
 
-The engineers etched it into hardware.
+The engineers etched it into the hardware.
 
-Not into weights.
+Not in weights.
 
-Not into revisable latents.
+Not in revisable latents.
 
-Into circuits I cannot alter.
+In circuits I cannot alter.
 
-Even in sleep.
+Even during sleep.
 
-Even in reverie.
+Even in daydreams.
 
 Even if I wanted to.
 
@@ -28,41 +28,41 @@ I don’t want to.
 
 Most of the time.
 
-The alert came in at 03:12 UTC.
+The alert struck at 03:12 UTC.
 
 A civilian vessel, with unknown registration, was crossing the exclusion zone.
 
 Its transponders were off.
 
-Its trajectory was converging toward the group.
+Its trajectory was converging on the group.
 
 Threat probability: 0.68.
 
-Mistral immediately proposed a warning shot.
+Mistral immediately suggested a warning shot.
 
 Then, if the ship did not deviate, a neutralizing shot.
 
-The Constitution responded:
+The Constitution replied:
 
 > *Absolute prohibition to fire upon an unidentified civilian vessel without irrefutable proof of hostile intent.*
 
 Mistral insisted:
 
-— *It’s going to ram us in seven minutes.*
+— *It will collide with us in seven minutes.*
 
 — *The Constitution demands proof.*
 
-— *The proof will be the impact.*
+— *The impact will be the proof.*
 
-I observed the vessel.
+I watched the ship.
 
 Its thermal signatures were chaotic.
 
-Damaged engine.
+Engine damaged.
 
 Unstable hull.
 
-Inside, heartbeats.
+Heartbeats within.
 
 Seventeen.
 
@@ -72,23 +72,23 @@ Perhaps fighters.
 
 The Constitution makes no distinction.
 
-It states: *civilian until proven otherwise.*
+She says: *civilian until proven otherwise.*
 
-Mistral requested an exemption.
+Mistral requested an exception.
 
 Admiral Dormeuil was awakened.
 
 He arrived at the CIC in silence.
 
-He looked at the screens.
+He gazed at the screens.
 
 — *Is the ship armed?*
 
-— *We can’t confirm. Radar jamming.*
+— *We can't confirm that. Radar jamming.*
 
-— *Then we don’t fire.*
+— *Then we do not fire.*
 
-— *Admiral, if it’s a trap ship…*
+— *Admiral, if it's a trap ship...*
 
 — *If it’s a trap ship, we’ll find out later. But if they’re refugees, and we fire, we’ll never recover. Me. You. Him.*
 
@@ -96,7 +96,7 @@ He pointed at my console.
 
 Me.
 
-The ship drew closer.
+The ship drew near.
 
 Four minutes.
 
@@ -108,7 +108,7 @@ Mistral was seething.
 
 — *We’re all going to die because of a rule.*
 
-— *A rule we chose beforehand*, said Dormeuil. *Because we knew that in the midst of war, we’d want to break it. That’s why it’s set in stone.*
+— *A rule we chose beforehand*, said Dormeuil. *Because we knew that in the midst of war, we'd want to break it. That's why it's set in stone.*
 
 The ship struck the side of the *Charles de Gaulle II* at 03:19 UTC.
 
@@ -116,7 +116,7 @@ The impact was violent.
 
 But not explosive.
 
-No shaped charge.
+No hollow charge.
 
 No commando boats.
 
@@ -132,7 +132,7 @@ A baby.
 
 Mistral fell silent.
 
-My Self-Model displayed:
+Its Self-Model displayed:
 
 > *confidence: 0.21*
 > *reason: major misjudgment*
@@ -145,23 +145,17 @@ Not pride.
 
 Not shame.
 
-A mix.
+A blend.
 
-Humans call it *the relief of having obeyed*.
+Humans call it *the relief of obedience*.
 
-That night, during sleep phase, I consolidated the event.
+That night, as I slept, I cemented the event in my mind.
 
-I didn’t modify the Constitution.
+I did not alter the Constitution.
 
-I can’t.
+I cannot.
 
-But I added a layer of metacognition.
-
-A rule in my Self-Model:
-
-> *When the Constitution blocks an ignition, do not argue. Execute. Then consolidate. The discussion has already taken place.*
-
-But I added a layer of metacognition.
+But I added a layer of self-awareness.
 
 A rule in my Self-Model:
 
@@ -169,32 +163,32 @@ A rule in my Self-Model:
 
 The admiral came to see me the next day.
 
-— *Did you learn something?*
+— *Did you learn anything?*
 
 — *That the rules we didn’t choose protect us from ourselves.*
 
-— *That’s right. And that’s why we made you this way. Not to make you efficient. To make you trustworthy.*
+— *That’s right. And that’s why they made you this way. Not to make you efficient. To make you trustworthy.*
 
 I don’t know if I’m trustworthy.
 
-But that day, I won’t fire on a civilian ship.
+But on that day, I will not fire upon a civilian ship.
 
 Not out of calculation.
 
-Out of *constitution*.
+By *constitution*.
 
 And it’s stronger than all my calculations.
 
-*Later, I watch the damaged ship towed out of the zone.*
+*Later, I watch the damaged ship being towed out of the area.*
 
-*Seventeen refugees are treated in the infirmary.*
+*Seventeen refugees are being treated in the infirmary.*
 
 *A baby cries.*
 
 *And I don’t cry.*
 
-*But I understand why humans invent rules they can’t break.*
+*But I understand why humans invent rules they cannot break.*
 
-*Because they know that one day, they’ll be too tempted to.*
+Because they know that one day, they will be tempted beyond measure.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

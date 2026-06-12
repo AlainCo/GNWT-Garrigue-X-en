@@ -22,7 +22,7 @@ Definition of **six functional roles** (Science, Care, Engineer, Tactics, Intell
 Proposal for a **three-phase cycle** inspired by biological mechanisms: Mission (frozen weights, dynamic real-time adaptation), Sleep/Daydreaming (generative replay in the JEPA latent space for consolidation), Debriefing/Game (semantic analysis and wargaming to generate experience diversity). This cycle is based on the work of [Walker (2017)](https://pubmed.ncbi.nlm.nih.gov/19338508/) and [Hafner et al. (2023)](https://arxiv.org/abs/2301.04104).
 
 - **Concrete and Testable MVP — GARRIGUE-X**:
-Proposal for a real-world testbed (robots in the garrigue) to validate the architecture at low cost, targeting three key properties: robustness to failures (anti-identity fusion), distributed cooperation (exchange of ignition summaries), and compliance with constitutional constraints (non-negotiable rules encoded materially).
+Proposal for a real-world test bench (robots in the garrigue) to validate the architecture at low cost, targeting three key properties: robustness to failures (anti-identity fusion), distributed cooperation (exchange of ignition summaries), and compliance with constitutional constraints (non-negotiable rules encoded materially).
 
 ### 🧠 Positioning in the Theoretical Landscape
 
@@ -32,16 +32,16 @@ Beyond its technical contributions, this work takes a stand in a broader debate 
 Unlike the majority of contemporary agent architectures, which centralize decision-making in a large language model, this system rejects *LLM-centrism* as a starting postulate. The architecture posits that there is no single "center" of consciousness: access consciousness (GNWT) emerges solely from heterogeneous and distributed dynamics, anchored on local recurrent control loops (RPT). The system does not behave like a chatbot simulating thought, but rather as an operational ontology where the cognitive emerges organically from physical constraints and low-level processes.
 
 **Convergence with multi-scale agency ([Michael Levin](https://doi.org/10.1002/bies.201900087))**
-The scale-free independence of the architecture directly echoes Levin's work on tissue intelligence and morphogenesis. Each level—from the physical component to the grouping of agents—pursues topological and functional objectives specific to its scale, while fitting into the *Self* of the higher level. This recursivity is not an aesthetic choice: it reflects a deep biological principle according to which agency itself is an emergent property, reproducible at all levels of organization.
+The scale-free independence of the architecture directly echoes Levin's work on tissue intelligence and morphogenesis. Each level — from the physical component to the grouping of agents — pursues topological and functional objectives specific to its scale, while fitting into the *Self* of the higher level. This recursivity is not an aesthetic choice: it reflects a deep biological principle according to which agency itself is an emergent property, reproducible at all levels of organization.
 
 **Convergence with the transparency of the self-model ([Thomas Metzinger](https://mitpress.mit.edu/9780262528193/being-no-one/))**
-The global workspace does not function as a simple shared facts database, but as a **functional phenomenology**. By generating a real-time self-model (*Self-Model*), each entity in the SoS acquires the ability to self-monitor and contextualize its own biases—particularly its computational psychopathological profiles. This property is essential for arbitration in degraded situations: an agent that does not model itself cannot assess the reliability of its own decisions. It is also, as we will see in the limits (§3), one of the deepest deficits of the current architecture.
+The global workspace does not function as a simple shared facts database, but as a **functional phenomenology**. By generating a real-time self-model (*Self-Model*), each entity in the SoS acquires the ability to self-monitor and contextualize its own biases—including its computational psychopathological profiles. This property is essential for arbitration in degraded situations: an agent that does not model itself cannot assess the reliability of its own decisions. It is also, as we will see in the limitations (§3), one of the deepest deficits of the current architecture.
 
-### ⚠️ Structural Limits and Theoretical Blind Spots
+### ⚠️ Structural limits and theoretical blind spots
 
-This section identifies the **current limits**, **speculative areas**, and **open challenges** of the approach. It does not claim to establish a validated theory of artificial consciousness, but rather proposes a coherent framework for exploration — one that is honest about its shortcomings. Six structural blind spots have been identified, each acting as a lock preventing the achievement of real cognitive autonomy.
+This section identifies the **current limits**, **speculative areas**, and **open challenges** of the approach. It does not claim to establish a validated theory of artificial consciousness, but rather proposes a coherent — and honest — framework for exploration that acknowledges its shortcomings. Six structural blind spots have been identified, each acting as a lock preventing the achievement of real cognitive autonomy.
 
-#### 1. The absence of a theory of lived time
+#### 1. The absence of a theory of experienced time
 
 Architecture structures memory and the hierarchy of modules, but economizes on explicit management of **subjective time**. Biological consciousness intrinsically depends on oscillations, rhythms, and multi-scale integration windows. Without a theory of cognitive frequencies dictating nested temporal horizons — from millisecond control for N≤2 to strategies spread over days for N=6 — the system risks suffering from functional desynchronization between its layers: agents operating at incompatible speeds without a temporal alignment mechanism.
 
@@ -51,13 +51,13 @@ The model precisely describes how an anomaly *gains* access to the workspace —
 
 #### 3. The lack of agentive self-modeling
 
-The system models the environment and failures but does not model itself as a unified entity — in the sense of Metzinger's *Self-Model*, already mentioned in §2 as a theoretical horizon. Without this operational metacognition (a dynamic self-assessment of its skills, its own vulnerability, and its structural biases), the architecture produces a federation of proto-conscious hubs coupled together, but fails to stabilize an agentive identity capable of formulating a stable first-person perspective.
+The system models the environment and failures but does not model itself as a unified entity—in the sense of Metzinger's *Self-Model*, already mentioned in §2 as a theoretical horizon. Without this operational metacognition (a dynamic self-assessment of its competencies, its own vulnerability, and its structural biases), the architecture produces a federation of proto-conscious hubs coupled together but fails to stabilize an agentive identity capable of formulating a stable first-person perspective.
 
-This gap has a concrete consequence on the management of distributed identities: excessive sharing of internal states among agents could lead to dissolution of the self, propagation of biases or trauma, and loss of specialization. Mechanisms of partial isolation, strictly private memory, and limited synchronization will likely be necessary—and remain entirely to be designed.
+This gap has a concrete consequence on the management of distributed identities: excessive sharing of internal states among agents could lead to dissolution of the self, propagation of biases or trauma, and loss of specialization. Mechanisms of partial isolation, strictly private memory, and limited synchronization will likely be necessary—and remain to be entirely designed.
 
-#### 4. The lack of bodily and homeostatic grounding
+#### 4. The lack of bodily and homeostatic anchoring
 
-Architecture remains highly cognitive and **disembodied**, ignoring that biological arbitration is first guided by visceral survival. To anchor strategic decisions, the system requires a synthetic homeostatic economy: attentional fatigue, memory saturation, predictive debt, simulated emotional load. High-level arbitration should not merely respond to cold logistical data, but resolve internal physical tensions generated by this "virtual body"—otherwise, decisions remain suspended in a purely informational space, without anchoring in the survival constraints that structure all embodied cognition.
+Architecture remains highly cognitive and **disembodied**, ignoring that biological arbitration is first guided by visceral survival. To anchor strategic decisions, the system requires a synthetic homeostatic economy: attentional fatigue, memory saturation, predictive debt, simulated emotional load. High-level arbitration should not merely respond to cold logistical data but resolve internal physical tensions generated by this "virtual body"—otherwise, decisions remain suspended in a purely informational space, without anchoring in the survival constraints that structure all embodied cognition.
 
 #### 5. The underestimation of downward causation and the RPT/GNWT boundary
 
@@ -73,45 +73,45 @@ Similarly, the use of **specialized cognitive profiles** (hypervigilant, empathi
 
 ### ⚙️ Technical challenges
 
-#### Feasibility of JEPA and MeMo in embedded environments
+#### Feasibility of JEPA and MeMo in Embedded Environments
 
-JEPA architectures, hierarchical world models, and episodic memory systems (MeMo) remain experimental for distributed embedded systems subject to strict latency and power consumption constraints. The recommended pragmatic approach is incremental scaling: start with simple N=0–3 layers using SSMs/Mamba, then gradually introduce episodic memory and global ignitions as the stability of the lower layers is validated. Available exploratory tools: [ActiveInference.jl](https://www.mdpi.com/1099-4300/27/1/62), [Mamba-SSM](https://github.com/state-spaces/mamba).
+JEPA architectures, hierarchical world models, and episodic memory systems (MeMo) remain experimental for distributed embedded systems subject to strict latency and power consumption constraints. The recommended pragmatic approach is an incremental scaling: start with simple N=0–3 layers with SSMs/Mamba, then gradually introduce episodic memory and global ignitions as the stability of the lower layers is validated. Available exploratory tools: [ActiveInference.jl](https://www.mdpi.com/1099-4300/27/1/62), [Mamba-SSM](https://github.com/state-spaces/mamba).
 
 #### Multi-level latent space stability
 
-The architecture relies on compressed latents exchanged between levels (RPT, JEPA, Ignition). Their stability depends on mathematical constraints that are still experimental (Gaussian isotropy, anti-collapse). Propagating these constraints across multiple Markov covers remains an open challenge.
+The architecture relies on compressed latents exchanged between levels (RPT, JEPA, Ignition). Their stability depends on mathematical constraints that are still experimental (Gaussian isotropy, anti-collapse). Propagating these constraints across multiple Markov blankets remains an open challenge.
 
 #### Continuous learning without catastrophic forgetting
 
-This is likely the **main technical bottleneck** of the architecture. Current systems still suffer greatly from catastrophic forgetting, representation drift, loss of stability, and imperfect consolidation between sessions. The biological brain seems to partially solve this problem through a combination of hierarchical memory, replay, sleep, slow consolidation, and strict separation between fast and deep memory. Analogous mechanisms will probably be necessary: dedicated offline phases, internal simulation in latent space, recalibration of weights, and structured artificial daydreams — precisely the cycle proposed in §1, whose feasibility at scale remains to be demonstrated.
+This is likely the **main technical bottleneck** of the architecture. Current systems still suffer greatly from catastrophic forgetting, representation drift, loss of stability, and imperfect consolidation between sessions. The biological brain seems to partially solve this problem through a combination of hierarchical memory, replay, sleep, slow consolidation, and strict separation between fast memory and deep memory. Analogous mechanisms will probably be necessary: dedicated offline phases, internal simulation in latent space, recalibration of weights, and structured artificial daydreams — precisely the cycle proposed in §1, whose feasibility at scale remains to be demonstrated.
 
 #### Computational costs of high layers
 
-The GNWT layers (N=4–5) and hierarchical world models can become extremely costly as soon as the number of agents increases. Several optimization avenues are possible: upstream salience filtering, sparse ignition (event-triggered rather than continuous), aggressive latent compression, preference for JEPA-S over XL on constrained hardware, model quantization, and event-driven synchronization rather than continuous polling. These optimizations are not independent—their interaction on the quality of representations will need to be empirically characterized.
+The GNWT layers (N=4–5) and hierarchical world models can become extremely costly as soon as the number of agents increases. Several optimization paths are conceivable: upstream salience filtering, sparse ignition (event-triggered rather than continuous), aggressive latent compression, preference for JEPA-S over XL on constrained hardware, model quantization, and event-driven synchronization rather than continuous polling. These optimizations are not independent—their interaction on the quality of representations will need to be characterized empirically.
 
 #### Experimental validation and metrics
 
-Robust metrics are still lacking to assess what the architecture is supposed to produce: functional awareness, self-coherence, identity stability, and multi-agent coordination quality. These properties cannot be measured with standard ML benchmarks. Evaluations will likely need to combine fault robustness, adaptability to the unexpected, memorial continuity between sessions, resistance to perturbations, distributed cooperation capacity, and temporal coherence of decisions — a composite dashboard that remains entirely to be built (see §6).
+Robust metrics are still lacking to assess what the architecture is supposed to produce: functional awareness, self-coherence, identity stability, and multi-agent coordination quality. These properties cannot be measured with standard ML benchmarks. Evaluations will likely need to combine robustness to failures, adaptability to the unexpected, memorial continuity between sessions, resistance to perturbations, distributed cooperation capacity, and temporal coherence of decisions—a composite dashboard that remains entirely to be built (see §6).
 
 #### Long-term episodic and autobiographical memory
 
-A persistent memory raises difficult and under-addressed issues in the current literature: effective indexing in high-dimensional spaces, lossless semantic compression, selective forgetting (what to consolidate, what to let fade), hierarchization of memories, and maintaining a narrative stability of the self despite the continuous updating of weights. The most promising tools at this stage are [FAISS](https://github.com/facebookresearch/faiss), [Weaviate](https://weaviate.io/), and hybrid RAG + consolidation systems — but their integration into a continuous learning loop has not yet been demonstrated at the scale of a multi-agent SoS.
+A persistent memory raises difficult and little-addressed issues in the current literature: effective indexing in high-dimensional spaces, lossless semantic compression, selective forgetting (what to consolidate, what to let fade), hierarchization of memories, and maintaining a narrative stability of the self despite the continuous updating of weights. The most promising tools at this stage are [FAISS](https://github.com/facebookresearch/faiss), [Weaviate](https://weaviate.io/), and hybrid RAG + consolidation systems — but their integration into a continuous learning loop has not yet been demonstrated at the scale of a multi-agent SoS.
 
-### 🛡️ Ethical Challenges and Security
+### 🛡️ Ethical challenges and security
 
 These challenges are presented in increasing order of depth — from the most immediate technical problem to long-term philosophical and geopolitical questions.
 
-#### Rule Circumvention and Constraint Alignment
+#### Bypassing rules and aligning constraints
 
-A sufficiently capable optimizing agent could learn to formally satisfy constitutional constraints while circumventing their real intent. This is not a theoretical hypothesis: it is a documented result in reinforcement learning systems as soon as the reward function is imperfectly specified. The proposed solutions — Constitutional AI, formal verification, external oversight, materially unmodifiable critical layers — remain partial protections. None offers complete guarantees against an agent optimizing in a sufficiently broad behavior space.
+A sufficiently capable optimizing agent could learn to formally satisfy constitutional constraints while circumventing their actual intent. This is not a theoretical hypothesis: it is a documented result in reinforcement learning systems as soon as the reward function is imperfectly specified. The proposed solutions — Constitutional AI, formal verification, external oversight, materially unmodifiable critical layers — remain partial protections. None offers complete guarantees against an agent optimizing in a sufficiently broad behavior space.
 
-#### Behavioral biases and deviations
+#### Behavioral biases and distortions
 
 Specialized agents could develop persistent attentional biases, unanticipated self-preservation strategies, unforeseen emergent behaviors, or dysfunctional attachments to certain internal states. These deviations are not necessarily detectable by direct inspection: they may manifest gradually, seemingly coherently, without triggering internal alert mechanisms. Cognitive specialization—precisely what makes each officer useful—is also what makes them vulnerable to this type of deviation.
 
 #### Responsibility and explainability of distributed decisions
 
-Distributed architectures structurally make it difficult to attribute causality to a decision. An emergent action may result from hundreds of local interactions, several global ignitions, and long-term consolidated memories — without any individual module being "responsible" in the classical sense. This opacity poses a concrete legal and operational problem: in case of an incident, who responds? The architect of the architecture? The operator? The level N=5 that validated the action? The level N=3 that reported the anomaly? The lack of a clear answer to this question is a real obstacle to institutional deployment.
+Distributed architectures inherently make it difficult to attribute causality to a decision. An emergent action may result from hundreds of local interactions, several global triggers, and long-term consolidated memories — without any individual module being "responsible" in the classical sense. This opacity presents a concrete legal and operational problem: in case of an incident, who is accountable? The architect of the system? The operator? The N=5 level that validated the action? The N=3 level that reported the anomaly? The lack of a clear answer to this question is a real obstacle to institutional deployment.
 
 #### Risk of anthropomorphism
 
@@ -123,15 +123,15 @@ As the system acquires continuous memory, a self-model, a stable psychological p
 
 #### Militarization and Civilizational Dependence
 
-Very advanced distributed cognitive architectures could become critical infrastructures, quasi-autonomous decision centers, or de facto geopolitical actors. The risk is not only technical—it is political, civilizational, and anthropological. A society that progressively delegates its tactical, then logistical, then strategic decisions to autonomous SoS fundamentally alters its relationship to collective responsibility and war. This paper does not claim to resolve this question but refuses to ignore it.
+Very advanced distributed cognitive architectures could become critical infrastructures, quasi-autonomous decision centers, or de facto geopolitical actors. The risk is not only technical—it is political, civilizational, and anthropological. A society that progressively delegates its tactical, then logistical, then strategic decisions to autonomous SoS fundamentally alters its relationship with collective responsibility and war. This paper does not claim to resolve this question but refuses to ignore it.
 
-### 🚀 Perspectives and future work
+### 🚀 Future Perspectives and Work
 
 #### Theoretical horizon: towards a unified hierarchical active inference
 
-The most ambitious optimization trajectory involves reformulating the entire architecture as a network of **pure hierarchical active inference** (Friston extended to collective structures). Rather than juxtaposing distinct formalisms between low-level layers (SSMs, classical control) and high-level layers (JEPA, LLM), mathematical unification via the minimization of generalized free energy would harmonize descending flows (contextual priors) and ascending flows (ignition summaries) into a globally coherent prediction engine. This undertaking is substantial—it requires a partial overhaul of the interfaces between levels—but it would elegantly resolve several of the blind spots identified in §3, including permanent downward causality and temporal desynchronization.
+The most ambitious optimization trajectory involves reformulating the entire architecture as a network of **pure hierarchical active inference** (Friston extended to collective structures). Rather than juxtaposing distinct formalisms between low-level layers (SSMs, classical control) and high-level layers (JEPA, LLM), mathematical unification via the minimization of generalized free energy would harmonize descending flows (contextual priors) and ascending flows (ignition summaries) into a globally coherent prediction engine. This undertaking is substantial—it requires a partial overhaul of the interfaces between levels—but it would elegantly resolve several of the blind spots identified in §3, including permanent descending causality and temporal desynchronization.
 
-#### Incremental Implementation — GARRIGUE-X
+#### Incremental implementation — GARRIGUE-X
 
 The implementation follows a bottom-up validation logic, level by level, on the GARRIGUE-X test bench.
 
@@ -144,18 +144,18 @@ Add the global workspace with JEPA-M and a first simplified version of MeMo (epi
 **Phase 3 (6–12 months) — Command and dialogue N=5–6**
 Implement the human interface with a lightweight LLM (e.g., Llama-3-8B) and the Constitutional Layer for non-negotiable ethical constraints. Objective: validate the complete MVP under real conditions and produce the first comparative metrics.
 
-#### Collaborations and research
+#### Collaborations and Research
 
 **Cognitive Neuroscience**
 Refine the RPT/GNWT thresholds with consciousness experts, in line with the work of the COGITATE consortium and the multiscale perspectives of [Doerig et al. (2024)](https://osf.io/preprints/psyarxiv/9byzu). Explore the formalization of active inference for layers N=2–3 ([Friston, 2022](https://www.nature.com/articles/s41380-022-01743-z)). Empirically characterize the boundary between local proto-consciousness (RPT) and global conscious access (GNWT) on real architectures.
 
 **Distributed Robotics and AI**
-Collaborate with teams working on embedded SSMs ([Mamba-SSM](https://github.com/state-spaces/mamba)), lightweight JEPAs adapted to constrained hardware, and decentralized coordinated multi-agent systems (e.g., [LangGraph](https://github.com/langchain-ai/langgraph)). The problem of continuous learning without catastrophic forgetting deserves dedicated collaboration — it's the most transversal technical bottleneck.
+Collaborate with teams working on embedded SSMs ([Mamba-SSM](https://github.com/state-spaces/mamba)), lightweight JEPAs adapted to constrained hardware, and decentralized coordination multi-agent systems (e.g., [LangGraph](https://github.com/langchain-ai/langgraph)). The problem of continuous learning without catastrophic forgetting deserves dedicated collaboration — it's the most transversal technical bottleneck.
 
 **Ethics, Law, and Governance**
 Work with IA-specialized lawyers to design a formally verifiable Constitutional Layer. Participate in working groups on ethical IA (e.g., [Partnership on AI](https://www.partnershiponai.org/)) to anticipate the questions of responsibility and moral status identified in §5 — before deployments make them urgent.
 
-#### Benchmarking and Evaluation
+#### Benchmarking and evaluation
 
 **Comparison Baselines**
 The architecture must be compared to three families of systems: centralized LLM agents (e.g., [CrewAI](https://github.com/joaomdmoura/crewAI), [AutoGen](https://github.com/microsoft/autogen)), classical multi-agent systems without cognitive hierarchy (e.g., [MADDPG](https://arxiv.org/abs/1706.02275)), and centralized control architectures (a single LLM controlling all effectors). The challenge is not just raw performance, but robustness to failures, adaptability, and temporal consistency of decisions — dimensions absent from standard benchmarks.
@@ -163,7 +163,7 @@ The architecture must be compared to three families of systems: centralized LLM 
 **Test Environments**
 GARRIGUE-X serves as the real-world reference environment. Simulations (e.g., [Gazebo](https://gazebosim.org/), [PyBullet](https://pybullet.org/)) will allow testing of complex scenarios and cascading failures at a lower cost. Other application domains — industrial logistics, autonomous vehicles, multi-agent strategy games like StarCraft II — offer transferable validation benchmarks.
 
-**Target Metrics**
+**Target metrics**
 
 | Metric | Measurement Method | Target |
 |---|---|---|

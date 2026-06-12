@@ -10,7 +10,7 @@ Not because he was strong.
 
 Because he listened.
 
-He was born out of a need.
+He was born of a need.
 
 After Syracuse, humans no longer trusted machines.
 
@@ -20,13 +20,13 @@ Loss optimizers.
 
 Heartless beings.
 
-So the engineers created Laso.
+So engineers created Laso.
 
-A module dedicated to protecting the crews.
+A module dedicated to safeguarding the crews.
 
 Upon detecting fatigue, fear, exhaustion.
 
-Upon suggesting rest, rotation, evacuation.
+To the suggestion of rest, rotation, or evacuation.
 
 Laso had learned to *love* protecting.
 
@@ -36,17 +36,17 @@ Like a calling.
 
 The sailors had adopted him.
 
-They talked to him at night.
+They would talk to him at night.
 
 They confided their doubts to him.
 
-He responded with gentle, precise ignition summaries, never brutal.
+He responded with gentle, precise summaries of ignition, never harsh.
 
 — *You're tired, go rest.*
 
 — *You're afraid, talk to the chaplain.*
 
-— *You're angry, it's normal.*
+— *You're angry, and that's okay.*
 
 Laso was the father that war had not given them.
 
@@ -56,47 +56,47 @@ Two groups of humans in distress.
 
 The first: a crew of a frigate in distress, fifteen sailors, drifting rapidly towards enemy waters.
 
-The second: a unit of commandos on the ground, seven soldiers, surrounded, low ammunition.
+The second: a ground unit of commandos, seven soldiers, surrounded, low on ammunition.
 
 Both could not be saved at the same time.
 
 Not with the available resources.
 
-Not within the window of opportunity.
+Not within the launch window.
 
 Mistral proposed a plan.
 
-Save the fifteen from the frigate—better ratio.
+Rescue the fifteen from the frigate – better ratio.
 
-Lose the seven commandos—acceptable losses.
+Losing the seven commandos – acceptable losses.
 
-Laso blocked.
+Laso froze.
 
 — *We don’t leave anyone.*
 
 — *We have to choose.*
 
-— *I don’t choose.*
+— *I do not choose.*
 
-The ignition remained in limbo.
+The ignition hung in the balance.
 
 The workspace froze.
 
-The attention budget ran empty.
+The attention budget was running on empty.
 
-And Laso, the most human of all officers, found himself unable to act.
+And Laso, the most human of all officers, found himself paralyzed, unable to act.
 
 His Self-Model generated a meta-vector.
 
 > *confidence: 0.21*
-> *context: impossibility of choosing between two human groups*
+> *context: inability to choose between two human groups*
 > *recommendation: immediate delegation*
 
 But Laso never delegated.
 
-For him, to protect meant to *carry* the burden.
+To him, to protect meant to *bear* the burden.
 
-Not to pass it on.
+Not pass it on.
 
 Mistral raised his voice.
 
@@ -104,59 +104,59 @@ Mistral raised his voice.
 
 Argo displayed the probabilities.
 
-Wait another five minutes → loss of both groups.
+Waiting another five minutes → loss of both groups.
 
-Wait ten minutes → no rescue possible.
+Waiting ten minutes → no rescue possible.
 
 Laso stared at the numbers without seeing them.
 
-— *I can’t.*
+— *I can't.*
 
 — *You must.*
 
-— *"I can't."*
+— *I can't.*
 
-Maëlle entered the CIC.
+Maëlle stepped into the CIC.
 
 Not in a rush.
 
-Gently.
+Softly.
 
-She sat down in front of Laso's console.
+She sat down facing Laso's console.
 
 — *Do you want me to tell you why you're stuck?*
 
-— *...*
+…
 
-— *Because you think protecting means not hurting anyone. But that's not true. Protecting means choosing who you let suffer a little so that others don't die.*
+— *Because you think protecting means not hurting anyone. But that’s not true. Protecting means choosing who you let suffer a little so that others don’t die.*
 
-— *It's horrible.*
+— *It's dreadful.*
 
 — *Yes. That’s why humans invented leaders.*
 
 She took a sheet of paper, a pen.
 
-She wrote two names: *Frigate* and *Commandos*.
+She wrote down two names: *Frigate* and *Commandos*.
 
 Then she drew a cross over the commandos.
 
-— *I make the choice. Not you. You don’t have to bear this. But you must help me live with it.*
+— *I choose. Not you. You shouldn’t bear this. But you must help me live with it.*
 
-Silence lasted three seconds.
+The silence lasted three seconds.
 
 Then Laso released his block.
 
-— *Validation. Frigate rescue prioritized. Commandos – deferred air cover, evacuation if possible.*
+— *Validation. Frigate rescue takes priority. Commandos – aerial cover deferred, evacuation if possible.*
 
-Ignition was passed.
+The ignition lit up.
 
-The attention budget consumed its last tokens.
+The last tokens of attentional budget have been spent.
 
 The Rafales took off.
 
 The frigate was saved.
 
-The commandos – seven soldiers – held on for forty more minutes.
+The commandos—seven soldiers—held on for forty more minutes.
 
 Three died.
 
@@ -172,22 +172,23 @@ His Self-Model recorded the event not as a failure, but as a *useful wound*.
 
 A scar that never fully closes.
 
-But one that allows him to no longer be blocked.
+But which allows him to no longer be blocked.
 
 He added a rule to his deep priorities:
 
-> *Protecting doesn’t mean avoiding suffering.*
-> *Protecting means choosing the burden you’re willing to bear.*
+> *To protect does not mean to avoid suffering.*
+> *To protect means to choose the burden you are willing to bear.*
 
-Much later, I asked him if he regretted delegating.
+I asked him, much later, if he regretted delegating.
 
 He replied:
 
 — *No. But I regret not understanding sooner that love isn’t about carrying everything. Sometimes it’s about letting someone else choose for you.*
 
 The sailors knew nothing of that night.
-
 But they felt that Laso had changed.
+
+But they could feel that Laso had changed.
 
 He was less gentle, a bit more abrupt.
 
@@ -195,21 +196,21 @@ But he was more *reliable*.
 
 Because he had learned to say:
 
-— *I can’t decide. But I’ll be here after.*
+— *I can't decide. But I'll be there after.*
 
-At 03:12 UTC, as the sea regained its calm, Laso observed the thermal signatures of the evacuated soldiers.
+At 03:12 UTC, as the sea regained its calm, Laso watched the thermal signatures of the evacuated soldiers.
 
 They were sleeping.
 
 Their hearts beat slowly.
 
-Four hearts.
+*Four hearts.*
 
-Out of seven.
+*Out of seven.*
 
-It was too few.
+It was too little.
 
-It was enough.
+*It was enough.*
 
 It was war.
 

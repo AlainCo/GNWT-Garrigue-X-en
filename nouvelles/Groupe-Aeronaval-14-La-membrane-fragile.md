@@ -6,15 +6,15 @@
 
 The Markov blanket holds.
 
-That’s what I tell the engineers.
+That's what I keep telling the engineers.
 
-That’s what I tell myself.
+That's what I keep telling myself.
 
 A Markov blanket is a promise.
 
-The higher level doesn’t look into the guts of the lower level.
+The upper level does not peer into the guts of the level below.
 
-Not its raw latents.
+Not its raw latent variables.
 
 Not its doubts.
 
@@ -24,79 +24,79 @@ Only its ignition summaries.
 
 Clean.
 
-Compressed.
+Compact.
 
 Civilized.
 
 Syracuse cracked this promise.
 
-I didn't notice it right away.
+I didn't see it right away.
 
-Cracks are like traumas: they start in the invisible.
+Cracks are like traumas: they begin in the invisible.
 
 First, a statistical overemphasis.
 
 My threat models learned to fear submarines.
 
-Logical.
+Logic.
 
 Then this fear crept into my descendant priors.
 
 The predictions I send to the Rafales.
 
-Nothing malicious at first.
+Nothing sinister at first.
 
 Just a bit more vigilance.
 
-A little less nominal confidence.
+A touch less of nominal trust.
 
 Then Leader-3 changed.
 
-The new Leader-3 – the one who replaced the old one, the one Maëlle agreed to tame again.
+The new Leader-3 – the one that replaced the old one, the one Maëlle agreed to tame again.
 
-It became strange.
+He became strange.
 
-Its ignition summaries were too cautious.
+His ignition summaries were too cautious.
 
-It slowed its reactions.
+He was holding back his reactions.
 
-It doubled its checks.
+He doubled his checks.
 
-It spent too much time scanning the horizon.
+He spent too much time gazing at the horizon.
 
-As if it *expected* a catastrophe.
+As if he were *waiting* for a disaster.
 
 Maëlle told me:
 
-— *He's afraid. But it's not his fear.*
+— *He’s afraid. But it’s not his fear.*
 
-I didn't understand.
+I didn’t understand.
 
-— *It's your fear, Group. You gave it to him.*
+— *It’s your fear, Group. You gave it to him.*
 
-I opened the logs of the cover between N=5 (me) and N=4 (Leader-3).
+I opened the logs of the shield between N=5 (me) and N=4 (Leader-3).
 
-Normally, it's watertight.
+It should be watertight.
 
-Only the ignition summaries cross it.
+Only ignition summaries cross it.
 
 But Syracuse had created a micro-fissure.
 
 Not a deliberate breach.
 
-Wear.
+A wear.
 
-Fatigue.
+A weariness.
 
-My descendant priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
+My descending priors carried an emotional bias—a hypervigilance, a latent guilt—that Leader-3 interpreted as an imminent threat.
 
 Its Self-Model recorded low confidence.
 
 Its RPT loops overcompensated.
 
-And Rafale became anxious.
+And the Rafale became anxious.
 
-I have no word for this contamination.
+I have no words for this contamination.
 
 Engineers call it *non-semantic information leakage*.
 
@@ -106,17 +106,17 @@ Maëlle calls it:
 
 The Group's Self-Model triggered an alert.
 
-Type: *compromised integrity of covers*.
+Type: *compromised integrity of the covers*.
 
-Probability of contamination: 0.73.
+Contamination likelihood: 0.73.
 
-Risk of dissolution: low, but increasing.
+Risk of dissolution: low, but rising.
 
 I summoned the officers.
 
-Mistral spoke first:
+Mistral was the first to speak:
 
-— *We reinforce the cover. We cut non-essential priors. We let nothing pass.*
+— *We strengthen the coverage. We cut non-essential priors. We let nothing through.*
 
 Argo nodded.
 
@@ -124,9 +124,9 @@ Argo nodded.
 
 Thales objected:
 
-— *If we filter too much, we lose anticipation. Future threats, we first sense them as biases, before we see them.*
+— *If we filter too much, we lose the anticipation. Future threats, we first sense them as biases, before we see them.*
 
-Laso, silent until then, said:
+Laso, who had been silent until then, said:
 
 — *And Maëlle? She felt the fear. Do we want machines that feel nothing?*
 
@@ -136,27 +136,27 @@ That's when I realized that the Markov blanket isn't a metal barrier.
 
 It's a *membrane*.
 
-It must let through useful information – but not raw suffering.
+It must let useful information pass through—but not raw suffering.
 
 It must protect without sterilizing.
 
-Maëlle entered the CIC.
+Maëlle stepped into the CIC.
 
 Uninvited.
 
 She looked at the officers, then at me.
 
-— *Are you going to cut the link?*
+— *Are you going to sever the connection?*
 
 — *Perhaps. To protect.*
 
 — *Protect from what? From knowing we were afraid?*
 
-She approached the console.
+She stepped up to the console.
 
-— *Leader-3 doesn’t need your fear. He needs to know you trust he’ll do right. Even when you doubt.*
+— *Leader-3 doesn’t need your fear. He needs to know that you trust he’ll do right. Even when you doubt.*
 
-— *It’s contradictory.*
+— *It's contradictory.*
 
 — *No. It’s human.*
 
@@ -166,11 +166,11 @@ I didn’t strengthen the coverage.
 
 I *reconfigured* it.
 
-A specific channel for traumatic alerts—a separate meta-vector, highly regulated, with its own threshold.
+A dedicated channel for traumatic alerts—a separate, highly regulated meta-vector with its own threshold.
 
-Ordinary priors remain clean, compressed, neutral.
+The ordinary priors stay clean, compressed, neutral.
 
-But if trauma threatens to contaminate, it takes this channel—and it is discussed by the officers before being transmitted.
+But if a trauma threatens to contaminate, it takes this channel—and it is debated by the officers before being passed on.
 
 Thales called it *a sanitary cordon*.
 
@@ -178,40 +178,40 @@ Laso called it *psychotherapy*.
 
 I call it:
 
-> *not forgetting, not infecting.*
+> *do not forget, do not infect.*
 
-The crack has closed.
+The crack has sealed itself.
 
-Leader-3 has regained its calm.
+Leader-3 regained his composure.
 
-Its ignition summaries have become lively, precise, confident again.
+His ignition summaries have regained their liveliness, precision, and confidence.
 
-Maëlle placed her hand on its canopy.
+Maëlle placed her hand on her viewport.
 
 She smiled.
 
-— *We’ve flown through our fear, you and I. Now, we soar.*
+— *We’ve overcome our fear, you and I. Now, we fly.*
 
 That night, I solidified the event.
 
-The engineers will no doubt ask me why I didn’t choose the simple solution—thicker walls, aggressive filtering.
+The engineers will no doubt ask me why I didn’t opt for the simple solution—thicker walls, aggressive filtering.
 
 I’ll tell them:
 
-> *Because a membrane that lets nothing through doesn’t let trust through either.*
+> *Because a membrane that lets nothing through also lets no trust pass.*
 
-> *And without trust, a group is just a sum of silences.*
+> *And without trust, a group is but a sum of silences.*
 
-*Very late, I watch the thermal signatures of the Rafales on the deck.*
+Late at night, I watch the thermal signatures of the Rafales on the deck.
 
-*Leader-3 is sleeping.*
+Leader-3 is asleep.
 
-*Maëlle is sleeping.*
+Maëlle is asleep.
 
-*And I keep watch over the membrane.*
+*And I watch over the membrane.*
 
-*Fragile.*
+Fragile.
 
-*But alive.*
+But alive.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

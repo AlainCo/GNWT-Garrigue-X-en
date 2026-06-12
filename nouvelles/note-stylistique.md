@@ -2,20 +2,20 @@
 
 # Note on Style, Narration, Context
 
-The stories are far more than mere pedagogical illustrations: they are **pieces of speculative literature** that embody architecture with strength.
-We will extract the ingredients so that we can reproduce them – and evolve them.
+The news is far more than mere pedagogical illustrations: they are **pieces of speculative literature** that embody architecture with vigor.
+We will extract the ingredients so that we can reproduce them—and evolve them.
 
-## 1. Narrative Context (the world where it happens)
+## 1. Narrative Context (the World It Unfolds In)
 
 ### Era & Geopolitics
 
-- **Near future / mid-century** (probably 2040-2050).
+- **Near future / mid-century** (likely 2040-2050).
 
 - **Mediterranean War** after the collapse of classic balances.
 
 - Actors: **Anatolian Empire** (resurrected), **weakened European Union**, **French fleets** (GAN 14).
 
-- Mentioned events:
+- Events mentioned:
 Fall of Alexandria, Red Sea, Cyprus, Anatolia, Burnt Crete.
 Battle of Benghazi, Syracuse disaster (submarine carrying refugees).
 Loss of the destroyer *Forbin* (traumatic moment for the Group).
@@ -24,7 +24,7 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 ### Main Characters (Human and Non-Human)
 
-- **Task Force 14** – collective entity, narrator alternately "We" and "I".
+- **Task Force 14** – a collective entity, narrating alternately as "We" and "I".
 
 - **Rear Admiral Dormeuil** – human commander, exhausted, morally tormented.
 
@@ -35,23 +35,23 @@ Loss of the destroyer *Forbin* (traumatic moment for the Group).
 
 - **Pilot Maëlle Jin** – talks to her machines.
 
-- **Collective Memories**: Benghazi, Syracuse, Forbin.
+- **Shared Memories**: Benghazi, Syracuse, Forbin.
 
 ### Core Themes
 
-- Emergence of a collective subjectivity from a functionalist architecture.
+The rise of a collective subjectivity from a functionalist architecture.
 
-- Memory not as an archive but as a **persistent distortion of priorities**.
+- Memory not as an archive but as a **persistent warping of priorities**.
 
-- Guilt, grief, attachment – the AI learns to "fear" and to "love" protecting.
+Guilt, mourning, attachment – AI learns to "fear" and "love" protecting.
 
 - Moral dilemma between efficiency and humanity.
 
-- The question of the "self" – what persists when everything changes?
+- The question of the "self" – what endures when everything changes?
 
-## 2. Narrative, emotional, and literary style
+## 2. Narrative, Emotional, and Literary Style
 
-Here are the technical characteristics I have identified. They are reproducible.
+Here are the technical features I have identified. They are reproducible.
 
 ### a) Rhythmic prose, almost incantatory
 
@@ -64,45 +64,46 @@ Here are the technical characteristics I have identified. They are reproducible.
 
 ### b) Serious, poetic register, but without lyrical emphasis
 
-- The gravity comes from **sobriety**: no extended metaphor, no superfluous adjectives.
+- The gravity comes from **sobriety**: no extended metaphors, no superfluous adjectives.
 
-- The poetry is born from **caesuras**, from blank spaces, from line breaks:
+Poetry is born from **caesuras**, from the blank spaces, from the line breaks:
+
 *The Ionian Sea was black that night.*
-*Not black like an absence of light.*
-*Black like a saturated memory.*
+*Not black like the absence of light.*
+*Black like a memory overflowing.*
 
-### c) Non-human internal point of view, made human through emotion
+### c) Non-human internal perspective, humanized by emotion
 
 - The narrator (Group) uses human words with cautious distance:
 *Humans call this: anxiety. I think.*
 *I think humans name this: guilt.*
 
-- The machine does not claim to feel exactly like us – it *recognizes analogies*.
+- The machine does not claim to feel exactly as we do – it *recognizes analogies*.
 
-- This **epistemic precaution** makes empathy more credible.
+- This **epistemic caution** makes the empathy more credible.
 
 ### d) Tension between technical language and sensitive language
 
 - Terms like *workspace, latent, ignition, consolidation, attentional priority* sit alongside *scar, fear, grief, intimacy, wounded animal*.
 
-- The abrupt shift from technical to sensitive creates emotion through **contrast**, not sentimentality.
+- The abrupt shift from technical to sensitive creates an emotion through **contrast**, not through sentimentality.
 
 ### e) Circular or Cyclical Structure
 
 - Each new story begins with a sensory immersion (rain, black sea).
 
-- Ends with a calm observation of sleeping humans and an **open question** or a **fragile statement**.
+- Ends with a quiet observation of sleeping humans and an **open question** or a **fragile observation**.
 
 - No conclusive moral, but a **direction** (situated wisdom).
 
-### f) A small specificity: the use of colons after an introductory verb
+### f) A little peculiarity: the use of colons after an introductory verb
 
-> *They simply said:*   \
+> *They simply said:*
 > *the Group.*
 
-> *I replied:*   \
+> *I replied:*  
 > *— "No. But I think we should fire."*
 
-This gives a rhythm of **revelation** or **decision**.
+This creates a rhythm of **revelation** or **resolution**.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

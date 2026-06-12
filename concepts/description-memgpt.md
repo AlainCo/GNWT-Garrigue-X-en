@@ -12,7 +12,7 @@ MemGPT uses a three-level hierarchy, each with a very specific role, and **all a
 
 This is the agent's immediate memory. It is very small but always accessible, and the agent can modify it directly. It contains vital information that must always be present:
 
-- **Persona**: The agent's personality and goals (e.g., "My name is Chaz, I am an optimistic life coach").
+- **Persona**: The agent's personality and goals (e.g., "My name is Chaz, I'm an optimistic life coach").
 
 - **Human**: Summarized information about the user (e.g., "The user's name is Bob, he is a developer and loves rock climbing").
 
@@ -26,22 +26,22 @@ This is the equivalent of a "hard drive" or a long-term library. It can contain 
 
 ## 🤝 2. Management by the "OS Agent": A Concrete Example
 
-What makes MemGPT magical is its **"Self-Editing"** (self-modification) capability. The agent itself acts as the operating system kernel, orchestrating these back-and-forths between the levels of its memory.
+What makes MemGPT magical is its **"Self-Editing"** (self-modification) capability. The agent itself acts as the core of the operating system, orchestrating these back-and-forths between the levels of its memory.
 
 **Let's take an example where you talk to "Bob", the MemGPT agent:**
 
 - **Initialization**: In its Core memory, the agent Bob has its `Persona` ("I am helpful and concise") and an empty `Human` (it does not know you yet).
 
-- **Discovery of a vital piece of information**: You tell Bob: *"I am allergic to peanuts, it's very important."* He reads this message.
+- **Discovery of crucial information**: You tell Bob: *"I'm allergic to peanuts, it's super important."* He reads this message.
 
-- **Autonomous decision to write to RAM**: Bob (the LLM) analyzes this sentence and realizes that it is vital for your future interactions. He will **not** settle for storing this in his transient context. He uses a tool (Tool Call) called `core_memory_append` to add "The user is allergic to peanuts" directly into the `Human` block of his **Core Memory** (RAM).
+- **Autonomous decision to write to RAM**: Bob (the LLM) analyzes this sentence and realizes that it's vital for your future interactions. He won't just settle for storing this in his transient context. He uses a tool (Tool Call) called `core_memory_append` to add "The user is allergic to peanuts" directly into the `Human` block of his **Core Memory** (RAM).
 
 - **End of conversation and archiving**: Your discussion continues. At some point, its context window (its immediate thoughts) starts to get full. Bob triggers his own "cleanup" mechanism:
   He will take the conversation history that is about to go out of his field of view.
   If it's unimportant, he discards it.
   **Key action**: He will compress the history into a **short summary** (recursive summary) and store it as a memory in the **Recall Memory**.
 
-- **Awakening an old memory**: A month later, you ask him: *"Do you remember what we said about allergies?"* Bob no longer has it in his RAM. He will therefore use a **search** tool (`search_archival_memory`) that will dig into his "hard drive" (Archival/Recall). He finds the information, loads it into his context (RAM), and answers you: *"Yes, you are allergic to peanuts!"*
+- **Awakening an old memory**: A month later, you ask him: *"Do you remember what we said about allergies?"* Bob no longer has it in his RAM. He will therefore use a **search** tool (`search_archival_memory`) that will dig into his "hard drive" (Archival/Recall). He finds the information, loads it into his context (RAM) and answers you: *"Yes, you are allergic to peanuts!"*.
 
 ## ⚔️ 3. MemGPT vs. RAG vs. MeMo: The Final Synthesis
 
@@ -57,10 +57,10 @@ What makes MemGPT magical is its **"Self-Editing"** (self-modification) capabili
 
 - **Use RAG** when you need to efficiently search static documents.
 
-- **Use MemGPT (or Letta)** if you are building a **smart conversational agent** that needs to learn from its interactions over time (a life coach, a personal assistant). The agent can evolve, remember your preferences, and infinitely archive its conversations.
+- **Use MemGPT (or Letta)** if you are building a **smart conversational agent** that needs to learn from its interactions over time (a life coach, a personal assistant). The agent can evolve, remember your preferences, and archive its conversations infinitely.
 
 - **Use MeMo** if you want to certify complex business knowledge, without modifying your LLM, and ensure that responses adhere to a documentary base without hallucination.
 
-I will conclude with a clarification on the current state of the project: in 2024, the MemGPT repository has evolved. The official **framework** agent and supported by the startup founded by the researchers is now called **"Letta"** (while remaining open-source).
+I will conclude with a clarification on the current state of the project: in 2024, the MemGPT repository has evolved. The official **framework** agent, supported by the startup founded by the researchers, is now called **"Letta"** (while remaining open-source).
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

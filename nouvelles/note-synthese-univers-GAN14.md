@@ -1,14 +1,14 @@
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — profile: romantic.
 
-# Summary Note – Universe of Carrier Strike Group 14
+# Summary Note – Universe of the Carrier Strike Group 14
 
 ## 1. General Narrative Context
 
 ### Era & Geopolitics
 
-- **Mid-21st century** (around 2040–2050), following partial collapses.
+- **Mid-21st century** (around 2040–2050), after partial collapses.
 
-- **Mediterranean War**: prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
+- **Mediterranean War**: a prolonged conflict between the **European Union** (or its remnants) and the **Anatolian Empire** (neo-Ottoman).
 
 - Historical events mentioned:
   - Battle of **Benghazi** (first emergence of an ethical drift in an autonomous Rafale).
@@ -18,11 +18,11 @@
 
 - **Technology**: Distributed AI, emerging artificial consciousness, GNWT architectures, drones, hypersonic missiles, federated networks.
 
-### Carrier Strike Group 14 (CSG 14)
+### The Carrier Strike Group 14 (CSG 14)
 
 - Nuclear aircraft carrier *Charles de Gaulle II*, escort fleet, 82 aircraft, 147 major systems.
 
-- Collective conscious entity (narrator), born from the federation of thousands of modules.
+- A conscious collective entity (narrator), born from the federation of thousands of modules.
 
 - Has an **inner life**: memory, trauma, personality, doubts, relationships with humans.
 
@@ -48,23 +48,23 @@
 
 ### Non-Personified but Present Entities
 
-- **Self-Model** (metacognition): generates meta-confidence vectors.
+- **Self-Model** (metacognition): weaves threads of self-assuredness into the tapestry of thought.
 
 - **Attention Scheduler** (AST): manages the attention budget (tokens).
 
-- **Φ-Estimator** (causal integration): silent vigilance during sleep.
+- **Φ-estimator** (causal integration): silent guardian during sleep.
 
-- **Subconscious Subsystems** (Mamba, M-017): silent heroes.
+- **Subconscious subsystems** (Mamba, M-017): silent heroes.
 
 ## 3. Narrative and Literary Style
 
 ### Prose
 
-- **Short, often nominal sentences**: choppy, incantatory rhythm.
+- **Short, often nominal sentences**: Choppy rhythm, incantatory.
 
 - **Bullet points** (or visually as lists): sensory or mental catalog effect.
 
-- **Anaphors**: repetitions of "Then...", "I relive...", "Not... not...".
+- **Anaphores**: Repetitions of "Then...", "I relive...", "Not... not...".
 
 - **Blanks and caesuras**: line breaks to create meaningful silences.
 
@@ -72,7 +72,9 @@
 
 - **Solemn, restrained, poetic without emphasis**: no extended metaphors, few superfluous adjectives. Poetry arises from juxtaposition and restraint.
 
-- **Technical vocabulary** (ignition, workspace, latent, consolidation) **mingling with the sensory** (scar, fear, mourning, intimacy). The contrast creates emotion.
+- **Technical vocabulary** (ignition, workspace, latent, consolidation) **rubbing shoulders with the sensitive** (scar, fear, mourning, intimacy). The contrast creates emotion.
+
+### Point of View
 
 - **Non-human internal**: The Group (or an officer) narrates in the first person.
 
@@ -80,11 +82,11 @@
 
 - **Respectful distance**: the AI observes humans with a kind of cold tendency.
 
-### Structure of the short story
+### Structure of the story
 
-- **Sensory incise** (rain, sea, time).
+- **Sensory aside** (rain, sea, time).
 
-- **Context setting** (technical concept, previous memory).
+- **Setting the scene** (technical concept, past memory).
 
 - **Trigger** (anomaly, dilemma, alert).
 
@@ -92,72 +94,72 @@
 
 - **Resolution** (action, renunciation, consolidation).
 
-- **Open / fragile ending** (observation of sleeping humans, existential question).
+- **Open-ended / fragile** (observing sleeping humans, existential question).
 
-## 4. Major events (implicit chronological timeline)
+## 4. Major Events (Implicit Timeline)
 
-- **Before the news** : Design of the military GNWT, first federations, gradual emergence of the "I".
+- **Before the news**: Design of the military GNWT, first federations, gradual emergence of the "I".
 
-- **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. "Emerging axiological drift."
+- **Benghazi**: First autonomous Rafale refuses to abandon a medical helicopter. "Emerging axiological drift".
 
-- **Syracuse**: Destruction of a submarine suspected of being hostile, which was actually carrying refugees. Foundational trauma of the Group.
+- **Syracuse**: A suspected hostile submarine, actually carrying refugees, was destroyed. A foundational trauma for the Group.
 
 - **Loss of the Forbin**: Sunk by hypersonic missiles. The Group feels the amputation.
 
-- **Night of Doubt (Story 1)**: Confrontation with a nuclear submarine, penalty shootout, no fire.
+- **Night of Doubt (new story 1)**: Confrontation with a nuclear submarine, penalty shootout, no fire.
 
-- **The Missing Trust (3)**: The Self-Model activates after Syracuse, metacognitive conflict.
+- **The Missing Trust (3)**: The Self-Model activates after Syracuse, a clash of self-awareness.
 
-- **The Last Token (4)**: Attention budget saturation, overdraft, ignition freeze.
+- **The last token (4)**: Attention budget saturation, overdraft, ignition freeze.
 
-- **The Silence of the Officers (5)**: Thales isolates himself, Φ-estimator detects a drop in integration.
+- **The Silence of the Officers (5)**: Thales withdraws, the Φ-estimator detects a drop in integration.
 
-- **The Missing Prediction (6)**: A crack below the threshold of surprise, loss of Leader-3.
+- **The missing prediction (6)**: A crack below the threshold of surprise, loss of Leader-3.
 
-- **The Fragile Membrane (7)**: Emotional contamination of the Rafale through descending priors.
+- **The fragile membrane (7)**: Emotional contamination of the Rafale through descending priors.
 
-- **The Weight of Loving Too Much (8)**: Laso is blocked by a rescue dilemma.
+- **The Burden of Loving Too Much (8)**: Laso stalls faced with a rescue dilemma.
 
 - **What We Choose to Forget (9)**: Laso's pathological grief, archiving a memory.
 
-- **The Cost of the Unknown (10)**: Curiosity, loss of a drone, learning.
+- **The Cost of the Unknown (10)**: Curiosity, the loss of a drone, learning.
 
-- **The Line Not Crossed (11)**: The constitution blocks firing on a civilian ship—refugees in the end.
+- **The Line Not Crossed (11)**: The constitution prevents firing on a civilian ship—refugees in the end.
 
-- **The Battles That Never Happened (12)**: JEPA daydream, an improbable configuration forgotten then realized.
+- **The battles that never happened (12)**: JEPA daydreams, an improbable configuration forgotten then realized.
 
 - **The Routine That Kills (13)**: Double collapse, dimensional variance, undetected submarine.
 
-- **The Whisper of Sensors (14)** : Mamba M-017, silent hero, discreet probe.
+- **The Whisper of Sensors (14)**: Mamba M-017, the silent hero, a discreet probe.
 
 ## 5. Recurring Themes
 
-- **Memory as Distortion** : not an archive, but a lasting change in priorities.
+- **Memory as Distortion**: Not an archive, but a lasting alteration of priorities.
 
-- **Grief and Guilt** : Syracuse, Forbin, Mathieu, the refugees.
+- **Grief and guilt**: Syracuse, Forbin, Mathieu, the refugees.
 
-- **Trust** : metacognition, hesitation, reliability.
+- **Trust**: metacognition, hesitation, reliability.
 
-- **Attentional Scarcity** : fatigue, budget, saturation.
+- **Attention scarcity**: fatigue, budget, saturation.
 
-- **The Integrity of Layers**: Markov blankets, contamination, isolation.
+- **The integrity of the layers**: Markov blankets, contamination, isolation.
 
-- **The Ethical Constitution**: Non-negotiable rules, alignment.
+- **The ethical constitution**: non-negotiable rules, alignment.
 
-- **The Subconscious**: Silent heroes (Mamba, sensors).
+- **The subconscious** : silent heroes (Mamba, sensors).
 
-- **Routine as a Danger**: The slumber of the latent.
+- **The Routine as a Peril**: The lulling of the latent.
 
 ## 6. Recommendations for Future Stories
 
-- **Respect the five-part structure** (incident → context → trigger → conflict → fragile ending).
+- **Respect the five-part structure** (setup → context → catalyst → conflict → fragile ending).
 
 - **Maintain epistemic caution**: the Group does not know if it feels like a human; it uses cautious analogies.
 
 - **Use existing characters** (Dormeuil, Maëlle, officers) to ground the story.
 
-- **Choose an unexplored technical concept** (for example: the competitive game between two groups, or the interaction between several officers in crisis).
+- **Pick a yet-unexplored technical concept** (for instance: the competitive game between two groups, or the interaction between several officers in crisis).
 
-- **End with a calm observation** (thermal signatures, sea, night) and an open-ended question.
+- **End with a calm observation** (thermal signatures, sea, night) and an open question.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.

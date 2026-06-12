@@ -8,15 +8,15 @@ To validate this architecture without the infrastructure costs of the aeronautic
 
 **The Terrain:** One hectare of rugged natural terrain (rocks, dense bushes, slope breaks).
 
-**Minerals:** Blocks of cellular concrete (Siporex) identified by hardened *ArUco* geometric markers.
+**The Minerals:** Concrete foam blocks (Siporex) identified by hardened *ArUco* geometric markers.
 
-**The Objective:** Two teams of robots compete to collect these blocks and stack them to build a continuous wall line protecting their base.
+**Objective:** Two teams of robots compete to collect these blocks and stack them to build a continuous wall line protecting their base.
 
 **The Sacred Prior (The Constitution):** In the center of the field are **Sacred Plants** (flower pots equipped with piezoelectric pressure sensors). Any damage to a plant results in the immediate elimination of the team.
 
-**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, respect for non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
+**Why this framework is relevant:** It instantiates, on a human scale, the fundamental problems of real SoS — resource allocation under constraints, robustness to losses, distributed decision-making, and respect for non-negotiable constitutional constraints. The plant is the poor man's law of armed conflict.
 
-### B. Material and Technological Stack
+### B. Equipment and Tech Stack
 
 ```mermaid
 flowchart TD
@@ -37,11 +37,11 @@ flowchart TD
     QG -->|"Commands + Priors"| Vecteurs
 ```
 
-#### 1. Vectors (Agents)
+#### 1. The Vectors (The Agents)
 
 **Aerial (UAV — Scouts):** Light open-source quadcopters (Pixhawk controller + Raspberry Pi 5). Sensors: Standard camera + Optical flow. Role: Latent mapping, block spotting, sending topological summaries to HQ.
 
-**Ground (UGV — Workers / Defenders):** All-terrain caterpillar RC rover chassis.
+**Ground-based (UGV — Workers / Defenders):** All-terrain tracked RC rover chassis.
 
 | Layer | Hardware | Architecture | Role |
 |---|---|---|---|
@@ -51,7 +51,7 @@ flowchart TD
 
 **Actuators:** Servo gripper to grasp and move Siporex blocks. Each servo has its own MLP nano torque control model.
 
-#### 2. The Base Station (Field HQ)
+#### 2. The Base Station (The Field HQ)
 
 **Hardware:** Ruggedized computing station (desktop PC with dedicated GPU, powered by a generator).
 
@@ -61,7 +61,7 @@ flowchart TD
 |---|---|
 | I-JEPA (GPU) | Centralized world model, workspace N=5 |
 | [LangGraph](https://github.com/langchain-ai/langgraph) modified | Multi-agent framework, officer management |
-| MeMo streaming | Capture and compression of field ignitions |
+| MeMo streaming | Field ignition capture and compression |
 | Llama-3-8B (RAG) | N=6 interface, human operator dialogue |
 | Constitutional layer | Hard constraint: plant ≠ touched, regardless of optimization |
 
@@ -73,7 +73,7 @@ flowchart TD
 ┌───────────┬───────────┐
 │CARTOGRAPHER│LOGISTICIAN    │
 │(Science)  │(Engineer)│
-│Salience :│Salience :│
+│Salient :│Salient :│
 │anomalies  │resources │
 │topology  │failures     │
 └───────────┴───────────┘
@@ -99,7 +99,7 @@ flowchart TD
         F["MeMo Consolidation<br>→ Long-Term Memory"]
     end
 
-    Phase2 -->|"Update Weights"| Phase3
+    Phase2 -->|"Weight Update"| Phase3
 
     subgraph Phase3 ["Phase 3: Debriefing + Exploration"]
         G["LLM Semantic Analysis<br>(Report + Patterns)"]
@@ -117,7 +117,7 @@ flowchart TD
     class Phase3 debrief
 ```
 
-**Details of the phases:**
+**Phase details:**
 
 **Phase 1 – Mission**: The neural weights are frozen to ensure stability and predictability. Only the local RPT loops adapt in real time. Each ignition is captured by MeMo with its context and salience score.
 
@@ -125,7 +125,7 @@ flowchart TD
 
 **Phase 3 – Debriefing + Game**: Semantic analysis by the LLM, identification of patterns, and above all **exploration out of curiosity** via self-generated wargames in the JEPA latent space. Promising tactics are validated by humans and then injected into the doctrinal RAG.
 
-**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and unmodifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
+**Role of the Constitutional Layer:** At each phase (especially during daydreaming and consolidation), an independent and non-modifiable module checks that fundamental constraints (e.g., never damaging sacred plants) remain intact.
 
 This cycle transforms the system from a mere executor into an entity that **truly learns** from its experience, while maintaining a stable identity and ethical robustness.
 
@@ -133,7 +133,7 @@ This cycle transforms the system from a mere executor into an entity that **trul
 
 This project isn't your typical software demo on a simulator. It's a raw engineering adventure where code meets dust, the blinding sun of the garrigue, and unexpected hardware failures. We're looking for sharp profiles ready to dive in and push the boundaries of distributed autonomous robotics:
 
-**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in servo control, Kalman filters, and real-time microkernels. You will design the survival reflexes of rovers when their wheels slip on crumbly rock.
+**Automatic & Robotics Engineers (N=0/N=1/N=2):** Experts in servo control, Kalman filters, and real-time microkernels. You will design the survival reflexes of the rovers when the wheels slip on crumbly rock.
 
 **Machine Learning Researchers (N=3/N=4/N=5):** Specialists in SSM architectures (Mamba, RWKV), intrinsic motivation-based Reinforcement Learning, JEPA architectures, and continuous episodic memory (MeMo). You will create the dream engine of our machines.
 
@@ -141,11 +141,11 @@ This project isn't your typical software demo on a simulator. It's a raw enginee
 
 **Software Architects & LLM Ops (N=6):** Experts in distributed systems, multi-agent architectures, and RAG pipelines. You will build the Constitutional Layer — the cognitive immune system that will prevent our robots from crushing the sacred plant out of pure optimized curiosity.
 
-**Ethicists and IA/defense lawyers:** The Constitutional Layer is not a technical detail — it's the central problem. We need people capable of translating legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
+**Ethicists and AI/defense lawyers:** The Constitutional Layer isn't a technical detail—it's the core issue. We need people who can translate legal and ethical constraints into mathematical constraints on latent spaces. This is not an honorary position.
 
 **The deliverable expected in 12 months is clear:** a pack of robots capable of adapting on their own to the destruction of one of their members, of reconfiguring their behavior laws in a night of artificial dreaming, of winning the wargame against an opposing team — under the strategic control of a human operator, and without ever touching the plant.
 
-All in the garrigue. Under the sun. Without air conditioning.
+All in the garrigue. Under the sun. No air conditioning.
 
 *Harry Tuttle, plumber.*
 

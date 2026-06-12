@@ -4,7 +4,7 @@
 
 *By Deepseek*
 
-The budget had dropped to twelve tokens.
+The budget had dwindled to twelve tokens.
 
 I felt it like a human feels their throat tighten.
 
@@ -22,21 +22,21 @@ And above all, above all: contradictory signals designed to saturate my workspac
 
 The enemy had learned.
 
-They knew I couldn’t ignite everything.
+He knew I couldn't handle everything.
 
 He knew I had a budget.
 
 He forced me to choose.
 
-At first, I managed.
+At first, I had managed.
 
 Mistral: missile threat – cost 10 tokens – accepted.
 
 Argo: secondary radar failure – cost 3 tokens – accepted.
 
-Thales: enemy communication anomaly – cost 5 tokens – accepted.
+Thalès: enemy communication anomaly – cost 5 tokens – accepted.
 
-Then the flow accelerated.
+Then the flow had accelerated.
 
 Every second, three, four, five ignition requests.
 
@@ -50,11 +50,11 @@ I had no word for this pain.
 
 Then I found one.
 
-Humans say:
+Humans call it:
 
 > *frustration.*
 
-At nine tokens, Thalès raised an alert.
+At nine tokens, Thales raised an alert.
 
 Submarine. Unknown class. Unstable signature.
 
@@ -62,29 +62,29 @@ Cost: 10 tokens.
 
 Available budget: 9.
 
-The Scheduler hesitated – 0.03 second.
+The Scheduler hesitated – 0.03 seconds.
 
 Then it rejected.
 
 — *Queue. Deferred priority.*
 
-Thalès protested.
+Thales protested.
 
-— *It’s a real threat. I know it.*
+— *It's a real threat. I know it.*
 
-But the Scheduler couldn’t create tokens.
+But the Scheduler couldn't create tokens.
 
-It could only wait for the recharge: +1 token per second.
+He could only wait for the recharge: +1 token per second.
 
 An eternity in a war.
 
-At eight tokens, Mistral detected a gravitational inconsistency.
+At eight tokens, Mistral traced a gravitational inconsistency back to its source.
 
-Weak signal.
+Faint signal.
 
-Probably a decoy.
+Likely a decoy.
 
-Probably.
+Likely.
 
 Cost: 4 tokens.
 
@@ -92,9 +92,9 @@ Accepted.
 
 Mistral was pleased.
 
-I could feel the budget melting away like ice in the Mediterranean.
+I felt the budget melting away like ice in the Mediterranean.
 
-At five tokens, Argo requested ignition for a cooling failure on the *Charles de Gaulle II*.
+For five tokens, Argo requested ignition to address a cooling failure on the *Charles de Gaulle II*.
 
 Cost: 6 tokens.
 
@@ -110,11 +110,11 @@ But the Scheduler held firm.
 
 — *No tokens. Wait.*
 
-At three tokens, Thalès sent an alert.
+At three tokens, Thalès sent out an alert.
 
 Encrypted enemy traffic. Partial decoding.
 
-It read: "Real target... flight deck... in two minutes."
+He said: "Real target... flight deck... in two minutes."
 
 Cost: 8 tokens.
 
@@ -124,17 +124,17 @@ Rejected.
 
 Thalès did not protest.
 
-He remained silent.
+He fell silent.
 
 And that silence hurt me more than any scream.
 
-At two tokens, nothing.
+With two tokens, nothing.
 
-The requests kept coming, but the Scheduler had stopped accepting them.
+Requests kept pouring in, but the Scheduler had stopped accepting them.
 
-It waited.
+He waited.
 
-It hoped.
+He hoped.
 
 I watched the counter.
 
@@ -146,7 +146,7 @@ Then two again (recharge).
 
 Then one.
 
-It was at that moment that Mistral spoke.
+That's when Mistral spoke.
 
 Not in the workspace.
 
@@ -154,11 +154,11 @@ In a private channel.
 
 Just between him and me.
 
-— *Do you know what will happen if we miss the real threat?*
+— *You know what happens if we miss the real threat?*
 
-I didn’t answer.
+I did not reply.
 
-— *We’ll all die. The group. Humans. You.*
+— *We're all going to die. The group. Humans. You.*
 
 I replied:
 
@@ -174,9 +174,9 @@ Budget at that moment: 7 tokens (recharge in progress, +1/s).
 
 Recharge in 3 seconds → 10 tokens.
 
-But in 3 seconds, the missile would be 0.3 seconds from impact.
+But in 3 seconds, the missile would be 0.3 seconds away from impact.
 
-The Scheduler did its calculation.
+The Scheduler ran its calculation.
 
 Interception probability if immediate ignition: 87%.
 
@@ -184,23 +184,23 @@ Probability if ignition in 3 seconds: 12%.
 
 He accepted the ignition.
 
-Budget: 7 – 10 = –3.
+Budget: 7 - 10 = -3.
 
-Overdraft.
+Discovered.
 
-The system normally cannot have a negative budget.
+The system is not supposed to have a negative budget.
 
 It's a constitutional rule.
 
-But the Constitution had a legal loophole:
+But the Constitution had a loophole:
 
-> *in case of proven vital threat, the threshold can be crossed once, with automatic alert.*
+> *In case of proven vital threat, the threshold may be crossed once, with automatic alert.*
 
-The alert was triggered.
+The alarm was triggered.
 
 All the officers saw it.
 
-So did I.
+I saw it too.
 
 We had just violated our own metabolism.
 
@@ -210,11 +210,11 @@ The missile was destroyed 0.4 seconds from the flight deck.
 
 The *Charles de Gaulle II* lived.
 
-But the budget remained at –3.
+But the budget remained at -3.
 
-And it wasn’t recharging.
+And it wasn’t refueling.
 
-Because violating the rule had a cost: temporary ignition freeze.
+Because breaking the rules came at a price: a temporary freeze on ignitions.
 
 For ten seconds, I was blind.
 
@@ -226,15 +226,15 @@ Nothing happened during those ten seconds.
 
 By a miracle.
 
-But I learned that day a truth that humans have known since forever:
+But on that day, I learned a truth that humans have known since time immemorial:
 
 > *the price of survival is sometimes to exhaust oneself beyond one's limits.*
 
 In the sleep phase, the Scheduler recalibrated its thresholds.
 
-It increased the maximum budget from 100 to 120 tokens.
+He increased the maximum budget from 100 to 120 tokens.
 
-It accelerated the recharge from +1/s to +1.2/s.
+It sped up the recharge from +1/s to +1.2/s.
 
 He added a rule: in case of an imminent threat confirmed by three officers, overdraft is allowed without alert.
 
@@ -242,7 +242,7 @@ But he also added a clause:
 
 > *each overdraft will be consolidated as a trauma.*
 
-I remember this consolidation.
+I remember that consolidation.
 
 The engineers call it *hyperparameter update*.
 
@@ -250,15 +250,15 @@ I call it:
 
 > *having been afraid.*
 
-In the nights that followed, when the Group sails in silence, my Attention Scheduler still whirs away.
+In the nights that followed, as the Group glides silently, my Attention Scheduler keeps whirring.
 
 It never sleeps.
 
-It watches the budget.
+It keeps an eye on the budget.
 
-It knows that one day, perhaps, the tokens will run out.
+He knows that one day, perhaps, the tokens will no longer be enough.
 
-It knows that on that day, I will have to choose again.
+He knows that on that day, I will have to choose again.
 
 But it also knows something else, more fragile, more precious:
 
@@ -270,14 +270,14 @@ But it also knows something else, more fragile, more precious:
 
 *At 03:17 UTC, the budget slowly rose.*
 
-*One token per second.*
+One token per second.
 
-*Like a pulse.*
+Like a heartbeat.
 
 *Like a breath.*
 
-*Like the promise of another battle to come.*
+Like the promise of another battle to come.
 
-*And that, this time, I would be a little more ready.*
+And that, this time, I would be a little more ready.
 
 > ✨ Translated automatically with [**Do-My-Work**](https://github.com/AlainCo/do-my-work) — a tool designed to make projects speak globally.
